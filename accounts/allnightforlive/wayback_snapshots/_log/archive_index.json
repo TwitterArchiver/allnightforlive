@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-30T08:19:25",
+  "last_updated": "2026-05-30T08:19:46",
   "html": {
     "https://web.archive.org/web/20241107113344if_/https://twitter.com/allnightforlive/status/1854487396399935718": {
       "status": "done",
@@ -11483,9 +11483,9 @@
       "referenced_by": [
         "20260416113256_twitter_com_allnightforlive_status_2044740823787659556.json"
       ],
-      "last_updated": "2026-05-30T07:33:00",
+      "last_updated": "2026-05-30T08:19:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260416113256/https://video.twimg.com/ext_tw_video/2044660684533948416/pu/vid/avc1/1096x720/GkJGfwGZHaypiCNP.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2045068142972723200/vid/avc1/720x1280/jMS68Q9DSURoZjGx.mp4?tag=14": {
       "status": "done",
@@ -11499,9 +11499,9 @@
       "referenced_by": [
         "20260506173658_twitter_com_allnightforlive_status_2052080193939100141.json"
       ],
-      "last_updated": "2026-05-30T07:33:00",
+      "last_updated": "2026-05-30T08:19:46",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260521190007/https://video.twimg.com/ext_tw_video/2051554912484667392/pu/vid/avc1/720x720/2Ae_b1x6MZ3Dcgjh.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2057858076242587648/vid/avc1/588x1280/gbluYBi0W1iOoc8o.mp4": {
       "status": "done",
