@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2024380150109130958",
+    "created_at": "2026-02-19T21:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T22:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024590536020283814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1476004721676947457",
+          "start": 0,
+          "username": "miemie0827"
+        },
+        {
+          "end": 26,
+          "id": "1986701339628609536",
+          "start": 12,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024590536020283814",
+    "in_reply_to_user_id": "1476004721676947457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024587751707070923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miemie0827 @yoyoOvO6June1 不健康主要是 脂肪壓迫到器官或老了比較走不動 這狗的壽命就會比中等身材的來得短命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024380150109130958",
+        "created_at": "2026-02-19T21:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T22:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024590536020283814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1476004721676947457",
+              "start": 0,
+              "username": "miemie0827"
+            },
+            {
+              "end": 26,
+              "id": "1986701339628609536",
+              "start": 12,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024590536020283814",
+        "in_reply_to_user_id": "1476004721676947457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024587751707070923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miemie0827 @yoyoOvO6June1 不健康主要是 脂肪壓迫到器官或老了比較走不動 這狗的壽命就會比中等身材的來得短命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476004721676947457",
+        "conversation_id": "2024380150109130958",
+        "created_at": "2026-02-19T20:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024587751707070923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024587751707070923",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024380150109130958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 胖胖的也超好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 14079,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1086
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T01:38:58.000Z",
+        "description": "男 | 24 | 台中、台北 |  風景",
+        "id": "1476004721676947457",
+        "location": "Taichung City, Taiwan",
+        "name": "mie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993066670009782272/b6EyQaor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 70,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 559
+        },
+        "username": "miemie0827",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "location": "傻逼都滚远点 ",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2022331897742016774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914474978611200/xVHVRopE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 380,
+          "like_count": 7272,
+          "listed_count": 2,
+          "media_count": 684,
+          "tweet_count": 3431
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

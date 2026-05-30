@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004440276912558080"
+      ],
+      "media_source_tweet_id": [
+        "2004440283715719281"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2004748046547255374",
+    "created_at": "2025-12-27T02:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T03:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004748046547255374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "846671799790153728",
+          "start": 3,
+          "username": "lottuns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DHK8sQ7Cv",
+          "end": 36,
+          "expanded_url": "https://x.com/lottuns/status/2004440283715719281/photo/1",
+          "media_key": "3_2004440276912558080",
+          "start": 13,
+          "url": "https://t.co/0DHK8sQ7Cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004748046547255374",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16900
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004440283715719281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lottuns: https://t.co/0DHK8sQ7Cv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_2004440276912558080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ezz9bb0AAZEBL.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004440276912558080"
+          ],
+          "media_source_tweet_id": [
+            "2004440283715719281"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2004748046547255374",
+        "created_at": "2025-12-27T02:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004748046547255374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "846671799790153728",
+              "start": 3,
+              "username": "lottuns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DHK8sQ7Cv",
+              "end": 36,
+              "expanded_url": "https://x.com/lottuns/status/2004440283715719281/photo/1",
+              "media_key": "3_2004440276912558080",
+              "start": 13,
+              "url": "https://t.co/0DHK8sQ7Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004748046547255374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16900
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004440283715719281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lottuns: https://t.co/0DHK8sQ7Cv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004440276912558080"
+          ]
+        },
+        "author_id": "846671799790153728",
+        "conversation_id": "2004440283715719281",
+        "created_at": "2025-12-26T06:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004440283715719281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DHK8sQ7Cv",
+              "end": 23,
+              "expanded_url": "https://x.com/lottuns/status/2004440283715719281/photo/1",
+              "media_key": "3_2004440276912558080",
+              "start": 0,
+              "url": "https://t.co/0DHK8sQ7Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004440283715719281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1096,
+          "impression_count": 910517,
+          "like_count": 54610,
+          "quote_count": 336,
+          "reply_count": 366,
+          "retweet_count": 16900
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0DHK8sQ7Cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 82,
+          "like_count": 9204,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 725
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-28T10:34:22.000Z",
+        "description": "Maju tak gentar",
+        "id": "846671799790153728",
+        "location": "New Orleans, LA",
+        "name": "lunacs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981947322339635200/Jix6SC50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 814,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "username": "lottuns",
+        "verified": true
+      }
+    ]
+  }
+}

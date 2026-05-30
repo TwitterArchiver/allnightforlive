@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1998389212039790752",
+    "created_at": "2025-12-09T13:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998389218444533931"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998389218444533931",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998389214875168808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然後我就開始哭，我唯一的紓解方式就是哭，我試過放聲大哭，那是我求救的方式；我試過掐住聲帶，無聲的哭泣，窒息的感覺讓我解離；我試過當個瘋子一樣亂哭，我因為愛而哭，因為痛而哭，因為自己的狀態哭，我厭惡著自己，如同有人厭惡我一樣，我想報復，但我的報復又如同自殘一樣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1998389212039790752",
+        "created_at": "2025-12-09T13:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998389218444533931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998389218444533931",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998389214875168808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然後我就開始哭，我唯一的紓解方式就是哭，我試過放聲大哭，那是我求救的方式；我試過掐住聲帶，無聲的哭泣，窒息的感覺讓我解離；我試過當個瘋子一樣亂哭，我因為愛而哭，因為痛而哭，因為自己的狀態哭，我厭惡著自己，如同有人厭惡我一樣，我想報復，但我的報復又如同自殘一樣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1998389212039790752",
+        "created_at": "2025-12-09T13:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998389214875168808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998389214875168808",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998389212039790752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你問我在哭什麼，你說我不應該哭，我甚至不知道怎麼回覆你，那個答案使我的聲帶打結，我總是臆想著我有病，這樣我就能解釋我的淚水都是沒有意義的，你看過我因為數學哭泣，因為我自責自己的無能，我厭惡著自己的不積極和墮落，我不願意承認任何人的問題，包括我自己，我老是以為，是否我才是錯的那一方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8152,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 642
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

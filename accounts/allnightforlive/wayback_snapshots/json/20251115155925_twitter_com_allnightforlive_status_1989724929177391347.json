@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989667643130089477"
+      ],
+      "media_source_tweet_id": [
+        "1989667653141893310"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989724929177391347",
+    "created_at": "2025-11-15T15:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989724929177391347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QkncORoaIF",
+          "end": 45,
+          "expanded_url": "https://x.com/hgds0/status/1989667653141893310/photo/1",
+          "media_key": "3_1989667643130089477",
+          "start": 22,
+          "url": "https://t.co/QkncORoaIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989724929177391347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989667653141893310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 我每一天的精神状态： https://t.co/QkncORoaIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1989667643130089477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y4LgHbkAUp706.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989667643130089477"
+          ],
+          "media_source_tweet_id": [
+            "1989667653141893310"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989724929177391347",
+        "created_at": "2025-11-15T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989724929177391347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkncORoaIF",
+              "end": 45,
+              "expanded_url": "https://x.com/hgds0/status/1989667653141893310/photo/1",
+              "media_key": "3_1989667643130089477",
+              "start": 22,
+              "url": "https://t.co/QkncORoaIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989724929177391347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989667653141893310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 我每一天的精神状态： https://t.co/QkncORoaIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989667643130089477"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1989667653141893310",
+        "created_at": "2025-11-15T12:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989667653141893310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkncORoaIF",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1989667653141893310/photo/1",
+              "media_key": "3_1989667643130089477",
+              "start": 11,
+              "url": "https://t.co/QkncORoaIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989667653141893310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3549,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我每一天的精神状态： https://t.co/QkncORoaIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 586
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "星探小特，诚心帮缺钱的宝子找金主👉： @CalliMauri98320 （有需求的宝子欢迎投稿）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "CalliMauri98320"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1988913870912598067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93947,
+          "following_count": 2747,
+          "like_count": 43342,
+          "listed_count": 127,
+          "media_count": 3062,
+          "tweet_count": 7378
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

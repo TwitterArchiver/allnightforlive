@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2047360772217745547",
+    "created_at": "2026-04-23T17:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047360772217745547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047360772217745547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被迫感知痛苦嗎 那很糟糕了。\n\n所以才說在培養自己心理不健康的時候順帶喪失五感真的很需要、\n\n這種話說起來挺故意的 但怎麼說我都是認真的在讓我近幾年的精神狀態一年比一年差\n\n、雖然那男人的出現根本就不在我的意料之內。恨透了。嗯嗯嗯我要繼續好噁心好噁心了 煩躁得要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2047360772217745547",
+        "created_at": "2026-04-23T17:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047360772217745547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047360772217745547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被迫感知痛苦嗎 那很糟糕了。\n\n所以才說在培養自己心理不健康的時候順帶喪失五感真的很需要、\n\n這種話說起來挺故意的 但怎麼說我都是認真的在讓我近幾年的精神狀態一年比一年差\n\n、雖然那男人的出現根本就不在我的意料之內。恨透了。嗯嗯嗯我要繼續好噁心好噁心了 煩躁得要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 102,
+          "like_count": 21474,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1712
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

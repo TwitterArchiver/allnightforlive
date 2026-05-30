@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004462515380801539"
+      ],
+      "media_source_tweet_id": [
+        "2004462521080795137"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2004745033703194726",
+    "created_at": "2025-12-27T02:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T03:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004745033703194726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752964347746508800",
+          "start": 3,
+          "username": "52498b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yshb3ajEQ7",
+          "end": 47,
+          "expanded_url": "https://x.com/52498b/status/2004462521080795137/photo/1",
+          "media_key": "3_2004462515380801539",
+          "start": 24,
+          "url": "https://t.co/Yshb3ajEQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004745033703194726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2025
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004462521080795137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @52498b: いやな妄想感傷代償連盟 https://t.co/Yshb3ajEQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2004462515380801539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FICaLb0AMmv9g.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004462515380801539"
+          ],
+          "media_source_tweet_id": [
+            "2004462521080795137"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2004745033703194726",
+        "created_at": "2025-12-27T02:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004745033703194726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752964347746508800",
+              "start": 3,
+              "username": "52498b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yshb3ajEQ7",
+              "end": 47,
+              "expanded_url": "https://x.com/52498b/status/2004462521080795137/photo/1",
+              "media_key": "3_2004462515380801539",
+              "start": 24,
+              "url": "https://t.co/Yshb3ajEQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004745033703194726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2025
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004462521080795137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @52498b: いやな妄想感傷代償連盟 https://t.co/Yshb3ajEQ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004462515380801539"
+          ]
+        },
+        "author_id": "1752964347746508800",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-26T08:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004462521080795137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yshb3ajEQ7",
+              "end": 35,
+              "expanded_url": "https://x.com/52498b/status/2004462521080795137/photo/1",
+              "media_key": "3_2004462515380801539",
+              "start": 12,
+              "url": "https://t.co/Yshb3ajEQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004462521080795137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1231,
+          "impression_count": 352644,
+          "like_count": 23004,
+          "quote_count": 99,
+          "reply_count": 19,
+          "retweet_count": 2025
+        },
+        "reply_settings": "everyone",
+        "text": "いやな妄想感傷代償連盟 https://t.co/Yshb3ajEQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 82,
+          "like_count": 9187,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 719
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:57:31.000Z",
+        "description": "これ見てずっと笑えるような画像をDMで募集📩",
+        "id": "1752964347746508800",
+        "location": "ネタDMで募集中📩",
+        "name": "ネットの話題ツイ図鑑",
+        "pinned_tweet_id": "1899392669815865502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997948388608978946/NfOMtrLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62006,
+          "following_count": 11,
+          "like_count": 359,
+          "listed_count": 86,
+          "media_count": 655,
+          "tweet_count": 990
+        },
+        "username": "52498b",
+        "verified": false
+      }
+    ]
+  }
+}

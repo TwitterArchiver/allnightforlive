@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040122698203087146",
+    "created_at": "2026-04-03T17:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040122698203087146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040122698203087146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我解離了 在我開始妄想被刀捅 吞下刀片的那一刻我的呼吸好像哽咽在心臟那邊\n\n然後我就這樣了 雖然覺得痛 但那個強烈的幻痛消失後 我好像好多了\n\n一定是幻覺的 我感覺有人握住了我的手 但同時我被刀捅進了胸口 我的肺臟被刺破 我的呼吸在漏風 我的肋骨沒有保護好我 握住我手的人沒有傷害我 也沒有保護我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040122698203087146",
+        "created_at": "2026-04-03T17:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040122698203087146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040122698203087146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我解離了 在我開始妄想被刀捅 吞下刀片的那一刻我的呼吸好像哽咽在心臟那邊\n\n然後我就這樣了 雖然覺得痛 但那個強烈的幻痛消失後 我好像好多了\n\n一定是幻覺的 我感覺有人握住了我的手 但同時我被刀捅進了胸口 我的肺臟被刺破 我的呼吸在漏風 我的肋骨沒有保護好我 握住我手的人沒有傷害我 也沒有保護我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 88,
+          "like_count": 17641,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1397
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

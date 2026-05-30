@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2017669768808173861",
+    "created_at": "2026-01-31T18:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017669768808173861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017669768808173861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017035681676357762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团流泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2017669768808173861",
+        "created_at": "2026-01-31T18:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017669768808173861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017669768808173861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017035681676357762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团流泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2017035681676357762",
+        "created_at": "2026-01-30T00:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017035681676357762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017035681676357762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 95323,
+          "like_count": 1932,
+          "quote_count": 15,
+          "reply_count": 38,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团流泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 11616,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 921
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2016747493699309655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41890,
+          "following_count": 240,
+          "like_count": 5058,
+          "listed_count": 97,
+          "media_count": 324,
+          "tweet_count": 1425
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

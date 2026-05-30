@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1968303354318336432",
+    "created_at": "2025-09-17T13:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968303354318336432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862557266890956800",
+          "start": 3,
+          "username": "lzb_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968303354318336432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967836051088740860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lzb_haishui: 谁懂虐恋，就是明明知道对方不是很喜欢只是想玩玩或者消遣一下但是自己上头了半真半假的也自己装模作样的拼命往上凑就好像很喜欢一样，每次对面表现无所谓或者不在乎的时候又想退缩，但是一看见那张脸又忍不住的直接跪下来了 其实自己也明明没有多喜欢吧，但是这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1968303354318336432",
+        "created_at": "2025-09-17T13:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968303354318336432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862557266890956800",
+              "start": 3,
+              "username": "lzb_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968303354318336432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967836051088740860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lzb_haishui: 谁懂虐恋，就是明明知道对方不是很喜欢只是想玩玩或者消遣一下但是自己上头了半真半假的也自己装模作样的拼命往上凑就好像很喜欢一样，每次对面表现无所谓或者不在乎的时候又想退缩，但是一看见那张脸又忍不住的直接跪下来了 其实自己也明明没有多喜欢吧，但是这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "1967836051088740860",
+        "created_at": "2025-09-16T06:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967836051088740860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967836051088740860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 73690,
+          "like_count": 924,
+          "quote_count": 17,
+          "reply_count": 63,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂虐恋，就是明明知道对方不是很喜欢只是想玩玩或者消遣一下但是自己上头了半真半假的也自己装模作样的拼命往上凑就好像很喜欢一样，每次对面表现无所谓或者不在乎的时候又想退缩，但是一看见那张脸又忍不住的直接跪下来了 其实自己也明明没有多喜欢吧，但是这种自虐的感觉就是很爽。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 78,
+          "like_count": 6608,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 468
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "看不惯老子就屏蔽我别在背后叽叽喳喳了吵死了我真没时间跟你们闹了，又不屏蔽我又在这里抱怨刷到我怎么怎么样你他妈纯属自己给自己找不痛快该死知道吗",
+        "id": "1862557266890956800",
+        "name": "一直游到海水变蓝",
+        "pinned_tweet_id": "1967603363815846320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956750131401023488/nY2PObOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9673,
+          "following_count": 581,
+          "like_count": 31391,
+          "listed_count": 13,
+          "media_count": 142,
+          "tweet_count": 4667
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

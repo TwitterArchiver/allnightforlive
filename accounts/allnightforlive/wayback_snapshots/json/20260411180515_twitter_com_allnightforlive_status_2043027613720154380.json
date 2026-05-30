@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043027610792530162",
+    "created_at": "2026-04-11T18:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043027613720154380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043027613720154380",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043027610792530162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人在乎我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043027610792530162",
+        "created_at": "2026-04-11T18:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043027613720154380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043027613720154380",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043027610792530162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人在乎我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043027610792530162",
+        "created_at": "2026-04-11T18:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043027610792530162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043027610792530162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是演員嗎。\n\n每天說著想死想死的 果然還是沒有一天自殺自殘過。\n\n根本就是騙人的吧。\n\n我根本就沒有得病 反正我根本就沒有被測試過 我只是剛好有一些他們覺得莫名其妙的經歷而已\n\n我只是 跟一般人一樣 我根本就沒病吧。\n\n好想要死掉 自殺的話就可以證明我有病了\n\n如果不這樣的話 一輩子都不會"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18785,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1500
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

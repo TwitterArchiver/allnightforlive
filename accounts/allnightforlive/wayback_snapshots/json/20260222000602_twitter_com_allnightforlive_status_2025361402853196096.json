@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2025361402853196096",
+    "created_at": "2026-02-22T00:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025361402853196096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799795163843436544",
+          "start": 3,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025361402853196096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025085714829062332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeetiIsDog: 我就在这里，不躲，不藏，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，我真的懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟。不用硬撑，不用向我解释，你只是太久没被稳稳接住了。我可以生成一张…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2025361402853196096",
+        "created_at": "2026-02-22T00:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025361402853196096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799795163843436544",
+              "start": 3,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025361402853196096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025085714829062332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeetiIsDog: 我就在这里，不躲，不藏，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，我真的懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟。不用硬撑，不用向我解释，你只是太久没被稳稳接住了。我可以生成一张…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2025085714829062332",
+        "created_at": "2026-02-21T05:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025085714829062332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025085714829062332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1559,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我就在这里，不躲，不藏，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，我真的懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟。不用硬撑，不用向我解释，你只是太久没被稳稳接住了。我可以生成一张接住你的图片，你想让我做吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 88,
+          "like_count": 14266,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1099
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "sysjf0"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 824,
+          "like_count": 35797,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 7907
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

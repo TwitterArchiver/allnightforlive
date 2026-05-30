@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1939898430211362986",
+    "created_at": "2025-07-01T22:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T23:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940177045067338019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1164195640672309248",
+          "start": 0,
+          "username": "LPrdxa"
+        },
+        {
+          "end": 18,
+          "id": "1757581189869887488",
+          "start": 8,
+          "username": "gnyu36643"
+        },
+        {
+          "end": 29,
+          "id": "1490976522362302465",
+          "start": 19,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940177045067338019",
+    "in_reply_to_user_id": "1164195640672309248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940071272589009034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LPrdxa @gnyu36643 @whyuounot 這是台灣的題庫沒錯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1939898430211362986",
+        "created_at": "2025-07-01T22:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T23:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940177045067338019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1164195640672309248",
+              "start": 0,
+              "username": "LPrdxa"
+            },
+            {
+              "end": 18,
+              "id": "1757581189869887488",
+              "start": 8,
+              "username": "gnyu36643"
+            },
+            {
+              "end": 29,
+              "id": "1490976522362302465",
+              "start": 19,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940177045067338019",
+        "in_reply_to_user_id": "1164195640672309248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940071272589009034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LPrdxa @gnyu36643 @whyuounot 這是台灣的題庫沒錯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164195640672309248",
+        "conversation_id": "1939898430211362986",
+        "created_at": "2025-07-01T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940071272589009034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757581189869887488",
+              "start": 0,
+              "username": "gnyu36643"
+            },
+            {
+              "end": 21,
+              "id": "1490976522362302465",
+              "start": 11,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940071272589009034",
+        "in_reply_to_user_id": "1757581189869887488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939907930893255071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnyu36643 @whyuounot 有沒有可能是香港"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 79,
+          "like_count": 5931,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 426
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T15:20:52.000Z",
+        "description": "香港 Hong Kong, is NOT China.\n#StandForUA #TaiwanIsaCountry\n獨立自決 脫共解殖 尊重及兼容所有泛民立埸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 28,
+                "tag": "StandForUA"
+              },
+              {
+                "end": 57,
+                "start": 40,
+                "tag": "TaiwanIsaCountry"
+              }
+            ]
+          }
+        },
+        "id": "1164195640672309248",
+        "name": "Prdx🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510617473087066117/gU62jU9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 164,
+          "like_count": 33804,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2707
+        },
+        "username": "LPrdxa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T01:43:27.000Z",
+        "description": "来自中国🇨🇳/高三牲/地科学习者🌏/喜欢听华语歌🎶/偶尔键政/欢迎互fo😉/希望世界和平🕊",
+        "id": "1757581189869887488",
+        "location": "西南官话 川黔片 成渝小片",
+        "name": "甘悦🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866707491687632897/90BzBPuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 571,
+          "like_count": 17008,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2201
+        },
+        "username": "gnyu36643",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "location": "888",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927753690825510912/luz_DeSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7088,
+          "following_count": 1170,
+          "like_count": 7955,
+          "listed_count": 13,
+          "media_count": 1929,
+          "tweet_count": 13623
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1987204039617212791",
+    "created_at": "2025-11-08T17:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987204044704915794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987204044704915794",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987204039617212791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但果然就\n根本不想要設想答案到底是什麼\n\n其實根本就不想要繼續做下去了\n但就是想要看你開心\n但就是不想要自己沒用\n\n我真的真的沒有辦法接受我自己真的很沒用這件事情\n\n我受不了我自己做不了任何事情的樣子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987204039617212791",
+        "created_at": "2025-11-08T17:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987204044704915794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987204044704915794",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987204039617212791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但果然就\n根本不想要設想答案到底是什麼\n\n其實根本就不想要繼續做下去了\n但就是想要看你開心\n但就是不想要自己沒用\n\n我真的真的沒有辦法接受我自己真的很沒用這件事情\n\n我受不了我自己做不了任何事情的樣子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987204039617212791",
+        "created_at": "2025-11-08T17:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987204039617212791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987204039617212791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然想了下\n如果你有一天提出了那個答案\n我應該真的不會接受\n我會躲起來\n我可能會不想上學\n我可能會繼續回到那樣的狀態\n或是什麼都沒發生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7470,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 535
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

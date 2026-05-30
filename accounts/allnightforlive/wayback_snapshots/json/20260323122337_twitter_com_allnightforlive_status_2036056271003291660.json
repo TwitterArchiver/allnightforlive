@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2036056271003291660",
+    "created_at": "2026-03-23T12:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036056271003291660"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036056271003291660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。是不是不應該這麼做的\n\n所以我才說我一點也不想要活著嘛\n\n比起自殘的感同身受 自慰跟約砲的我到底還能做什麼 痛苦跟快樂並存的方式他們也不是不能理解啊 為什麼我就是你閉嘴 為什麼他們就是你還好嗎\n\n。還是我也自殘好了 還是我也割腕好了 啊啊啊啊啊 憑什麼啊 憑什麼你們都可以被愛著"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2036056271003291660",
+        "created_at": "2026-03-23T12:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036056271003291660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036056271003291660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。是不是不應該這麼做的\n\n所以我才說我一點也不想要活著嘛\n\n比起自殘的感同身受 自慰跟約砲的我到底還能做什麼 痛苦跟快樂並存的方式他們也不是不能理解啊 為什麼我就是你閉嘴 為什麼他們就是你還好嗎\n\n。還是我也自殘好了 還是我也割腕好了 啊啊啊啊啊 憑什麼啊 憑什麼你們都可以被愛著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 17043,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1312
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

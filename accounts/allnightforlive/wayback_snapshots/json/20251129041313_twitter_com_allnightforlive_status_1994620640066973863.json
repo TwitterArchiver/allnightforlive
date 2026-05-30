@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1994140671909802051",
+    "created_at": "2025-11-29T04:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994620640066973863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847711259212251136",
+          "start": 0,
+          "username": "Rezaam_hmin"
+        },
+        {
+          "end": 19,
+          "id": "14463502",
+          "start": 13,
+          "username": "cdoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994620640066973863",
+    "in_reply_to_user_id": "1847711259212251136",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994375546030137678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rezaam_hmin @cdoll Dude, this looks like a teenager and an adult."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1994375543819505664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61x_Y4WkAADr5D.jpg",
+        "width": 485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1994140671909802051",
+        "created_at": "2025-11-29T04:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994620640066973863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847711259212251136",
+              "start": 0,
+              "username": "Rezaam_hmin"
+            },
+            {
+              "end": 19,
+              "id": "14463502",
+              "start": 13,
+              "username": "cdoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994620640066973863",
+        "in_reply_to_user_id": "1847711259212251136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994375546030137678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rezaam_hmin @cdoll Dude, this looks like a teenager and an adult."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994375543819505664"
+          ]
+        },
+        "author_id": "1847711259212251136",
+        "conversation_id": "1994140671909802051",
+        "created_at": "2025-11-28T11:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994375546030137678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "14463502",
+              "start": 0,
+              "username": "cdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyLHzIlNUZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Rezaam_hmin/status/1994375546030137678/photo/1",
+              "media_key": "3_1994375543819505664",
+              "start": 20,
+              "url": "https://t.co/JyLHzIlNUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994375546030137678",
+        "in_reply_to_user_id": "14463502",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4368,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994140671909802051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdoll Another day: https://t.co/JyLHzIlNUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8003,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 626
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:48:02.000Z",
+        "description": "boşluk...\n\nhttps://t.co/5POjo15UNW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/BChatsBot?star…",
+                "end": 34,
+                "expanded_url": "https://telegram.me/BChatsBot?start=sc-tTkaePc3zH",
+                "start": 11,
+                "url": "https://t.co/5POjo15UNW"
+              }
+            ]
+          }
+        },
+        "id": "1847711259212251136",
+        "location": "Tabriz",
+        "name": "Reza",
+        "pinned_tweet_id": "1881070646060515477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925624652845477889/8or1l9dj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 592,
+          "like_count": 15005,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 6645
+        },
+        "username": "Rezaam_hmin",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-21T16:06:27.000Z",
+        "description": "",
+        "id": "14463502",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268502665621505/XFJCOb4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48391,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 118,
+          "media_count": 2712,
+          "tweet_count": 2778
+        },
+        "username": "cdoll",
+        "verified": true
+      }
+    ]
+  }
+}

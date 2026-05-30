@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2056762910882574439",
+    "created_at": "2026-05-19T15:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056762910882574439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1615871430801096704",
+          "start": 3,
+          "username": "Circes_cursingo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056762910882574439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056200737219400122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Circes_cursingo: 我有一個性癖是「體格差」。\n\n被對方整隻環抱住、按住、扣住，幾乎無法逃離的狀態下邊抽插真的超級色情。\n體格差距越大，越像對方的性娃娃，無法逃離對方的頂弄，只能不斷承接一波又一波的高潮。\n多色情？\n\n對外總說，因為我有健身，所以特別喜歡也…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2056762910882574439",
+        "created_at": "2026-05-19T15:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056762910882574439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1615871430801096704",
+              "start": 3,
+              "username": "Circes_cursingo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056762910882574439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056200737219400122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Circes_cursingo: 我有一個性癖是「體格差」。\n\n被對方整隻環抱住、按住、扣住，幾乎無法逃離的狀態下邊抽插真的超級色情。\n體格差距越大，越像對方的性娃娃，無法逃離對方的頂弄，只能不斷承接一波又一波的高潮。\n多色情？\n\n對外總說，因為我有健身，所以特別喜歡也…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615871430801096704",
+        "conversation_id": "2056200737219400122",
+        "created_at": "2026-05-18T02:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056200737219400122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056200737219400122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 119506,
+          "like_count": 3882,
+          "quote_count": 54,
+          "reply_count": 32,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "我有一個性癖是「體格差」。\n\n被對方整隻環抱住、按住、扣住，幾乎無法逃離的狀態下邊抽插真的超級色情。\n體格差距越大，越像對方的性娃娃，無法逃離對方的頂弄，只能不斷承接一波又一波的高潮。\n多色情？\n\n對外總說，因為我有健身，所以特別喜歡也有健身的高個子男性。\n但實際上只是我自己好色。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 109,
+          "like_count": 25079,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2058
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T00:39:22.000Z",
+        "description": "我是熱衷打炮及佯裝香草的Switch。\n這是我的小樹洞，只會有大量與性、SM有關的文字，偶有負能量。\n簡單來說就是發騷&發牢騷小天地，不喜歡請自己繞道感恩。然後不要認親不要認親不要認親，除非我自己找你。",
+        "id": "1615871430801096704",
+        "name": "Circeo瑟西歐",
+        "pinned_tweet_id": "1723730146585403408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056240462235881472/wZCe3g5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 239,
+          "like_count": 2259,
+          "listed_count": 10,
+          "media_count": 14,
+          "tweet_count": 734
+        },
+        "username": "Circes_cursingo",
+        "verified": false
+      }
+    ]
+  }
+}

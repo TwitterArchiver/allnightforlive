@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989720853248901484",
+    "created_at": "2025-11-15T15:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989720862036275633"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989720862036275633",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989720857628008739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "當初喜歡我到底是為了什麼啊，這傢伙真的好奇怪，我為什麼一直忘記問清楚呢？還是他說過啊。我真的一點也不記得了。\n我只記得我當時應該挺裝的吧，穿得一身紅的還笑得那麼開心，一回到家就開始哭，飯也不吃的，每天都哭到暈厥也無法理解自己在哭什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720862036275633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720862036275633",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720857628008739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "當初喜歡我到底是為了什麼啊，這傢伙真的好奇怪，我為什麼一直忘記問清楚呢？還是他說過啊。我真的一點也不記得了。\n我只記得我當時應該挺裝的吧，穿得一身紅的還笑得那麼開心，一回到家就開始哭，飯也不吃的，每天都哭到暈厥也無法理解自己在哭什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720857628008739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720857628008739",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720853248901484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "當我意識到他們可能會結婚，我已經感到絕望，我努力的想他，努力的喜歡他，讓我內心仍然有他，他仍然佔有崇高的地位，讓我的身心都還記得他侵入時的模樣\n可我果然一直都不能接受他溫柔的模樣\n我真的不是什麼乖的小孩，我真的不能接受有人能溫柔對待我，更不能接受看清現實的他這樣我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7600,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 566
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

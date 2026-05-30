@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1865691452669587915",
+    "created_at": "2024-12-08T09:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T10:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865691452669587915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshiami/statu…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/woshiami/status/1865353190503489569",
+          "start": 82,
+          "url": "https://t.co/Oo4gvm381v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865691452669587915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865353190503489569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在現實中得扮演另一個角色，導致真實的自己被過度壓抑，只能夠在網路上扮演真實的自己。\n或是把網路當成一個世界online ，隨意的批評別人但沒有人搜得到他現實的模樣 https://t.co/Oo4gvm381v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1865691452669587915",
+        "created_at": "2024-12-08T09:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T10:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865691452669587915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshiami/statu…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/woshiami/status/1865353190503489569",
+              "start": 82,
+              "url": "https://t.co/Oo4gvm381v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865691452669587915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865353190503489569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在現實中得扮演另一個角色，導致真實的自己被過度壓抑，只能夠在網路上扮演真實的自己。\n或是把網路當成一個世界online ，隨意的批評別人但沒有人搜得到他現實的模樣 https://t.co/Oo4gvm381v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567505290026958848",
+        "conversation_id": "1865353190503489569",
+        "created_at": "2024-12-07T11:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T12:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865353190503489569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865353190503489569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 42117,
+          "like_count": 298,
+          "quote_count": 11,
+          "reply_count": 117,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一般什么人才会避免任何在网上泄露丁点个人信息的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 117
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "我是格鲁特我是格鲁特我是格鲁特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshiami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshiami",
+                "start": 0,
+                "url": "https://t.co/5BLeIu7ql7"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "未知领域",
+        "name": "阿mi",
+        "pinned_tweet_id": "1824817925469229483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865354934746771456/4EmmMu1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 1678,
+          "like_count": 47937,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/5BLeIu7ql7",
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

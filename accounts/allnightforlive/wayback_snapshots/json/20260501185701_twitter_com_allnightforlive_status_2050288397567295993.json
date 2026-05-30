@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2050288397567295993",
+    "created_at": "2026-05-01T18:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050288397567295993"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050288397567295993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想要成為那樣 想要被愛\n\n如果是他的話一定可以吧 如果是這樣的話一定可以被掐著對吧\n\n可是他太傻了 可是他是個很好的人 所以我連這種意淫都是在褻瀆他的人格\n\n意外的開始譴責自己了。\n\n還是我回去找爸爸 我只要道歉 然後獻出自己的身體 我就能夠得到那噁心又黏膩的擁抱了\n\n我仍然在分泌催產素 我想要嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2050288397567295993",
+        "created_at": "2026-05-01T18:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050288397567295993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050288397567295993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要成為那樣 想要被愛\n\n如果是他的話一定可以吧 如果是這樣的話一定可以被掐著對吧\n\n可是他太傻了 可是他是個很好的人 所以我連這種意淫都是在褻瀆他的人格\n\n意外的開始譴責自己了。\n\n還是我回去找爸爸 我只要道歉 然後獻出自己的身體 我就能夠得到那噁心又黏膩的擁抱了\n\n我仍然在分泌催產素 我想要嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 105,
+          "like_count": 23162,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1831
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

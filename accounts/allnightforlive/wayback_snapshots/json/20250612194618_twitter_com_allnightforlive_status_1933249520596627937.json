@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1933249501281845480",
+    "created_at": "2025-06-12T19:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933249520596627937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933249520596627937",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933249517404717126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "婚禮這個詞是故意說給我聽的吧？\n\n畢竟你也問我是不是不希望你們結婚了。\n\n是故意的吧？\n\n這不怎麼好笑呢。\n\n我也不是什麼社會化過的小鬼。\n可不可以不要玩我呢？\n\n我永遠都希望成為一個人記憶裡的白月光呢。\n\n當我崩壞的過程到一個段落時。\n你只會恨我。或者愛我。\n那就夠了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249520596627937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249520596627937",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933249517404717126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "婚禮這個詞是故意說給我聽的吧？\n\n畢竟你也問我是不是不希望你們結婚了。\n\n是故意的吧？\n\n這不怎麼好笑呢。\n\n我也不是什麼社會化過的小鬼。\n可不可以不要玩我呢？\n\n我永遠都希望成為一個人記憶裡的白月光呢。\n\n當我崩壞的過程到一個段落時。\n你只會恨我。或者愛我。\n那就夠了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249517404717126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249517404717126",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933249514410000807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她值得你放在眼底一輩子。\n我值得你擁有過。\n\n畢竟我不想承認，我的付出只能得到一星好評。\n\n說個最後的謊。\n\n告訴她你從沒愛過我。\n告訴我你從沒愛過我。\n\n讓她永遠陪你。\n讓我永遠死在你的記憶裡。\n\n婚禮那天我會出席。\n\n喜歡紅色的我怎麼可能會穿紅色呢？\n主角可不是我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 5065,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 369
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

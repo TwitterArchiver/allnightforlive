@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1927363451396952467",
+    "created_at": "2025-05-27T13:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927363451396952467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1907245195919585280",
+          "start": 3,
+          "username": "apiapi12321"
+        },
+        {
+          "end": 28,
+          "id": "1842423358216142849",
+          "start": 17,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927363451396952467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926791468405924271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apiapi12321: @keeganlike 第一次固然有特殊意义，但更重要的是把握下一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1927363451396952467",
+        "created_at": "2025-05-27T13:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927363451396952467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1907245195919585280",
+              "start": 3,
+              "username": "apiapi12321"
+            },
+            {
+              "end": 28,
+              "id": "1842423358216142849",
+              "start": 17,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927363451396952467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926791468405924271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apiapi12321: @keeganlike 第一次固然有特殊意义，但更重要的是把握下一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907245195919585280",
+        "conversation_id": "1926691130210460137",
+        "created_at": "2025-05-26T00:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T01:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926791468405924271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926791468405924271",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4434,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926691130210460137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 第一次固然有特殊意义，但更重要的是把握下一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 74,
+          "like_count": 4426,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 310
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T01:34:36.000Z",
+        "description": "无我，超人",
+        "id": "1907245195919585280",
+        "name": "apiapi",
+        "pinned_tweet_id": "1908418825001025973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907666618760712192/6L73_RLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 162,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "username": "apiapi12321",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧小号@paopao152025 istp 我骂的骂我的都是傻逼 除原则性事情不站队请别拉架 纯绿 推广自辩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "paopao152025"
+              }
+            ]
+          }
+        },
+        "id": "1842423358216142849",
+        "location": "🚪288纯绿",
+        "name": "泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡泡",
+        "pinned_tweet_id": "1927007407990792309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916058251835412482/107QUfCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18119,
+          "following_count": 493,
+          "like_count": 9020,
+          "listed_count": 14,
+          "media_count": 620,
+          "tweet_count": 11571
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

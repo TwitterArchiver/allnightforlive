@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054514046930743425",
+    "created_at": "2026-05-13T10:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054514053641646359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054514053641646359",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054514050151964812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道的 我知道的 都是我 因為我出生了 因為我活著 我不應該這樣的 我知道的 怎麼比較我都不是那最痛苦的 沒關係的 我去死也不會有人在乎 死掉就會被發現我其實是這樣的人吧\n\n啊其實 果然還是想要在夏天的的時候死去 \n\n保持意識\n保持意識\n\n保持意識\n\n做不到啊\n\n麵 什麼的 泡芙什麼的 都被毀掉了啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054514046930743425",
+        "created_at": "2026-05-13T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054514053641646359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054514053641646359",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054514050151964812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道的 我知道的 都是我 因為我出生了 因為我活著 我不應該這樣的 我知道的 怎麼比較我都不是那最痛苦的 沒關係的 我去死也不會有人在乎 死掉就會被發現我其實是這樣的人吧\n\n啊其實 果然還是想要在夏天的的時候死去 \n\n保持意識\n保持意識\n\n保持意識\n\n做不到啊\n\n麵 什麼的 泡芙什麼的 都被毀掉了啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054514046930743425",
+        "created_at": "2026-05-13T10:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054514050151964812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054514050151964812",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054514046930743425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "砸死我 砸死我 砸死我 砸死我 只要砸死我就好了 如果現在來個地震 然後把門堵住我們全家都可以死掉就好了 都想死掉的話就不要糾纏了 一起去死可以嗎 她已經跟個孩子一樣 他跟那傢伙有什麼區別 都聽不懂人話啊啊啊 然後高血壓什麼的 還有另外那個膀胱炎 胃也有問題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 107,
+          "like_count": 24154,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1973
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

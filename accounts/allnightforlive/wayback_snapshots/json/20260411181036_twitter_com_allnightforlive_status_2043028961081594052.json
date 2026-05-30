@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043028958095212730",
+    "created_at": "2026-04-11T18:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043028961081594052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043028961081594052",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043028958095212730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我這個 裝貨 也有想要你說話的時候啊\n\n聽我說啊\n\n我真的 一點也 不快樂啊\n\n如果都是假的就好了 一定是假的吧 根本就無法被定義的 就是沒有吧\n\n啊啊 不去死的話 就不會被認為有病了\n\n好痛苦啊 好痛苦 好痛苦 好痛苦\n\n如果能去死就好了\n\n如果去死的話 就能夠被看見了\n\n看我\n看著我\n看著我啊 看著我 看我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043028958095212730",
+        "created_at": "2026-04-11T18:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043028961081594052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043028961081594052",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043028958095212730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我這個 裝貨 也有想要你說話的時候啊\n\n聽我說啊\n\n我真的 一點也 不快樂啊\n\n如果都是假的就好了 一定是假的吧 根本就無法被定義的 就是沒有吧\n\n啊啊 不去死的話 就不會被認為有病了\n\n好痛苦啊 好痛苦 好痛苦 好痛苦\n\n如果能去死就好了\n\n如果去死的話 就能夠被看見了\n\n看我\n看著我\n看著我啊 看著我 看我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043028958095212730",
+        "created_at": "2026-04-11T18:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043028958095212730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043028958095212730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 我有 好吃的東西\n\n我也有那些陪我的朋友\n\n可是 為什麼 我就是這麼想死呢\n\n我為什麼就是看不到呢\n\n我看不到啊 我看不到啊 求求你了 告訴我彼岸在哪裡吧 我也 我也 不想要呼吸了啊\n\n唾沫跟淚水 哪一個先和鼻水混合\n\n真的 看不到了 求求你了 關心我吧 我想要跟你談談 我想要跟你談談"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18795,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1504
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

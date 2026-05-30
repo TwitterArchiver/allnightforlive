@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054608086472814732",
+    "created_at": "2026-05-13T17:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054608086472814732"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054608086472814732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老師我好想知道你過得好不好 可是我找不到你了\n\n好厲害呢。\n\n聽說只要我足夠病 我就能夠讓他成為我的人格 對嗎\n\n。\n\n我知道這樣做一定是不對的 但我 已經成功一半了吧\n\n我很成功的養出了這樣的病 但我根本無法證明自己有這個病\n\n啊哈 好痛苦 跟當小三一樣 好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054608086472814732",
+        "created_at": "2026-05-13T17:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054608086472814732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054608086472814732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老師我好想知道你過得好不好 可是我找不到你了\n\n好厲害呢。\n\n聽說只要我足夠病 我就能夠讓他成為我的人格 對嗎\n\n。\n\n我知道這樣做一定是不對的 但我 已經成功一半了吧\n\n我很成功的養出了這樣的病 但我根本無法證明自己有這個病\n\n啊哈 好痛苦 跟當小三一樣 好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 108,
+          "like_count": 24219,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1991
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

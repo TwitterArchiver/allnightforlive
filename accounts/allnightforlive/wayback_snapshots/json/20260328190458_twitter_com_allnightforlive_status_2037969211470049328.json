@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2037969211470049328",
+    "created_at": "2026-03-28T19:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037969211470049328"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037969211470049328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自殺的話會沒有全勤吧。\n\n果然暑假自殺最好了。\n\n兩個月也夠我在醫院待著了 對吧\n\n如果真的死掉怎麼辦呢。\n\n果然一點也不想主動開口說想去看精神科\n\n好難受。。。\n\n⋯誰來救救我\n\n我不要在這具身體裡⋯\n\n好痛苦。嗚⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2037969211470049328",
+        "created_at": "2026-03-28T19:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037969211470049328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037969211470049328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自殺的話會沒有全勤吧。\n\n果然暑假自殺最好了。\n\n兩個月也夠我在醫院待著了 對吧\n\n如果真的死掉怎麼辦呢。\n\n果然一點也不想主動開口說想去看精神科\n\n好難受。。。\n\n⋯誰來救救我\n\n我不要在這具身體裡⋯\n\n好痛苦。嗚⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 88,
+          "like_count": 17442,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1358
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

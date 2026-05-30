@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042217187260432629",
+    "created_at": "2026-04-09T12:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042217187260432629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042217187260432629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鏡子裡的我根本就看不到臉 我摸到了 五官 淚水 但是你一句話都不說 我知道你不會做什麼 但是我逃開了\n\n什麼都看不到 什麼都看不到 什麼都看不到\n\n好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心\n\n如果今天的我也這樣死掉就好了\n\n心臟又痛了起來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042217187260432629",
+        "created_at": "2026-04-09T12:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042217187260432629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042217187260432629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鏡子裡的我根本就看不到臉 我摸到了 五官 淚水 但是你一句話都不說 我知道你不會做什麼 但是我逃開了\n\n什麼都看不到 什麼都看不到 什麼都看不到\n\n好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心好噁心\n\n如果今天的我也這樣死掉就好了\n\n心臟又痛了起來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 91,
+          "like_count": 18403,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1465
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

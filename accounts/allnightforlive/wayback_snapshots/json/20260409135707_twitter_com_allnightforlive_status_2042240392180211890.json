@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042240392180211890",
+    "created_at": "2026-04-09T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042240392180211890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042240392180211890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一點也。不開心吧。\n\n只有自慰才能夠感到快樂嗎。\n\n好可悲\n\n好難過啊 又哭了 明明 那樣是 充滿愛的吧\n\n⋯誰來救我\n\n我真的 不想要死掉啊\n\n⋯求求了 不要讓我死掉啊\n\n好想要 好想要畫畫 好想要被認同\n\n好想要畫出自己好喜歡的東西\n\n怎麼就做不到呢⋯\n\n嗚⋯⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042240392180211890",
+        "created_at": "2026-04-09T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042240392180211890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042240392180211890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一點也。不開心吧。\n\n只有自慰才能夠感到快樂嗎。\n\n好可悲\n\n好難過啊 又哭了 明明 那樣是 充滿愛的吧\n\n⋯誰來救我\n\n我真的 不想要死掉啊\n\n⋯求求了 不要讓我死掉啊\n\n好想要 好想要畫畫 好想要被認同\n\n好想要畫出自己好喜歡的東西\n\n怎麼就做不到呢⋯\n\n嗚⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 91,
+          "like_count": 18538,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1474
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040123200022151383",
+    "created_at": "2026-04-03T17:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040123200022151383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040123200022151383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好多雷 好多雨 我好像也要溺死了。\n\n明天我還是會好起來 因為我依然是這樣、\n\n因為我是妄想啊 我只要這樣覺得 我就能夠活過每一天\n\n那麼如果我的妄想對我而言不再重要 我會不會去死呢 好可怕啊\n\n死亡跟妄想都好可怕\n\n但是連呼吸都好痛啊 明明根本就沒生病吧 就是很痛呢 你覺得呢\n\n一刻也不想自願活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040123200022151383",
+        "created_at": "2026-04-03T17:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040123200022151383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040123200022151383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多雷 好多雨 我好像也要溺死了。\n\n明天我還是會好起來 因為我依然是這樣、\n\n因為我是妄想啊 我只要這樣覺得 我就能夠活過每一天\n\n那麼如果我的妄想對我而言不再重要 我會不會去死呢 好可怕啊\n\n死亡跟妄想都好可怕\n\n但是連呼吸都好痛啊 明明根本就沒生病吧 就是很痛呢 你覺得呢\n\n一刻也不想自願活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 88,
+          "like_count": 17642,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1398
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

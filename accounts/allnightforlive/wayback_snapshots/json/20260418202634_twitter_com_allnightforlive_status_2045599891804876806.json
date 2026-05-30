@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045415502353211683",
+    "created_at": "2026-04-18T20:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T21:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045599891804876806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1320562720681308162",
+          "start": 0,
+          "username": "AlexSun530615"
+        },
+        {
+          "end": 26,
+          "id": "1535701819812462600",
+          "start": 15,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045599891804876806",
+    "in_reply_to_user_id": "1320562720681308162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045422690807546307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexSun530615 @Kenntnis22 他只要不在乎同齡人都在玩什麼梗，或是他能夠認知到梗跟現實沒有直接的必要性，他就不會特別學習這種行為，另一方面可能他的父母教導本身就不是正常那樣嚴格規範，而是有框架但在框架內他不會給你莫名其妙的規則跟突然情緒失控導致的責備。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045415502353211683",
+        "created_at": "2026-04-18T20:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045599891804876806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1320562720681308162",
+              "start": 0,
+              "username": "AlexSun530615"
+            },
+            {
+              "end": 26,
+              "id": "1535701819812462600",
+              "start": 15,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045599891804876806",
+        "in_reply_to_user_id": "1320562720681308162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045422690807546307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexSun530615 @Kenntnis22 他只要不在乎同齡人都在玩什麼梗，或是他能夠認知到梗跟現實沒有直接的必要性，他就不會特別學習這種行為，另一方面可能他的父母教導本身就不是正常那樣嚴格規範，而是有框架但在框架內他不會給你莫名其妙的規則跟突然情緒失控導致的責備。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320562720681308162",
+        "conversation_id": "2045415502353211683",
+        "created_at": "2026-04-18T08:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045422690807546307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045422690807546307",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2184,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045415502353211683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 我是不相信这是13岁小孩写的东西。从头到尾全是人话，没有网络用语，烂梗，病句，汉语拼音缩写。要么就是AI太好用了，以至于习惯和AI聊天的小孩和其他小孩的认知差距已经大到荒谬的程度了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 101,
+          "like_count": 20810,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1649
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-26T03:08:02.000Z",
+        "description": "十载春风化雨，喜见山花烂漫，莺梭织锦勤",
+        "id": "1320562720681308162",
+        "name": "AlexSun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324704590181376007/idK3FDsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 233,
+          "like_count": 22251,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 4822
+        },
+        "username": "AlexSun530615",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2044836436659073291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51709,
+          "following_count": 431,
+          "like_count": 55062,
+          "listed_count": 255,
+          "media_count": 11544,
+          "tweet_count": 17744
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

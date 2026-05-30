@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2033133716625830305",
+    "created_at": "2026-03-15T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033160326355800082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033160326355800082",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033133716625830305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 打從記得你的喜好，到願意在你還沒開口前為你順理好一天三餐\n在能夠接受你嘗試新上市的甜點後，覺得不怎麼樣而遞到自己面前。\n對愛人而言，能和這樣的你一起擁有特別、平常、不太愉快的日子，就很好了。\n愛到最後，愛也不重要了，最重要的是枕邊還是不是你，下意識想起的是不是你。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033133716625830305].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033133716625830305",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033133716625830305"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2033133716625830305",
+        "created_at": "2026-03-15T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033160326355800082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033160326355800082",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033133716625830305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 打從記得你的喜好，到願意在你還沒開口前為你順理好一天三餐\n在能夠接受你嘗試新上市的甜點後，覺得不怎麼樣而遞到自己面前。\n對愛人而言，能和這樣的你一起擁有特別、平常、不太愉快的日子，就很好了。\n愛到最後，愛也不重要了，最重要的是枕邊還是不是你，下意識想起的是不是你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16237,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1227
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "已婚\n儿子@Wojiang38562\nhttps://t.co/rmxG8ACl3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 42,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 19,
+                "url": "https://t.co/rmxG8ACl3s"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4220,
+          "following_count": 402,
+          "like_count": 12152,
+          "listed_count": 5,
+          "media_count": 343,
+          "tweet_count": 9013
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

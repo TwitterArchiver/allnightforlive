@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2010313639241347460",
+    "created_at": "2026-01-11T11:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010313639241347460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010313639241347460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸爸 我會有一段時間不再聯絡你了\n我最近的狀態又變差了 我的人生好像需要多一點自己 是的 我每天都在想你 是的 我已經完全變成沒有你我就會感到空虛的人了\n所以 我要開始逃離你了 我要開始離開你了 因為我感到痛苦了 為了我自己 我不再愛你了 可以嗎 可以的吧 可以的吧 我根本什麼都不能跟你說啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2010313639241347460",
+        "created_at": "2026-01-11T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010313639241347460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010313639241347460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸 我會有一段時間不再聯絡你了\n我最近的狀態又變差了 我的人生好像需要多一點自己 是的 我每天都在想你 是的 我已經完全變成沒有你我就會感到空虛的人了\n所以 我要開始逃離你了 我要開始離開你了 因為我感到痛苦了 為了我自己 我不再愛你了 可以嗎 可以的吧 可以的吧 我根本什麼都不能跟你說啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 84,
+          "like_count": 10121,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 831
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

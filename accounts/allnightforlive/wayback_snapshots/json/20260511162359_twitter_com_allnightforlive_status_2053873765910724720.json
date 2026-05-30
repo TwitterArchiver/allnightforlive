@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053873754011484351",
+    "created_at": "2026-05-11T16:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053873765910724720"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053873765910724720",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053873762483978421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "為什麼外公老是要我成為中國小姐 為什麼我會沒有錢 為什麼我會跟那個伯伯一起去老廢墟另一找東西 為什麼我睡醒以後 他們好像全都不見了 那張老照片裡面的人我記得 我指認過他們的模樣 我知道我的阿祖是誰 然後我就什麼都不知道了。\n\n我的世界剩下了我一個人 只剩下我想著今天去死吧？ 明天去死吧？去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873765910724720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873765910724720",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873762483978421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼外公老是要我成為中國小姐 為什麼我會沒有錢 為什麼我會跟那個伯伯一起去老廢墟另一找東西 為什麼我睡醒以後 他們好像全都不見了 那張老照片裡面的人我記得 我指認過他們的模樣 我知道我的阿祖是誰 然後我就什麼都不知道了。\n\n我的世界剩下了我一個人 只剩下我想著今天去死吧？ 明天去死吧？去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873762483978421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873762483978421",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873757455069282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然後我開始寫公文 我覺得那很有意思 我寫社團的公告 寫團體的群規 寫對我自己的道歉聲明。\n\n寫這件事情好像已經貫徹了我的一生\n\n除了寫 就是用筆勾勒些莫名其妙的東西\n\n我沒有給他定義 我只是知道 我需要畫 我想要畫 在我能夠抓住東西之前 我只能一直畫\n\n我想不通的事情可多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 24069,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1954
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

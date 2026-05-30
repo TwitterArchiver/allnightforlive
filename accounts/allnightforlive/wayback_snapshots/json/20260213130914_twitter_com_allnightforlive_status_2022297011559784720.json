@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022117214430904564",
+    "created_at": "2026-02-13T13:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022297011559784720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1409564127916224512",
+          "start": 0,
+          "username": "VgWgypKER24wJEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022297011559784720",
+    "in_reply_to_user_id": "1409564127916224512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022117214430904564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VgWgypKER24wJEX 心理諮詢你還不能保證這個醫生是真的在幫助你，還是單純在分析症狀準備開藥。能遇到好的醫生真的是天大的幸運。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2022117208936386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAA40zbkAAgxrS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022117214430904564",
+        "created_at": "2026-02-13T13:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022297011559784720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1409564127916224512",
+              "start": 0,
+              "username": "VgWgypKER24wJEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022297011559784720",
+        "in_reply_to_user_id": "1409564127916224512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022117214430904564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VgWgypKER24wJEX 心理諮詢你還不能保證這個醫生是真的在幫助你，還是單純在分析症狀準備開藥。能遇到好的醫生真的是天大的幸運。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022117208936386560"
+          ]
+        },
+        "author_id": "1409564127916224512",
+        "conversation_id": "2022117214430904564",
+        "created_at": "2026-02-13T01:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022117214430904564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TkUSPOmZ4",
+              "end": 43,
+              "expanded_url": "https://x.com/VgWgypKER24wJEX/status/2022117214430904564/photo/1",
+              "media_key": "3_2022117208936386560",
+              "start": 20,
+              "url": "https://t.co/1TkUSPOmZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022117214430904564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4730,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "原来大家的精神状态\n都需要一点痛来治愈 https://t.co/1TkUSPOmZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12724,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 996
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T17:27:45.000Z",
+        "description": "健身的发疯记录📝 日常不在线 现生在发财！",
+        "id": "1409564127916224512",
+        "location": "距离800m",
+        "name": "Aiduo",
+        "pinned_tweet_id": "1981533593253093650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171892169302017/ktOwPGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 2661,
+          "like_count": 82844,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 4759
+        },
+        "username": "VgWgypKER24wJEX",
+        "verified": false
+      }
+    ]
+  }
+}

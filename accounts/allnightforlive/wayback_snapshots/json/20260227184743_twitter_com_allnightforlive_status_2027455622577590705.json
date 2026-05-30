@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2027455622577590705",
+    "created_at": "2026-02-27T18:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027455622577590705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027455622577590705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在自慰第一次後崩潰\n\n感受不到痛苦 但好像要哭哭不出來 好難受 好難受啊啊\n\n先生今天就讓我去死吧 今天就應該要死掉了 死掉最好了 死掉吧 死掉吧 死掉就好了 啊啊啊啊啊 為什麼我就是 無法確診 為什麼我要這樣憎恨著世界活著 我不要 我不要 我不要我不要我不要\n\n求你不要再聯絡我了 求你放過我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027455622577590705",
+        "created_at": "2026-02-27T18:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455622577590705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027455622577590705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在自慰第一次後崩潰\n\n感受不到痛苦 但好像要哭哭不出來 好難受 好難受啊啊\n\n先生今天就讓我去死吧 今天就應該要死掉了 死掉最好了 死掉吧 死掉吧 死掉就好了 啊啊啊啊啊 為什麼我就是 無法確診 為什麼我要這樣憎恨著世界活著 我不要 我不要 我不要我不要我不要\n\n求你不要再聯絡我了 求你放過我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 89,
+          "like_count": 14700,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1117
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

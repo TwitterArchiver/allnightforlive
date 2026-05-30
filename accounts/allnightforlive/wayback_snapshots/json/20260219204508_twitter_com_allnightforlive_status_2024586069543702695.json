@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024360582137467146",
+    "created_at": "2026-02-19T20:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024586069543702695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423208974657236994",
+          "start": 0,
+          "username": "cishengbuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024586069543702695",
+    "in_reply_to_user_id": "1423208974657236994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024360582137467146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishengbuxi 使用角色互動或是有特別動畫的動作，由於玩家被佔用或有任務尚未完成，故無法產生登出動畫，該行為可以抵銷登出動畫進行時玩家生命值扣除的狀態，且狀態將顯示玩家已死亡，此時在遊戲中的玩家將默認為重生過一次，而不扣除命數，推薦給極限模式下的玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024360582137467146",
+        "created_at": "2026-02-19T20:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024586069543702695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423208974657236994",
+              "start": 0,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024586069543702695",
+        "in_reply_to_user_id": "1423208974657236994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024360582137467146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishengbuxi 使用角色互動或是有特別動畫的動作，由於玩家被佔用或有任務尚未完成，故無法產生登出動畫，該行為可以抵銷登出動畫進行時玩家生命值扣除的狀態，且狀態將顯示玩家已死亡，此時在遊戲中的玩家將默認為重生過一次，而不扣除命數，推薦給極限模式下的玩家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423208974657236994",
+        "conversation_id": "2024360582137467146",
+        "created_at": "2026-02-19T05:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024360582137467146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024360582137467146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5590,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不想活 到底有没有无痛死亡的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 14049,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1082
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "location": "∞km",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 865,
+          "like_count": 12275,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 9522
+        },
+        "username": "cishengbuxi",
+        "verified": false
+      }
+    ]
+  }
+}

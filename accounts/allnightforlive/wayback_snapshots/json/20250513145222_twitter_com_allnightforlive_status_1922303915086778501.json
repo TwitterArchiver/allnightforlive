@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1922303915086778501",
+    "created_at": "2025-05-13T14:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T15:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922303915086778501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922303915086778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為不想承認不想自己造成麻煩了，並且不期望自己造成任何麻煩而渴望死亡的我做錯了嗎？\n\n為什麼傷害自己也要聽別人的話啊！\n\n為什麼會是跟別人說：看她的手挺乾淨的應該沒事什麼的…\n\n很痛啊。很痛苦的啊。\n\n再怎麼說，這樣身份下的我更痛了。\n\n不要把所謂的幸福強加到我身上了。\n都說了我不配得到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1922303915086778501",
+        "created_at": "2025-05-13T14:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T15:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922303915086778501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922303915086778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為不想承認不想自己造成麻煩了，並且不期望自己造成任何麻煩而渴望死亡的我做錯了嗎？\n\n為什麼傷害自己也要聽別人的話啊！\n\n為什麼會是跟別人說：看她的手挺乾淨的應該沒事什麼的…\n\n很痛啊。很痛苦的啊。\n\n再怎麼說，這樣身份下的我更痛了。\n\n不要把所謂的幸福強加到我身上了。\n都說了我不配得到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 4098,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 279
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

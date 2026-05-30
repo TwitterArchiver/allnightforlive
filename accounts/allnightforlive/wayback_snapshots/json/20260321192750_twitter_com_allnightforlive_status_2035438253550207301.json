@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2035438253550207301",
+    "created_at": "2026-03-21T19:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T20:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035438253550207301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001118735801917440",
+          "start": 3,
+          "username": "2ez4loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035438253550207301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035191996349129167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2ez4loveu: 如果以后咱俩闹掰了，我就掏出和好绳缠你小拇指上，就说明咱俩和好了。缠你脖子上你别出声就行，头晕流口水是正常的知道了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2035438253550207301",
+        "created_at": "2026-03-21T19:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035438253550207301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001118735801917440",
+              "start": 3,
+              "username": "2ez4loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035438253550207301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035191996349129167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2ez4loveu: 如果以后咱俩闹掰了，我就掏出和好绳缠你小拇指上，就说明咱俩和好了。缠你脖子上你别出声就行，头晕流口水是正常的知道了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001118735801917440",
+        "conversation_id": "2035191996349129167",
+        "created_at": "2026-03-21T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035191996349129167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035191996349129167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9246,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如果以后咱俩闹掰了，我就掏出和好绳缠你小拇指上，就说明咱俩和好了。缠你脖子上你别出声就行，头晕流口水是正常的知道了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16904,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1291
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T02:34:34.000Z",
+        "description": "此为工作号，色情消息接收时间00:00-23:59 | 非关不回 | 另一面:@juuuuuly_sea，只过女生 | 不接广 | 匿名:https://t.co/M2uUym91gb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "juuuuuly_sea"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/showmorewith",
+                "end": 92,
+                "expanded_url": "https://ngl.link/showmorewith",
+                "start": 69,
+                "url": "https://t.co/M2uUym91gb"
+              }
+            ]
+          }
+        },
+        "id": "2001118735801917440",
+        "location": "🚪50/188/520",
+        "name": "糖醋麻辣",
+        "pinned_tweet_id": "2028443312211034232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002777298316279808/W_8pqnoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14589,
+          "following_count": 60,
+          "like_count": 4544,
+          "listed_count": 32,
+          "media_count": 180,
+          "tweet_count": 2416
+        },
+        "username": "2ez4loveu",
+        "verified": false
+      }
+    ]
+  }
+}

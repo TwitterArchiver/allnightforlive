@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045781161612648888",
+    "created_at": "2026-04-19T08:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045781164120797500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045781164120797500",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045781161612648888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老師、我真的好想要死掉啊。\n\n老師我已經開始求救了 老師 為什麼那些關心我的人不會問我呢\n\n我是不是說了太多次了 我是不是一直把自己當成小說在寫呢\n\n我根本就沒有症狀吧 老師我根本就不符合課本上的症狀啊\n\n好想要死掉 只要死掉我就不會有生病跟沒有生病的問題了\n\n再堅持一下、對 再一下我畫得完的、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045781161612648888",
+        "created_at": "2026-04-19T08:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045781164120797500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045781164120797500",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045781161612648888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老師、我真的好想要死掉啊。\n\n老師我已經開始求救了 老師 為什麼那些關心我的人不會問我呢\n\n我是不是說了太多次了 我是不是一直把自己當成小說在寫呢\n\n我根本就沒有症狀吧 老師我根本就不符合課本上的症狀啊\n\n好想要死掉 只要死掉我就不會有生病跟沒有生病的問題了\n\n再堅持一下、對 再一下我畫得完的、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045781161612648888",
+        "created_at": "2026-04-19T08:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045781161612648888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045781161612648888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是像個孩子一樣 我很努力的讓自己過得好 讓自己活下去\n\n可是飢餓讓我被迫意識到自己還活著\n耳邊的噪音和人聲讓我被迫從悲傷中抽離\n\n老師我真的很努力了\n\n我知道我的拖延症一直在讓我感覺到安逸 我知道哭泣根本就沒有作用\n\n可是老師呼吸是不是也沒有作用呢。只要我少呼吸一口空氣是不是就不用花錢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 20842,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1656
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

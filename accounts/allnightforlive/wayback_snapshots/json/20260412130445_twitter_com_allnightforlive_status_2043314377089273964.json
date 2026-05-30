@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043314377089273964",
+    "created_at": "2026-04-12T13:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043314377089273964"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043314377089273964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼 為什麼 為什麼 為什麼 為什麼 正好你是這麼被愛戴的人\n\n為什麼好像全世界都說著愛你的話\n\n如果這些人塞滿教室的話是不是可以淹掉整個學校\n\n如果你被愛著的話那真的太好了\n\n果然假人也是會哭泣的嗎 塑膠微粒卡在血管裡 呼吸都感覺好像沒有這麼需要了\n\n聽我說啊 我真的 好羨慕你啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043314377089273964",
+        "created_at": "2026-04-12T13:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043314377089273964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043314377089273964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼 為什麼 為什麼 為什麼 為什麼 正好你是這麼被愛戴的人\n\n為什麼好像全世界都說著愛你的話\n\n如果這些人塞滿教室的話是不是可以淹掉整個學校\n\n如果你被愛著的話那真的太好了\n\n果然假人也是會哭泣的嗎 塑膠微粒卡在血管裡 呼吸都感覺好像沒有這麼需要了\n\n聽我說啊 我真的 好羨慕你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 93,
+          "like_count": 19019,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1524
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

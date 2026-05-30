@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1868003418633277860",
+    "created_at": "2024-12-14T18:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T19:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868003418633277860"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1868003418633277860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自慰過後攤倒在床上喘氣手上還沾黏著自己噁心的體液真的很令人想哭。\n\n然後就會幻想一個男人從後面抱住問我，輕輕的在我耳邊呼吸，像是同樣感到快樂一般\n\n但怎麼說呢，我是一個達到一次高潮就會變得像個討厭鬼一般哭鬧的討厭鬼\n欲拒還迎的樣子并不討喜對嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1868003418633277860",
+        "created_at": "2024-12-14T18:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T19:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868003418633277860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868003418633277860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自慰過後攤倒在床上喘氣手上還沾黏著自己噁心的體液真的很令人想哭。\n\n然後就會幻想一個男人從後面抱住問我，輕輕的在我耳邊呼吸，像是同樣感到快樂一般\n\n但怎麼說呢，我是一個達到一次高潮就會變得像個討厭鬼一般哭鬧的討厭鬼\n欲拒還迎的樣子并不討喜對嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 33,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 138
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

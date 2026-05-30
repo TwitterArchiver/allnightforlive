@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1854152024474140709",
+    "created_at": "2024-11-06T13:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854154221295448329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854154221295448329",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854154218342649948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其實我一直很希望自己有病，至少可以證明我並不是這麼的癲狂。“我不是不正常”，當我說出這種話時情緒是激動的，我沒辦法控制的。令人噁心。\n\n“可是到現在還是沒有人願意看我一眼”，這種自私的話我又說出來了不是嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854152024474140709",
+        "created_at": "2024-11-06T13:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854154221295448329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854154221295448329",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854154218342649948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實我一直很希望自己有病，至少可以證明我並不是這麼的癲狂。“我不是不正常”，當我說出這種話時情緒是激動的，我沒辦法控制的。令人噁心。\n\n“可是到現在還是沒有人願意看我一眼”，這種自私的話我又說出來了不是嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854152024474140709",
+        "created_at": "2024-11-06T13:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854154218342649948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854154218342649948",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854154214337073354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但我其實只是想說，我感覺有可能患上邊緣型人格了。這種斷章取義的言論不該有，可是我已經開始迷茫了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找得到我了。",
+        "id": "1511572100225462281",
+        "location": "Taiwan",
+        "name": "氫氣球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 452,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

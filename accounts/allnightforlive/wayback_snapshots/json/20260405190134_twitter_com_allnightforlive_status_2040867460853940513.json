@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040867460853940513",
+    "created_at": "2026-04-05T19:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T20:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040867460853940513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961430478701182976",
+          "start": 3,
+          "username": "limo_0829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040867460853940513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040650540787617939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @limo_0829: 【 地球online】极差★☆☆☆☆  居然要购买一个叫眼镜的道具才可以提升画质，我说白了这不是逼氪吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040867460853940513",
+        "created_at": "2026-04-05T19:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040867460853940513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961430478701182976",
+              "start": 3,
+              "username": "limo_0829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040867460853940513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040650540787617939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @limo_0829: 【 地球online】极差★☆☆☆☆  居然要购买一个叫眼镜的道具才可以提升画质，我说白了这不是逼氪吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961430478701182976",
+        "conversation_id": "2040650540787617939",
+        "created_at": "2026-04-05T04:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040650540787617939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040650540787617939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4721,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【 地球online】极差★☆☆☆☆  居然要购买一个叫眼镜的道具才可以提升画质，我说白了这不是逼氪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 89,
+          "like_count": 18145,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1441
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo，qq扩列请私信丨晶哥不要给我推文加书签了我是良民啊",
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022228574091333632/ULOdG8Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 717,
+          "like_count": 6227,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2920
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

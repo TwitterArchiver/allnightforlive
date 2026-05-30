@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2006687311799714263",
+    "created_at": "2026-01-01T11:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006687323002646550"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006687323002646550",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006687319219413258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前處於一個精神狀態不是特別良好\n很容易因為挫折而痛哭流涕 有概率會在莫名其妙的場合崩潰\n\n總之 看到別人能夠跟我一樣會崩潰 那就很好了、 我認為\n\n我希望我是不正常的人 雖然在一年半前我可能希望自己是正常的 但我希望自己不正常了 不論是精神上不要孤獨 還是希望被確診有病 怎樣都好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2006687311799714263",
+        "created_at": "2026-01-01T11:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006687323002646550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006687323002646550",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006687319219413258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前處於一個精神狀態不是特別良好\n很容易因為挫折而痛哭流涕 有概率會在莫名其妙的場合崩潰\n\n總之 看到別人能夠跟我一樣會崩潰 那就很好了、 我認為\n\n我希望我是不正常的人 雖然在一年半前我可能希望自己是正常的 但我希望自己不正常了 不論是精神上不要孤獨 還是希望被確診有病 怎樣都好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2006687311799714263",
+        "created_at": "2026-01-01T11:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006687319219413258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006687319219413258",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006687315650032116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我還記得以前有個先生 我回到房間的時候 關了燈就能夠想像他在身邊 然後我會跟他說好多事情 我會假裝我的性伴侶是他 然後我就會感到快樂 我不需要親吻 我只是和他抱在一起 這樣而已\n\n可後面爸爸出現了 然後我就失去了先生 我發現男人好可怕 然後我就前所未有的幸福 並在半年後墮落 跟我預想的一樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 83,
+          "like_count": 9506,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 758
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

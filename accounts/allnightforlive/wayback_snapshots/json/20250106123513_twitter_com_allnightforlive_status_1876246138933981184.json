@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1866132444073677276",
+    "created_at": "2025-01-06T12:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T13:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876246138933981184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1636356056388628481",
+          "start": 0,
+          "username": "kenny9324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876246138933981184",
+    "in_reply_to_user_id": "1636356056388628481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866132444073677276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenny9324 會時不時的渴望得到歡愉，一旦沒辦法滿足，就會背著你偷自慰，有的情況是沒有做愛的時候就好像什麼也不是，再不然就是太過黏人，可能會刻意去勾引對方，雖然沒有想做，但是會為了蹭到對方的溫度而刻意貼近"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1866132444073677276",
+        "created_at": "2025-01-06T12:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T13:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876246138933981184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1636356056388628481",
+              "start": 0,
+              "username": "kenny9324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876246138933981184",
+        "in_reply_to_user_id": "1636356056388628481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866132444073677276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenny9324 會時不時的渴望得到歡愉，一旦沒辦法滿足，就會背著你偷自慰，有的情況是沒有做愛的時候就好像什麼也不是，再不然就是太過黏人，可能會刻意去勾引對方，雖然沒有想做，但是會為了蹭到對方的溫度而刻意貼近"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636356056388628481",
+        "conversation_id": "1866132444073677276",
+        "created_at": "2024-12-09T14:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866132444073677276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866132444073677276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16230,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "跟性成癮的人交往是甚麼感覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 39,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 180
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T13:17:52.000Z",
+        "description": "小號 @yu_jin80228\nLINE: 4455260",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "yu_jin80228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/y44562",
+                "end": 23,
+                "expanded_url": "https://t.me/y44562",
+                "start": 0,
+                "url": "https://t.co/97NarFzM2k"
+              }
+            ]
+          }
+        },
+        "id": "1636356056388628481",
+        "name": "百合",
+        "pinned_tweet_id": "1858514563542683766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855478599127834624/cC3NmMq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55065,
+          "following_count": 45,
+          "like_count": 554,
+          "listed_count": 71,
+          "media_count": 502,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/97NarFzM2k",
+        "username": "kenny9324",
+        "verified": false
+      }
+    ]
+  }
+}

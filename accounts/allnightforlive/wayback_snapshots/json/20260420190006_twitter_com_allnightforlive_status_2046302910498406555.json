@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046302910498406555",
+    "created_at": "2026-04-20T19:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T20:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046302910498406555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2935630340",
+          "start": 3,
+          "username": "Q0S_Rimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046302910498406555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16076
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046181757121413591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046302910498406555",
+        "created_at": "2026-04-20T19:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T20:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046302910498406555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2935630340",
+              "start": 3,
+              "username": "Q0S_Rimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046302910498406555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16076
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046181757121413591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Q0S_Rimu: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2935630340",
+        "conversation_id": "2046181757121413591",
+        "created_at": "2026-04-20T10:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046181757121413591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046181757121413591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3650,
+          "impression_count": 2139287,
+          "like_count": 102682,
+          "quote_count": 462,
+          "reply_count": 280,
+          "retweet_count": 16076
+        },
+        "reply_settings": "everyone",
+        "text": "︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 103,
+          "like_count": 21310,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1685
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-19T03:35:45.000Z",
+        "description": "歌を歌っています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcZGB…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCcZGBzs2eed0sgmN-BcQQ3A",
+                "start": 0,
+                "url": "https://t.co/YbSHKgGNNf"
+              }
+            ]
+          }
+        },
+        "id": "2935630340",
+        "name": "神",
+        "pinned_tweet_id": "2008829283578589364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006314736926023680/cGeyEHpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65602,
+          "following_count": 43867,
+          "like_count": 21229,
+          "listed_count": 243,
+          "media_count": 3178,
+          "tweet_count": 27145
+        },
+        "url": "https://t.co/YbSHKgGNNf",
+        "username": "Q0S_Rimu",
+        "verified": false
+      }
+    ]
+  }
+}

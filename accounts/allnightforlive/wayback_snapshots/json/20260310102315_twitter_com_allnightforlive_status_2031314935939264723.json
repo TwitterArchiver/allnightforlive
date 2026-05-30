@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2031314935939264723",
+    "created_at": "2026-03-10T10:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031314935939264723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031314935939264723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你義正嚴辭的言論讓我承認自己的無能\n你讓我被羞辱 被侮辱 被嘲弄 被詆毀\n但你好像並不在乎\n而我卻確實的受到了傷害\n差一步便會使這段關係破滅\n你們好像都很開心 我好像一點也不能接受\n\n我被人摸到了肩膀 這是從未有過的\n擁抱比勾肩拉手來得更多 這很好\n\n對於你是女同 而我是詆毀者而言 我有點恐懼你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2031314935939264723",
+        "created_at": "2026-03-10T10:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031314935939264723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031314935939264723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你義正嚴辭的言論讓我承認自己的無能\n你讓我被羞辱 被侮辱 被嘲弄 被詆毀\n但你好像並不在乎\n而我卻確實的受到了傷害\n差一步便會使這段關係破滅\n你們好像都很開心 我好像一點也不能接受\n\n我被人摸到了肩膀 這是從未有過的\n擁抱比勾肩拉手來得更多 這很好\n\n對於你是女同 而我是詆毀者而言 我有點恐懼你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 90,
+          "like_count": 15766,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1184
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

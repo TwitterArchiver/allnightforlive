@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1854487396399935718",
+    "created_at": "2024-11-07T11:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T12:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854488668293242934"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854488668293242934",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854487396399935718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每一次都會有個衝動在說：把那個東西用刀片劃爛吧。讓它變得血肉模糊。讓你自己患上愛滋，這樣就不會有人看見我那糜爛的模樣。\n\n原諒我的自私。在這一切沒發生之前。\n\n我還是會用愛欲去滿足我得不到的愛吧…。\n希望自殺後我不會是第一次接收到那張確診單。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854487396399935718",
+        "created_at": "2024-11-07T11:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T12:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854488668293242934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854488668293242934",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854487396399935718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一次都會有個衝動在說：把那個東西用刀片劃爛吧。讓它變得血肉模糊。讓你自己患上愛滋，這樣就不會有人看見我那糜爛的模樣。\n\n原諒我的自私。在這一切沒發生之前。\n\n我還是會用愛欲去滿足我得不到的愛吧…。\n希望自殺後我不會是第一次接收到那張確診單。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854487396399935718",
+        "created_at": "2024-11-07T11:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T12:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854487396399935718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854487396399935718",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我讓任何人意識到，我其實就是個性成癮患者，會很好笑吧？\n在這種令人噁心的程度…\n就算意外把我的身體弄到完全沒辦法生育我或許也沒有關係的那種狀態。很噁心。\n\n其實，這才是我最大的秘密吧？\n因為這裡沒有我認識的人我才會這樣說。\n\n“我愛你，陌生人。”\n我希望這句話沒有通貨膨脹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找得到我了。",
+        "id": "1511572100225462281",
+        "location": "Taiwan",
+        "name": "氫氣球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 465,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

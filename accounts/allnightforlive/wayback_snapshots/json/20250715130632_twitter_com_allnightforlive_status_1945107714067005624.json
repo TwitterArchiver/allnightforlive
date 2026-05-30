@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1945107705011544160",
+    "created_at": "2025-07-15T13:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945107714067005624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945107714067005624",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945107709394870550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的 好累好累好累\n心臟根本就沒辦法跳動\n那是隨口一提的感受嗎\n那是發自內心的厭惡嗎\n我好討厭\n如果趨近於完美的話 就讓我成為好了\n只要結果在我眼前 那我就可以成為一切了吧\n我不在意的啊 我不在乎的啊\n我只是想要看到結局 我錯了嗎？\n為什麼為什麼為什麼\n總是把我當成怪人啊\n至少別厭惡我 很難過的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1945107705011544160",
+        "created_at": "2025-07-15T13:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945107714067005624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945107714067005624",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945107709394870550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的 好累好累好累\n心臟根本就沒辦法跳動\n那是隨口一提的感受嗎\n那是發自內心的厭惡嗎\n我好討厭\n如果趨近於完美的話 就讓我成為好了\n只要結果在我眼前 那我就可以成為一切了吧\n我不在意的啊 我不在乎的啊\n我只是想要看到結局 我錯了嗎？\n為什麼為什麼為什麼\n總是把我當成怪人啊\n至少別厭惡我 很難過的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1945107705011544160",
+        "created_at": "2025-07-15T13:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945107709394870550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945107709394870550",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945107705011544160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼不告訴我\n為什麼沒人告訴我我是需要有人個的\n我是可以不用說話的\n我是會被人接受的之一\n我明明就看見了別人的缺點和別人討厭他的理由\n可是為什麼\n為什麼我就是沒理由的去憐憫人啊\n我是什麼聖女轉世嗎\n為什麼我要這般可悲可恨\n直到生命的盡頭我還是在荒誕的戲碼裡面嘲笑我自己的愚蠢啊\n告訴我啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 6173,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 437
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

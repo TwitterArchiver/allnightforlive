@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024317137565995008"
+      ],
+      "media_source_tweet_id": [
+        "2024317143693861184"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024563962688553099",
+    "created_at": "2026-02-19T19:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T20:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024563962688553099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sUrZjbisjD",
+          "end": 47,
+          "expanded_url": "https://x.com/wmtbxsh/status/2024317143693861184/photo/1",
+          "media_key": "3_2024317137565995008",
+          "start": 24,
+          "url": "https://t.co/sUrZjbisjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024563962688553099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024317143693861184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 惹到我算是惹到棉花了 https://t.co/sUrZjbisjD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2024317137565995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfRthlbUAAsKYh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024317137565995008"
+          ],
+          "media_source_tweet_id": [
+            "2024317143693861184"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024563962688553099",
+        "created_at": "2026-02-19T19:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024563962688553099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUrZjbisjD",
+              "end": 47,
+              "expanded_url": "https://x.com/wmtbxsh/status/2024317143693861184/photo/1",
+              "media_key": "3_2024317137565995008",
+              "start": 24,
+              "url": "https://t.co/sUrZjbisjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024563962688553099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024317143693861184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 惹到我算是惹到棉花了 https://t.co/sUrZjbisjD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024317137565995008"
+          ]
+        },
+        "author_id": "1223407990713114624",
+        "conversation_id": "2024317143693861184",
+        "created_at": "2026-02-19T02:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024317143693861184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUrZjbisjD",
+              "end": 34,
+              "expanded_url": "https://x.com/wmtbxsh/status/2024317143693861184/photo/1",
+              "media_key": "3_2024317137565995008",
+              "start": 11,
+              "url": "https://t.co/sUrZjbisjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024317143693861184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 40510,
+          "like_count": 1207,
+          "quote_count": 32,
+          "reply_count": 20,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "惹到我算是惹到棉花了 https://t.co/sUrZjbisjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 13910,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1073
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2024309772263293255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43533,
+          "following_count": 241,
+          "like_count": 5143,
+          "listed_count": 97,
+          "media_count": 368,
+          "tweet_count": 1559
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

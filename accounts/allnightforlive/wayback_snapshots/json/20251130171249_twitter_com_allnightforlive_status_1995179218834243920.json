@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1994999553813352865",
+    "created_at": "2025-11-30T17:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995179218834243920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995179218834243920",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 16,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994999553813352865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 發推，爆哭，邊哭邊紫薇，幻想不正當關係紫薇；把訊息全都關掉，然後自我譴責到解離為止"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994999545143640065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-phC9aQAExhVM.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1994999553813352865",
+        "created_at": "2025-11-30T17:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995179218834243920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995179218834243920",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994999553813352865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 發推，爆哭，邊哭邊紫薇，幻想不正當關係紫薇；把訊息全都關掉，然後自我譴責到解離為止"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994999545143640065"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994999553813352865",
+        "created_at": "2025-11-30T05:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994999553813352865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOrbDfK4zE",
+              "end": 37,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1994999553813352865/photo/1",
+              "media_key": "3_1994999545143640065",
+              "start": 14,
+              "url": "https://t.co/hOrbDfK4zE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994999553813352865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 219898,
+          "like_count": 506,
+          "quote_count": 16,
+          "reply_count": 775,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你情绪低落的解压方式是什么 https://t.co/hOrbDfK4zE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8095,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 633
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9343,
+          "following_count": 3384,
+          "like_count": 67611,
+          "listed_count": 16,
+          "media_count": 1441,
+          "tweet_count": 15538
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

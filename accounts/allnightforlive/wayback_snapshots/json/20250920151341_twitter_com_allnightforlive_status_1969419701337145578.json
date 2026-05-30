@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1969419701337145578",
+    "created_at": "2025-09-20T15:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969419701337145578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969419701337145578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想砸東西 想摔東西 想殺人 想自殺 好想被人關注 好想被人發現我現在真的好糟糕 我快死掉了 我真的好痛苦，我都快暈倒了，能不能來個人衝進我房間揍我一頓算了 我真的 好痛苦 好難過 好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1969419701337145578",
+        "created_at": "2025-09-20T15:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969419701337145578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969419701337145578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想砸東西 想摔東西 想殺人 想自殺 好想被人關注 好想被人發現我現在真的好糟糕 我快死掉了 我真的好痛苦，我都快暈倒了，能不能來個人衝進我房間揍我一頓算了 我真的 好痛苦 好難過 好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 78,
+          "like_count": 6640,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 476
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

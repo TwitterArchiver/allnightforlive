@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2000354790174576872",
+    "created_at": "2025-12-15T13:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000564082186027348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1450040510316310528",
+          "start": 0,
+          "username": "FeiyanXie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000564082186027348",
+    "in_reply_to_user_id": "1450040510316310528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000354790174576872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FeiyanXie 為什麼沒有忽視的選項"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2000354784768069632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8KwFBLakAAm8cW.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2000354790174576872",
+        "created_at": "2025-12-15T13:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000564082186027348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1450040510316310528",
+              "start": 0,
+              "username": "FeiyanXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000564082186027348",
+        "in_reply_to_user_id": "1450040510316310528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000354790174576872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FeiyanXie 為什麼沒有忽視的選項"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000354784768069632"
+          ]
+        },
+        "author_id": "1450040510316310528",
+        "conversation_id": "2000354790174576872",
+        "created_at": "2025-12-14T23:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T00:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000354790174576872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBDbdsuNVd",
+              "end": 41,
+              "expanded_url": "https://x.com/FeiyanXie/status/2000354790174576872/photo/1",
+              "media_key": "3_2000354784768069632",
+              "start": 18,
+              "url": "https://t.co/HBDbdsuNVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000354790174576872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 72381,
+          "like_count": 136,
+          "quote_count": 8,
+          "reply_count": 334,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "7人被困雪山，只能救3人，怎么选？ https://t.co/HBDbdsuNVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 82,
+          "like_count": 8405,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 658
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T10:06:34.000Z",
+        "description": "微笑smile😊\n\n部分图片来自网络，侵权请联系删除。",
+        "id": "1450040510316310528",
+        "name": "Feiyan Xie",
+        "pinned_tweet_id": "1771681358261244398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730915850646155265/3b84QWw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45476,
+          "following_count": 11780,
+          "like_count": 187473,
+          "listed_count": 110,
+          "media_count": 12053,
+          "tweet_count": 103939
+        },
+        "username": "FeiyanXie",
+        "verified": true
+      }
+    ]
+  }
+}

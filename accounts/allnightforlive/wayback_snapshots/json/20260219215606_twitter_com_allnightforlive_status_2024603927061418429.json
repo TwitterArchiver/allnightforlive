@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024413233696968704"
+      ],
+      "media_source_tweet_id": [
+        "2024413248448319674"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024603927061418429",
+    "created_at": "2026-02-19T21:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T22:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024603927061418429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2277737282",
+          "start": 3,
+          "username": "HornyDragonTW"
+        }
+      ],
+      "urls": [
+        {
+          "description": "祝大家馬年行大運~!! 新年家裡超忙的orz 粉專2.0： https://www.facebook.com/HornyDragonTW2 脆： https://www.threads.com/@hornydragontw 噗浪： htt...",
+          "display_url": "hornydragon.blogspot.com/2026/02/2236.h…",
+          "end": 57,
+          "expanded_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+          "images": [
+            {
+              "height": 516,
+              "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=orig",
+              "width": 610
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "雜七雜八短篇漫畫翻譯2236",
+          "unwound_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+          "url": "https://t.co/mnG4v9pLV1"
+        },
+        {
+          "display_url": "pic.x.com/rsyJ4fP798",
+          "end": 95,
+          "expanded_url": "https://x.com/HornyDragonTW/status/2024413248448319674/photo/1",
+          "media_key": "3_2024413233696968704",
+          "start": 72,
+          "url": "https://t.co/rsyJ4fP798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024603927061418429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024413248448319674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HornyDragonTW: 雜七雜八短篇漫畫翻譯2236\nhttps://t.co/mnG4v9pLV1\n(發出憤怒的獸人繪師噪音) https://t.co/rsyJ4fP798"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2024413233696968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgpHDkbkAAsE08.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024413233696968704"
+          ],
+          "media_source_tweet_id": [
+            "2024413248448319674"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024603927061418429",
+        "created_at": "2026-02-19T21:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T22:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024603927061418429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2277737282",
+              "start": 3,
+              "username": "HornyDragonTW"
+            }
+          ],
+          "urls": [
+            {
+              "description": "祝大家馬年行大運~!! 新年家裡超忙的orz 粉專2.0： https://www.facebook.com/HornyDragonTW2 脆： https://www.threads.com/@hornydragontw 噗浪： htt...",
+              "display_url": "hornydragon.blogspot.com/2026/02/2236.h…",
+              "end": 57,
+              "expanded_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+              "images": [
+                {
+                  "height": 516,
+                  "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=orig",
+                  "width": 610
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "雜七雜八短篇漫畫翻譯2236",
+              "unwound_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+              "url": "https://t.co/mnG4v9pLV1"
+            },
+            {
+              "display_url": "pic.x.com/rsyJ4fP798",
+              "end": 95,
+              "expanded_url": "https://x.com/HornyDragonTW/status/2024413248448319674/photo/1",
+              "media_key": "3_2024413233696968704",
+              "start": 72,
+              "url": "https://t.co/rsyJ4fP798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024603927061418429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024413248448319674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HornyDragonTW: 雜七雜八短篇漫畫翻譯2236\nhttps://t.co/mnG4v9pLV1\n(發出憤怒的獸人繪師噪音) https://t.co/rsyJ4fP798"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024413233696968704"
+          ]
+        },
+        "author_id": "2277737282",
+        "conversation_id": "2024413248448319674",
+        "created_at": "2026-02-19T09:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024413248448319674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "祝大家馬年行大運~!! 新年家裡超忙的orz 粉專2.0： https://www.facebook.com/HornyDragonTW2 脆： https://www.threads.com/@hornydragontw 噗浪： htt...",
+              "display_url": "hornydragon.blogspot.com/2026/02/2236.h…",
+              "end": 38,
+              "expanded_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+              "images": [
+                {
+                  "height": 516,
+                  "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=orig",
+                  "width": 610
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024413251455635456/YL8oAJJX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "雜七雜八短篇漫畫翻譯2236",
+              "unwound_url": "https://hornydragon.blogspot.com/2026/02/2236.html",
+              "url": "https://t.co/mnG4v9pLV1"
+            },
+            {
+              "display_url": "pic.x.com/rsyJ4fP798",
+              "end": 76,
+              "expanded_url": "https://x.com/HornyDragonTW/status/2024413248448319674/photo/1",
+              "media_key": "3_2024413233696968704",
+              "start": 53,
+              "url": "https://t.co/rsyJ4fP798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024413248448319674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 23010,
+          "like_count": 859,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "雜七雜八短篇漫畫翻譯2236\nhttps://t.co/mnG4v9pLV1\n(發出憤怒的獸人繪師噪音) https://t.co/rsyJ4fP798"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 14146,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1090
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-05T15:17:18.000Z",
+        "description": "我是一隻龍，我有點好色，\r\n這是我的推特，請別把我推倒。",
+        "id": "2277737282",
+        "name": "好色龍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755975515394211840/B7QHYgaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81430,
+          "following_count": 421,
+          "like_count": 7762,
+          "listed_count": 131,
+          "media_count": 1257,
+          "tweet_count": 1684
+        },
+        "username": "HornyDragonTW",
+        "verified": true
+      }
+    ]
+  }
+}

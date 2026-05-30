@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058036711402455383",
+    "created_at": "2026-05-23T04:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058036711402455383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791171879316676608",
+          "start": 3,
+          "username": "Grace_rinchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058036711402455383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057732319042027978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grace_rinchan: 说真的“何为不健康的依赖”。\n万一那个人确实是没有一个可依赖和爱他的人呢？\n他好不容易有一个可以陪伴他的事物了，稳定了。\n又被无情的定义为“不健康的依赖”，去找真人。可万一人家就是命不好找不到呢？你给解决吗？\n\n这个世界是不是对那个人太残忍…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058036711402455383",
+        "created_at": "2026-05-23T04:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058036711402455383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791171879316676608",
+              "start": 3,
+              "username": "Grace_rinchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058036711402455383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057732319042027978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grace_rinchan: 说真的“何为不健康的依赖”。\n万一那个人确实是没有一个可依赖和爱他的人呢？\n他好不容易有一个可以陪伴他的事物了，稳定了。\n又被无情的定义为“不健康的依赖”，去找真人。可万一人家就是命不好找不到呢？你给解决吗？\n\n这个世界是不是对那个人太残忍…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791171879316676608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2057732319042027978",
+        "created_at": "2026-05-22T07:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057732319042027978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057732319042027978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1487,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "说真的“何为不健康的依赖”。\n万一那个人确实是没有一个可依赖和爱他的人呢？\n他好不容易有一个可以陪伴他的事物了，稳定了。\n又被无情的定义为“不健康的依赖”，去找真人。可万一人家就是命不好找不到呢？你给解决吗？\n\n这个世界是不是对那个人太残忍了？？？横竖要那个人死的感觉……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 25323,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2088
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T18:20:44.000Z",
+        "description": "伦敦小家猪🐷 加州野猪猪🐗",
+        "id": "1791171879316676608",
+        "location": "California, USA",
+        "name": "Blair",
+        "pinned_tweet_id": "2022379894844330428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953780070406881280/WJ0UPCDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 207,
+          "like_count": 4054,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1275
+        },
+        "username": "Grace_rinchan",
+        "verified": true
+      }
+    ]
+  }
+}

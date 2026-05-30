@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045069185244664117",
+    "created_at": "2026-04-18T08:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045412827683590187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1890992450556370944",
+          "start": 0,
+          "username": "noir_1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045412827683590187",
+    "in_reply_to_user_id": "1890992450556370944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045069185244664117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noir_1221 看中國的平台看久了就會習慣用中文代稱、"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38359,
+        "height": 1920,
+        "media_key": "13_2045068142972723200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045068142972723200/img/7yMilKrWII2gqJrZ.jpg",
+        "public_metrics": {
+          "view_count": 379
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045068142972723200/vid/avc1/320x568/XSGjfV1HE5h8i8fs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045068142972723200/vid/avc1/480x852/8j3eEVkRqdHC9op4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045068142972723200/vid/avc1/720x1280/jMS68Q9DSURoZjGx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045068142972723200/pl/D6YpXAKypnUY2zyP.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045069185244664117",
+        "created_at": "2026-04-18T08:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045412827683590187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1890992450556370944",
+              "start": 0,
+              "username": "noir_1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045412827683590187",
+        "in_reply_to_user_id": "1890992450556370944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045069185244664117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noir_1221 看中國的平台看久了就會習慣用中文代稱、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045068142972723200"
+          ]
+        },
+        "author_id": "1890992450556370944",
+        "conversation_id": "2045069185244664117",
+        "created_at": "2026-04-17T09:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045069185244664117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "台灣vtuber"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "台v"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "擴散希望"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8iTEPY5DH",
+              "end": 57,
+              "expanded_url": "https://x.com/noir_1221/status/2045069185244664117/video/1",
+              "media_key": "13_2045068142972723200",
+              "start": 34,
+              "url": "https://t.co/D8iTEPY5DH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045069185244664117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1666,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "到底誰會這樣念啦🤦‍♂️\n\n#台灣vtuber #台v #擴散希望 https://t.co/D8iTEPY5DH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 101,
+          "like_count": 20709,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1615
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T05:11:58.000Z",
+        "description": "【個人勢】馬來西亞VTUBER\n• 頭像：@48324bao\n• 背景：@Lillian0925_\n• 模型、建模 Model&Rig：@ikkin_live2d\n• 📩： noir1221comms@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "48324bao"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Lillian0925_"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "ikkin_live2d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@noir-1221-vt",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@noir-1221-vt",
+                "start": 0,
+                "url": "https://t.co/YobxmYCB9e"
+              }
+            ]
+          }
+        },
+        "id": "1890992450556370944",
+        "location": "FUCK",
+        "name": "NOIR 諾厄",
+        "pinned_tweet_id": "1943278330075390196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031414358211960832/LhzW6va-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 144,
+          "like_count": 661,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/YobxmYCB9e",
+        "username": "noir_1221",
+        "verified": false
+      }
+    ]
+  }
+}

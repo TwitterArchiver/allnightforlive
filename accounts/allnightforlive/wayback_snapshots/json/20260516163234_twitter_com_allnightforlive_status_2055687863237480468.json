@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2055687853745832188",
+    "created_at": "2026-05-16T16:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055687863237480468"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055687863237480468",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055687859710128191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想他們好像都一樣 都不記得我了 都應該會忘掉我 就像我應該要被世界抹去\n\n那很好啊 其實一點也不在乎的\n\n就算是三四代以前的事情有跟我有什麼關聯呢\n\n然後 我還是 莫名其妙地哭了\n\n在我應該要做我最淫穢的事情的時候。\n\n我不要這樣。\n\n我應該要說著我想要去死一遍自慰到我失神坐在窗台上哭泣才對啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2055687853745832188",
+        "created_at": "2026-05-16T16:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055687863237480468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055687863237480468",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055687859710128191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想他們好像都一樣 都不記得我了 都應該會忘掉我 就像我應該要被世界抹去\n\n那很好啊 其實一點也不在乎的\n\n就算是三四代以前的事情有跟我有什麼關聯呢\n\n然後 我還是 莫名其妙地哭了\n\n在我應該要做我最淫穢的事情的時候。\n\n我不要這樣。\n\n我應該要說著我想要去死一遍自慰到我失神坐在窗台上哭泣才對啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2055687853745832188",
+        "created_at": "2026-05-16T16:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055687859710128191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055687859710128191",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055687856417632545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的年代是死 是痛苦跟離開這裡。\n\n是這樣的 我啊 我是這樣的\n\n你說我的年代好像剩下我了\n\n我沒說太多 因為除了他們的母親在我家以外 不會有人想再看到我\n\n我的阿公在靈骨塔 再也不用帶著阿公跟阿嬤一起去爬山掃墓了。\n\n我還記得的 是他們坐在山腳 說他爬不動了 讓他的孩子們代他去 他說著莫名其名的話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 109,
+          "like_count": 24644,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2035
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

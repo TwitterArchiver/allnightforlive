@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022302900660437111",
+    "created_at": "2026-02-13T13:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022302900660437111"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022302900660437111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我被她發現了 爸爸你會想要看著我痛苦的什麼都說不出來 一開口全都是對不起跟我應該去死這種話嗎\n\n好想看看爸爸你面對我這副德行的時候 會有多難過 會有多厭惡 會有多無法理解\n\n好想看看爸爸你的表情啊\n\n如果我正好就這樣死掉了\n爸爸你會像記得她一樣記得我嗎\n\n其實 我可以繼續消失的 失去呼吸那種"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022302900660437111",
+        "created_at": "2026-02-13T13:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022302900660437111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022302900660437111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我被她發現了 爸爸你會想要看著我痛苦的什麼都說不出來 一開口全都是對不起跟我應該去死這種話嗎\n\n好想看看爸爸你面對我這副德行的時候 會有多難過 會有多厭惡 會有多無法理解\n\n好想看看爸爸你的表情啊\n\n如果我正好就這樣死掉了\n爸爸你會像記得她一樣記得我嗎\n\n其實 我可以繼續消失的 失去呼吸那種"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12783,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 997
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

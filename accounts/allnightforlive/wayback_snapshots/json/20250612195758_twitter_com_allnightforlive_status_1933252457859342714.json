@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1933252457859342714",
+    "created_at": "2025-06-12T19:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933252457859342714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "972386554365624320",
+          "start": 3,
+          "username": "taylortaylorqqq"
+        },
+        {
+          "end": 31,
+          "id": "1855320637403025408",
+          "start": 21,
+          "username": "zyu813301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933252457859342714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932823603655159948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taylortaylorqqq: @zyu813301 我前任要射的时候不仅喘，还颤抖着会说“我要射了”，妈呀我好喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933252457859342714",
+        "created_at": "2025-06-12T19:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933252457859342714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "972386554365624320",
+              "start": 3,
+              "username": "taylortaylorqqq"
+            },
+            {
+              "end": 31,
+              "id": "1855320637403025408",
+              "start": 21,
+              "username": "zyu813301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933252457859342714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932823603655159948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taylortaylorqqq: @zyu813301 我前任要射的时候不仅喘，还颤抖着会说“我要射了”，妈呀我好喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972386554365624320",
+        "conversation_id": "1932657309169430828",
+        "created_at": "2025-06-11T15:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T16:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932823603655159948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855320637403025408",
+              "start": 0,
+              "username": "zyu813301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932823603655159948",
+        "in_reply_to_user_id": "1855320637403025408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 36627,
+          "like_count": 468,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932657309169430828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyu813301 我前任要射的时候不仅喘，还颤抖着会说“我要射了”，妈呀我好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 5082,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 371
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T08:19:55.000Z",
+        "description": "What’s past is prologue",
+        "id": "972386554365624320",
+        "name": "Taylorrrrr",
+        "pinned_tweet_id": "1933141557173223904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844752377796259840/kuw3ZJpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 33,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 45
+        },
+        "username": "taylortaylorqqq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "有喜欢的人了丨无小号丨被骗别来找我丨文笔不好但爱写点性幻想🔞丨一只brat 丨私信随缘回丨可以叫我小面或者泥泥丨不定时分享好看的片子",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12971,
+          "following_count": 170,
+          "like_count": 441,
+          "listed_count": 13,
+          "media_count": 112,
+          "tweet_count": 952
+        },
+        "username": "zyu813301",
+        "verified": false
+      }
+    ]
+  }
+}

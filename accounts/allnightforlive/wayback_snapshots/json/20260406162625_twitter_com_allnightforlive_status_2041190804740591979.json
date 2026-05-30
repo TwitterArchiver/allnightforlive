@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1881024842637746685",
+    "created_at": "2026-04-06T16:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041190804740591979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041190804740591979",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881024842637746685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的生命就這樣\n被人看著\n直到能夠殺死我自己的我死去\n\n他們說我凋零腐爛的氣味刺鼻\n我說我不在乎\n\n我連自己都握不住\n生存這件事連演化都拋棄了我\n\n在我應該死亡的時候\n他們把我的根基挖出 掃去了上面的塵土\n把我的皮扒開舔食\n\n倘若就這麼死去就好了\n\n可惜我根仍在土裡\n我仍能吃能喝\n\n我沒資格去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1881024842637746685",
+        "created_at": "2026-04-06T16:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041190804740591979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041190804740591979",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881024842637746685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的生命就這樣\n被人看著\n直到能夠殺死我自己的我死去\n\n他們說我凋零腐爛的氣味刺鼻\n我說我不在乎\n\n我連自己都握不住\n生存這件事連演化都拋棄了我\n\n在我應該死亡的時候\n他們把我的根基挖出 掃去了上面的塵土\n把我的皮扒開舔食\n\n倘若就這麼死去就好了\n\n可惜我根仍在土裡\n我仍能吃能喝\n\n我沒資格去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1881024842637746685",
+        "created_at": "2025-01-19T17:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881024842637746685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881024842637746685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幻想中，紀錄。\n“小島今天也被愛著喔♡”-島川/小島\n“…黎也在努力了…請別走”-梨\n“今天也活著。祈很棒。”-祈\n“吶，先生今天也在呢。又要麻煩你了呢…。”-我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 89,
+          "like_count": 18244,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1452
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

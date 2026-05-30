@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2034998197412937954",
+    "created_at": "2026-03-20T14:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034998197412937954"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034998197412937954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她又把水打開到最大 然後去看電視了。\n\n這就是為什麼我恨失智症老人 他媽的就應該被安樂的時候 他們一直在努力讓她活著\n\n你但凡不管她 她都可以獨自殺死自己\n\n拜託了 讓她這麼做吧\n\n我要死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2034998197412937954",
+        "created_at": "2026-03-20T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034998197412937954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034998197412937954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她又把水打開到最大 然後去看電視了。\n\n這就是為什麼我恨失智症老人 他媽的就應該被安樂的時候 他們一直在努力讓她活著\n\n你但凡不管她 她都可以獨自殺死自己\n\n拜託了 讓她這麼做吧\n\n我要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16648,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1266
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

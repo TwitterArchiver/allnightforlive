@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046257081964273738",
+    "created_at": "2026-04-20T15:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046257081964273738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046257081964273738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "錢可太重要了\n他可以買到別人的笑臉\n可以買到別人對你的感激\n可以買到對方的尖叫\n\n只要有錢就擁有一切吧\n\n爸爸說\n用你的身體換吧\n\n爸爸說\n不要出賣你自己\n\n爸爸沒有說\n不用還我\n\n爸爸沒有說\n不要有壓力\n\n於是我被自己殺死\n於是金錢卡在了我的子宮裡\n\n孽種\n\n胎兒在我的肚子裡試圖殺死我\n\n他會贏的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046257081964273738",
+        "created_at": "2026-04-20T15:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046257081964273738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046257081964273738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "錢可太重要了\n他可以買到別人的笑臉\n可以買到別人對你的感激\n可以買到對方的尖叫\n\n只要有錢就擁有一切吧\n\n爸爸說\n用你的身體換吧\n\n爸爸說\n不要出賣你自己\n\n爸爸沒有說\n不用還我\n\n爸爸沒有說\n不要有壓力\n\n於是我被自己殺死\n於是金錢卡在了我的子宮裡\n\n孽種\n\n胎兒在我的肚子裡試圖殺死我\n\n他會贏的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 102,
+          "like_count": 21176,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1673
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

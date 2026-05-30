@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043914734819520513"
+      ],
+      "media_source_tweet_id": [
+        "2043914754440474636"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2044000401750729121",
+    "created_at": "2026-04-14T10:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044000401750729121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mA8EEhPRn0",
+          "end": 49,
+          "expanded_url": "https://x.com/hgds0/status/2043914754440474636/photo/1",
+          "media_key": "3_2043914734819520513",
+          "start": 26,
+          "url": "https://t.co/mA8EEhPRn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044000401750729121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043914754440474636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 敏感是我一辈子无法克服的难题 https://t.co/mA8EEhPRn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2043914734819520513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1xn0gasAEptQB.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043914734819520513"
+          ],
+          "media_source_tweet_id": [
+            "2043914754440474636"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2044000401750729121",
+        "created_at": "2026-04-14T10:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044000401750729121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mA8EEhPRn0",
+              "end": 49,
+              "expanded_url": "https://x.com/hgds0/status/2043914754440474636/photo/1",
+              "media_key": "3_2043914734819520513",
+              "start": 26,
+              "url": "https://t.co/mA8EEhPRn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044000401750729121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043914754440474636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 敏感是我一辈子无法克服的难题 https://t.co/mA8EEhPRn0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043914734819520513"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2043914754440474636",
+        "created_at": "2026-04-14T04:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043914754440474636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mA8EEhPRn0",
+              "end": 38,
+              "expanded_url": "https://x.com/hgds0/status/2043914754440474636/photo/1",
+              "media_key": "3_2043914734819520513",
+              "start": 15,
+              "url": "https://t.co/mA8EEhPRn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043914754440474636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3478,
+          "like_count": 201,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "敏感是我一辈子无法克服的难题 https://t.co/mA8EEhPRn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 97,
+          "like_count": 19878,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1571
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95178,
+          "following_count": 2470,
+          "like_count": 43982,
+          "listed_count": 133,
+          "media_count": 3976,
+          "tweet_count": 8361
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

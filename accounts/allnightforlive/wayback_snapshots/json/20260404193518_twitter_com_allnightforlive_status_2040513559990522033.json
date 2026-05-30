@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040513559990522033",
+    "created_at": "2026-04-04T19:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040513559990522033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356618972725014530",
+          "start": 3,
+          "username": "utyu_trpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040513559990522033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040273207991873883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @utyu_trpg: アタシってやっぱ暴力が好きなんです。被虐でも加虐でもよくて、とにかくその先にある執着、監禁、束縛、依存、盲信、狂気、支配欲、所有欲、独占欲、尊厳破壊などのジメッとした人間臭い要素が好きすぎる。善性のある人間が垣間見せる暴力性や悪性のある人間が当然の…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040513559990522033",
+        "created_at": "2026-04-04T19:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040513559990522033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356618972725014530",
+              "start": 3,
+              "username": "utyu_trpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040513559990522033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040273207991873883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @utyu_trpg: アタシってやっぱ暴力が好きなんです。被虐でも加虐でもよくて、とにかくその先にある執着、監禁、束縛、依存、盲信、狂気、支配欲、所有欲、独占欲、尊厳破壊などのジメッとした人間臭い要素が好きすぎる。善性のある人間が垣間見せる暴力性や悪性のある人間が当然の…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356618972725014530",
+        "conversation_id": "2040273207991873883",
+        "created_at": "2026-04-04T03:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040273207991873883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040273207991873883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1167,
+          "impression_count": 208037,
+          "like_count": 6726,
+          "quote_count": 165,
+          "reply_count": 0,
+          "retweet_count": 1326
+        },
+        "reply_settings": "following",
+        "text": "アタシってやっぱ暴力が好きなんです。被虐でも加虐でもよくて、とにかくその先にある執着、監禁、束縛、依存、盲信、狂気、支配欲、所有欲、独占欲、尊厳破壊などのジメッとした人間臭い要素が好きすぎる。善性のある人間が垣間見せる暴力性や悪性のある人間が当然のように振るう理不尽さとかね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 17877,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1415
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-02T15:02:33.000Z",
+        "description": "20↑ 今日も楽しく生きてる ＿♡ I＆h ▶︎ @hebi_chi4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "hebi_chi4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/utyu74",
+                "end": 23,
+                "expanded_url": "https://lit.link/utyu74",
+                "start": 0,
+                "url": "https://t.co/rhnWeMFlp8"
+              }
+            ]
+          }
+        },
+        "id": "1356618972725014530",
+        "name": "うちゅ🛸",
+        "pinned_tweet_id": "1940000548490813476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800111358949867520/00Jh0bAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 395,
+          "like_count": 66401,
+          "listed_count": 33,
+          "media_count": 1193,
+          "tweet_count": 24550
+        },
+        "url": "https://t.co/rhnWeMFlp8",
+        "username": "utyu_trpg",
+        "verified": false
+      }
+    ]
+  }
+}

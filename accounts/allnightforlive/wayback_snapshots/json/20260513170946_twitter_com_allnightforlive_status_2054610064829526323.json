@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054610064829526323",
+    "created_at": "2026-05-13T17:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054610064829526323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600119610543857666",
+          "start": 3,
+          "username": "GabaProtin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054610064829526323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053844942045491493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GabaProtin: 社交技能缺乏的表现：\n容易对谈伴表现出的兴趣较小；\n所问的问题较少，不能对对方的话做出评价；\n喜欢谈论自己，发起与对方无关的话题；\n喜欢给陌生人提建议而很少认同对方的话；\n自我表露少，选择不亲密的话题；\n意识不到自我表露的规则。\n社交技能通过训练…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054610064829526323",
+        "created_at": "2026-05-13T17:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054610064829526323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600119610543857666",
+              "start": 3,
+              "username": "GabaProtin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054610064829526323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053844942045491493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GabaProtin: 社交技能缺乏的表现：\n容易对谈伴表现出的兴趣较小；\n所问的问题较少，不能对对方的话做出评价；\n喜欢谈论自己，发起与对方无关的话题；\n喜欢给陌生人提建议而很少认同对方的话；\n自我表露少，选择不亲密的话题；\n意识不到自我表露的规则。\n社交技能通过训练…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600119610543857666",
+        "conversation_id": "2053844942045491493",
+        "created_at": "2026-05-11T14:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053844942045491493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053844942045491493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3150,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "社交技能缺乏的表现：\n容易对谈伴表现出的兴趣较小；\n所问的问题较少，不能对对方的话做出评价；\n喜欢谈论自己，发起与对方无关的话题；\n喜欢给陌生人提建议而很少认同对方的话；\n自我表露少，选择不亲密的话题；\n意识不到自我表露的规则。\n社交技能通过训练可以提高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 108,
+          "like_count": 24226,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1992
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T13:27:45.000Z",
+        "description": "一只会思考问题并以行动解决的海豚/Furry福瑞/Gay/Shanghai/M.D/博士后/30多岁/不键政/AI Healthcare/Doctor医师/社会＆变态心理学/LGBT社会公益 \n「愿你的一身混乱，能够平息」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/column/weirdsea",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/column/weirdsea",
+                "start": 0,
+                "url": "https://t.co/emj7DToICm"
+              }
+            ]
+          }
+        },
+        "id": "1600119610543857666",
+        "location": "Shanghai",
+        "name": "包包Dr.B🐬",
+        "pinned_tweet_id": "1990986293703311420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439385311592448/hiJxte-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5221,
+          "following_count": 1147,
+          "like_count": 192,
+          "listed_count": 5,
+          "media_count": 812,
+          "tweet_count": 3155
+        },
+        "url": "https://t.co/emj7DToICm",
+        "username": "GabaProtin",
+        "verified": false
+      }
+    ]
+  }
+}

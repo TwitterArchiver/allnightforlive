@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2018405631326310495",
+    "created_at": "2026-02-02T19:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T20:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018405631326310495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018405631326310495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "往好處想 我還有一些東西\n例如生命啊 自我選擇的能力啊 跟拋棄一切的勇氣什麼的\n\n、但我真的好想要拋棄一切呢\n如果有一個意義上愛我的人讓我拋棄一切 把我的生活打亂 然後讓我有一天會突然的死掉就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2018405631326310495",
+        "created_at": "2026-02-02T19:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018405631326310495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018405631326310495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "往好處想 我還有一些東西\n例如生命啊 自我選擇的能力啊 跟拋棄一切的勇氣什麼的\n\n、但我真的好想要拋棄一切呢\n如果有一個意義上愛我的人讓我拋棄一切 把我的生活打亂 然後讓我有一天會突然的死掉就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11984,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 939
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

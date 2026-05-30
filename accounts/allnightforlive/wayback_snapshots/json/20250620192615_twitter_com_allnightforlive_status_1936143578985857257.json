@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1936143578985857257",
+    "created_at": "2025-06-20T19:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T20:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936143578985857257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1936143578985857257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "燒到39\n吃了藥精神太好\n因為沒吃飯所以胃有點死\n\n但我久違的醒著了\n感覺還可以\n現在愛的感覺以及稍微下來了\n雖然我還是很掙扎著能不能去愛他就是了\n我還不想離開\n就這樣\n\n因為我意識到當我在這裡結束以後\n我就會找另一群新的人\n所以我在這個還不需要做任何事的階段選擇了頹廢\n\n：你那時候也是這樣嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1936143578985857257",
+        "created_at": "2025-06-20T19:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T20:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936143578985857257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936143578985857257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燒到39\n吃了藥精神太好\n因為沒吃飯所以胃有點死\n\n但我久違的醒著了\n感覺還可以\n現在愛的感覺以及稍微下來了\n雖然我還是很掙扎著能不能去愛他就是了\n我還不想離開\n就這樣\n\n因為我意識到當我在這裡結束以後\n我就會找另一群新的人\n所以我在這個還不需要做任何事的階段選擇了頹廢\n\n：你那時候也是這樣嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 77,
+          "like_count": 5500,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 413
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

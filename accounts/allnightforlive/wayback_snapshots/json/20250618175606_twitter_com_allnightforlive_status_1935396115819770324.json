@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1935396087885595112",
+    "created_at": "2025-06-18T17:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T18:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935396115819770324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935396115819770324",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935396112468427127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打從我信任你的時候就該意識到我的症狀。\n\n可你好像真的跟心理學不熟悉呢。\n不，應該，只是跟我不熟悉而已。\n\n你有一天會正大光明的問我，你昨晚哭到幾點嗎？\n就像你說我在跟其他男人約會一樣。\n\n你有一天會好奇我為什麼而崩潰嗎？\n就像你好奇我淚點低一樣。\n\n啊，你應該知道的啊。\n我好不想離開你的說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1935396087885595112",
+        "created_at": "2025-06-18T17:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935396115819770324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935396115819770324",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935396112468427127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打從我信任你的時候就該意識到我的症狀。\n\n可你好像真的跟心理學不熟悉呢。\n不，應該，只是跟我不熟悉而已。\n\n你有一天會正大光明的問我，你昨晚哭到幾點嗎？\n就像你說我在跟其他男人約會一樣。\n\n你有一天會好奇我為什麼而崩潰嗎？\n就像你好奇我淚點低一樣。\n\n啊，你應該知道的啊。\n我好不想離開你的說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1935396087885595112",
+        "created_at": "2025-06-18T17:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935396112468427127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935396112468427127",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935396109494665369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我還依稀聽見你的呼吸。\n在你曾說她在你身上留下的氣息，以及她的無理取鬧。\n\n我也想過，如果你喜歡的話，我可以變成你喜歡的模樣。\n我可以完全被你作為一個新人培育。\n我可以有一點你喜歡的小脾氣。\n我可以有一點你想要的色情。\n我可以陪你玩很多東西。\n趁我還年輕。\n趁你還喜歡我。\n趁我還有病的時候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 77,
+          "like_count": 5465,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 406
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

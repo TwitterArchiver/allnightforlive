@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1945107705011544160",
+    "created_at": "2025-07-15T13:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945107705011544160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945107705011544160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊真的 一點也不想死掉啊\n真的不想因為這種理由死掉啊\n可是為什麼好痛苦的感覺\n為什麼感覺要吐了一樣\n為什麼胸口好像被揍了一樣\n我玩的是熱愛 我玩的是激情\n當我拋棄這一切 難道就只能是勝敗了嗎\n救命 我的熱愛被人當成了糞土啊\n要理解別人不理解你 要知道一切是可以被原諒的\n那到底誰要來體諒我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1945107705011544160",
+        "created_at": "2025-07-15T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945107705011544160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945107705011544160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊真的 一點也不想死掉啊\n真的不想因為這種理由死掉啊\n可是為什麼好痛苦的感覺\n為什麼感覺要吐了一樣\n為什麼胸口好像被揍了一樣\n我玩的是熱愛 我玩的是激情\n當我拋棄這一切 難道就只能是勝敗了嗎\n救命 我的熱愛被人當成了糞土啊\n要理解別人不理解你 要知道一切是可以被原諒的\n那到底誰要來體諒我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 6155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 435
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059680081677811712"
+      ],
+      "media_source_tweet_id": [
+        "2059680084756414783"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2059935326983127184",
+    "created_at": "2026-05-28T09:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059935326983127184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1518210354949816321",
+          "start": 3,
+          "username": "Min_tramcam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nn7M7O19HJ",
+          "end": 40,
+          "expanded_url": "https://x.com/Min_tramcam/status/2059680084756414783/photo/1",
+          "media_key": "3_2059680081677811712",
+          "start": 17,
+          "url": "https://t.co/Nn7M7O19HJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059935326983127184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16421
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059680084756414783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Min_tramcam: https://t.co/Nn7M7O19HJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059680081677811712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV0HyNagAAPRXx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059680081677811712"
+          ],
+          "media_source_tweet_id": [
+            "2059680084756414783"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2059935326983127184",
+        "created_at": "2026-05-28T09:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059935326983127184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1518210354949816321",
+              "start": 3,
+              "username": "Min_tramcam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nn7M7O19HJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Min_tramcam/status/2059680084756414783/photo/1",
+              "media_key": "3_2059680081677811712",
+              "start": 17,
+              "url": "https://t.co/Nn7M7O19HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059935326983127184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16421
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059680084756414783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Min_tramcam: https://t.co/Nn7M7O19HJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059680081677811712"
+          ]
+        },
+        "author_id": "1518210354949816321",
+        "conversation_id": "2059680084756414783",
+        "created_at": "2026-05-27T16:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059680084756414783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nn7M7O19HJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Min_tramcam/status/2059680084756414783/photo/1",
+              "media_key": "3_2059680081677811712",
+              "start": 0,
+              "url": "https://t.co/Nn7M7O19HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059680084756414783",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10398,
+          "impression_count": 968301,
+          "like_count": 109669,
+          "quote_count": 2083,
+          "reply_count": 139,
+          "retweet_count": 16421
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nn7M7O19HJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25907,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2125
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T12:49:25.000Z",
+        "description": "367 ( ba trăm sáu mươi bảy )",
+        "id": "1518210354949816321",
+        "name": "Jok Wonger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561001063342080/p5K2T6fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48517,
+          "following_count": 505,
+          "like_count": 4207,
+          "listed_count": 31,
+          "media_count": 212,
+          "tweet_count": 436
+        },
+        "username": "Min_tramcam",
+        "verified": false
+      }
+    ]
+  }
+}

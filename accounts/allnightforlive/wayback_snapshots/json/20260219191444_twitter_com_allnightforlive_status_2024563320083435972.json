@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024563320083435972",
+    "created_at": "2026-02-19T19:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T20:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024563320083435972"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024563320083435972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實小玩具不知道什麼時候有點破了 不知道之後會不會繼續用 畢竟比較喜歡有東西填著去自 比較有感覺\n\n但怎麼說 都想要戒一下性癮 畢竟再這樣下去也不是個頭 （才怪我還會繼續\n\n某段時間挺開心的 直到繼續自開始 又感覺生活沒什麼意義了\n\n（確定真的不是日光不足嗎（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024563320083435972",
+        "created_at": "2026-02-19T19:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024563320083435972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024563320083435972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實小玩具不知道什麼時候有點破了 不知道之後會不會繼續用 畢竟比較喜歡有東西填著去自 比較有感覺\n\n但怎麼說 都想要戒一下性癮 畢竟再這樣下去也不是個頭 （才怪我還會繼續\n\n某段時間挺開心的 直到繼續自開始 又感覺生活沒什麼意義了\n\n（確定真的不是日光不足嗎（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 13902,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1072
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

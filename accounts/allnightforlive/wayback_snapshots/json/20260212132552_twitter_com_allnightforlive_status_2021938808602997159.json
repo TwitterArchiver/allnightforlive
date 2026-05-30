@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2021938808602997159",
+    "created_at": "2026-02-12T13:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021938808602997159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021938808602997159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "果然 還是 覺得 自己怎麼能這麼糟糕\n\n我很討人厭吧 嗯\n\n先生 求你 把我的一切都留住吧\n\n我可以給你我自己 我的精神 我的身體\n\n我的一切 難道不能夠 共享給你嗎\n\n因為我需要你愛著我 所以我失去了我自己 那我是不是 就不用再感受到軀體化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021938808602997159",
+        "created_at": "2026-02-12T13:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021938808602997159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021938808602997159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然 還是 覺得 自己怎麼能這麼糟糕\n\n我很討人厭吧 嗯\n\n先生 求你 把我的一切都留住吧\n\n我可以給你我自己 我的精神 我的身體\n\n我的一切 難道不能夠 共享給你嗎\n\n因為我需要你愛著我 所以我失去了我自己 那我是不是 就不用再感受到軀體化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12626,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 984
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

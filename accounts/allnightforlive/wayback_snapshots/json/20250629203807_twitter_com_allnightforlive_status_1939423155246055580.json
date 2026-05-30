@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1939423155246055580",
+    "created_at": "2025-06-29T20:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T21:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939423155246055580"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939423155246055580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "間歇性的衝動想法\n長時間的憂鬱伴隨著怠惰\n突然與長時間的脫離、脫節感\n不定時的自我質問\n大量地情緒反芻\n\n啊結果我給自己的病症解答是無病呻吟嘛\n反正不會只有我這麼想\n畢竟本來就不該有病\n我也是成功把自己養成我當初希望的樣子了\n欸不過真的很痛呢\n很痛苦\n像是脊椎裸露一樣\n冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1939423155246055580",
+        "created_at": "2025-06-29T20:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T21:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939423155246055580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939423155246055580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "間歇性的衝動想法\n長時間的憂鬱伴隨著怠惰\n突然與長時間的脫離、脫節感\n不定時的自我質問\n大量地情緒反芻\n\n啊結果我給自己的病症解答是無病呻吟嘛\n反正不會只有我這麼想\n畢竟本來就不該有病\n我也是成功把自己養成我當初希望的樣子了\n欸不過真的很痛呢\n很痛苦\n像是脊椎裸露一樣\n冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 79,
+          "like_count": 5827,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 424
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

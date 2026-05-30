@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1875129779223253016",
+    "created_at": "2025-01-03T10:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875129779223253016"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1875129779223253016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "壓力大的時候就像做愛做到哭卻還是沒辦法高潮一樣\n\n現在我大概處於一個過度緊繃，像是腎上腺素正在燃燒身體，奮不顧身去救人的傢伙，但總之我沒有那個能耐。\n\n只不過是什麼都做不了，也什麼都想做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1875129779223253016",
+        "created_at": "2025-01-03T10:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875129779223253016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875129779223253016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "壓力大的時候就像做愛做到哭卻還是沒辦法高潮一樣\n\n現在我大概處於一個過度緊繃，像是腎上腺素正在燃燒身體，奮不顧身去救人的傢伙，但總之我沒有那個能耐。\n\n只不過是什麼都做不了，也什麼都想做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 178
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

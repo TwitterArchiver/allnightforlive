@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052804109607268737",
+    "created_at": "2026-05-08T17:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052804109607268737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052804109607268737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直很喜歡衣櫃 自從我躲在衣櫃想要嚇媽媽開始 我學會了等待 一分鐘 十分鐘 半小時 然後是一小時 我可以在裡面玩遊戲 我可以跟自己聊天 我會問我什麼時候才要出去 我耐不住性子\n\n後來我抱著手機跟我自己躲到了只剩下爸爸的衣櫃 那很舒服 那很好 一個小時過去 我知道我該離開了 我不知道他什麼時候回來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052804109607268737",
+        "created_at": "2026-05-08T17:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052804109607268737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052804109607268737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很喜歡衣櫃 自從我躲在衣櫃想要嚇媽媽開始 我學會了等待 一分鐘 十分鐘 半小時 然後是一小時 我可以在裡面玩遊戲 我可以跟自己聊天 我會問我什麼時候才要出去 我耐不住性子\n\n後來我抱著手機跟我自己躲到了只剩下爸爸的衣櫃 那很舒服 那很好 一個小時過去 我知道我該離開了 我不知道他什麼時候回來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23756,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1906
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

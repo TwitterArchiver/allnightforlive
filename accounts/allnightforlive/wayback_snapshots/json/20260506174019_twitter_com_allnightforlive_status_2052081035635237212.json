@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052081035635237212",
+    "created_at": "2026-05-06T17:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052081035635237212"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052081035635237212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。貼貼\n\n會被討厭的 很噁心的 因為是女同 因為是雙性 因為是被侵犯過的 所以不懂得分寸的我是會被討厭的\n\n。什麼是分寸 可是我好喜歡貼貼呢？、我做錯了 一直都錯了 我知道的 我一直都知道的。是故意的吧 是故意的吧。他們會討厭我 他們會討厭我 對不起 對不起 對不起對不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052081035635237212",
+        "created_at": "2026-05-06T17:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052081035635237212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052081035635237212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。貼貼\n\n會被討厭的 很噁心的 因為是女同 因為是雙性 因為是被侵犯過的 所以不懂得分寸的我是會被討厭的\n\n。什麼是分寸 可是我好喜歡貼貼呢？、我做錯了 一直都錯了 我知道的 我一直都知道的。是故意的吧 是故意的吧。他們會討厭我 他們會討厭我 對不起 對不起 對不起對不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23640,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1890
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

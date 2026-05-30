@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053177535530405928",
+    "created_at": "2026-05-09T18:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053177535530405928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053177535530405928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想要大聲的說著自己喜歡的歌 好想要說我比你們都早聽見這首歌 明明是這樣的\n\n明明就連崩潰的時候都覺得這首歌如此悅耳\n結果連月光也變得廉價 連玫瑰都變成剪貼素材\n\n是的 請把我的棺材做成雷射貼紙 我想貼在我的車窗上 讓膠水沾黏 讓角質刮花\n\n是的 就算它有再響亮的引擎聲 都是我愛著的那不堪的模樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053177535530405928",
+        "created_at": "2026-05-09T18:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053177535530405928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053177535530405928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要大聲的說著自己喜歡的歌 好想要說我比你們都早聽見這首歌 明明是這樣的\n\n明明就連崩潰的時候都覺得這首歌如此悅耳\n結果連月光也變得廉價 連玫瑰都變成剪貼素材\n\n是的 請把我的棺材做成雷射貼紙 我想貼在我的車窗上 讓膠水沾黏 讓角質刮花\n\n是的 就算它有再響亮的引擎聲 都是我愛著的那不堪的模樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23839,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1922
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

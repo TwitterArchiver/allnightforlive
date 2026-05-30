@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2010064835577540709",
+    "created_at": "2026-01-10T19:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T20:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010064835577540709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010064835577540709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近聽到了一首歌 很喜歡\n感覺快要壞掉了 有一種發條鎖緊了 但是齒輪有一顆掉了 某個部位完全不會動 但沒有任何一個人發現 但可能下一秒 其他的齒輪都會一起鬆落 最後成了廢鐵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2010064835577540709",
+        "created_at": "2026-01-10T19:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010064835577540709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010064835577540709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近聽到了一首歌 很喜歡\n感覺快要壞掉了 有一種發條鎖緊了 但是齒輪有一顆掉了 某個部位完全不會動 但沒有任何一個人發現 但可能下一秒 其他的齒輪都會一起鬆落 最後成了廢鐵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 84,
+          "like_count": 10122,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 829
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

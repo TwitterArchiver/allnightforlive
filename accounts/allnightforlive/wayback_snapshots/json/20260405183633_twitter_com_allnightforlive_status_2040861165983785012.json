@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040625039616414000",
+    "created_at": "2026-04-05T18:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040861165983785012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040861165983785012",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040625039616414000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne 寫作文的時候我特愛用破折號 只要一個因為所以我就能亂加 比起敘事 形容更簡單 雖然他們要的不是我慷慨激昂的宣誓 但我也想不出怎麼把它拉回標題了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040625039616414000",
+        "created_at": "2026-04-05T18:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040861165983785012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040861165983785012",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040625039616414000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 寫作文的時候我特愛用破折號 只要一個因為所以我就能亂加 比起敘事 形容更簡單 雖然他們要的不是我慷慨激昂的宣誓 但我也想不出怎麼把它拉回標題了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664742004423794688",
+        "conversation_id": "2040625039616414000",
+        "created_at": "2026-04-05T02:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040625039616414000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040625039616414000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 257701,
+          "like_count": 1106,
+          "quote_count": 12,
+          "reply_count": 254,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "破折号之所以会被直接判AI写作\n\n是因为人类真的很少会正确用破折号\n\n是的，这个是人类的问题..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 89,
+          "like_count": 18064,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1439
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🤖 AI深度实践｜AI应用落地赋能\n🧠 跨学科思考｜多元模型实践\n🎓 教育规划专家｜深度长文作者｜Australia🦘\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2036449395248668903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34969,
+          "following_count": 721,
+          "like_count": 15174,
+          "listed_count": 186,
+          "media_count": 869,
+          "tweet_count": 7670
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

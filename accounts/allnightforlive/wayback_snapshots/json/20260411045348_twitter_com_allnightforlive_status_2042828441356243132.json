@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042718629666656257",
+        "3_2042718629683433472"
+      ],
+      "media_source_tweet_id": [
+        "2042718642035658984",
+        "2042718642035658984"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042828441356243132",
+    "created_at": "2026-04-11T04:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042828441356243132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PwPspmynO",
+          "end": 83,
+          "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+          "media_key": "3_2042718629666656257",
+          "start": 60,
+          "url": "https://t.co/5PwPspmynO"
+        },
+        {
+          "display_url": "pic.x.com/5PwPspmynO",
+          "end": 83,
+          "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+          "media_key": "3_2042718629683433472",
+          "start": 60,
+          "url": "https://t.co/5PwPspmynO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042828441356243132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042718642035658984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 人性的恶毫无下限…估计是看到作品是金做的动了歪心思\n\n哥们，不要小看学艺术的啊，背后啥家庭条件 https://t.co/5PwPspmynO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042718629666656257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkxxVlakAEdxOE.jpg",
+        "width": 1116
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042718629683433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkxxVpakAAzvUV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042718629666656257",
+            "3_2042718629683433472"
+          ],
+          "media_source_tweet_id": [
+            "2042718642035658984",
+            "2042718642035658984"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042828441356243132",
+        "created_at": "2026-04-11T04:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042828441356243132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PwPspmynO",
+              "end": 83,
+              "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+              "media_key": "3_2042718629666656257",
+              "start": 60,
+              "url": "https://t.co/5PwPspmynO"
+            },
+            {
+              "display_url": "pic.x.com/5PwPspmynO",
+              "end": 83,
+              "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+              "media_key": "3_2042718629683433472",
+              "start": 60,
+              "url": "https://t.co/5PwPspmynO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042828441356243132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042718642035658984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 人性的恶毫无下限…估计是看到作品是金做的动了歪心思\n\n哥们，不要小看学艺术的啊，背后啥家庭条件 https://t.co/5PwPspmynO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042718629666656257",
+            "3_2042718629683433472"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2042718642035658984",
+        "created_at": "2026-04-10T21:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042718642035658984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PwPspmynO",
+              "end": 71,
+              "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+              "media_key": "3_2042718629666656257",
+              "start": 48,
+              "url": "https://t.co/5PwPspmynO"
+            },
+            {
+              "display_url": "pic.x.com/5PwPspmynO",
+              "end": 71,
+              "expanded_url": "https://x.com/rwayne/status/2042718642035658984/photo/1",
+              "media_key": "3_2042718629683433472",
+              "start": 48,
+              "url": "https://t.co/5PwPspmynO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042718642035658984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 92495,
+          "like_count": 443,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "人性的恶毫无下限…估计是看到作品是金做的动了歪心思\n\n哥们，不要小看学艺术的啊，背后啥家庭条件 https://t.co/5PwPspmynO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18673,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1482
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🤖 AI深度实践｜AI应用落地赋能\n🧠 跨学科思考｜多元模型实践\n🎓 教育规划专家｜深度长文作者｜Australia🦘\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2036449395248668903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37273,
+          "following_count": 729,
+          "like_count": 16824,
+          "listed_count": 193,
+          "media_count": 981,
+          "tweet_count": 8363
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

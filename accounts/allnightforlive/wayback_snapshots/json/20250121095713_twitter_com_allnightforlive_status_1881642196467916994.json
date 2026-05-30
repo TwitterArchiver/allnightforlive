@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1881642196467916994",
+    "created_at": "2025-01-21T09:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T10:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881642196467916994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aed31526173/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/Aed31526173/status/1881185913772118339",
+          "start": 142,
+          "url": "https://t.co/UDC8W03VER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881642196467916994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881185913772118339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "當我說我需要幫助的時候沒有人會覺得我需要幫忙。\n他們說我應激的模樣很可怕，說我下意識反抗的動作像是要殺了他們\n然後我放棄了，我去掉了那些反射弧，將所有的惡意吞入腹中，最後呢，我還是想死，他們仍然不在乎我的生命存亡\n\n只要我不死就沒事了，這是我在輔導處唯一的感想\n今年，我想死在學校。 https://t.co/UDC8W03VER"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1881642196467916994",
+        "created_at": "2025-01-21T09:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T10:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881642196467916994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aed31526173/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Aed31526173/status/1881185913772118339",
+              "start": 142,
+              "url": "https://t.co/UDC8W03VER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881642196467916994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881185913772118339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "當我說我需要幫助的時候沒有人會覺得我需要幫忙。\n他們說我應激的模樣很可怕，說我下意識反抗的動作像是要殺了他們\n然後我放棄了，我去掉了那些反射弧，將所有的惡意吞入腹中，最後呢，我還是想死，他們仍然不在乎我的生命存亡\n\n只要我不死就沒事了，這是我在輔導處唯一的感想\n今年，我想死在學校。 https://t.co/UDC8W03VER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881185911616258049"
+          ]
+        },
+        "author_id": "1304754976158175232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881185913772118339",
+        "created_at": "2025-01-20T03:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T04:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881185913772118339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DuRAd5Ne9",
+              "end": 23,
+              "expanded_url": "https://x.com/Aed31526173/status/1881185913772118339/photo/1",
+              "media_key": "3_1881185911616258049",
+              "start": 0,
+              "url": "https://t.co/0DuRAd5Ne9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881185913772118339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 233255,
+          "like_count": 3234,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0DuRAd5Ne9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "--未被確診的性成癮患者自述--",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 2126,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 219
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T12:13:32.000Z",
+        "description": "我上推来就干三件事：看黄，看投稿，看梗图🤓\n如果我每天无所事事混吃等死，那我跟梦想成真有什么区别",
+        "id": "1304754976158175232",
+        "location": "1314km",
+        "name": "鼠啪黑肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741774165873737728/nHuFL7WG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 298,
+          "like_count": 4981,
+          "listed_count": 9,
+          "media_count": 230,
+          "tweet_count": 798
+        },
+        "username": "Aed31526173",
+        "verified": false
+      }
+    ]
+  }
+}

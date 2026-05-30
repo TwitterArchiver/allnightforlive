@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016503631525425152"
+      ],
+      "media_source_tweet_id": [
+        "2016503651377074469"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2016800329862721766",
+    "created_at": "2026-01-29T09:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016800329862721766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1239088423979192325",
+          "start": 3,
+          "username": "Kisaragi4050"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T9MX0HJJKL",
+          "end": 51,
+          "expanded_url": "https://x.com/Kisaragi4050/status/2016503651377074469/photo/1",
+          "media_key": "3_2016503631525425152",
+          "start": 28,
+          "url": "https://t.co/T9MX0HJJKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016800329862721766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016503651377074469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kisaragi4050: お前が私を嫌うから https://t.co/T9MX0HJJKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2016503631525425152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wPXnVbsAAPr26.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016503631525425152"
+          ],
+          "media_source_tweet_id": [
+            "2016503651377074469"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2016800329862721766",
+        "created_at": "2026-01-29T09:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016800329862721766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1239088423979192325",
+              "start": 3,
+              "username": "Kisaragi4050"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9MX0HJJKL",
+              "end": 51,
+              "expanded_url": "https://x.com/Kisaragi4050/status/2016503651377074469/photo/1",
+              "media_key": "3_2016503631525425152",
+              "start": 28,
+              "url": "https://t.co/T9MX0HJJKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016800329862721766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016503651377074469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kisaragi4050: お前が私を嫌うから https://t.co/T9MX0HJJKL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016503631525425152"
+          ]
+        },
+        "author_id": "1239088423979192325",
+        "conversation_id": "2016503651377074469",
+        "created_at": "2026-01-28T13:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016503651377074469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9MX0HJJKL",
+              "end": 33,
+              "expanded_url": "https://x.com/Kisaragi4050/status/2016503651377074469/photo/1",
+              "media_key": "3_2016503631525425152",
+              "start": 10,
+              "url": "https://t.co/T9MX0HJJKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016503651377074469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 791,
+          "impression_count": 75656,
+          "like_count": 8457,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "お前が私を嫌うから https://t.co/T9MX0HJJKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 11500,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 909
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T07:18:19.000Z",
+        "description": "@0sQReoYNQd42264/✉️0405ophelia@gmail.com/https://t.co/zP8bOzjBWU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "0sQReoYNQd42264"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kisaragi0405.booth.pm",
+                "end": 64,
+                "expanded_url": "https://kisaragi0405.booth.pm",
+                "start": 41,
+                "url": "https://t.co/zP8bOzjBWU"
+              }
+            ]
+          }
+        },
+        "id": "1239088423979192325",
+        "location": "依頼や写真はDMかメールまで",
+        "name": "澱。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854917450099531776/EaPzdCor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 975,
+          "like_count": 36858,
+          "listed_count": 54,
+          "media_count": 708,
+          "tweet_count": 2329
+        },
+        "username": "Kisaragi4050",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046994207186067685",
+    "created_at": "2026-04-22T16:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046994207186067685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804587925805596672",
+          "start": 3,
+          "username": "OverSpring_wiki"
+        },
+        {
+          "end": 38,
+          "id": "1533024617811812352",
+          "start": 27,
+          "username": "Spr1ngW1nd"
+        },
+        {
+          "end": 68,
+          "id": "1163460719465025536",
+          "start": 58,
+          "username": "SS3B_0016"
+        },
+        {
+          "end": 116,
+          "id": "1759034280678674432",
+          "start": 101,
+          "username": "LFanyDeath0606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046994207186067685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046547594487398422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpring_wiki: 不完全列表\n@Spr1ngW1nd 2023.01.11 致幻剂（意外）\n@SS3B_0016 2024.01.12 氯硝西泮意外/NaNO2自杀（有待考证）\n@LFanyDeath0606 2024.08.05 NaNO2+DXM+金…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046994207186067685",
+        "created_at": "2026-04-22T16:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046994207186067685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804587925805596672",
+              "start": 3,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 38,
+              "id": "1533024617811812352",
+              "start": 27,
+              "username": "Spr1ngW1nd"
+            },
+            {
+              "end": 68,
+              "id": "1163460719465025536",
+              "start": 58,
+              "username": "SS3B_0016"
+            },
+            {
+              "end": 116,
+              "id": "1759034280678674432",
+              "start": 101,
+              "username": "LFanyDeath0606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046994207186067685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046547594487398422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpring_wiki: 不完全列表\n@Spr1ngW1nd 2023.01.11 致幻剂（意外）\n@SS3B_0016 2024.01.12 氯硝西泮意外/NaNO2自杀（有待考证）\n@LFanyDeath0606 2024.08.05 NaNO2+DXM+金…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "2046547594487398422",
+        "created_at": "2026-04-21T11:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:11:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046547399074836953",
+          "2046547594487398422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1533024617811812352",
+              "start": 6,
+              "username": "Spr1ngW1nd"
+            },
+            {
+              "end": 47,
+              "id": "1163460719465025536",
+              "start": 37,
+              "username": "SS3B_0016"
+            },
+            {
+              "end": 95,
+              "id": "1759034280678674432",
+              "start": 80,
+              "username": "LFanyDeath0606"
+            },
+            {
+              "end": 141,
+              "id": "1692466630406688768",
+              "start": 131,
+              "username": "Healer_Gu"
+            },
+            {
+              "end": 175,
+              "id": "1574668085314965504",
+              "start": 165,
+              "username": "Meer19002"
+            },
+            {
+              "end": 209,
+              "id": "1851866685420265472",
+              "start": 197,
+              "username": "LCG_Akiball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046547594487398422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 17,
+                "id": "1533024617811812352",
+                "start": 6,
+                "username": "Spr1ngW1nd"
+              },
+              {
+                "end": 47,
+                "id": "1163460719465025536",
+                "start": 37,
+                "username": "SS3B_0016"
+              },
+              {
+                "end": 95,
+                "id": "1759034280678674432",
+                "start": 80,
+                "username": "LFanyDeath0606"
+              },
+              {
+                "end": 141,
+                "id": "1692466630406688768",
+                "start": 131,
+                "username": "Healer_Gu"
+              },
+              {
+                "end": 175,
+                "id": "1574668085314965504",
+                "start": 165,
+                "username": "Meer19002"
+              },
+              {
+                "end": 209,
+                "id": "1851866685420265472",
+                "start": 197,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 248,
+                "id": "1793636329299066880",
+                "start": 238,
+                "username": "cuichuna7"
+              },
+              {
+                "end": 284,
+                "id": "1935420089186336768",
+                "start": 271,
+                "username": "ASplendour15"
+              },
+              {
+                "end": 320,
+                "id": "1718776457198280704",
+                "start": 304,
+                "username": "yng014522566684"
+              }
+            ]
+          },
+          "text": "不完全列表\n@Spr1ngW1nd 2023.01.11 致幻剂（意外）\n@SS3B_0016 2024.01.12 氯硝西泮意外/NaNO2自杀（有待考证）\n@LFanyDeath0606 2024.08.05 NaNO2+DXM+金刚烷胺（自杀，死亡存疑）\n@Healer_Gu 2025.03.25 阿片类奥施康定（意外）\n@Meer19002 2025.06.17 NaNO2（自杀）\n@LCG_Akiball 2025.06.19 NaNO2+可乐定及其他（自杀）\n@cuichuna7 2025.07.10 LSD衍生物（意外）\n@ASplendour15 2026.04.11 丙泊酚（自杀）\n@yng014522566684 2026.04.13 曲马多+普瑞巴林+愈美（意外）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 21079,
+          "like_count": 233,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "不完全列表\n@Spr1ngW1nd 2023.01.11 致幻剂（意外）\n@SS3B_0016 2024.01.12 氯硝西泮意外/NaNO2自杀（有待考证）\n@LFanyDeath0606 2024.08.05 NaNO2+DXM+金刚烷胺（自杀，死亡存疑）\n@Healer_Gu 2025.03.25 阿片类奥施康定（意外）\n@Meer19002 2025.06.17 NaNO2（自杀）\n@LCG_Akiball 2025.06.19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 102,
+          "like_count": 21412,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1705
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 949,
+          "like_count": 31862,
+          "listed_count": 11,
+          "media_count": 498,
+          "tweet_count": 7244
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6565,
+          "following_count": 359,
+          "like_count": 4419,
+          "listed_count": 16,
+          "media_count": 450,
+          "tweet_count": 4951
+        },
+        "username": "Spr1ngW1nd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T14:40:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SS3B_0016",
+                "end": 23,
+                "expanded_url": "https://t.me/SS3B_0016",
+                "start": 0,
+                "url": "https://t.co/LsBy1P83gG"
+              }
+            ]
+          }
+        },
+        "id": "1163460719465025536",
+        "location": "盐田港",
+        "name": "地铁八号线",
+        "pinned_tweet_id": "1687009418410688512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702202591646547969/Egfoodhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14382,
+          "following_count": 750,
+          "like_count": 10276,
+          "listed_count": 54,
+          "media_count": 1066,
+          "tweet_count": 6830
+        },
+        "url": "https://t.co/LsBy1P83gG",
+        "username": "SS3B_0016",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T01:57:09.000Z",
+        "description": "04年木桶饭    含糖    泛性恋   INFJ   OD",
+        "id": "1759034280678674432",
+        "name": "绫枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790374614218027008/btOHRNP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 23,
+          "like_count": 51,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "LFanyDeath0606",
+        "verified": false
+      }
+    ]
+  }
+}

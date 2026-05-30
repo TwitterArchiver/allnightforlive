@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1959361377908457739",
+    "created_at": "2025-08-23T21:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T22:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959361385843900622"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959361385843900622",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959361381599453643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以要得病就讓我自己得吧，反正要死掉我只能夠自己死掉了。\n\n我真的很希望最後我能夠把自己塑造得更像個受害者，這樣我或許能夠多說點什麼，或許我也能夠試圖原諒我嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1959361377908457739",
+        "created_at": "2025-08-23T21:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T22:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959361385843900622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959361385843900622",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959361381599453643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以要得病就讓我自己得吧，反正要死掉我只能夠自己死掉了。\n\n我真的很希望最後我能夠把自己塑造得更像個受害者，這樣我或許能夠多說點什麼，或許我也能夠試圖原諒我嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1959361377908457739",
+        "created_at": "2025-08-23T21:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T22:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959361381599453643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959361381599453643",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959361377908457739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "結果就是，我仍然欺騙我自己用不正當的愛意妄想著他的愛，然後在每一次對話裡期待著他或許會拋下我離去的痛苦。\n\n後來想想，我應該還是有病，在我能夠正常愛人之前，要不我還是繼續不正常下去好了、聽我說嘛，我真的不想傷害任何人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 79,
+          "like_count": 6191,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 448
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

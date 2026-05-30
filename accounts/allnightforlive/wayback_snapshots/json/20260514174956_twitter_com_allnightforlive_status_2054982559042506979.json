@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054982559042506979",
+    "created_at": "2026-05-14T17:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054982559042506979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004245938534338566",
+          "start": 3,
+          "username": "A_Toygun_Piu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054982559042506979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054623646422032790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Toygun_Piu: 怎么从来没有人教过我们如何正确的告别。如何释怀。如何不会在夜晚一遍又一遍地想起对方然后任由眼泪湿润枕头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054982559042506979",
+        "created_at": "2026-05-14T17:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054982559042506979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004245938534338566",
+              "start": 3,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054982559042506979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054623646422032790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Toygun_Piu: 怎么从来没有人教过我们如何正确的告别。如何释怀。如何不会在夜晚一遍又一遍地想起对方然后任由眼泪湿润枕头。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004245938534338566",
+        "conversation_id": "2054623646422032790",
+        "created_at": "2026-05-13T18:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054623646422032790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054623646422032790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12582,
+          "like_count": 477,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "怎么从来没有人教过我们如何正确的告别。如何释怀。如何不会在夜晚一遍又一遍地想起对方然后任由眼泪湿润枕头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 109,
+          "like_count": 24266,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2001
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "明天太阳照常升起。\nhttps://t.co/g299veXM5p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%B7%E9%9…",
+                "end": 33,
+                "expanded_url": "https://ngl.link/%E5%86%B7%E9%9B%A8%E5%A4%9C",
+                "start": 10,
+                "url": "https://t.co/g299veXM5p"
+              }
+            ]
+          }
+        },
+        "id": "2004245938534338566",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2050264006401941899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 63,
+          "like_count": 4542,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1992
+        },
+        "username": "A_Toygun_Piu",
+        "verified": false
+      }
+    ]
+  }
+}

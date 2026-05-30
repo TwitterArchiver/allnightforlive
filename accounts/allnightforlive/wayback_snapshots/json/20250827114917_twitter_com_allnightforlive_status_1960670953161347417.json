@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1960670953161347417",
+    "created_at": "2025-08-27T11:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T12:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960670953161347417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960670953161347417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想做點什麼啊，感覺已經撐不住了，好想哭，一瞬間開始思考起好多事情，我是不是又病了，啊這個時間的憂鬱應該是不小心的吧。\n天殺的我寧願自己有病啊。\n什麼叫適當發洩，是指明明想死掉卻認為還有救所以一直欺騙自己活下去嗎。\n很累了，真的很累了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1960670953161347417",
+        "created_at": "2025-08-27T11:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960670953161347417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960670953161347417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想做點什麼啊，感覺已經撐不住了，好想哭，一瞬間開始思考起好多事情，我是不是又病了，啊這個時間的憂鬱應該是不小心的吧。\n天殺的我寧願自己有病啊。\n什麼叫適當發洩，是指明明想死掉卻認為還有救所以一直欺騙自己活下去嗎。\n很累了，真的很累了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 79,
+          "like_count": 6219,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 452
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

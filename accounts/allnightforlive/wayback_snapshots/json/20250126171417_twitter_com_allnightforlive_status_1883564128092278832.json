@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1883564128092278832",
+    "created_at": "2025-01-26T17:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T18:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883564128092278832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883564128092278832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我是知道的啊，當你插進來的時候很痛的啊，我也會跟個孩子一樣胡鬧的啊，我也想展現可愛的模樣給你啊，結果什麼都做不到。\n\n給我一場不會醒來的夢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1883564128092278832",
+        "created_at": "2025-01-26T17:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T18:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883564128092278832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883564128092278832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我是知道的啊，當你插進來的時候很痛的啊，我也會跟個孩子一樣胡鬧的啊，我也想展現可愛的模樣給你啊，結果什麼都做不到。\n\n給我一場不會醒來的夢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "--未被確診的性成癮患者自述--",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 53,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 230
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2035006677100240981",
+    "created_at": "2026-03-20T14:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035006677100240981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1737438242382000128",
+          "start": 3,
+          "username": "jiamimaodashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035006677100240981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034626439962886178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiamimaodashu: 亚洲人为什么总不擅长表达爱？\n\n这是叔见过最好的回答：\n\n西方是海洋文明，\n每一次出发都可能是永别，\n所以人们高声表达爱意。\n\n而东亚是农耕文明，\n人们等待耕地、等待播种，等待雨水、等待收割。\n他们一生都在等待，\n于是爱也是场细腻的雨，温润…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2035006677100240981",
+        "created_at": "2026-03-20T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035006677100240981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1737438242382000128",
+              "start": 3,
+              "username": "jiamimaodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035006677100240981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034626439962886178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiamimaodashu: 亚洲人为什么总不擅长表达爱？\n\n这是叔见过最好的回答：\n\n西方是海洋文明，\n每一次出发都可能是永别，\n所以人们高声表达爱意。\n\n而东亚是农耕文明，\n人们等待耕地、等待播种，等待雨水、等待收割。\n他们一生都在等待，\n于是爱也是场细腻的雨，温润…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737438242382000128",
+        "conversation_id": "2034626439962886178",
+        "created_at": "2026-03-19T13:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034626439962886178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034626439962886178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亚洲人为什么总不擅长表达爱？\n\n这是叔见过最好的回答：\n\n西方是海洋文明，\n每一次出发都可能是永别，\n所以人们高声表达爱意。\n\n而东亚是农耕文明，\n人们等待耕地、等待播种，等待雨水、等待收割。\n他们一生都在等待，\n于是爱也是场细腻的雨，温润无声。\n\n所以亚洲人的眼球是大地的颜色，西方人的眼球是大海的颜色。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 161533,
+          "like_count": 1883,
+          "quote_count": 32,
+          "reply_count": 113,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "亚洲人为什么总不擅长表达爱？\n\n这是叔见过最好的回答：\n\n西方是海洋文明，\n每一次出发都可能是永别，\n所以人们高声表达爱意。\n\n而东亚是农耕文明，\n人们等待耕地、等待播种，等待雨水、等待收割。\n他们一生都在等待，\n于是爱也是场细腻的雨，温润无声。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16756,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1274
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T11:42:38.000Z",
+        "description": "关注比特币/美联储 /华尔街/特朗普",
+        "id": "1737438242382000128",
+        "name": "@jiamimao 大猫叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758305253488009216/9xVsPFM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36246,
+          "following_count": 4129,
+          "like_count": 25571,
+          "listed_count": 159,
+          "media_count": 1578,
+          "tweet_count": 19318
+        },
+        "username": "jiamimaodashu",
+        "verified": true
+      }
+    ]
+  }
+}

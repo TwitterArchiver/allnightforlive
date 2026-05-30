@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2017690544462598597",
+    "created_at": "2026-01-31T20:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T21:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017690544462598597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017690544462598597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼男同就能夠輕易的得到愛情\n\n為什麼男生就可以隨便的找人電愛\n\n啊 怎麼會想到真的幻想過男同有一天會變直這種事情呢\n真的很好笑啊\n\n我只是嫉妒 就連男生都能夠這麼輕易的被人騷擾\n然後我就這樣等這一個人隨時來姦殺我\n我多麼恐懼啊 可是我好想要莫名其妙的死掉呢。\n\n別忘了這傢伙的妄想症啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2017690544462598597",
+        "created_at": "2026-01-31T20:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T21:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017690544462598597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017690544462598597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼男同就能夠輕易的得到愛情\n\n為什麼男生就可以隨便的找人電愛\n\n啊 怎麼會想到真的幻想過男同有一天會變直這種事情呢\n真的很好笑啊\n\n我只是嫉妒 就連男生都能夠這麼輕易的被人騷擾\n然後我就這樣等這一個人隨時來姦殺我\n我多麼恐懼啊 可是我好想要莫名其妙的死掉呢。\n\n別忘了這傢伙的妄想症啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11706,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 926
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1871940751397159276",
+    "created_at": "2024-12-25T15:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T16:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871940751397159276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/hsn8086/status/1871013054684778618",
+          "start": 139,
+          "url": "https://t.co/or0TWNikIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871940751397159276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871013054684778618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因為目前還沒嚴重到倒塌的地步，所以一直被擱置在某個地方；只是每一次的下雨積水，促使自己想要去修補，可又沒有嚴重到直接倒塌，於是自認良好的繼續保持下去；那個地基就這麼一直隨著時間被水一點點泡爛，總有一天，地基就無法支撐，此時還不補救，就會等到倒塌。\n最後建商歸咎於土地保持不佳。 https://t.co/or0TWNikIG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1871940751397159276",
+        "created_at": "2024-12-25T15:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T16:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871940751397159276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/hsn8086/status/1871013054684778618",
+              "start": 139,
+              "url": "https://t.co/or0TWNikIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871940751397159276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871013054684778618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因為目前還沒嚴重到倒塌的地步，所以一直被擱置在某個地方；只是每一次的下雨積水，促使自己想要去修補，可又沒有嚴重到直接倒塌，於是自認良好的繼續保持下去；那個地基就這麼一直隨著時間被水一點點泡爛，總有一天，地基就無法支撐，此時還不補救，就會等到倒塌。\n最後建商歸咎於土地保持不佳。 https://t.co/or0TWNikIG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871013047508381698"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1871013054684778618",
+        "created_at": "2024-12-23T02:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T03:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871013054684778618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3AK19HbmU",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1871013054684778618/photo/1",
+              "media_key": "3_1871013047508381698",
+              "start": 0,
+              "url": "https://t.co/s3AK19HbmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871013054684778618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 326711,
+          "like_count": 2908,
+          "quote_count": 22,
+          "reply_count": 15,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s3AK19HbmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 171
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25046,
+          "following_count": 895,
+          "like_count": 36198,
+          "listed_count": 71,
+          "media_count": 4309,
+          "tweet_count": 8911
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

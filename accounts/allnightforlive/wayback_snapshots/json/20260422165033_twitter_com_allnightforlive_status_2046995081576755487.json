@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046995081576755487",
+    "created_at": "2026-04-22T16:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046995081576755487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046995081576755487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感覺像是被捅了一樣 腦海好昏 好混亂 怎麼感覺今天甚至連快樂都做不到了。\n\n我放棄 痛苦比我想像中得更快找上我了 什麼時候才能夠停下來。\n\n喉嚨 被堵住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046995081576755487",
+        "created_at": "2026-04-22T16:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046995081576755487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046995081576755487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺像是被捅了一樣 腦海好昏 好混亂 怎麼感覺今天甚至連快樂都做不到了。\n\n我放棄 痛苦比我想像中得更快找上我了 什麼時候才能夠停下來。\n\n喉嚨 被堵住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 102,
+          "like_count": 21415,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1706
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

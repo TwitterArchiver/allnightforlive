@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1933249501281845480",
+    "created_at": "2025-06-12T19:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933249504356208900"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933249504356208900",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933249501281845480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他們離未來越近，我就離他們越遠了。\n\n我是被未來扼殺的孩子，是他們口中的未來。\n\n他們口中，留給下一代，就是留給我。\n\n可我作為下一代，卻試著站在和他們同個平台上，說著相同的話。\n\n我拙劣的謊言早就被識破了吧？\n\n我可笑的表情早就告訴你一切了吧？\n\n我也曾渴望啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249504356208900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249504356208900",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933249501281845480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他們離未來越近，我就離他們越遠了。\n\n我是被未來扼殺的孩子，是他們口中的未來。\n\n他們口中，留給下一代，就是留給我。\n\n可我作為下一代，卻試著站在和他們同個平台上，說著相同的話。\n\n我拙劣的謊言早就被識破了吧？\n\n我可笑的表情早就告訴你一切了吧？\n\n我也曾渴望啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249501281845480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249501281845480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我真的好愛你啊。\n\n在第三人稱視角的演出，也會有不想結束的時候。\n\n我想看那沒被小說家寫下的部分，我想看讀者讀不到的篇章，我想看被她簡筆帶過的一切。\n\n因為我第一次意識到自己沒有辦法擁有的時候，就更渴望擁有了。\n\n愛是我痛苦的源頭，一直都是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 5065,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 369
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

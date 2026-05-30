@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2015550892007940464",
+    "created_at": "2026-01-25T22:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T23:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015550892007940464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015550892007940464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老東西底層代碼發力了\n她女兒都說了別他媽叫我了\n自己在那邊好好好的 知道了\n然後呢\n凌晨六點叫我起床 敲我門\n\n我這輩子就為了你膽戰心驚\n為了你而想要殺了你\n為了你精神衰弱\n為了你成為殺人犯\n\n我恨你一輩子 妳能不能早點去死\n我恨死你了\n失智症就應該被安樂死\n沒有的話 我會忍不住給他安樂死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2015550892007940464",
+        "created_at": "2026-01-25T22:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015550892007940464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015550892007940464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老東西底層代碼發力了\n她女兒都說了別他媽叫我了\n自己在那邊好好好的 知道了\n然後呢\n凌晨六點叫我起床 敲我門\n\n我這輩子就為了你膽戰心驚\n為了你而想要殺了你\n為了你精神衰弱\n為了你成為殺人犯\n\n我恨你一輩子 妳能不能早點去死\n我恨死你了\n失智症就應該被安樂死\n沒有的話 我會忍不住給他安樂死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11109,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 891
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045782488539353380",
+    "created_at": "2026-04-19T08:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045782488539353380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045782488539353380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。\n\n根本就是故意的吧 不是的、\n\n我不是⋯\n\n對不起 我不該讓別人承受我的情緒 就算其實沒有人在乎 就算其實無人在意 就算他們也不會關心 我一直這樣也可以的 反正我會救我自己 反正解離這種東西就是身體在救自己\n\n反正其實我也沒有解離這種東西 我只是自己哭一哭就好了 對的 我跟本不需要幫助 我好得很"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045782488539353380",
+        "created_at": "2026-04-19T08:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045782488539353380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045782488539353380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。\n\n根本就是故意的吧 不是的、\n\n我不是⋯\n\n對不起 我不該讓別人承受我的情緒 就算其實沒有人在乎 就算其實無人在意 就算他們也不會關心 我一直這樣也可以的 反正我會救我自己 反正解離這種東西就是身體在救自己\n\n反正其實我也沒有解離這種東西 我只是自己哭一哭就好了 對的 我跟本不需要幫助 我好得很"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 20850,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1658
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

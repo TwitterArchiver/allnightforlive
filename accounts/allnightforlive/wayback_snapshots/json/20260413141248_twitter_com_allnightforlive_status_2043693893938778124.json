@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043693893938778124",
+    "created_at": "2026-04-13T14:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043693893938778124"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043693893938778124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "畫到一半 好崩潰\n\n把遊戲的東西全都抽完了\n\n、總價值也有個五千吧\n\n好可憐\n真的好可憐\n\n畫到現在根本就已經畫不下去了。\n\n明天去學校也不知道該怎麼對老師說\n\n我真的很努力了 我真的很想要得名\n我真的很希望能夠讓孩子們看到我畫的東西\n可是 可是 可是 可是 我怎麼 一直這樣\n故事才到一半而已 不可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043693893938778124",
+        "created_at": "2026-04-13T14:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043693893938778124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043693893938778124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "畫到一半 好崩潰\n\n把遊戲的東西全都抽完了\n\n、總價值也有個五千吧\n\n好可憐\n真的好可憐\n\n畫到現在根本就已經畫不下去了。\n\n明天去學校也不知道該怎麼對老師說\n\n我真的很努力了 我真的很想要得名\n我真的很希望能夠讓孩子們看到我畫的東西\n可是 可是 可是 可是 我怎麼 一直這樣\n故事才到一半而已 不可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 95,
+          "like_count": 19359,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1539
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

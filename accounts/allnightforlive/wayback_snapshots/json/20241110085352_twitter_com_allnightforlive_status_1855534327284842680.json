@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1855534325833633868",
+    "created_at": "2024-11-10T08:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T09:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855534327284842680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1855534327284842680",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855534325833633868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個情況越來越嚴重了。\n我好像還是更需要逃避我的朋友。\n可以的話\n刪掉一切通訊方式好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1855534325833633868",
+        "created_at": "2024-11-10T08:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855534327284842680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855534327284842680",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855534325833633868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個情況越來越嚴重了。\n我好像還是更需要逃避我的朋友。\n可以的話\n刪掉一切通訊方式好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1855534325833633868",
+        "created_at": "2024-11-10T08:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855534325833633868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855534325833633868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好開心呢。有個人可以忍受我飄忽不定的心情，真好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找的到我。\n\n糜爛的言論在這裡會不斷的出現，如同我化為腐肉的軀體。",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 569,
+          "listed_count": 0,
+          "tweet_count": 49
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

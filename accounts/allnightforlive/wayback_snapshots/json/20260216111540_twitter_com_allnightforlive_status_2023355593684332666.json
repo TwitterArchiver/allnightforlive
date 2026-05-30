@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2023355593684332666",
+    "created_at": "2026-02-16T11:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023355593684332666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1360218315499528195",
+          "start": 3,
+          "username": "mollysgame12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023355593684332666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022932638496100655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mollysgame12: 我媽說，她的外婆以前在賣涼水，那天她坐在攤子的藤椅上，一邊數鈔票，數著數著，然後閉上眼睛就過世了。\n\n好⋯⋯好幸福？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2023355593684332666",
+        "created_at": "2026-02-16T11:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023355593684332666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360218315499528195",
+              "start": 3,
+              "username": "mollysgame12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023355593684332666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022932638496100655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mollysgame12: 我媽說，她的外婆以前在賣涼水，那天她坐在攤子的藤椅上，一邊數鈔票，數著數著，然後閉上眼睛就過世了。\n\n好⋯⋯好幸福？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360218315499528195",
+        "conversation_id": "2022932638496100655",
+        "created_at": "2026-02-15T07:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022932638496100655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022932638496100655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 89067,
+          "like_count": 2702,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "我媽說，她的外婆以前在賣涼水，那天她坐在攤子的藤椅上，一邊數鈔票，數著數著，然後閉上眼睛就過世了。\n\n好⋯⋯好幸福？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 13202,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1027
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T13:25:04.000Z",
+        "description": "開放式關係實踐者，生活植物觀察員。市儈又誠懇，溫和又嚴厲，喜歡音樂與性與一切令人愉快的事物。",
+        "id": "1360218315499528195",
+        "location": "Taipei City, Taiwan",
+        "name": "Molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886049749536755712/EtA5wCh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 267,
+          "like_count": 7952,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1467
+        },
+        "username": "mollysgame12",
+        "verified": false
+      }
+    ]
+  }
+}

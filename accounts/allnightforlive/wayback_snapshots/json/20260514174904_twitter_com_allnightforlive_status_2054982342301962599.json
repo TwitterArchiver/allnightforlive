@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054982342301962599",
+    "created_at": "2026-05-14T17:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054982342301962599"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054982342301962599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果是我的話一定做不到吧\n\n於是退路什麼的早就規劃好了\n\n只要我達到了臨界點 我就會去死的\n\n今天意外的覺得好像 有點想活下去\n\n這種慾望搞得我好痛苦啊、\n\n看久了發現 其實 也不想再看下去了\n\n已經失去了 對吧\n\n故事說到這裡結束了 那我\n\n怎麼辦才好呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054982342301962599",
+        "created_at": "2026-05-14T17:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054982342301962599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054982342301962599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果是我的話一定做不到吧\n\n於是退路什麼的早就規劃好了\n\n只要我達到了臨界點 我就會去死的\n\n今天意外的覺得好像 有點想活下去\n\n這種慾望搞得我好痛苦啊、\n\n看久了發現 其實 也不想再看下去了\n\n已經失去了 對吧\n\n故事說到這裡結束了 那我\n\n怎麼辦才好呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 109,
+          "like_count": 24261,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2000
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

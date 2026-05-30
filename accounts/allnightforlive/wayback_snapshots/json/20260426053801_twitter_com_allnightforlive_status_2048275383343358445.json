@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2048026525120008645",
+    "created_at": "2026-04-26T05:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048275383343358445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048275383343358445",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048026525120008645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 畫畫🤡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2048026456996130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwNNjPbMAA7kMq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-26T05:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048275383343358445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048275383343358445",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048026525120008645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 畫畫🤡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048026456996130816"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-25T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048026525120008645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L5G6Q6JIz",
+              "end": 43,
+              "expanded_url": "https://x.com/GeBiubiu/status/2048026525120008645/photo/1",
+              "media_key": "3_2048026456996130816",
+              "start": 20,
+              "url": "https://t.co/0L5G6Q6JIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048026525120008645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 244244,
+          "like_count": 258,
+          "quote_count": 30,
+          "reply_count": 1039,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢自曝一个很烧钱\n但又戒不掉的爱好 https://t.co/0L5G6Q6JIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 104,
+          "like_count": 22157,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1772
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11376,
+          "following_count": 6015,
+          "like_count": 377365,
+          "listed_count": 36,
+          "media_count": 1036,
+          "tweet_count": 18079
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

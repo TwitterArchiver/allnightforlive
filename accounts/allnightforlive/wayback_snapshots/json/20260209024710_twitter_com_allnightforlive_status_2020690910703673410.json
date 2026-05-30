@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2020690905712443615",
+    "created_at": "2026-02-09T02:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020690910703673410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020690910703673410",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020690908128440700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我才小了你三歲吧\n\n你經歷的 我的人生 也會逐漸向你靠攏\n\n先生你 能像我自己一樣 保護我嗎\n\n我找不到任何一個依靠的人\n\n有一天我還是會像小時候一樣 覺得自己去賣也可以吧\n\n即使爸爸也說了我要愛我自己 但我果然什麼都做不到呢\n\n爸爸我啊 在把你從我心裡移除了\n\n因為 你 好像傷透了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2020690905712443615",
+        "created_at": "2026-02-09T02:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020690910703673410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020690910703673410",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020690908128440700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才小了你三歲吧\n\n你經歷的 我的人生 也會逐漸向你靠攏\n\n先生你 能像我自己一樣 保護我嗎\n\n我找不到任何一個依靠的人\n\n有一天我還是會像小時候一樣 覺得自己去賣也可以吧\n\n即使爸爸也說了我要愛我自己 但我果然什麼都做不到呢\n\n爸爸我啊 在把你從我心裡移除了\n\n因為 你 好像傷透了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2020690905712443615",
+        "created_at": "2026-02-09T02:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020690908128440700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020690908128440700",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020690905712443615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你那蒼白的道別都被螢幕的光照得失去了你的光彩\n那無力的悲鳴是多麼的幸福啊\n\n她會遇到愛他的人吧\n你也不用再保護她了吧\n你再也不用為了她 演繹著如何殺死自己\n\n果然我 還是 一點也不能接受\n\n當我還沒有培育出先生的時候\n有人已經在回到自己的生活了\n\n那我\n把所有人放在心裡 又能做什麼呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12137,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 962
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

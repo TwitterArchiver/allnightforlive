@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2057991229439443155",
+    "created_at": "2026-05-24T05:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058423288733589842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "710784808566153217",
+          "start": 0,
+          "username": "Chenxi_upup"
+        },
+        {
+          "end": 26,
+          "id": "1026132866",
+          "start": 13,
+          "username": "qingyun88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058423288733589842",
+    "in_reply_to_user_id": "710784808566153217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058233413975580714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenxi_upup @qingyun88888 已知情況是在紙本身就容易破 就算你疊了再多張 碰到你身體的那部分還是會被蹭破、還是會有屑\n\n那再說你對不正常人的定義又是什麼\n來月經、有痔瘡、腸胃跟皮膚敏感的、手汗多的人 用到就是命不好嗎？\n再來如果公司開放給外人使用的廁所紙也是如此 那老人小孩這種手部能力差 沾到屎尿抹你身上也可以嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2057991229439443155",
+        "created_at": "2026-05-24T05:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058423288733589842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "710784808566153217",
+              "start": 0,
+              "username": "Chenxi_upup"
+            },
+            {
+              "end": 26,
+              "id": "1026132866",
+              "start": 13,
+              "username": "qingyun88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058423288733589842",
+        "in_reply_to_user_id": "710784808566153217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058233413975580714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenxi_upup @qingyun88888 已知情況是在紙本身就容易破 就算你疊了再多張 碰到你身體的那部分還是會被蹭破、還是會有屑\n\n那再說你對不正常人的定義又是什麼\n來月經、有痔瘡、腸胃跟皮膚敏感的、手汗多的人 用到就是命不好嗎？\n再來如果公司開放給外人使用的廁所紙也是如此 那老人小孩這種手部能力差 沾到屎尿抹你身上也可以嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "710784808566153217",
+        "conversation_id": "2057991229439443155",
+        "created_at": "2026-05-23T17:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058233413975580714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511572100225462281",
+              "start": 0,
+              "username": "allnightforlive"
+            },
+            {
+              "end": 30,
+              "id": "1026132866",
+              "start": 17,
+              "username": "qingyun88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058233413975580714",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1627,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058173322064728108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allnightforlive @qingyun88888 我主要是指每次都把纸用破的人非正常人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25802,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2113
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T11:07:58.000Z",
+        "description": "",
+        "id": "710784808566153217",
+        "name": "Firo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/904421473229586432/FEqxiqEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 294
+        },
+        "username": "Chenxi_upup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-21T10:41:23.000Z",
+        "description": "青云社区创始人｜Founder of Qingyun Society｜\n\n投研报告｜项目线程｜撸毛教程｜信息分享｜无投资建议｜\n\n #Binance ｜KOL经理\n\nWEEX注册：https://t.co/6bQESTo2pY\n\n宣发📩合作TG：@qingyunbtc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "qingyunbtc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weex.com/register?vipCo…",
+                "end": 113,
+                "expanded_url": "https://www.weex.com/register?vipCode=5xb7e",
+                "start": 90,
+                "url": "https://t.co/6bQESTo2pY"
+              }
+            ]
+          }
+        },
+        "id": "1026132866",
+        "name": "青云 | MemeMax⚡️",
+        "pinned_tweet_id": "2057991229439443155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946180453788205056/HjskXpuo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33521,
+          "following_count": 19371,
+          "like_count": 61478,
+          "listed_count": 80,
+          "media_count": 2778,
+          "tweet_count": 64228
+        },
+        "username": "qingyun88888",
+        "verified": true
+      }
+    ]
+  }
+}

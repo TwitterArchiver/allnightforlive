@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2055897786487546191",
+    "created_at": "2026-05-17T17:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056064064783253864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611645795039838209",
+          "start": 0,
+          "username": "dushpnggudecu1"
+        },
+        {
+          "end": 28,
+          "id": "299498565",
+          "start": 16,
+          "username": "dryadb43738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056064064783253864",
+    "in_reply_to_user_id": "1611645795039838209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055913554386321512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dushpnggudecu1 @dryadb43738 金箔其實也不算特別貴 只是價格跟純度有浮動 一張大概12到6、70不等 以最低價來講 敷滿臉大概也佔圖上的價格三分之二左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2055897786487546191",
+        "created_at": "2026-05-17T17:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056064064783253864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611645795039838209",
+              "start": 0,
+              "username": "dushpnggudecu1"
+            },
+            {
+              "end": 28,
+              "id": "299498565",
+              "start": 16,
+              "username": "dryadb43738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056064064783253864",
+        "in_reply_to_user_id": "1611645795039838209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055913554386321512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dushpnggudecu1 @dryadb43738 金箔其實也不算特別貴 只是價格跟純度有浮動 一張大概12到6、70不等 以最低價來講 敷滿臉大概也佔圖上的價格三分之二左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611645795039838209",
+        "conversation_id": "2055897786487546191",
+        "created_at": "2026-05-17T07:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055913554386321512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "299498565",
+              "start": 0,
+              "username": "dryadb43738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055913554386321512",
+        "in_reply_to_user_id": "299498565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3863,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055897786487546191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dryadb43738 我認識的一個長輩\n每天都用金泊敷臉\n\n跟金泊比起來\n杜拜巧克力Q 餅\n只是排小數點後三碼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 109,
+          "like_count": 24757,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 2044
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T08:48:05.000Z",
+        "description": "寫個故事吧\n故事有寫但只有寫幾千個字就寫不下去了",
+        "id": "1611645795039838209",
+        "name": "紅色的蘋果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621766616940969984/2K4ckHyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 568,
+          "like_count": 13652,
+          "listed_count": 5,
+          "media_count": 250,
+          "tweet_count": 12079
+        },
+        "username": "dushpnggudecu1",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-16T05:58:39.000Z",
+        "description": "不吃芋頭、香菇：可以站就不要坐；可以放假就不上班；極厭世。 SW-3100-1920-2838。",
+        "id": "299498565",
+        "location": "台灣, Taiwan",
+        "name": "最後一哩鹿( ⓛ ω ⓛ🌈)🌸 ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/867891544505929728/ghk1Hirs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78488,
+          "following_count": 856,
+          "like_count": 86806,
+          "listed_count": 236,
+          "media_count": 15695,
+          "tweet_count": 131348
+        },
+        "username": "dryadb43738",
+        "verified": false
+      }
+    ]
+  }
+}

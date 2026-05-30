@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053873754011484351",
+    "created_at": "2026-05-11T16:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053873778896339025"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053873778896339025",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053873773720523031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那是夢嗎？是現實嗎？\n女主人是女主人嗎？\n白蠟燭是白蠟燭嗎？\n\n只有第一個問題是懸問的情況下\n後者的問題都不重要\n\n過多的問題 只會扼殺夢境\n\n如此的\n如是說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873778896339025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873778896339025",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873773720523031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那是夢嗎？是現實嗎？\n女主人是女主人嗎？\n白蠟燭是白蠟燭嗎？\n\n只有第一個問題是懸問的情況下\n後者的問題都不重要\n\n過多的問題 只會扼殺夢境\n\n如此的\n如是說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873773720523031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873773720523031",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873769828258292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耳朵拒絕收聽廣播 拒絕聆聽警報 他就這樣躲掉了所有的箭矢 也躲掉了伸出的手 \n\n那不重要\n\n我還在寫 我還在判斷\n\n只有與眾不同才能拿到分數 只有完整敘述才能夠被崇拜\n\n就如那白蠟燭一般摔下桌角\n\n那時我不懂事\n我不知道蠟燭是會斷的\n於是我寫 女主人醒了\n蠟燭停止了燃燒\n命垂一線的幻覺拉長成一場夢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 24069,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1954
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

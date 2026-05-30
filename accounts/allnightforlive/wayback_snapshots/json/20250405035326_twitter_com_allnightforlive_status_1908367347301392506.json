@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1908367342557712395",
+    "created_at": "2025-04-05T03:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T04:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908367347301392506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908367347301392506",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908367344155713642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "可是我想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1908367342557712395",
+        "created_at": "2025-04-05T03:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908367347301392506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908367347301392506",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908367344155713642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "可是我想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1908367342557712395",
+        "created_at": "2025-04-05T03:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908367344155713642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908367344155713642",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908367342557712395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "還不如讓我從一開始就沒有擁有。\n\n我永遠都在想，如果我不曾擁有就好了。\n\n如果那年的十二月我跳下去就好了。\n\n一切就結束了。\n\n我還是喜歡那負數的溫度。\n\n可我還是想要那樣的體溫。\n\n不可以嗎？\n\n來自別人的溫度，往往是不属于我的吧？\n\n渴望擁有不屬於自己的東西\n\n是覬覦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 65,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 262
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

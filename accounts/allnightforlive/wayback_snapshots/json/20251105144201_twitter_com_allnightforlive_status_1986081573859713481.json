@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1986081573859713481",
+    "created_at": "2025-11-05T14:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986081573859713481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ithurts42/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ithurts42/status/1985934354988577042",
+          "start": 9,
+          "url": "https://t.co/laNsIbV2wb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986081573859713481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985934354988577042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看不到任何東西 https://t.co/laNsIbV2wb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1985934351675056128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G490xVrWYAAlsNK.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1986081573859713481",
+        "created_at": "2025-11-05T14:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986081573859713481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ithurts42/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ithurts42/status/1985934354988577042",
+              "start": 9,
+              "url": "https://t.co/laNsIbV2wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986081573859713481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985934354988577042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看不到任何東西 https://t.co/laNsIbV2wb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985934351675056128"
+          ]
+        },
+        "author_id": "1933125535426629632",
+        "conversation_id": "1985934354988577042",
+        "created_at": "2025-11-05T04:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985934354988577042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsjjJ1IQoO",
+              "end": 51,
+              "expanded_url": "https://x.com/Ithurts42/status/1985934354988577042/photo/1",
+              "media_key": "3_1985934351675056128",
+              "start": 28,
+              "url": "https://t.co/CsjjJ1IQoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985934354988577042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 306961,
+          "like_count": 2411,
+          "quote_count": 250,
+          "reply_count": 2464,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "Type the first word you see https://t.co/CsjjJ1IQoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7465,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 505
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T11:33:51.000Z",
+        "description": "PROUD KENYAN 🇰🇪|| DIGITAL INFLUENCER || ART LOVER 🎭",
+        "id": "1933125535426629632",
+        "name": "Healing",
+        "pinned_tweet_id": "1983949235159756864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949965836757696512/EiVUQr1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 318,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 823
+        },
+        "username": "Ithurts42",
+        "verified": true
+      }
+    ]
+  }
+}

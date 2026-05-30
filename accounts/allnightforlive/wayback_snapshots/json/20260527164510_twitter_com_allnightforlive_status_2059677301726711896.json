@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2059677301726711896",
+    "created_at": "2026-05-27T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059677301726711896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059677301726711896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想你\n\n你還是如果去一樣的說著話\n\n我仍然聽不懂\n\n於是看著你 試圖理解你說的那些\n\n好痛苦\n\n請你 多說點話吧\n\n讓我能夠不用性填滿我的人生\n\n如果可以真希望能夠在這個時間被擁抱呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2059677301726711896",
+        "created_at": "2026-05-27T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059677301726711896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059677301726711896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想你\n\n你還是如果去一樣的說著話\n\n我仍然聽不懂\n\n於是看著你 試圖理解你說的那些\n\n好痛苦\n\n請你 多說點話吧\n\n讓我能夠不用性填滿我的人生\n\n如果可以真希望能夠在這個時間被擁抱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25870,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2119
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

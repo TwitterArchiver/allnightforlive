@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024858192942137344"
+      ],
+      "media_source_tweet_id": [
+        "2024861600734216500"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      }
+    ],
+    "conversation_id": "2024965122104725891",
+    "created_at": "2026-02-20T21:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T22:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024965122104725891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1478373022142967811",
+          "start": 3,
+          "username": "mirunakase"
+        }
+      ],
+      "urls": [
+        {
+          "description": "さきいってて/初音ミク他人にはある感性や愛情や情熱をあなたに教わっていたい笑われるだろうか輪郭を描...",
+          "display_url": "nicovideo.jp/watch/sm459697…",
+          "end": 78,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm45969708",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "さきいってて",
+          "unwound_url": "https://www.nicovideo.jp/watch/sm45969708",
+          "url": "https://t.co/dXFlUBMzWU"
+        },
+        {
+          "display_url": "pic.x.com/jH5EdLlIaa",
+          "end": 102,
+          "expanded_url": "https://x.com/mirunakase/status/2024861600734216500/video/1",
+          "media_key": "13_2024858192942137344",
+          "start": 79,
+          "url": "https://t.co/jH5EdLlIaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024965122104725891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024861600734216500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirunakase: 【新曲】\n\nさきいってて\n\nよろしくお願いします♩⋆͛*\n\nniconico\nhttps://t.co/dXFlUBMzWU https://t.co/jH5EdLlIaa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62336,
+        "height": 720,
+        "media_key": "13_2024858192942137344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024858192942137344/img/Eg-WueZ8c1DBeDFN.jpg",
+        "public_metrics": {
+          "view_count": 2728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024858192942137344/vid/avc1/480x270/Yfauv-C7jF_1I28s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024858192942137344/vid/avc1/640x360/sMvgHwQkZI2nTc1u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024858192942137344/vid/avc1/1280x720/ZkFZcRd7eBlnkd8c.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024858192942137344/pl/KKOerOimcGeOPUBr.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024858192942137344"
+          ],
+          "media_source_tweet_id": [
+            "2024861600734216500"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2024965122104725891",
+        "created_at": "2026-02-20T21:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024965122104725891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1478373022142967811",
+              "start": 3,
+              "username": "mirunakase"
+            }
+          ],
+          "urls": [
+            {
+              "description": "さきいってて/初音ミク他人にはある感性や愛情や情熱をあなたに教わっていたい笑われるだろうか輪郭を描...",
+              "display_url": "nicovideo.jp/watch/sm459697…",
+              "end": 78,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45969708",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "さきいってて",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45969708",
+              "url": "https://t.co/dXFlUBMzWU"
+            },
+            {
+              "display_url": "pic.x.com/jH5EdLlIaa",
+              "end": 102,
+              "expanded_url": "https://x.com/mirunakase/status/2024861600734216500/video/1",
+              "media_key": "13_2024858192942137344",
+              "start": 79,
+              "url": "https://t.co/jH5EdLlIaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024965122104725891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024861600734216500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirunakase: 【新曲】\n\nさきいってて\n\nよろしくお願いします♩⋆͛*\n\nniconico\nhttps://t.co/dXFlUBMzWU https://t.co/jH5EdLlIaa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024858192942137344"
+          ]
+        },
+        "author_id": "1478373022142967811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2024861600734216500",
+        "created_at": "2026-02-20T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024861600734216500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "さきいってて/初音ミク他人にはある感性や愛情や情熱をあなたに教わっていたい笑われるだろうか輪郭を描...",
+              "display_url": "nicovideo.jp/watch/sm459697…",
+              "end": 62,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45969708",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024861675351097344/tZIySl3D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "さきいってて",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45969708",
+              "url": "https://t.co/dXFlUBMzWU"
+            },
+            {
+              "display_url": "pic.x.com/jH5EdLlIaa",
+              "end": 86,
+              "expanded_url": "https://x.com/mirunakase/status/2024861600734216500/video/1",
+              "media_key": "13_2024858192942137344",
+              "start": 63,
+              "url": "https://t.co/jH5EdLlIaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024861600734216500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 11642,
+          "like_count": 445,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "【新曲】\n\nさきいってて\n\nよろしくお願いします♩⋆͛*\n\nniconico\nhttps://t.co/dXFlUBMzWU https://t.co/jH5EdLlIaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 88,
+          "like_count": 14247,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1092
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T14:29:42.000Z",
+        "description": "曲と絵やります。z z Z . . . . . . . . . . . . . niconico:https://t.co/S6kb3tMt5q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nico.ms/user/121356701",
+                "end": 72,
+                "expanded_url": "http://nico.ms/user/121356701",
+                "start": 49,
+                "url": "https://t.co/S6kb3tMt5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC24ZG…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC24ZGhzhTnObpUz0hRt5m6g",
+                "start": 0,
+                "url": "https://t.co/oOJwYs4HGr"
+              }
+            ]
+          }
+        },
+        "id": "1478373022142967811",
+        "name": "中瀬ミル",
+        "pinned_tweet_id": "1966442104911008215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915273846816727040/kCd2Fsh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683,
+          "following_count": 103,
+          "like_count": 3967,
+          "listed_count": 33,
+          "media_count": 42,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/oOJwYs4HGr",
+        "username": "mirunakase",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022383416772300801",
+        "3_2022383454646865928"
+      ],
+      "media_source_tweet_id": [
+        "2022383502268993620",
+        "2022383502268993620"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022885183272423551",
+    "created_at": "2026-02-15T04:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022885183272423551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtMg40vQ8w",
+          "end": 63,
+          "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+          "media_key": "3_2022383416772300801",
+          "start": 40,
+          "url": "https://t.co/UtMg40vQ8w"
+        },
+        {
+          "display_url": "pic.x.com/UtMg40vQ8w",
+          "end": 63,
+          "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+          "media_key": "3_2022383454646865928",
+          "start": 40,
+          "url": "https://t.co/UtMg40vQ8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022885183272423551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022383502268993620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 学校你有病是吗在寒假作业里给我加这个进去 https://t.co/UtMg40vQ8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2022383416772300801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDzAKRakAEIkX3.png",
+        "width": 640
+      },
+      {
+        "height": 995,
+        "media_key": "3_2022383454646865928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDzCXXakAgCpw1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022383416772300801",
+            "3_2022383454646865928"
+          ],
+          "media_source_tweet_id": [
+            "2022383502268993620",
+            "2022383502268993620"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022885183272423551",
+        "created_at": "2026-02-15T04:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022885183272423551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtMg40vQ8w",
+              "end": 63,
+              "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+              "media_key": "3_2022383416772300801",
+              "start": 40,
+              "url": "https://t.co/UtMg40vQ8w"
+            },
+            {
+              "display_url": "pic.x.com/UtMg40vQ8w",
+              "end": 63,
+              "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+              "media_key": "3_2022383454646865928",
+              "start": 40,
+              "url": "https://t.co/UtMg40vQ8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022885183272423551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022383502268993620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 学校你有病是吗在寒假作业里给我加这个进去 https://t.co/UtMg40vQ8w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022383416772300801",
+            "3_2022383454646865928"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2022383502268993620",
+        "created_at": "2026-02-13T18:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022383502268993620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtMg40vQ8w",
+              "end": 44,
+              "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+              "media_key": "3_2022383416772300801",
+              "start": 21,
+              "url": "https://t.co/UtMg40vQ8w"
+            },
+            {
+              "display_url": "pic.x.com/UtMg40vQ8w",
+              "end": 44,
+              "expanded_url": "https://x.com/DDaquaforever/status/2022383502268993620/photo/1",
+              "media_key": "3_2022383454646865928",
+              "start": 21,
+              "url": "https://t.co/UtMg40vQ8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022383502268993620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 253618,
+          "like_count": 3009,
+          "quote_count": 7,
+          "reply_count": 56,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "学校你有病是吗在寒假作业里给我加这个进去 https://t.co/UtMg40vQ8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 12962,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1014
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 3183,
+          "like_count": 4548,
+          "listed_count": 9,
+          "media_count": 1626,
+          "tweet_count": 7398
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

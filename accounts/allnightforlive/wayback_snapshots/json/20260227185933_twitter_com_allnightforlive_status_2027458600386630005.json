@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2027458600386630005",
+    "created_at": "2026-02-27T18:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027458600386630005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1783058785134895104",
+          "start": 3,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027458600386630005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027235242067816573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youaremylove976: 没人觉得幻想真的好舒服吗 ​​​\n我真的特别喜欢意淫，真的很爽啊甚至我会走神进入沉浸在这个状态一会\n缺点是幻想结束之后很钝痛😣\n睡前也总会幻想自己的剧本吼吼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027458600386630005",
+        "created_at": "2026-02-27T18:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027458600386630005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1783058785134895104",
+              "start": 3,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027458600386630005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027235242067816573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youaremylove976: 没人觉得幻想真的好舒服吗 ​​​\n我真的特别喜欢意淫，真的很爽啊甚至我会走神进入沉浸在这个状态一会\n缺点是幻想结束之后很钝痛😣\n睡前也总会幻想自己的剧本吼吼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783058785134895104",
+        "conversation_id": "2027235242067816573",
+        "created_at": "2026-02-27T04:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027235242067816573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027235242067816573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 55554,
+          "like_count": 1118,
+          "quote_count": 10,
+          "reply_count": 44,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得幻想真的好舒服吗 ​​​\n我真的特别喜欢意淫，真的很爽啊甚至我会走神进入沉浸在这个状态一会\n缺点是幻想结束之后很钝痛😣\n睡前也总会幻想自己的剧本吼吼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 89,
+          "like_count": 14713,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1119
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 248,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1252
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

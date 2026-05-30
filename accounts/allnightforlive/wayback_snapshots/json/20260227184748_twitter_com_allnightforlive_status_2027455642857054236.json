@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2027455622577590705",
+    "created_at": "2026-02-27T18:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027455642857054236"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027455642857054236",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027455640046866778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好冷 好空虛 好寂寞 果然什麼都不剩了 哭得有點太過分了 鼻水一直都是這麼多的嗎、 好難過\n\n這樣就好了嗎 去關掉他的一切也可以吧 。\n\n我有點恨你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027455622577590705",
+        "created_at": "2026-02-27T18:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455642857054236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027455642857054236",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027455640046866778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好冷 好空虛 好寂寞 果然什麼都不剩了 哭得有點太過分了 鼻水一直都是這麼多的嗎、 好難過\n\n這樣就好了嗎 去關掉他的一切也可以吧 。\n\n我有點恨你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027455622577590705",
+        "created_at": "2026-02-27T18:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455640046866778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027455640046866778",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027455634753655176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在生日那天死掉吧 也快到了吧 那不很好嗎 好害怕啊 可是 比起爸爸的聲音 我好像有些不怕死了\n\n我想離開你了 我好害怕 啊啊啊啊啊啊啊一想到你 我就只感受到痛苦。求你了 聽不見我說過的話 然後默默的離開好嗎 我有一天會把錢給你的 我會給你錢的 、求你讓我快樂吧 我的童真已經沒有了 那我再快樂一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 89,
+          "like_count": 14701,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1117
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

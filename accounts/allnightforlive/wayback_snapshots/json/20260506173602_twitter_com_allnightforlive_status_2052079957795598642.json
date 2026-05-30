@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052079957795598642",
+    "created_at": "2026-05-06T17:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052079957795598642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052079957795598642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實今天有機會去偷點安眠藥來吃的。\n\n哈、是可以這樣的嗎？\n\n會上癮吧？ 不知道怎麼說 就是\n\n大腦好像把另一個很賤的人找回來了 他想要犯賤。總之 隨便了、\n\n希望我能睡著 最後一天了 那我 應該會 睡兩節課嗎\n\n中午、 好爛的排程\n\n還要去破他媽的集合 啊、 真的想吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052079957795598642",
+        "created_at": "2026-05-06T17:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052079957795598642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052079957795598642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實今天有機會去偷點安眠藥來吃的。\n\n哈、是可以這樣的嗎？\n\n會上癮吧？ 不知道怎麼說 就是\n\n大腦好像把另一個很賤的人找回來了 他想要犯賤。總之 隨便了、\n\n希望我能睡著 最後一天了 那我 應該會 睡兩節課嗎\n\n中午、 好爛的排程\n\n還要去破他媽的集合 啊、 真的想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23622,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1888
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052806126564188191",
+    "created_at": "2026-05-08T17:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052806126564188191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052806126564188191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最後你也沒有什麼所謂的人格分裂 也沒有什麼多重人格 更沒有什麼妄想症\n\n你只是想要有人依賴 想要能夠想著某人入睡 但你什麼都做不到 所以日復一日的找著代餐試圖這樣看著就能入睡\n\n你說著 想著他的眼睛 想著跟他復合跟他道歉然後付出身體就可以了 只要無視創傷一切都沒事的 創傷也是假的 理所當然的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052806126564188191",
+        "created_at": "2026-05-08T17:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052806126564188191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052806126564188191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最後你也沒有什麼所謂的人格分裂 也沒有什麼多重人格 更沒有什麼妄想症\n\n你只是想要有人依賴 想要能夠想著某人入睡 但你什麼都做不到 所以日復一日的找著代餐試圖這樣看著就能入睡\n\n你說著 想著他的眼睛 想著跟他復合跟他道歉然後付出身體就可以了 只要無視創傷一切都沒事的 創傷也是假的 理所當然的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23761,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1908
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

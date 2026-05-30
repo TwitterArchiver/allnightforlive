@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1854154819935855037",
+    "created_at": "2024-11-06T13:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854154819935855037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854154819935855037",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我不知道自己想要什麼，我並不知道自己需要什麼。我這麼迷茫的呢喃下去，到底有甚麼用。聽我說吧。就至少讓我就這麼無藥可救下去也會被人愛著吧。\n\n“那種小說內容根本就不存在啊，傻子。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854154819935855037",
+        "created_at": "2024-11-06T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854154819935855037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854154819935855037",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我不知道自己想要什麼，我並不知道自己需要什麼。我這麼迷茫的呢喃下去，到底有甚麼用。聽我說吧。就至少讓我就這麼無藥可救下去也會被人愛著吧。\n\n“那種小說內容根本就不存在啊，傻子。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找得到我了。",
+        "id": "1511572100225462281",
+        "location": "Taiwan",
+        "name": "氫氣球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 459,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

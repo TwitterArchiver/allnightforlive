@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022711986581315903",
+    "created_at": "2026-02-15T04:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022897858970841144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879456810467491840",
+          "start": 0,
+          "username": "hugme101327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022897858970841144",
+    "in_reply_to_user_id": "1879456810467491840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022711986581315903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugme101327 有一個辦法，只要把狗一直關在家裡，並且讓它學會自己去馬桶裡拉屎，問題就變成它會需要更多的關心跟活動空間。\n同理，只要讓你愛的人永遠留在身邊，並且教會他如何解決自己的問題，問題就變成了，當他想離開你的時候你要怎麼留住他了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022711931342327810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIdyOaakAIEvfI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022711986581315903",
+        "created_at": "2026-02-15T04:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022897858970841144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879456810467491840",
+              "start": 0,
+              "username": "hugme101327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022897858970841144",
+        "in_reply_to_user_id": "1879456810467491840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022711986581315903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugme101327 有一個辦法，只要把狗一直關在家裡，並且讓它學會自己去馬桶裡拉屎，問題就變成它會需要更多的關心跟活動空間。\n同理，只要讓你愛的人永遠留在身邊，並且教會他如何解決自己的問題，問題就變成了，當他想離開你的時候你要怎麼留住他了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022711931342327810"
+          ]
+        },
+        "author_id": "1879456810467491840",
+        "conversation_id": "2022711986581315903",
+        "created_at": "2026-02-14T16:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022711986581315903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhikeCH7tD",
+              "end": 30,
+              "expanded_url": "https://x.com/hugme101327/status/2022711986581315903/photo/1",
+              "media_key": "3_2022711931342327810",
+              "start": 7,
+              "url": "https://t.co/KhikeCH7tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022711986581315903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 42450,
+          "like_count": 1254,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "天啊，太对了 https://t.co/KhikeCH7tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 13100,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1015
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T09:13:28.000Z",
+        "description": "最后不死鸟反杀上尉，悲剧降临。",
+        "id": "1879456810467491840",
+        "location": "一片属于我的净土",
+        "name": "飞鸟入归林",
+        "pinned_tweet_id": "1880160418980852189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900161867181678593/ZFDWuPEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3835,
+          "following_count": 81,
+          "like_count": 1663,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 3081
+        },
+        "username": "hugme101327",
+        "verified": false
+      }
+    ]
+  }
+}

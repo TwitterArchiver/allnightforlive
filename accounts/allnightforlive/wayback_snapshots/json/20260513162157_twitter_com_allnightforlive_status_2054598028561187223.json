@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054598028561187223",
+    "created_at": "2026-05-13T16:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054598028561187223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "158950024",
+          "start": 3,
+          "username": "applepiehouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054598028561187223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054091972667998495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @applepiehouse: 韓國光州發生一起女高中生遭殺害事件。\n\n受害者是一名高二女學生。\n犯人是 24 歲的張允基，與她素不相識。\n\n女學生當時剛結束讀書、走在回家路上，卻突然遭對方持菜刀猛刺多刀。另一名 17 歲男高中生聽到尖叫聲後衝上前幫忙，也被刺成重傷。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054091964820422656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGZwksbAAAPZYL.jpg",
+        "width": 1435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054598028561187223",
+        "created_at": "2026-05-13T16:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054598028561187223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "158950024",
+              "start": 3,
+              "username": "applepiehouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054598028561187223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054091972667998495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @applepiehouse: 韓國光州發生一起女高中生遭殺害事件。\n\n受害者是一名高二女學生。\n犯人是 24 歲的張允基，與她素不相識。\n\n女學生當時剛結束讀書、走在回家路上，卻突然遭對方持菜刀猛刺多刀。另一名 17 歲男高中生聽到尖叫聲後衝上前幫忙，也被刺成重傷。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054091964820422656"
+          ]
+        },
+        "author_id": "158950024",
+        "conversation_id": "2054091972667998495",
+        "created_at": "2026-05-12T06:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054091972667998495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJy6zmWFv9",
+              "end": 142,
+              "expanded_url": "https://x.com/applepiehouse/status/2054091972667998495/photo/1",
+              "media_key": "3_2054091964820422656",
+              "start": 119,
+              "url": "https://t.co/IJy6zmWFv9"
+            },
+            {
+              "display_url": "x.com/females_db_par…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/females_db_park/status/2053819679404437719",
+              "start": 143,
+              "url": "https://t.co/fQnwWwWx9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054091972667998495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "韓國光州發生一起女高中生遭殺害事件。\n\n受害者是一名高二女學生。\n犯人是 24 歲的張允基，與她素不相識。\n\n女學生當時剛結束讀書、走在回家路上，卻突然遭對方持菜刀猛刺多刀。另一名 17 歲男高中生聽到尖叫聲後衝上前幫忙，也被刺成重傷。\n\n男子事後供稱，自己是因為「覺得活著很無聊，正在考慮自殺時突然起了衝動」，才犯下案件。\n\n但後來查出，事發 2 天前，他才剛闖入一名打工處女同事家中。那名女性已經被他跟蹤將近 1 年；他當時掐住她的脖子把她弄昏，接著監禁並性侵她。受害女性直到隔天中午假裝要出門上班，才終於趁機逃脫。\n\n更令人憤怒的是，這名受害女性早就因為被跟蹤向警方求助過，卻被警方以「無特記事項」草草處理，沒有得到應有的保護。\n\n之後，犯人為了抓回逃走的受害女性，到 Daiso 買了菜刀，連續 2 天四處找她。但他在女性住處附近看到警車後放棄，隨後疑似轉而把一名剛好路過、與他毫無關係的女學生當成目標。\n\n那名被殺害的女學生，原本正朝著成為緊急救護技術員的夢想努力。她只是結束讀書後，走在回家的路上。\n\n引用來源的圖片裡，追悼現場擺滿鮮花，旁邊還放著一套被獻上的緊急救護技術員制服。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 122936,
+          "like_count": 2182,
+          "quote_count": 14,
+          "reply_count": 10,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053819679404437719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韓國光州發生一起女高中生遭殺害事件。\n\n受害者是一名高二女學生。\n犯人是 24 歲的張允基，與她素不相識。\n\n女學生當時剛結束讀書、走在回家路上，卻突然遭對方持菜刀猛刺多刀。另一名 17 歲男高中生聽到尖叫聲後衝上前幫忙，也被刺成重傷。 https://t.co/IJy6zmWFv9 https://t.co/fQnwWwWx9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 107,
+          "like_count": 24195,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1983
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T02:25:16.000Z",
+        "description": "#女性主義 #Feminism #블루레이디\n🇹🇼 中文（#Taiwan #대만）｜한국어 OK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "女性主義"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "Feminism"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "블루레이디"
+              },
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "Taiwan"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "대만"
+              }
+            ]
+          }
+        },
+        "id": "158950024",
+        "location": "Taiwan",
+        "name": "蘋果派 애플파이 ❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595386729204416513/gVGHFfEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 1623,
+          "like_count": 118265,
+          "listed_count": 28,
+          "media_count": 5998,
+          "tweet_count": 75860
+        },
+        "username": "applepiehouse",
+        "verified": true
+      }
+    ]
+  }
+}

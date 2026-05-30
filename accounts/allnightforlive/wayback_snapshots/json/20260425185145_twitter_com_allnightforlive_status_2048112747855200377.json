@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047868859965919232"
+      ],
+      "media_source_tweet_id": [
+        "2047868904672989601"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2048112747855200377",
+    "created_at": "2026-04-25T18:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048112747855200377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817286603787948032",
+          "start": 3,
+          "username": "21Savage714"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jclkY7rWGA",
+          "end": 40,
+          "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+          "media_key": "3_2047868859965919232",
+          "start": 17,
+          "url": "https://t.co/jclkY7rWGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048112747855200377",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047868904672989601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @21Savage714: https://t.co/jclkY7rWGA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2047868859965919232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt94MjaUAA7N_y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047868859965919232"
+          ],
+          "media_source_tweet_id": [
+            "2047868904672989601"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2048112747855200377",
+        "created_at": "2026-04-25T18:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048112747855200377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817286603787948032",
+              "start": 3,
+              "username": "21Savage714"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jclkY7rWGA",
+              "end": 40,
+              "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+              "media_key": "3_2047868859965919232",
+              "start": 17,
+              "url": "https://t.co/jclkY7rWGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048112747855200377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047868904672989601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @21Savage714: https://t.co/jclkY7rWGA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047868859965919232"
+          ]
+        },
+        "author_id": "1817286603787948032",
+        "conversation_id": "2047868904672989601",
+        "created_at": "2026-04-25T02:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047868904672989601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jclkY7rWGA",
+              "end": 23,
+              "expanded_url": "https://x.com/21Savage714/status/2047868904672989601/photo/1",
+              "media_key": "3_2047868859965919232",
+              "start": 0,
+              "url": "https://t.co/jclkY7rWGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047868904672989601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12721,
+          "like_count": 828,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jclkY7rWGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 21981,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1761
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 164,
+          "like_count": 8064,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

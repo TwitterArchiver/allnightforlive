@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1928500946067239097",
+    "created_at": "2025-05-30T17:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T18:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928500946067239097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928500946067239097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以為你是在暗示我\n我以為你也在求救\n我以為你知道我的痛苦\n\n所以我無視了你燈的顏色\n所以我忘了你的燈也有壞掉的時候\n所以你也沒看見我\n\n在我穿著他那時抱著我的衣服，看你的時候，我以為你也在看我\n\n我以為我會出現在你的眼裡，哪怕是燈光暗下的前一秒\n\n看看我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1928500946067239097",
+        "created_at": "2025-05-30T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928500946067239097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928500946067239097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以為你是在暗示我\n我以為你也在求救\n我以為你知道我的痛苦\n\n所以我無視了你燈的顏色\n所以我忘了你的燈也有壞掉的時候\n所以你也沒看見我\n\n在我穿著他那時抱著我的衣服，看你的時候，我以為你也在看我\n\n我以為我會出現在你的眼裡，哪怕是燈光暗下的前一秒\n\n看看我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 75,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 326
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

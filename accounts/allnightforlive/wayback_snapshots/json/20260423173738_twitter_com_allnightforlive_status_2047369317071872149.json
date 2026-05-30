@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2047101125728636951",
+    "created_at": "2026-04-23T17:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047369317071872149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047369317071872149",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047101125728636951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 正常來說「有些」這個詞是給到貓的顏色，而非黑貓身上，所以個人判斷的話會因這個數量詞較累贅而把C刪掉。\n其次「所以」是加諸在貓身上，所以屬於貓的都具有喜歡魚的特點，因此不論顏色所有貓喜歡魚是對的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_2047101122905821184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjDoBIa0AAaQdT.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2047101125728636951",
+        "created_at": "2026-04-23T17:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047369317071872149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047369317071872149",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047101125728636951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 正常來說「有些」這個詞是給到貓的顏色，而非黑貓身上，所以個人判斷的話會因這個數量詞較累贅而把C刪掉。\n其次「所以」是加諸在貓身上，所以屬於貓的都具有喜歡魚的特點，因此不論顏色所有貓喜歡魚是對的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047101122905821184"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2047101125728636951",
+        "created_at": "2026-04-22T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047101125728636951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZ6YROePEw",
+              "end": 43,
+              "expanded_url": "https://x.com/jianlvup/status/2047101125728636951/photo/1",
+              "media_key": "3_2047101122905821184",
+              "start": 20,
+              "url": "https://t.co/oZ6YROePEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047101125728636951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 58600,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助这个问题，A为什么错\n求助各位大佬 https://t.co/oZ6YROePEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 21539,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1717
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2047241940153032906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17284,
+          "following_count": 1466,
+          "like_count": 78945,
+          "listed_count": 61,
+          "media_count": 3037,
+          "tweet_count": 6324
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

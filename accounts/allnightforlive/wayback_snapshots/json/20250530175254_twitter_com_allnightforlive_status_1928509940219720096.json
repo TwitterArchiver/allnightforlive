@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1928384388406112696",
+    "created_at": "2025-05-30T17:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T18:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928509940219720096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928509940219720096",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928384388406112696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem 只要你在我身邊的時候就會有很多人為你帶來快樂的回憶都是我的回憶都會讓我們的回憶都會讓我們的生活方式變得更好了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1928384388406112696",
+        "created_at": "2025-05-30T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928509940219720096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928509940219720096",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928384388406112696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizon_tem 只要你在我身邊的時候就會有很多人為你帶來快樂的回憶都是我的回憶都會讓我們的回憶都會讓我們的生活方式變得更好了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1928384388406112696",
+        "created_at": "2025-05-30T09:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928384388406112696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928384388406112696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1794,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敲出“只要你不”后续是什么？\n\n只要你不嫌弃我就行了啊我也不想说什么了我也不知道我在想什么了我真的好想你啊我好想你呀我好想好想你哦我好想你好想你哦你好想你啊你好想你呀你好想你呢你好想你啊你好想你呀你好想你呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 75,
+          "like_count": 4645,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 336
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "“那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。”",
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1928385751256822163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3192,
+          "following_count": 1797,
+          "like_count": 19459,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 7882
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

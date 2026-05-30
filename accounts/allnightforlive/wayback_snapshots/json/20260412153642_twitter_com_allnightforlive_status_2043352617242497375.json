@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042880850455626075",
+    "created_at": "2026-04-12T15:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043352617242497375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1864687609680670720",
+          "start": 0,
+          "username": "ChenChenFox9"
+        },
+        {
+          "end": 28,
+          "id": "1479550299815645185",
+          "start": 14,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043352617242497375",
+    "in_reply_to_user_id": "1864687609680670720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043026309551440146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenChenFox9 @Stanleysobest 現在的網劇才是真的病了 古代的皇帝都是這個模樣 留到今日的畫像哪一個不是被美化過的 皇帝金銀多啊 隨便一個書生塞個錢都能讓人給他去痣、修臉 皇帝能修成什麼樣？\n反觀網劇什麼帥哥型男 然後女生倒貼 看到他的臉九流口水 看到他在泡溫泉害羞得要暈過去 這什麼鬼大眾主流 直接說是戀愛腦培育還差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042880850455626075",
+        "created_at": "2026-04-12T15:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043352617242497375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1864687609680670720",
+              "start": 0,
+              "username": "ChenChenFox9"
+            },
+            {
+              "end": 28,
+              "id": "1479550299815645185",
+              "start": 14,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352617242497375",
+        "in_reply_to_user_id": "1864687609680670720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043026309551440146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenChenFox9 @Stanleysobest 現在的網劇才是真的病了 古代的皇帝都是這個模樣 留到今日的畫像哪一個不是被美化過的 皇帝金銀多啊 隨便一個書生塞個錢都能讓人給他去痣、修臉 皇帝能修成什麼樣？\n反觀網劇什麼帥哥型男 然後女生倒貼 看到他的臉九流口水 看到他在泡溫泉害羞得要暈過去 這什麼鬼大眾主流 直接說是戀愛腦培育還差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864687609680670720",
+        "conversation_id": "2042880850455626075",
+        "created_at": "2026-04-11T18:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043026309551440146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043026309551440146",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11115,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042880850455626075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 这剧最大败笔就是给胖丑陋的陈建斌当皇帝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 94,
+          "like_count": 19206,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1528
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:05:53.000Z",
+        "description": "Rose is a rose is a rose is a rose - 格特鲁德·斯坦因（Gertrude Stein）玫瑰是玫瑰",
+        "id": "1864687609680670720",
+        "location": "NYC",
+        "name": "aroseisarose",
+        "pinned_tweet_id": "1977576299121320387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014715504213045248/Va5nUzCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 158,
+          "like_count": 1079,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1464
+        },
+        "username": "ChenChenFox9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34754,
+          "following_count": 1682,
+          "like_count": 24453,
+          "listed_count": 147,
+          "media_count": 4267,
+          "tweet_count": 28687
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

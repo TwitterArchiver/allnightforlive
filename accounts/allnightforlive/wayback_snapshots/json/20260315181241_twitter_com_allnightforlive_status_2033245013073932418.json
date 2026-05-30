@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2033208446997471554",
+    "created_at": "2026-03-15T18:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T19:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033245013073932418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033245013073932418",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033208446997471554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 老師 這個很多男人都有個通病，是希望伴侶那方可以一次性得到最好的，最好的例子就像是車、房類的\n以他從理想層面而論，或許已經預設了你們不會分開，就算吵架也是一個屋簷下，大不了分房而已\n他要先設想你是寄人籬下，才能意識到對你而言他的定位如果偏移後，你會受到什麼，而他要花多少成本換你回來"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033208446997471554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033208446997471554",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033208446997471554"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2033208446997471554",
+        "created_at": "2026-03-15T18:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033245013073932418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033245013073932418",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033208446997471554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 老師 這個很多男人都有個通病，是希望伴侶那方可以一次性得到最好的，最好的例子就像是車、房類的\n以他從理想層面而論，或許已經預設了你們不會分開，就算吵架也是一個屋簷下，大不了分房而已\n他要先設想你是寄人籬下，才能意識到對你而言他的定位如果偏移後，你會受到什麼，而他要花多少成本換你回來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16305,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1233
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "已婚\n儿子@Wojiang38562\nhttps://t.co/rmxG8ACl3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 42,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 19,
+                "url": "https://t.co/rmxG8ACl3s"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4219,
+          "following_count": 403,
+          "like_count": 12162,
+          "listed_count": 5,
+          "media_count": 344,
+          "tweet_count": 9028
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

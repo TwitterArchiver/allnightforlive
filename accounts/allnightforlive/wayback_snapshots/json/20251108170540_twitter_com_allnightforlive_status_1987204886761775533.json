@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1987204886761775533",
+    "created_at": "2025-11-08T17:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987204886761775533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987204886761775533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但我好像挺想要自殘的，其實還挺想要看到自己的身上有傷口的\n其實還挺希望自己看起來不怎麼正常的感覺\n\n想要因為傷口而困擾啊\n\n為什麼總感覺自殘的話挺好的\n\n似乎能夠證明什麼\n又好像什麼都證明不了\n\n果然就跟這個帳號一樣\n發出來的東西就只是發過\n但一點都不想留下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987204886761775533",
+        "created_at": "2025-11-08T17:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987204886761775533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987204886761775533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但我好像挺想要自殘的，其實還挺想要看到自己的身上有傷口的\n其實還挺希望自己看起來不怎麼正常的感覺\n\n想要因為傷口而困擾啊\n\n為什麼總感覺自殘的話挺好的\n\n似乎能夠證明什麼\n又好像什麼都證明不了\n\n果然就跟這個帳號一樣\n發出來的東西就只是發過\n但一點都不想留下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7470,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 539
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1854156448823157072",
+    "created_at": "2024-11-06T13:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854156448823157072"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854156448823157072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其實有病的吧？一直都有的吧？\n看我一眼。就像你會去解讀愛人沒有意義的文章一樣。\n這樣自私的訴求不會被人看見吧？我知道的，我一直都知道的，但只要這樣就會有人關心我吧？但這樣就可以被世界發現我的存在吧？\n\n啊。\n不要拿那種詞彙套用在我身上啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1854156448823157072",
+        "created_at": "2024-11-06T13:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854156448823157072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854156448823157072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其實有病的吧？一直都有的吧？\n看我一眼。就像你會去解讀愛人沒有意義的文章一樣。\n這樣自私的訴求不會被人看見吧？我知道的，我一直都知道的，但只要這樣就會有人關心我吧？但這樣就可以被世界發現我的存在吧？\n\n啊。\n不要拿那種詞彙套用在我身上啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找得到我了。",
+        "id": "1511572100225462281",
+        "location": "Taiwan",
+        "name": "氫氣球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 459,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

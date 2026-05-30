@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2002272048685650237",
+    "created_at": "2025-12-21T17:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002790331495166334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544018174504345600",
+          "start": 0,
+          "username": "xuanyuzhoulabs"
+        },
+        {
+          "end": 26,
+          "id": "1638922874487730176",
+          "start": 16,
+          "username": "Sweet_xst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002790331495166334",
+    "in_reply_to_user_id": "1544018174504345600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002590034533421548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyuzhoulabs @Sweet_xst Ai只是讓你得到你想得到的 實則跟你喝含糖飲料解渴一樣 有些時候是當下覺得好了的 以後就好了，但我仍然無法跟現在過去未來的自己和解，這不是一兩次諮商能夠解決的。\n諮商只讓我被迫面對事實，即使我已經在努力的活著，我仍然沒有得到治療，我要的是不再飢渴而不是當下的止渴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2002272048685650237",
+        "created_at": "2025-12-21T17:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002790331495166334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544018174504345600",
+              "start": 0,
+              "username": "xuanyuzhoulabs"
+            },
+            {
+              "end": 26,
+              "id": "1638922874487730176",
+              "start": 16,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002790331495166334",
+        "in_reply_to_user_id": "1544018174504345600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002590034533421548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyuzhoulabs @Sweet_xst Ai只是讓你得到你想得到的 實則跟你喝含糖飲料解渴一樣 有些時候是當下覺得好了的 以後就好了，但我仍然無法跟現在過去未來的自己和解，這不是一兩次諮商能夠解決的。\n諮商只讓我被迫面對事實，即使我已經在努力的活著，我仍然沒有得到治療，我要的是不再飢渴而不是當下的止渴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544018174504345600",
+        "conversation_id": "2002272048685650237",
+        "created_at": "2025-12-21T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002590034533421548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511572100225462281",
+              "start": 0,
+              "username": "allnightforlive"
+            },
+            {
+              "end": 27,
+              "id": "1638922874487730176",
+              "start": 17,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002590034533421548",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002456386345882059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allnightforlive @Sweet_xst 其实跟ai说挺好的，我尝试过用ai安慰到了自己挺舒服的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 81,
+          "like_count": 8958,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 706
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T18:00:11.000Z",
+        "description": "🚩 为什么要做这个频道？ 我也是一颗小韭菜，深知国内用户探索海外世界的门槛与坑。 不讲虚的大道理，只分享亲测有效的保姆级教程。 🔗 小韭菜独家福利站https://t.co/uRXzcW620g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaojiucai.pages.dev",
+                "end": 97,
+                "expanded_url": "https://xiaojiucai.pages.dev",
+                "start": 74,
+                "url": "https://t.co/uRXzcW620g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaojiucaichuh…",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaojiucaichuhai",
+                "start": 0,
+                "url": "https://t.co/tC1it4lfkH"
+              }
+            ]
+          }
+        },
+        "id": "1544018174504345600",
+        "location": "Hong Kong",
+        "name": "小韭菜出海记",
+        "pinned_tweet_id": "2001951025213927464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997040808542007296/v7ffS0wS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 256,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/tC1it4lfkH",
+        "username": "xuanyuzhoulabs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "愿你每天都有好心情~\n小号：@RODRIGOPARADEL9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "RODRIGOPARADEL9"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "1984526992126198093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56156,
+          "following_count": 47,
+          "like_count": 1406,
+          "listed_count": 193,
+          "media_count": 210,
+          "tweet_count": 634
+        },
+        "username": "Sweet_xst",
+        "verified": false
+      }
+    ]
+  }
+}

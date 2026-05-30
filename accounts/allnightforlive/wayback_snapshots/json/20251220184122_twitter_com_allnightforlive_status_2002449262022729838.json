@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2002340885280035079",
+    "created_at": "2025-12-20T18:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T19:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002449262022729838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525487854763364354",
+          "start": 0,
+          "username": "xinzhongdeaishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002449262022729838",
+    "in_reply_to_user_id": "1525487854763364354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002340885280035079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzhongdeaishi 會縱容你的一些小調皮，知道不喜歡會認認真真的說，看起來像是擔心明天就見不到你，因為每一句話都是在給未來鋪墊。即使可能會發現你的一些不為人知的事情，但還是意外的會覺得可以接受，會認真的思考對方到底在想什麼，會希望自己能夠做出一些貼心的小細節而被誇獎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2002340885280035079",
+        "created_at": "2025-12-20T18:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002449262022729838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525487854763364354",
+              "start": 0,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002449262022729838",
+        "in_reply_to_user_id": "1525487854763364354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002340885280035079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzhongdeaishi 會縱容你的一些小調皮，知道不喜歡會認認真真的說，看起來像是擔心明天就見不到你，因為每一句話都是在給未來鋪墊。即使可能會發現你的一些不為人知的事情，但還是意外的會覺得可以接受，會認真的思考對方到底在想什麼，會希望自己能夠做出一些貼心的小細節而被誇獎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525487854763364354",
+        "conversation_id": "2002340885280035079",
+        "created_at": "2025-12-20T11:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002340885280035079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002340885280035079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 32130,
+          "like_count": 324,
+          "quote_count": 8,
+          "reply_count": 50,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "被人认真喜欢到底是啥感觉？我从来没有体验过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8852,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 691
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希 | 推广自辨",
+        "id": "1525487854763364354",
+        "location": "🚪188纯绿",
+        "name": "sisi77_",
+        "pinned_tweet_id": "2002281911280939386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 99,
+          "like_count": 4573,
+          "listed_count": 6,
+          "media_count": 151,
+          "tweet_count": 3092
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

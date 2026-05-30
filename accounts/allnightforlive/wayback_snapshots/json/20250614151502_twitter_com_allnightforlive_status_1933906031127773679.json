@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1933564277945979051",
+    "created_at": "2025-06-14T15:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933906031127773679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933906031127773679",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933564277945979051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 平時稱呼是「爸爸」，但私底下的爸爸是個想把自己培育成露出癖的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933564277945979051",
+        "created_at": "2025-06-14T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933906031127773679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933906031127773679",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933564277945979051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 平時稱呼是「爸爸」，但私底下的爸爸是個想把自己培育成露出癖的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1933564277945979051",
+        "created_at": "2025-06-13T16:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933564277945979051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933564277945979051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18555,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 134,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道你们的XP是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 78,
+          "like_count": 5398,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 381
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 一个普女罢了 经常会打错字，请见谅。",
+        "id": "1842423358216142849",
+        "name": "泡啊",
+        "pinned_tweet_id": "1905663779826008348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933034574592028674/-GHeRnaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19782,
+          "following_count": 442,
+          "like_count": 9680,
+          "listed_count": 14,
+          "media_count": 219,
+          "tweet_count": 5829
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

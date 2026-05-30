@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2049139496726274245",
+    "created_at": "2026-04-29T16:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049525588134891655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894333898",
+          "start": 0,
+          "username": "Arc_Taiwan"
+        },
+        {
+          "end": 26,
+          "id": "1458059715435548679",
+          "start": 12,
+          "username": "winosaur32286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049525588134891655",
+    "in_reply_to_user_id": "1894333898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049282100705231016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arc_Taiwan @winosaur32286 不、說真的，我到現在還是嚼碎吞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2049139496726274245",
+        "created_at": "2026-04-29T16:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525588134891655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894333898",
+              "start": 0,
+              "username": "Arc_Taiwan"
+            },
+            {
+              "end": 26,
+              "id": "1458059715435548679",
+              "start": 12,
+              "username": "winosaur32286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525588134891655",
+        "in_reply_to_user_id": "1894333898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049282100705231016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arc_Taiwan @winosaur32286 不、說真的，我到現在還是嚼碎吞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894333898",
+        "conversation_id": "2049139496726274245",
+        "created_at": "2026-04-29T00:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049282100705231016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1458059715435548679",
+              "start": 0,
+              "username": "winosaur32286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049282100705231016",
+        "in_reply_to_user_id": "1458059715435548679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4041,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049139496726274245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winosaur32286 這小孩居然有辦法忍受那麼苦的藥粉到13歲\n我大概7-8歲就忍不了了\n吞藥丸對小孩子來說是解脫吧?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 106,
+          "like_count": 22857,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1807
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-22T16:36:27.000Z",
+        "description": "",
+        "id": "1894333898",
+        "location": "Taipei City, Taiwan",
+        "name": "Arc.Taiwan",
+        "pinned_tweet_id": "1827356733603508449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946430147545993218/X7eMoWSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 167,
+          "like_count": 10976,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 4121
+        },
+        "username": "Arc_Taiwan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T13:12:00.000Z",
+        "description": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.",
+        "id": "1458059715435548679",
+        "name": "Winosaur",
+        "pinned_tweet_id": "1861627728258056259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881851342399930368/mhlmy1f4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10763,
+          "following_count": 465,
+          "like_count": 90255,
+          "listed_count": 33,
+          "media_count": 6895,
+          "tweet_count": 62046
+        },
+        "username": "winosaur32286",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2058036287236669854",
+    "created_at": "2026-05-23T04:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058036287236669854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058036287236669854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057641710600294478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 冷知識：\n其實人一旦真的很喜歡一個人，就會開始莫名想「貼貼」。\n因為身體接觸會讓大腦分泌催產素，這種東西也被叫做「依戀荷爾蒙」。\n所以抱抱、靠肩、牽手、蹭一下，不只是可愛而已，大腦會真的把那種接觸記錄成「安全感」。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2058036287236669854",
+        "created_at": "2026-05-23T04:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058036287236669854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058036287236669854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057641710600294478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 冷知識：\n其實人一旦真的很喜歡一個人，就會開始莫名想「貼貼」。\n因為身體接觸會讓大腦分泌催產素，這種東西也被叫做「依戀荷爾蒙」。\n所以抱抱、靠肩、牽手、蹭一下，不只是可愛而已，大腦會真的把那種接觸記錄成「安全感」。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2057641710600294478",
+        "created_at": "2026-05-22T01:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057641710600294478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057641710600294478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "冷知識：\n其實人一旦真的很喜歡一個人，就會開始莫名想「貼貼」。\n因為身體接觸會讓大腦分泌催產素，這種東西也被叫做「依戀荷爾蒙」。\n所以抱抱、靠肩、牽手、蹭一下，不只是可愛而已，大腦會真的把那種接觸記錄成「安全感」。\n這也是為什麼有些人明明平常不愛肢體接觸，遇到真正喜歡的人後，卻會變得很想靠近。\n因為最高級的想念，很多時候不是想聊天，而是想碰到你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 64210,
+          "like_count": 1181,
+          "quote_count": 20,
+          "reply_count": 18,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "冷知識：\n其實人一旦真的很喜歡一個人，就會開始莫名想「貼貼」。\n因為身體接觸會讓大腦分泌催產素，這種東西也被叫做「依戀荷爾蒙」。\n所以抱抱、靠肩、牽手、蹭一下，不只是可愛而已，大腦會真的把那種接觸記錄成「安全感」。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 25320,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2087
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58827,
+          "following_count": 695,
+          "like_count": 5855,
+          "listed_count": 221,
+          "media_count": 29974,
+          "tweet_count": 392915
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

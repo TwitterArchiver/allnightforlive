@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2057511312125747606",
+    "created_at": "2026-05-21T17:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057511312125747606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660510716934361088",
+          "start": 3,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057511312125747606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057435298112631120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Studio42: “我要和你做爱。”\n\n“首先，你……”\n\n“既不了解我也不认识我，只凭着在网上的内容就吧啦吧啦……拜托，那套我都会背了。我们见面，好吗？”\n\n正在输入的文字闪了又闪。\n“你喜欢的只是一些碎片——吸引你的是我的大脑，而大脑是不能用来做爱的。”\n“我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2057511312125747606",
+        "created_at": "2026-05-21T17:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057511312125747606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660510716934361088",
+              "start": 3,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057511312125747606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057435298112631120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Studio42: “我要和你做爱。”\n\n“首先，你……”\n\n“既不了解我也不认识我，只凭着在网上的内容就吧啦吧啦……拜托，那套我都会背了。我们见面，好吗？”\n\n正在输入的文字闪了又闪。\n“你喜欢的只是一些碎片——吸引你的是我的大脑，而大脑是不能用来做爱的。”\n“我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2057435298112631120",
+        "created_at": "2026-05-21T12:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057435298112631120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057435298112631120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 25634,
+          "like_count": 348,
+          "quote_count": 6,
+          "reply_count": 95,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“我要和你做爱。”\n\n“首先，你……”\n\n“既不了解我也不认识我，只凭着在网上的内容就吧啦吧啦……拜托，那套我都会背了。我们见面，好吗？”\n\n正在输入的文字闪了又闪。\n“你喜欢的只是一些碎片——吸引你的是我的大脑，而大脑是不能用来做爱的。”\n“我说了，那些我都不在乎。”\n\n沉默良久，他回复了一个地址。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 109,
+          "like_count": 25178,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2065
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79049,
+          "following_count": 88,
+          "like_count": 11640,
+          "listed_count": 124,
+          "media_count": 14,
+          "tweet_count": 2527
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

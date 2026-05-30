@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1936861457012191515",
+    "created_at": "2025-06-22T18:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T19:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936861457012191515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1936861457012191515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "平時就連天空都看不了兩眼，平時也不拍照、不攝影，生活中的美都捕捉不到。\n某天突然看見身旁攝影師在拍風景什麼的，然後成品很好看。\n所以學著對方去拍那種照片，有拍到就好，連攝影師本人拍這張照片覺得美的原因都沒觸及到。\n叫業餘不配，只配一個餘字。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1936861457012191515",
+        "created_at": "2025-06-22T18:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T19:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936861457012191515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936861457012191515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平時就連天空都看不了兩眼，平時也不拍照、不攝影，生活中的美都捕捉不到。\n某天突然看見身旁攝影師在拍風景什麼的，然後成品很好看。\n所以學著對方去拍那種照片，有拍到就好，連攝影師本人拍這張照片覺得美的原因都沒觸及到。\n叫業餘不配，只配一個餘字。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 5711,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 418
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

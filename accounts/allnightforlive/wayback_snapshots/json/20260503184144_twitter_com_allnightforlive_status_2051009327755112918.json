@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2051009327755112918",
+    "created_at": "2026-05-03T18:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051009327755112918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051009327755112918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想要抱抱。\n\n用被操換抱抱真的可以嗎？\n\n有時候這麼想就會想起之前痛苦的感受。\n\n失去前比失去後更痛，我是介入者所以⋯自願與否又成為下一個我迴避掉的是非題。\n\n反正只要保持著我被強姦的姿態我就能夠在道德的至高點共情別人。\n\n聽著我都覺得可笑。真糟糕w\n\n我要睡了。很慘的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2051009327755112918",
+        "created_at": "2026-05-03T18:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051009327755112918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051009327755112918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要抱抱。\n\n用被操換抱抱真的可以嗎？\n\n有時候這麼想就會想起之前痛苦的感受。\n\n失去前比失去後更痛，我是介入者所以⋯自願與否又成為下一個我迴避掉的是非題。\n\n反正只要保持著我被強姦的姿態我就能夠在道德的至高點共情別人。\n\n聽著我都覺得可笑。真糟糕w\n\n我要睡了。很慘的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 108,
+          "like_count": 23476,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1866
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

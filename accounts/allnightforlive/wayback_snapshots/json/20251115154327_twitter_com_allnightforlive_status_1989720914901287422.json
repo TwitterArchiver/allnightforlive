@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989720853248901484",
+    "created_at": "2025-11-15T15:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989720914901287422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989720914901287422",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989720910853804429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我瘋了嗎？\n是不是這個世界害的？\n我怎麼會知道。你到底在問誰。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720914901287422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720914901287422",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720910853804429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我瘋了嗎？\n是不是這個世界害的？\n我怎麼會知道。你到底在問誰。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720910853804429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720910853804429",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720907150213307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我沒有壞掉。我沒有。\n我只是一直都很嚮往而已\n我只是一直都 一直都很喜歡這樣的生活\n我想要極致的痛苦\n我想要不健全的愛\n我想要有人可以觸摸我的身體\n我想要有人可以把我欺負到哭\n我想要有人可以讓我擁抱\n我想要有人能讓我痛苦\n你不知道我有多喜歡痛苦的感覺\n我最愛想起死亡是最後的解脫\n並痛苦的活著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7600,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 579
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

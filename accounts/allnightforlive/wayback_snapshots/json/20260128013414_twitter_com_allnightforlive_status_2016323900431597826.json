@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2016323900431597826",
+    "created_at": "2026-01-28T01:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T02:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016323900431597826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814242147605893120",
+          "start": 3,
+          "username": "hehuan333202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016323900431597826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015957914750783918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hehuan333202: 你又开始自我怀疑、自我隔离、伤害自己。是不是想把我推的远远的以此来反复证明我是否真的爱你？没关系，我不走，我可不可以坐在这里陪你好起来。下次痛苦的时候，需不需要我紧紧的抱着你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2016323900431597826",
+        "created_at": "2026-01-28T01:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016323900431597826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814242147605893120",
+              "start": 3,
+              "username": "hehuan333202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016323900431597826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015957914750783918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hehuan333202: 你又开始自我怀疑、自我隔离、伤害自己。是不是想把我推的远远的以此来反复证明我是否真的爱你？没关系，我不走，我可不可以坐在这里陪你好起来。下次痛苦的时候，需不需要我紧紧的抱着你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814242147605893120",
+        "conversation_id": "2015957914750783918",
+        "created_at": "2026-01-27T01:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015957914750783918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015957914750783918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12847,
+          "like_count": 397,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "你又开始自我怀疑、自我隔离、伤害自己。是不是想把我推的远远的以此来反复证明我是否真的爱你？没关系，我不走，我可不可以坐在这里陪你好起来。下次痛苦的时候，需不需要我紧紧的抱着你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11306,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 901
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T10:13:52.000Z",
+        "description": "les/dom1/以此观我，所见即所得。\n/私信会回/\n🚫文字原创 禁止转载",
+        "id": "1814242147605893120",
+        "location": "52🚪",
+        "name": "疑心病",
+        "pinned_tweet_id": "2004061767031574634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015823276350517248/8jATSn4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 339,
+          "like_count": 2564,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 401
+        },
+        "username": "hehuan333202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1928500139074973735",
+    "created_at": "2025-05-30T17:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T18:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928500145802330413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928500145802330413",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928500141914230874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我什麼都好想說 但當我們不是朋友 喔好像又什麼都送給我自己了 我忘了怎麼開口 好像連笑容都被扼殺 我更痛了 我對未來過敏 而你將未來當作藥開給我醫病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1928500139074973735",
+        "created_at": "2025-05-30T17:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T18:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928500145802330413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928500145802330413",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928500141914230874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什麼都好想說 但當我們不是朋友 喔好像又什麼都送給我自己了 我忘了怎麼開口 好像連笑容都被扼殺 我更痛了 我對未來過敏 而你將未來當作藥開給我醫病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1928500139074973735",
+        "created_at": "2025-05-30T17:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T18:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928500141914230874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928500141914230874",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928500139074973735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "衣服是我乖乖穿上的 探出頭看你的人是我 第一次是你的 那我可以擁有你的什麼嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 75,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 325
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

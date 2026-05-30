@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2057914190820458891",
+    "created_at": "2026-05-23T12:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058164474738294987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032134219284312064",
+          "start": 0,
+          "username": "SATANHOTDOGBETA"
+        },
+        {
+          "end": 28,
+          "id": "1472022007797719048",
+          "start": 17,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058164474738294987",
+    "in_reply_to_user_id": "2032134219284312064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058134594545922257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SATANHOTDOGBETA @user0000O0 998萬了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2058134588153872384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_2gOLbQAABB_e.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2057914190820458891",
+        "created_at": "2026-05-23T12:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058164474738294987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032134219284312064",
+              "start": 0,
+              "username": "SATANHOTDOGBETA"
+            },
+            {
+              "end": 28,
+              "id": "1472022007797719048",
+              "start": 17,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058164474738294987",
+        "in_reply_to_user_id": "2032134219284312064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058134594545922257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SATANHOTDOGBETA @user0000O0 998萬了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058134588153872384"
+          ]
+        },
+        "author_id": "2032134219284312064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057914190820458891",
+        "created_at": "2026-05-23T10:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058134594545922257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472022007797719048",
+              "start": 0,
+              "username": "user0000O0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHGuEu3RKf",
+              "end": 49,
+              "expanded_url": "https://x.com/SATANHOTDOGBETA/status/2058134594545922257/photo/1",
+              "media_key": "3_2058134588153872384",
+              "start": 26,
+              "url": "https://t.co/tHGuEu3RKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134594545922257",
+        "in_reply_to_user_id": "1472022007797719048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 36027,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057914190820458891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user0000O0 未來人們應該會研究這個推文 https://t.co/tHGuEu3RKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25655,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2100
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T16:39:01.000Z",
+        "description": "2026/3/12晚上X把我前帳號Bing掉，這是我新帳號。\n\n•這裡主要分享：　\n日本旅遊/漫畫/廢文/靈異/假文青文/幣圈動態　\n•​詐騙/約砲別來，已婚。　\n\n•日本/漫画/怪談/低脳な雑談/Web3/偽文学。　\n•既婚。勧誘とナンパは時間の無駄だ、その情熱を墓場まで持っていけ。",
+        "id": "2032134219284312064",
+        "location": "Taiwan",
+        "name": "SATANHOTDOG​ 地獄門口賣熱狗的貓",
+        "pinned_tweet_id": "2050428385185398877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032134518749233153/li_qdNu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 881,
+          "like_count": 3709,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 2394
+        },
+        "username": "SATANHOTDOGBETA",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "in my restless dreams",
+        "id": "1472022007797719048",
+        "location": "silent hill ",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039665398208159744/sDo192OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124052,
+          "following_count": 319,
+          "like_count": 13136,
+          "listed_count": 162,
+          "media_count": 3072,
+          "tweet_count": 10434
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

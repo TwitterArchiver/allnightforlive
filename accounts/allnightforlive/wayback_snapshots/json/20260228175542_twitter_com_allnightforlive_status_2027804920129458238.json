@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2027695644253868248",
+    "created_at": "2026-02-28T17:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027804920129458238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541015554966044674",
+          "start": 0,
+          "username": "Zayeefffly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027804920129458238",
+    "in_reply_to_user_id": "1541015554966044674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027695644253868248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zayeefffly 不是 拿人手上的是百合吧 百合有毒的 而且有很多人會帶毛孩去公園 這樣的話很容易讓毛孩中毒的說 228也有規定不要帶百合進去"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 165733,
+        "height": 1280,
+        "media_key": "13_2027695502855442432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027695502855442432/img/V4MCC53hLoDX5Klr.jpg",
+        "public_metrics": {
+          "view_count": 39860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027695502855442432/vid/avc1/320x568/1xmzq1bGtM85wsfY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027695502855442432/vid/avc1/480x852/aN2S46PTPf4UToYf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027695502855442432/vid/avc1/720x1280/rBvHkOZnHPppW8c7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027695502855442432/pl/0AR13IQBLCtCxrnD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027695644253868248",
+        "created_at": "2026-02-28T17:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027804920129458238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541015554966044674",
+              "start": 0,
+              "username": "Zayeefffly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027804920129458238",
+        "in_reply_to_user_id": "1541015554966044674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027695644253868248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zayeefffly 不是 拿人手上的是百合吧 百合有毒的 而且有很多人會帶毛孩去公園 這樣的話很容易讓毛孩中毒的說 228也有規定不要帶百合進去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027695502855442432"
+          ]
+        },
+        "author_id": "1541015554966044674",
+        "conversation_id": "2027695644253868248",
+        "created_at": "2026-02-28T10:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027695644253868248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imTbYmVHuO",
+              "end": 146,
+              "expanded_url": "https://x.com/Zayeefffly/status/2027695644253868248/video/1",
+              "media_key": "13_2027695502855442432",
+              "start": 123,
+              "url": "https://t.co/imTbYmVHuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027695644253868248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 74125,
+          "like_count": 1452,
+          "quote_count": 12,
+          "reply_count": 51,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "有一群民眾早上參加完二二八紀念活動，中午要去吃飯的路上，\n路過二二八公園，警察卻把我們擋下來不准進入⛔️⋯⋯\n還說正在呈報上級等待指示⋯\n\n「啊⋯我們真的是要路過呀！\n為什麼我們跟一般人不一樣！？」\n\n國民黨、蔣家後代 蔣萬安，封鎖了228公園 https://t.co/imTbYmVHuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 14781,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1127
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T11:08:46.000Z",
+        "description": "人們可以成為自己的生活，而不是為一個偉大的帝國服務 People can just be themselves, instead of living in service to a grand empire. Taiwan will gain its independence from ROC.",
+        "id": "1541015554966044674",
+        "location": "Taiwan",
+        "name": "阮山祐祐子 kina迷惑言行探討🪂TAIWAN💗🇯🇵",
+        "pinned_tweet_id": "1620657956495970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974995652137697281/-d_fWuCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9869,
+          "following_count": 1027,
+          "like_count": 213061,
+          "listed_count": 50,
+          "media_count": 6854,
+          "tweet_count": 36507
+        },
+        "username": "Zayeefffly",
+        "verified": false
+      }
+    ]
+  }
+}

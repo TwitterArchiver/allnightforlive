@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1731470320236707840"
+      ],
+      "media_source_tweet_id": [
+        "1731471657036861857"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031316577778544745",
+    "created_at": "2026-03-10T10:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031316577778544745"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "日本",
+          "probability": 0.6935,
+          "start": 23,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "738040274673229824",
+          "start": 3,
+          "username": "tanatana5252"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OlvBntN0Lq",
+          "end": 104,
+          "expanded_url": "https://x.com/Vuthric/status/1731471657036861857/video/1",
+          "media_key": "7_1731470320236707840",
+          "start": 81,
+          "url": "https://t.co/OlvBntN0Lq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031316577778544745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031240024373735587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanatana5252: スライムが日本の街を動き回るゲーム、面白そう。スライムが乾かないように水分補給しながらミッションをクリアしていくらしい。\n\n https://t.co/OlvBntN0Lq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 104960,
+        "height": 1440,
+        "media_key": "7_1731470320236707840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1731470320236707840/pu/img/onx4oYnlajGc3pSQ.jpg",
+        "public_metrics": {
+          "view_count": 3334000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731470320236707840/pu/vid/avc1/540x540/ENzPtl2rJU3GYsEm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731470320236707840/pu/vid/avc1/320x320/NSXlenqFyUmFVr08.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1731470320236707840/pu/pl/go2A1vC-9Q8c5cV3.m3u8?tag=14&v=d88"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731470320236707840/pu/vid/avc1/1080x1080/lBXebqQpiWO_EQTy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731470320236707840/pu/vid/avc1/720x720/9Uxj7KG4Rn5hN3_o.mp4?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1731470320236707840"
+          ],
+          "media_source_tweet_id": [
+            "1731471657036861857"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031316577778544745",
+        "created_at": "2026-03-10T10:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031316577778544745"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "日本",
+              "probability": 0.6935,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "738040274673229824",
+              "start": 3,
+              "username": "tanatana5252"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlvBntN0Lq",
+              "end": 104,
+              "expanded_url": "https://x.com/Vuthric/status/1731471657036861857/video/1",
+              "media_key": "7_1731470320236707840",
+              "start": 81,
+              "url": "https://t.co/OlvBntN0Lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031316577778544745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031240024373735587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanatana5252: スライムが日本の街を動き回るゲーム、面白そう。スライムが乾かないように水分補給しながらミッションをクリアしていくらしい。\n\n https://t.co/OlvBntN0Lq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1731470320236707840"
+          ],
+          "media_source_tweet_id": [
+            "1731471657036861857"
+          ]
+        },
+        "author_id": "738040274673229824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031240024373735587",
+        "created_at": "2026-03-10T05:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031240024373735587"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "日本",
+              "probability": 0.6559,
+              "start": 5,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlvBntN0Lq",
+              "end": 86,
+              "expanded_url": "https://x.com/Vuthric/status/1731471657036861857/video/1",
+              "media_key": "7_1731470320236707840",
+              "start": 63,
+              "url": "https://t.co/OlvBntN0Lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031240024373735587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3723,
+          "impression_count": 1168951,
+          "like_count": 18080,
+          "quote_count": 136,
+          "reply_count": 120,
+          "retweet_count": 1325
+        },
+        "reply_settings": "everyone",
+        "text": "スライムが日本の街を動き回るゲーム、面白そう。スライムが乾かないように水分補給しながらミッションをクリアしていくらしい。\n\n https://t.co/OlvBntN0Lq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 90,
+          "like_count": 15786,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1185
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-01T16:11:28.000Z",
+        "description": "話題のツイートを載せています。PR案件はDM下さい",
+        "id": "738040274673229824",
+        "location": "PR案件はDMまで",
+        "name": "忘れられない動画",
+        "pinned_tweet_id": "2019625683094577277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018548687094632448/MgWvr9ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518795,
+          "following_count": 1683,
+          "like_count": 12450,
+          "listed_count": 809,
+          "media_count": 4203,
+          "tweet_count": 15640
+        },
+        "username": "tanatana5252",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1964369914879508974",
+    "created_at": "2025-09-06T16:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T17:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964369914879508974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964369914879508974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛苦，我感覺我好像救不回來了\n啊為什麼我沒有辦法認真的學過心理學，為什麼我看了那些症狀感受過那種窒息感卻還是忍不住想說些什麼\n到最後呢 我好像又開始自我感動了\n感覺真的好痛苦\n快死掉了啊其實\n快死掉了啊\n求你說話吧\n我很愛很愛你的\n我很痛苦啊\n請不要死掉 請不要死掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1964369914879508974",
+        "created_at": "2025-09-06T16:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964369914879508974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964369914879508974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦，我感覺我好像救不回來了\n啊為什麼我沒有辦法認真的學過心理學，為什麼我看了那些症狀感受過那種窒息感卻還是忍不住想說些什麼\n到最後呢 我好像又開始自我感動了\n感覺真的好痛苦\n快死掉了啊其實\n快死掉了啊\n求你說話吧\n我很愛很愛你的\n我很痛苦啊\n請不要死掉 請不要死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 6434,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 462
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

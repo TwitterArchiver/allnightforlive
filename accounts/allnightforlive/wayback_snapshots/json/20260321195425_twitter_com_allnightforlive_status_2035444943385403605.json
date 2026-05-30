@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2035340310025548263",
+    "created_at": "2026-03-21T19:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T20:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035444943385403605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1259054174177648640",
+          "start": 0,
+          "username": "CUCL24"
+        },
+        {
+          "end": 16,
+          "id": "1433678976564662273",
+          "start": 8,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035444943385403605",
+    "in_reply_to_user_id": "1259054174177648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035356780470112627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CUCL24 @hsn8086 買一隻中低配的遊戲帳號"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2035340310025548263",
+        "created_at": "2026-03-21T19:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035444943385403605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1259054174177648640",
+              "start": 0,
+              "username": "CUCL24"
+            },
+            {
+              "end": 16,
+              "id": "1433678976564662273",
+              "start": 8,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035444943385403605",
+        "in_reply_to_user_id": "1259054174177648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035356780470112627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CUCL24 @hsn8086 買一隻中低配的遊戲帳號"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259054174177648640",
+        "conversation_id": "2035340310025548263",
+        "created_at": "2026-03-21T14:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035356780470112627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035356780470112627",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3910,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035340310025548263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 对岸的兄台5000台币能买些啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16951,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1298
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-09T09:34:57.000Z",
+        "description": "长太息兮将上",
+        "id": "1259054174177648640",
+        "location": "People's Republic of China",
+        "name": "孤独のCu2+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832958505201664/YG43GZBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 650,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 436
+        },
+        "username": "CUCL24",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035331409880170496/APcUmEBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118020,
+          "following_count": 1037,
+          "like_count": 51763,
+          "listed_count": 274,
+          "media_count": 19964,
+          "tweet_count": 30116
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

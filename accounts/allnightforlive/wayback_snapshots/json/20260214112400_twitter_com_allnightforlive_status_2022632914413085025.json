@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022327776863514625"
+      ],
+      "media_source_tweet_id": [
+        "2022327785906491657"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022632914413085025",
+    "created_at": "2026-02-14T11:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022632914413085025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2020872718674219008",
+          "start": 3,
+          "username": "heartless311020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcI0uek22W",
+          "end": 44,
+          "expanded_url": "https://x.com/heartless311020/status/2022327785906491657/photo/1",
+          "media_key": "3_2022327776863514625",
+          "start": 21,
+          "url": "https://t.co/NcI0uek22W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022632914413085025",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022327785906491657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heartless311020: https://t.co/NcI0uek22W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022327776863514625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDAZfda8AE76o1.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022327776863514625"
+          ],
+          "media_source_tweet_id": [
+            "2022327785906491657"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022632914413085025",
+        "created_at": "2026-02-14T11:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022632914413085025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2020872718674219008",
+              "start": 3,
+              "username": "heartless311020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcI0uek22W",
+              "end": 44,
+              "expanded_url": "https://x.com/heartless311020/status/2022327785906491657/photo/1",
+              "media_key": "3_2022327776863514625",
+              "start": 21,
+              "url": "https://t.co/NcI0uek22W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022632914413085025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022327785906491657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heartless311020: https://t.co/NcI0uek22W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022327776863514625"
+          ]
+        },
+        "author_id": "2020872718674219008",
+        "conversation_id": "2022327785906491657",
+        "created_at": "2026-02-13T15:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022327785906491657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcI0uek22W",
+              "end": 23,
+              "expanded_url": "https://x.com/heartless311020/status/2022327785906491657/photo/1",
+              "media_key": "3_2022327776863514625",
+              "start": 0,
+              "url": "https://t.co/NcI0uek22W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022327785906491657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 122189,
+          "like_count": 9469,
+          "quote_count": 73,
+          "reply_count": 13,
+          "retweet_count": 2143
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NcI0uek22W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12880,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1006
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T14:49:58.000Z",
+        "description": "broken",
+        "id": "2020872718674219008",
+        "name": "Heartless",
+        "pinned_tweet_id": "2022631178873061529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020874003565662208/liB5PvNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 164,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 793
+        },
+        "username": "heartless311020",
+        "verified": true
+      }
+    ]
+  }
+}

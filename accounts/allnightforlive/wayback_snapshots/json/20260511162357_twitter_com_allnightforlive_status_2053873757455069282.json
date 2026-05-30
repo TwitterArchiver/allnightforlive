@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053873754011484351",
+    "created_at": "2026-05-11T16:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053873757455069282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053873757455069282",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053873754011484351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寫到後來 我的作文被誇了 我不知道那樣是好的 我只是固執地寫 在最後一次聽見我媽從房間呼喚我 而走進漆黑的房間時 最後一聲幻聽消失了\n\n我越來越常寫 越來越喜歡寫 寫作文 寫記敘文 寫詩歌 寫新詩 寫自傳 寫世界觀 寫對這個世界的理想 好像什麼都能寫出來 但是沒有任何一個人讀懂 也不需要被理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873757455069282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873757455069282",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873754011484351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寫到後來 我的作文被誇了 我不知道那樣是好的 我只是固執地寫 在最後一次聽見我媽從房間呼喚我 而走進漆黑的房間時 最後一聲幻聽消失了\n\n我越來越常寫 越來越喜歡寫 寫作文 寫記敘文 寫詩歌 寫新詩 寫自傳 寫世界觀 寫對這個世界的理想 好像什麼都能寫出來 但是沒有任何一個人讀懂 也不需要被理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053873754011484351",
+        "created_at": "2026-05-11T16:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053873754011484351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873754011484351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前 外公很喜歡給我帶東西 什麼貝殼項鍊 珍珠項鍊 還有外婆也是 給我帶好多娃娃 還有超商集點的杯緣子 小時候舅舅甚至說了 我長大一歲就送一百個玩具 然後是兩百 三百裡面有韓國的大猩猩 還有小汽車 我不知道我喜歡什麼 但我很開心\n\n然後家裡變窮了 不能畫畫 不能學扯鈴 我就開始寫作文 一直寫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 24069,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1953
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

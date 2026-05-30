@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2021427431194886184",
+    "created_at": "2026-02-12T01:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T02:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021760816681562549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1517136026757599233",
+          "start": 0,
+          "username": "shuhongwei22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021760816681562549",
+    "in_reply_to_user_id": "1517136026757599233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021427431194886184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuhongwei22 不懂陪跑 但這路也不是他家的 走一條道上怎麼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50131,
+        "height": 1280,
+        "media_key": "7_2021427335145381888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021427335145381888/pu/img/IEKErqncpVNLxDQI.jpg",
+        "public_metrics": {
+          "view_count": 87446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021427335145381888/pu/vid/avc1/320x568/VyBCl8VhxmRE-8RJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021427335145381888/pu/vid/avc1/480x852/EqeWuZI87u_4nMZl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021427335145381888/pu/vid/avc1/720x1280/YlkzRodZDrwi8nZO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021427335145381888/pu/pl/TWwLCeeCv7UbkAL9.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021427431194886184",
+        "created_at": "2026-02-12T01:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021760816681562549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517136026757599233",
+              "start": 0,
+              "username": "shuhongwei22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021760816681562549",
+        "in_reply_to_user_id": "1517136026757599233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021427431194886184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuhongwei22 不懂陪跑 但這路也不是他家的 走一條道上怎麼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021427335145381888"
+          ]
+        },
+        "author_id": "1517136026757599233",
+        "conversation_id": "2021427431194886184",
+        "created_at": "2026-02-11T03:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021427431194886184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCr3DUxOpb",
+              "end": 31,
+              "expanded_url": "https://x.com/shuhongwei22/status/2021427431194886184/video/1",
+              "media_key": "7_2021427335145381888",
+              "start": 8,
+              "url": "https://t.co/tCr3DUxOpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021427431194886184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 79678,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这是嫁给了爱情 https://t.co/tCr3DUxOpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12621,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 983
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T13:40:20.000Z",
+        "description": "爱旅游，爱传播传统文化，爱讲奋斗故事！部分图片来自网络，如有侵权，请联系删除！",
+        "id": "1517136026757599233",
+        "location": "You may guess",
+        "name": "运动水货",
+        "pinned_tweet_id": "2020762240014778877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014937103491371008/Trjwfulx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60750,
+          "following_count": 23583,
+          "like_count": 204419,
+          "listed_count": 123,
+          "media_count": 4096,
+          "tweet_count": 14668
+        },
+        "username": "shuhongwei22",
+        "verified": false
+      }
+    ]
+  }
+}

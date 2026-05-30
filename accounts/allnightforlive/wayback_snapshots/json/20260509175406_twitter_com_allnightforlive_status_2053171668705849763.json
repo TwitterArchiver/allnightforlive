@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053171668705849763",
+    "created_at": "2026-05-09T17:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053171668705849763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053171668705849763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052947008370139422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: “考上大学就可以草逼了。”\n“读上研究生就可以草逼了。”\n“弄完论文就可以草逼了。”\n“找到工作就可以草逼了。”\n“做完这个项目就可以草逼了。”\n“熬到管理层就可以草逼了。”\n“等孩子大了就可以草逼了。”\n“退休以后就可以草逼了。”\n“等病…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053171668705849763",
+        "created_at": "2026-05-09T17:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053171668705849763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053171668705849763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052947008370139422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: “考上大学就可以草逼了。”\n“读上研究生就可以草逼了。”\n“弄完论文就可以草逼了。”\n“找到工作就可以草逼了。”\n“做完这个项目就可以草逼了。”\n“熬到管理层就可以草逼了。”\n“等孩子大了就可以草逼了。”\n“退休以后就可以草逼了。”\n“等病…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2052947008370139422",
+        "created_at": "2026-05-09T03:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052947008370139422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaxgy/status/2…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/zaxgy/status/2049375368000504104",
+              "start": 140,
+              "url": "https://t.co/UIqoQ0NYRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052947008370139422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 46964,
+          "like_count": 549,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049375368000504104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“考上大学就可以草逼了。”\n“读上研究生就可以草逼了。”\n“弄完论文就可以草逼了。”\n“找到工作就可以草逼了。”\n“做完这个项目就可以草逼了。”\n“熬到管理层就可以草逼了。”\n“等孩子大了就可以草逼了。”\n“退休以后就可以草逼了。”\n“等病治好就可以草逼了。”\n“他草逼去了。” https://t.co/UIqoQ0NYRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23794,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1920
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10445,
+          "following_count": 4286,
+          "like_count": 45499,
+          "listed_count": 34,
+          "media_count": 2166,
+          "tweet_count": 13516
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

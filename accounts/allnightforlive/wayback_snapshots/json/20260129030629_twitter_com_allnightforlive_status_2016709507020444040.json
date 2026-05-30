@@ -1,0 +1,56 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2016709507020444040",
+    "created_at": "2026-01-29T03:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016709507020444040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⋯好累 好痛 大腦完全沒有辦法不感覺到痛苦\n可是身體還是能動的 只是 不想動\n\n不想活了\n\n為什麼老是有人在開地圖炮\n在那邊自視清高的表明立場順便嘲諷所有人到底有什麼毛病\n首先根本無關聯性 其次這他媽就是個白癡把留言功能當傳教用的吧\n真的是放過我 用Ig就只是因為有人聯絡\nFb跟Ig 遲早註銷 煩死"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11394,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 905
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

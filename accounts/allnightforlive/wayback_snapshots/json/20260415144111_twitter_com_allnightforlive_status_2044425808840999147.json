@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2044043754148114591",
+    "created_at": "2026-04-15T14:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044425808840999147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2887116638",
+          "start": 0,
+          "username": "Strom_Box"
+        },
+        {
+          "end": 21,
+          "id": "1751497892001685504",
+          "start": 11,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044425808840999147",
+    "in_reply_to_user_id": "2887116638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044078002955530566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strom_Box @45_206MHz 為什麼鋼卷可以繞星球旋轉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2044077322761056258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4FfryasAIx8QV.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2044043754148114591",
+        "created_at": "2026-04-15T14:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044425808840999147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2887116638",
+              "start": 0,
+              "username": "Strom_Box"
+            },
+            {
+              "end": 21,
+              "id": "1751497892001685504",
+              "start": 11,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044425808840999147",
+        "in_reply_to_user_id": "2887116638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044078002955530566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strom_Box @45_206MHz 為什麼鋼卷可以繞星球旋轉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044077322761056258"
+          ]
+        },
+        "author_id": "2887116638",
+        "conversation_id": "2044043754148114591",
+        "created_at": "2026-04-14T15:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044078002955530566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iTQg0kr2t",
+              "end": 118,
+              "expanded_url": "https://x.com/Strom_Box/status/2044078002955530566/photo/1",
+              "media_key": "3_2044077322761056258",
+              "start": 95,
+              "url": "https://t.co/9iTQg0kr2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044078002955530566",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18357,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044043754148114591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 附图是1986年2月1日发布的T.108《航天》\n下次还有这种巨丑的航天海报出现，我建议评论区回复：“你这汇报工作的PPT，还是给人民群众看的宣传海报”并附这个邮票图 https://t.co/9iTQg0kr2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 99,
+          "like_count": 20216,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1581
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-02T06:49:57.000Z",
+        "description": "半吊子的诚信肥宅摄影师，把自己和世界一起解剖的孤独法医\n看心情发布点摄影渣作",
+        "id": "2887116638",
+        "location": "天朝",
+        "name": "⏚Strom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972054423812952067/dNb3uBeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 112,
+          "like_count": 13547,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 4719
+        },
+        "username": "Strom_Box",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic（性别冷淡）\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 122,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 99,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 493,
+          "like_count": 33021,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 3713
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

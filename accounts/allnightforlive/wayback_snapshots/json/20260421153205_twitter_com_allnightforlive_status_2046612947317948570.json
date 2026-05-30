@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046442091291840577",
+    "created_at": "2026-04-21T15:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046612947317948570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1042070984663162880",
+          "start": 0,
+          "username": "tw111111111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046612947317948570",
+    "in_reply_to_user_id": "1042070984663162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046442091291840577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tw111111111111 國文是真的挺重要的 但是我國文方面邏輯是可以的 一到數學 我得為了一個小單元寫三頁的解釋\n\n單國文不好的是真的挺多 有些往往會怪罪是考題刁鑽 文言文在生活的普遍性\n但國文就是中國歷史的文學素養 當說出來的話更趨向於正式時 會無法意識到這個詞為什麼這麼使用 不管怎麼說 這是很可笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046442091291840577",
+        "created_at": "2026-04-21T15:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046612947317948570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1042070984663162880",
+              "start": 0,
+              "username": "tw111111111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046612947317948570",
+        "in_reply_to_user_id": "1042070984663162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046442091291840577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tw111111111111 國文是真的挺重要的 但是我國文方面邏輯是可以的 一到數學 我得為了一個小單元寫三頁的解釋\n\n單國文不好的是真的挺多 有些往往會怪罪是考題刁鑽 文言文在生活的普遍性\n但國文就是中國歷史的文學素養 當說出來的話更趨向於正式時 會無法意識到這個詞為什麼這麼使用 不管怎麼說 這是很可笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1042070984663162880",
+        "conversation_id": "2046442091291840577",
+        "created_at": "2026-04-21T04:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046442091291840577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046442091291840577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8072,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "：真的沒人覺得國文是一科很無意義的科目嗎\n\n：如果國文不好會連數學題目都看不懂．\n\n看其他專業書籍會更糟糕．"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 102,
+          "like_count": 21329,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1693
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "260207 瑞典國防手冊\n\n260104 防災防恐避難資訊\n\n260104 防災包清單：\nhttps://t.co/nRW7026r3a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 69,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 46,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skylikesun.blogspot.com/2018/10/blog-p…",
+                "end": 23,
+                "expanded_url": "https://skylikesun.blogspot.com/2018/10/blog-post_88.html",
+                "start": 0,
+                "url": "https://t.co/y6AH80DnOv"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009810316742537216/9K8UmD7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16479,
+          "following_count": 942,
+          "like_count": 249361,
+          "listed_count": 59,
+          "media_count": 41828,
+          "tweet_count": 107717
+        },
+        "url": "https://t.co/y6AH80DnOv",
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

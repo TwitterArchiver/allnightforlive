@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1881024842637746685",
+    "created_at": "2026-03-09T17:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031053100992311733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031053100992311733",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881024842637746685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她負責刻薄 她負責搞笑 她負責貪婪 她負責責任 她負責痛苦 她負責依賴 她負責渴愛 她負責自由 她負責拯救 她負責自責 她負責關愛 她負責學習 她負責恐懼 她負責希望 她負責創造 她負責抗壓 她負責解釋 她負責模糊 她負責判斷 她負責推測 她負責關注 她負責解決 她負責承擔 她負責她 她亦是她 她亦非她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1881024842637746685",
+        "created_at": "2026-03-09T17:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031053100992311733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031053100992311733",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881024842637746685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她負責刻薄 她負責搞笑 她負責貪婪 她負責責任 她負責痛苦 她負責依賴 她負責渴愛 她負責自由 她負責拯救 她負責自責 她負責關愛 她負責學習 她負責恐懼 她負責希望 她負責創造 她負責抗壓 她負責解釋 她負責模糊 她負責判斷 她負責推測 她負責關注 她負責解決 她負責承擔 她負責她 她亦是她 她亦非她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1881024842637746685",
+        "created_at": "2025-01-19T17:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881024842637746685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881024842637746685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 718,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幻想中，紀錄。\n“小島今天也被愛著喔♡”-島川/小島\n“…黎也在努力了…請別走”-梨\n“今天也活著。祈很棒。”-祈\n“吶，先生今天也在呢。又要麻煩你了呢…。”-我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 90,
+          "like_count": 15704,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1178
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

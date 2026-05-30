@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052796569280549245",
+    "created_at": "2026-05-08T17:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052796576452706564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052796576452706564",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052796572795338994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接著是三十秒\n接著是三十秒\n接著是三十秒\n\n三十秒是一個多麼中間值的東西\n再三十秒 他就熟了\n\n再兩百四十個三十秒以後 就有人聽你說話了\n\n其實很安靜 其實根本沒有人願意說話 其實到頭來只有你在多嘴\n\n當你認為自己已經開始厭惡起耳邊的尖叫聲\n\n你已經摀起了耳朵 敲碎禮堂的鈴\n\n牧羊的你 放羊的你 是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052796569280549245",
+        "created_at": "2026-05-08T17:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052796576452706564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052796576452706564",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796572795338994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接著是三十秒\n接著是三十秒\n接著是三十秒\n\n三十秒是一個多麼中間值的東西\n再三十秒 他就熟了\n\n再兩百四十個三十秒以後 就有人聽你說話了\n\n其實很安靜 其實根本沒有人願意說話 其實到頭來只有你在多嘴\n\n當你認為自己已經開始厭惡起耳邊的尖叫聲\n\n你已經摀起了耳朵 敲碎禮堂的鈴\n\n牧羊的你 放羊的你 是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052796569280549245",
+        "created_at": "2026-05-08T17:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052796572795338994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052796572795338994",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796569280549245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手裡的八十九塊融化成身上的脂肪 \n你不像以前那樣貪婪的舔舐它了\n\n你恨不得能夠有一把銼刀能夠剔除身上全部的脂肪\n\n明天也要吃八十九塊的微波義大利麵或咖哩飯嗎？\n\n你習慣的設了兩分三十秒\n沒熟\n你又多加了一分三十秒\n\n爆炸的聲音刺穿你準備侵入的過去\n\n接著是沒熟 \n\n你又多加了一分三十秒\n好久 你說"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23698,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1902
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

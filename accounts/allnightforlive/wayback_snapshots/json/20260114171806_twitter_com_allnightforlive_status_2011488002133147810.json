@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2011488002133147810",
+    "created_at": "2026-01-14T17:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T18:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011488002133147810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011488002133147810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為我看起來是個瘋子永遠都無法被人信任對嗎 你是這麼說的對嗎 我永遠都是這樣的 沒關係的 我都理解的 但我還是會嫉妒為什麼你把他們都當成正常人 除了我 我不好對嗎 我很糟糕對吧 我這輩子根本就不該有朋友 我討厭你 我討厭你們 我討厭我自己 我就應該是自己 而不是我 好痛好痛好痛好痛好痛好痛好痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2011488002133147810",
+        "created_at": "2026-01-14T17:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011488002133147810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011488002133147810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為我看起來是個瘋子永遠都無法被人信任對嗎 你是這麼說的對嗎 我永遠都是這樣的 沒關係的 我都理解的 但我還是會嫉妒為什麼你把他們都當成正常人 除了我 我不好對嗎 我很糟糕對吧 我這輩子根本就不該有朋友 我討厭你 我討厭你們 我討厭我自己 我就應該是自己 而不是我 好痛好痛好痛好痛好痛好痛好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 10397,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 849
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

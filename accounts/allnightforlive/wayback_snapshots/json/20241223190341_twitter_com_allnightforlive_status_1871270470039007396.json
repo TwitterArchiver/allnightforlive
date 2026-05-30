@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1871270470039007396",
+    "created_at": "2024-12-23T19:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T20:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871270470039007396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanLan93083241…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/LanLan93083241/status/1870761211895464435",
+          "start": 27,
+          "url": "https://t.co/d17Z9Jm3hA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871270470039007396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870761211895464435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我選擇的人：\n會傷害我的人、\n愛我的人、\n有病的人、 https://t.co/d17Z9Jm3hA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1871270470039007396",
+        "created_at": "2024-12-23T19:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T20:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871270470039007396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanLan93083241…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/LanLan93083241/status/1870761211895464435",
+              "start": 27,
+              "url": "https://t.co/d17Z9Jm3hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871270470039007396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870761211895464435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我選擇的人：\n會傷害我的人、\n愛我的人、\n有病的人、 https://t.co/d17Z9Jm3hA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870761204723200000"
+          ]
+        },
+        "author_id": "1788083166856749056",
+        "conversation_id": "1870761211895464435",
+        "created_at": "2024-12-22T09:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T10:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870761211895464435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRdjZXpDv8",
+              "end": 34,
+              "expanded_url": "https://x.com/LanLan93083241/status/1870761211895464435/photo/1",
+              "media_key": "3_1870761204723200000",
+              "start": 11,
+              "url": "https://t.co/aRdjZXpDv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870761211895464435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 301654,
+          "like_count": 2864,
+          "quote_count": 33,
+          "reply_count": 36,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "“人会爱上的三种人” https://t.co/aRdjZXpDv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 162
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女孩，请多指教😉（不想被限流版）",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "1870761211895464435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846530400749002752/tCx83uIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 3255,
+          "like_count": 40917,
+          "listed_count": 28,
+          "media_count": 273,
+          "tweet_count": 925
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

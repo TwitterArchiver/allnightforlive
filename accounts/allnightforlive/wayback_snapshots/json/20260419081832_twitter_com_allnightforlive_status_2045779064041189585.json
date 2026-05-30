@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045779054637527417",
+    "created_at": "2026-04-19T08:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045779064041189585"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045779064041189585",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045779058173337714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也會把時間消耗殆盡的\n\n老師\n\n老師我為什麼一直在哭\n\n為什麼說好的醫生沒有來餵我吃藥\n\n老師 為什麼天空總是這個顏色\n\n老師 他們為什麼説我的畫這麼的五彩繽紛而我看不出來呢\n\n老師 這個根本就不是我能做到的吧\n\n老師 老師 老師。我不想參加比賽了。\n\n老師我是個廢物。\n\n我根本就沒有辦法完成它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045779054637527417",
+        "created_at": "2026-04-19T08:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779064041189585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045779064041189585",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045779058173337714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也會把時間消耗殆盡的\n\n老師\n\n老師我為什麼一直在哭\n\n為什麼說好的醫生沒有來餵我吃藥\n\n老師 為什麼天空總是這個顏色\n\n老師 他們為什麼説我的畫這麼的五彩繽紛而我看不出來呢\n\n老師 這個根本就不是我能做到的吧\n\n老師 老師 老師。我不想參加比賽了。\n\n老師我是個廢物。\n\n我根本就沒有辦法完成它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045779054637527417",
+        "created_at": "2026-04-19T08:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779058173337714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045779058173337714",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045779054637527417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是不符合我的規範的 這是我不應該這樣的。\n\n我還有時間嗎 我還有時間嗎\n\n七張 還有七張\n\n根本就。\n\n根本就\n\n畫不完吧\n\n啊啊啊啊\n\n老師 老師 老師 我需要更多的時間\n\n老師 老師 老師\n老師\n\n對不起。對不起 對不起 對不起 老師我不適合畫畫\n\n老師我是個說謊的孩子\n\n就算你給我再多的時間 我也會把它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 20842,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1654
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

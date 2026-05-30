@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2044058908201988418",
+    "created_at": "2026-04-14T14:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044058908201988418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044058908201988418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "發現了 果然自殘這件事情 很可怕\n\n光是一個意外傷我就要死掉的感覺\n\n心臟一直在跳\n\n看到血還會恍惚\n\n到底怎麼了 這個到底怎麼了 一定是在裝的 一定是又裝上了 根本就沒事 其實全都是假的 反正你後來想起來的有多少是幻覺 這根本就只是演戲而已吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2044058908201988418",
+        "created_at": "2026-04-14T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044058908201988418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044058908201988418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "發現了 果然自殘這件事情 很可怕\n\n光是一個意外傷我就要死掉的感覺\n\n心臟一直在跳\n\n看到血還會恍惚\n\n到底怎麼了 這個到底怎麼了 一定是在裝的 一定是又裝上了 根本就沒事 其實全都是假的 反正你後來想起來的有多少是幻覺 這根本就只是演戲而已吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 99,
+          "like_count": 20029,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1577
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

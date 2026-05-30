@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1928097208605286404",
+    "created_at": "2025-05-29T14:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928097208605286404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928097208605286404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想做又覺得自己噁心 感覺很需要舒壓 但是不想哭只能夠再一次把它塞進自己身體裡 一邊喊著他的名字 一邊把自己玩哭 最後房間裡仍然剩我 一片寂靜 最後起床去清理的是我 一片泥濘 然後等那一則訊息打擾 進語音 整理好雞窩 開視訊 等待他的注視 縱使他沒有開鏡頭 我似乎也會覺得 他看著我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1928097208605286404",
+        "created_at": "2025-05-29T14:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T15:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928097208605286404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928097208605286404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做又覺得自己噁心 感覺很需要舒壓 但是不想哭只能夠再一次把它塞進自己身體裡 一邊喊著他的名字 一邊把自己玩哭 最後房間裡仍然剩我 一片寂靜 最後起床去清理的是我 一片泥濘 然後等那一則訊息打擾 進語音 整理好雞窩 開視訊 等待他的注視 縱使他沒有開鏡頭 我似乎也會覺得 他看著我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 74,
+          "like_count": 4465,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 312
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

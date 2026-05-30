@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2030691757957214666",
+    "created_at": "2026-03-08T17:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T18:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030691757957214666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1674104468257013760",
+          "start": 3,
+          "username": "zhngzyn30144754"
+        },
+        {
+          "end": 29,
+          "id": "1907692334864805888",
+          "start": 21,
+          "username": "xiacci7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030691757957214666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030351061681356934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngzyn30144754: @xiacci7 心理上的惩罚，生理上的奖励。在做的时候情不自禁表白，却被对方一边艹一边拒绝，内心的悲伤和身体上的快感共同交织……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2030691757957214666",
+        "created_at": "2026-03-08T17:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030691757957214666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1674104468257013760",
+              "start": 3,
+              "username": "zhngzyn30144754"
+            },
+            {
+              "end": 29,
+              "id": "1907692334864805888",
+              "start": 21,
+              "username": "xiacci7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030691757957214666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030351061681356934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngzyn30144754: @xiacci7 心理上的惩罚，生理上的奖励。在做的时候情不自禁表白，却被对方一边艹一边拒绝，内心的悲伤和身体上的快感共同交织……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674104468257013760",
+        "conversation_id": "2030274279871492204",
+        "created_at": "2026-03-07T18:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T19:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030351061681356934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1907692334864805888",
+              "start": 0,
+              "username": "xiacci7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030351061681356934",
+        "in_reply_to_user_id": "1907692334864805888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 38224,
+          "like_count": 610,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030274279871492204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiacci7 心理上的惩罚，生理上的奖励。在做的时候情不自禁表白，却被对方一边艹一边拒绝，内心的悲伤和身体上的快感共同交织……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 15609,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1169
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T17:16:56.000Z",
+        "description": "",
+        "id": "1674104468257013760",
+        "name": "Mariko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997692102864728065/HrTXeQh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "zhngzyn30144754",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T07:11:18.000Z",
+        "description": "八宝粥南瓜粥小米粥红豆粥紫米粥红薯粥燕麦粥绿豆粥薏米百合粥 有🚪不付别私信我",
+        "id": "1907692334864805888",
+        "name": "粥粥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012667650803900416/WDUMmkWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 8,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 392
+        },
+        "username": "xiacci7",
+        "verified": false
+      }
+    ]
+  }
+}

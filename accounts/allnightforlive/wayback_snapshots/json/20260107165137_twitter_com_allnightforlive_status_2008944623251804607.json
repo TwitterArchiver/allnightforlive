@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2008944623251804607",
+    "created_at": "2026-01-07T16:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008944623251804607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008944623251804607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "當我一直以為我應該對我的感情負責任 已經準備好後續處理工作了 結果 你跟我說你忘了嗎 你看起來完全不在乎的模樣讓我打退堂鼓了 我想我好像沒有必要說了 我好想要死掉啊 根本不想再處理了 生日禮物寄出去之後就去死吧 可是又要跟人家出去 我不是那種不設約定的人 對嗎\n爸爸 我還沒有自殘過喔 我很乖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2008944623251804607",
+        "created_at": "2026-01-07T16:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008944623251804607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008944623251804607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當我一直以為我應該對我的感情負責任 已經準備好後續處理工作了 結果 你跟我說你忘了嗎 你看起來完全不在乎的模樣讓我打退堂鼓了 我想我好像沒有必要說了 我好想要死掉啊 根本不想再處理了 生日禮物寄出去之後就去死吧 可是又要跟人家出去 我不是那種不設約定的人 對嗎\n爸爸 我還沒有自殘過喔 我很乖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 83,
+          "like_count": 9861,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 802
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

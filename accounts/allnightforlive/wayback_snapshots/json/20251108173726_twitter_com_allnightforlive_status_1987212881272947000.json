@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1987212877393224032",
+    "created_at": "2025-11-08T17:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987212881272947000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987212881272947000",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987212877393224032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其實很多跟我MBTI相同的人，但我都會鄙視或排斥他們，一來是不相信他們有處事能力，二來是不想解決他們的情緒\n我有自己的思維能夠解決情緒，他們也有自己的解決方式，更有自己認為無法被解決的情緒問題，但如果我有答案，那就很糟糕了。\n我不想分享解決方法，因為太多人不理解了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987212877393224032",
+        "created_at": "2025-11-08T17:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987212881272947000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987212881272947000",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987212877393224032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實很多跟我MBTI相同的人，但我都會鄙視或排斥他們，一來是不相信他們有處事能力，二來是不想解決他們的情緒\n我有自己的思維能夠解決情緒，他們也有自己的解決方式，更有自己認為無法被解決的情緒問題，但如果我有答案，那就很糟糕了。\n我不想分享解決方法，因為太多人不理解了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987212877393224032",
+        "created_at": "2025-11-08T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987212877393224032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987212877393224032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "額 其實挺厭惡那種會把自己人生態度寫出來的人\n我只是單純痛苦且單純快樂 以及渴望什麼東西之類的\n但就是有蝴蝶喜歡說自己與世無爭，一副已經超然的感覺，但一旦受了挫折一點處事能力都沒有，一直在問別人，自己根本就沒有想要處理的意願，到最後乾脆讓別人幫他擦屁股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7497,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 552
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

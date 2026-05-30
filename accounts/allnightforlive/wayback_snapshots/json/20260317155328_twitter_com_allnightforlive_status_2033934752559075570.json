@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2033934752559075570",
+    "created_at": "2026-03-17T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033934752559075570"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033934752559075570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你會看著當初好像每天都很不開心的某個人一直在情緒化，被情緒勒著脖子說著「拯救我」那種話，一邊告訴你她被那個男人按在床上時那根本不如想像中的撕裂，說著那些都是我自願的一邊開口閉口就是我恨透了他。\n在你們眼裡的我已經無法再開口了 我無法無視你們的眼睛 你會叫我閉嘴推開 我也是因為骯髒對吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2033934752559075570",
+        "created_at": "2026-03-17T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033934752559075570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033934752559075570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你會看著當初好像每天都很不開心的某個人一直在情緒化，被情緒勒著脖子說著「拯救我」那種話，一邊告訴你她被那個男人按在床上時那根本不如想像中的撕裂，說著那些都是我自願的一邊開口閉口就是我恨透了他。\n在你們眼裡的我已經無法再開口了 我無法無視你們的眼睛 你會叫我閉嘴推開 我也是因為骯髒對吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16497,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1249
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

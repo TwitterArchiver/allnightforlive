@@ -1,0 +1,56 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2016722252080042141",
+    "created_at": "2026-01-29T03:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016722252080042141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "無法理解為什麼有人會莫名其妙的喜歡上我很喜歡的東西\n其實都是熱度吧 雖然我一直都是喜歡一些身邊人不喜歡的\n結果他們就這樣突然的說了 我也喜歡這個 這個最近很紅\n我要的是你覺得你最喜歡的是他的什麼 你覺得他怎麼樣 我真的不想要被當成跟風的人 我是真的 真的很喜歡"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11453,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 906
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987207513385959424"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987207524521812397",
+    "created_at": "2025-11-08T17:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987207524521812397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "立即作答心理學中經典的依附理論題組，你將解鎖自己的「依附角色」，深入了解自己在感情中的模樣。還能邀請朋友合盤，解鎖雙方的依附風格與行為模式，打造更好的關係互動。",
+          "display_url": "farhugs.com/attachment-the…",
+          "end": 23,
+          "expanded_url": "https://www.farhugs.com/attachment-theory",
+          "images": [
+            {
+              "height": 450,
+              "url": "https://pbs.twimg.com/news_img/1985928655667920896/onilGnUM?format=png&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1985928655667920896/onilGnUM?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "依附關係圖鑑 | FarHugs 遠距抱抱",
+          "unwound_url": "https://www.farhugs.com/attachment-theory",
+          "url": "https://t.co/9mVYjYeWjr"
+        },
+        {
+          "display_url": "pic.x.com/WIrqRHwIW2",
+          "end": 47,
+          "expanded_url": "https://x.com/allnightforlive/status/1987207524521812397/photo/1",
+          "media_key": "3_1987207513385959424",
+          "start": 24,
+          "url": "https://t.co/WIrqRHwIW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987207524521812397",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9mVYjYeWjr https://t.co/WIrqRHwIW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1987207513385959424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5P6tGpbgAAa4yy.jpg",
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987207513385959424"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987207524521812397",
+        "created_at": "2025-11-08T17:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987207524521812397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "立即作答心理學中經典的依附理論題組，你將解鎖自己的「依附角色」，深入了解自己在感情中的模樣。還能邀請朋友合盤，解鎖雙方的依附風格與行為模式，打造更好的關係互動。",
+              "display_url": "farhugs.com/attachment-the…",
+              "end": 23,
+              "expanded_url": "https://www.farhugs.com/attachment-theory",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/1985928655667920896/onilGnUM?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1985928655667920896/onilGnUM?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "依附關係圖鑑 | FarHugs 遠距抱抱",
+              "unwound_url": "https://www.farhugs.com/attachment-theory",
+              "url": "https://t.co/9mVYjYeWjr"
+            },
+            {
+              "display_url": "pic.x.com/WIrqRHwIW2",
+              "end": 47,
+              "expanded_url": "https://x.com/allnightforlive/status/1987207524521812397/photo/1",
+              "media_key": "3_1987207513385959424",
+              "start": 24,
+              "url": "https://t.co/WIrqRHwIW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987207524521812397",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9mVYjYeWjr https://t.co/WIrqRHwIW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7479,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 543
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2021295003658748044",
+    "created_at": "2026-02-10T18:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021295003658748044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021295003658748044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這麼說起來 失去爸爸以後 我還有誰可以失去 我可能放掉了一個以後 全都塌掉呢？\n\n其實很痛苦的 很痛苦的 很痛苦啊\n\n我說過了嗎 我說過我是個不被愛的孩子嗎\n好痛苦啊\n\n爸爸 我真希望你沒有把愛分給我過\n\n爸爸 我很好要離開你了 但我真的好害怕啊 哈哈\n\n如果你能意識到 然後把我推開就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021295003658748044",
+        "created_at": "2026-02-10T18:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021295003658748044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021295003658748044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這麼說起來 失去爸爸以後 我還有誰可以失去 我可能放掉了一個以後 全都塌掉呢？\n\n其實很痛苦的 很痛苦的 很痛苦啊\n\n我說過了嗎 我說過我是個不被愛的孩子嗎\n好痛苦啊\n\n爸爸 我真希望你沒有把愛分給我過\n\n爸爸 我很好要離開你了 但我真的好害怕啊 哈哈\n\n如果你能意識到 然後把我推開就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12409,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 972
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

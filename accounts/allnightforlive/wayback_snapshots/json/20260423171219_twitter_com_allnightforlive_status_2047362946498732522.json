@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2047362946498732522",
+    "created_at": "2026-04-23T17:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047362946498732522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047362946498732522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雖然根本就不是有心的去這麼做 但果然我還是會騙了東西就走嗎。\n\n⋯永遠都不能理解他們說著你是被性侵嗎什麼的這種話\n但我也說不出我是自願的這種話 我根本就沒有判斷的能力、、\n真的恨透說著你看著想跟人去死那你跟我做愛吧什麼的 說著你需要幫助嗎然後就被跟未成年人做愛沖昏頭腦\n：）））））））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2047362946498732522",
+        "created_at": "2026-04-23T17:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047362946498732522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047362946498732522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雖然根本就不是有心的去這麼做 但果然我還是會騙了東西就走嗎。\n\n⋯永遠都不能理解他們說著你是被性侵嗎什麼的這種話\n但我也說不出我是自願的這種話 我根本就沒有判斷的能力、、\n真的恨透說著你看著想跟人去死那你跟我做愛吧什麼的 說著你需要幫助嗎然後就被跟未成年人做愛沖昏頭腦\n：）））））））"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 102,
+          "like_count": 21479,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1713
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

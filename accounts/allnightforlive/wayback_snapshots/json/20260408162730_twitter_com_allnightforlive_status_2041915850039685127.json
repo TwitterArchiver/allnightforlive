@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041815965202366464"
+      ],
+      "media_source_tweet_id": [
+        "2041816004372935002"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041915850039685127",
+    "created_at": "2026-04-08T16:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041915850039685127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742117453809725440",
+          "start": 3,
+          "username": "eclia121739922"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7D3DwOk2qD",
+          "end": 49,
+          "expanded_url": "https://x.com/eclia121739922/status/2041816004372935002/photo/1",
+          "media_key": "3_2041815965202366464",
+          "start": 26,
+          "url": "https://t.co/7D3DwOk2qD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041915850039685127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041816004372935002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eclia121739922: 永久心情： https://t.co/7D3DwOk2qD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2041815965202366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFX8zWabwAApvcX.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041815965202366464"
+          ],
+          "media_source_tweet_id": [
+            "2041816004372935002"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041915850039685127",
+        "created_at": "2026-04-08T16:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041915850039685127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742117453809725440",
+              "start": 3,
+              "username": "eclia121739922"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7D3DwOk2qD",
+              "end": 49,
+              "expanded_url": "https://x.com/eclia121739922/status/2041816004372935002/photo/1",
+              "media_key": "3_2041815965202366464",
+              "start": 26,
+              "url": "https://t.co/7D3DwOk2qD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041915850039685127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041816004372935002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eclia121739922: 永久心情： https://t.co/7D3DwOk2qD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041815965202366464"
+          ]
+        },
+        "author_id": "1742117453809725440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041816004372935002",
+        "created_at": "2026-04-08T09:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041816004372935002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7D3DwOk2qD",
+              "end": 29,
+              "expanded_url": "https://x.com/eclia121739922/status/2041816004372935002/photo/1",
+              "media_key": "3_2041815965202366464",
+              "start": 6,
+              "url": "https://t.co/7D3DwOk2qD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041816004372935002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1450,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "永久心情： https://t.co/7D3DwOk2qD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 90,
+          "like_count": 18369,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1460
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx/伪娘全肯定（x/",
+        "id": "1742117453809725440",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040821135512834048/dc79F7pA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 263,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 542
+        },
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

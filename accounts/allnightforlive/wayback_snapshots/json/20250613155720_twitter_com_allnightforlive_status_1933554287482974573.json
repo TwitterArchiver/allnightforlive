@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933554280197431296"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "1933421435638460432",
+    "created_at": "2025-06-13T15:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T16:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933554287482974573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1336625870643945472",
+          "start": 0,
+          "username": "AoiHinamori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dcf59fjveq",
+          "end": 40,
+          "expanded_url": "https://x.com/allnightforlive/status/1933554287482974573/photo/1",
+          "media_key": "3_1933554280197431296",
+          "start": 17,
+          "url": "https://t.co/Dcf59fjveq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933554287482974573",
+    "in_reply_to_user_id": "1336625870643945472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933421435638460432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoiHinamori 看這個 https://t.co/Dcf59fjveq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933554280197431296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVdX5kaoAAmi6R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 268,
+        "media_key": "3_1933421431951626240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTkjHSakAAhtsk.jpg",
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933554280197431296"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933421435638460432",
+        "created_at": "2025-06-13T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933554287482974573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1336625870643945472",
+              "start": 0,
+              "username": "AoiHinamori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcf59fjveq",
+              "end": 40,
+              "expanded_url": "https://x.com/allnightforlive/status/1933554287482974573/photo/1",
+              "media_key": "3_1933554280197431296",
+              "start": 17,
+              "url": "https://t.co/Dcf59fjveq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933554287482974573",
+        "in_reply_to_user_id": "1336625870643945472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933421435638460432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoiHinamori 看這個 https://t.co/Dcf59fjveq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933421431951626240"
+          ]
+        },
+        "author_id": "1336625870643945472",
+        "conversation_id": "1933421435638460432",
+        "created_at": "2025-06-13T07:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933421435638460432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvXuhZqRef",
+              "end": 31,
+              "expanded_url": "https://x.com/AoiHinamori/status/1933421435638460432/photo/1",
+              "media_key": "3_1933421431951626240",
+              "start": 8,
+              "url": "https://t.co/hvXuhZqRef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933421435638460432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4702,
+          "like_count": 316,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "水池裡面銀龍魚 https://t.co/hvXuhZqRef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 78,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 375
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T10:57:05.000Z",
+        "description": "我是一隻很喜歡把食物吃出創意的吸血鬼。 阿歐依(アオイ)だよ~個人勢VTuber。 🍮合作邀約或其他工商聯絡👉aoihinamori1024@gmail.com 🍮Live：#AOI發光惹 🍮FanArt：#Artforaoi 🍮有什麼想分享給AOI的時候：#AOI看這裡餒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "AOI發光惹"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "Artforaoi"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "AOI看這裡餒"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aoihinamori",
+                "end": 23,
+                "expanded_url": "https://lit.link/aoihinamori",
+                "start": 0,
+                "url": "https://t.co/GHwE7Ofn6W"
+              }
+            ]
+          }
+        },
+        "id": "1336625870643945472",
+        "name": "Aoi-Hinamori Vtuber💉💖 🧛🏽‍♀️ 一隻吸血鬼",
+        "pinned_tweet_id": "1869336818044608863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927895177223426050/jCwCmTFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50893,
+          "following_count": 1525,
+          "like_count": 95640,
+          "listed_count": 130,
+          "media_count": 5459,
+          "tweet_count": 44289
+        },
+        "url": "https://t.co/GHwE7Ofn6W",
+        "username": "AoiHinamori",
+        "verified": false
+      }
+    ]
+  }
+}

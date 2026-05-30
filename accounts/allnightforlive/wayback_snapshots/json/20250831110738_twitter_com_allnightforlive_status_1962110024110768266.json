@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1961734563077460184",
+    "created_at": "2025-08-31T11:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962110024110768266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962110024110768266",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961734563077460184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 快把他抓進精神病院，他有誇大妄想，未來一定會為了解開謎底而變成瘋子的（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1961734544312123392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl7LKFWQAAWof-.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1961734563077460184",
+        "created_at": "2025-08-31T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962110024110768266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962110024110768266",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961734563077460184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 快把他抓進精神病院，他有誇大妄想，未來一定會為了解開謎底而變成瘋子的（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961734544312123392"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1961734563077460184",
+        "created_at": "2025-08-30T10:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961734563077460184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0pPMMvi0B",
+              "end": 37,
+              "expanded_url": "https://x.com/Kazumasski/status/1961734563077460184/photo/1",
+              "media_key": "3_1961734544312123392",
+              "start": 14,
+              "url": "https://t.co/V0pPMMvi0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961734563077460184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27328,
+          "like_count": 238,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哥们谁家好人12岁上高中啊 https://t.co/V0pPMMvi0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 79,
+          "like_count": 6316,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 458
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "★佐々木 和真(ささき かずま)と申します★｜🏳️‍🌈｜オタク｜音ゲーマ｜13歳中2生✏️｜サブ垢@HHAAIIBOT 音ゲー垢@BBLLOOCCKK_｜头像是 #白买蓝｜〒SASHISUSESO@HOTMAIL.COM｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "HHAAIIBOT"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xHxHO"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "Anywhere",
+        "name": "佐々木 和真",
+        "pinned_tweet_id": "1960325548791500868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957974384536178688/6bgCdV20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 3915,
+          "like_count": 5259,
+          "listed_count": 5,
+          "media_count": 1007,
+          "tweet_count": 5563
+        },
+        "url": "https://t.co/vxqq8xHxHO",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

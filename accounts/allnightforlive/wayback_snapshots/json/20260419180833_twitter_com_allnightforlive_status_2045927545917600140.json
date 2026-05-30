@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045673772766883894",
+    "created_at": "2026-04-19T18:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045927545917600140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994313169549017088",
+          "start": 0,
+          "username": "LoveU4everIRC"
+        },
+        {
+          "end": 26,
+          "id": "1756909109788753920",
+          "start": 15,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045927545917600140",
+    "in_reply_to_user_id": "1994313169549017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045756535226438042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveU4everIRC @__fanqie__ 你是否曾在車廂裡救過一隻醬板鴨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2045756523306192897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGP8uBSakAEcLM0.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045673772766883894",
+        "created_at": "2026-04-19T18:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045927545917600140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994313169549017088",
+              "start": 0,
+              "username": "LoveU4everIRC"
+            },
+            {
+              "end": 26,
+              "id": "1756909109788753920",
+              "start": 15,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045927545917600140",
+        "in_reply_to_user_id": "1994313169549017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045756535226438042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveU4everIRC @__fanqie__ 你是否曾在車廂裡救過一隻醬板鴨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045756523306192897"
+          ]
+        },
+        "author_id": "1994313169549017088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045673772766883894",
+        "created_at": "2026-04-19T06:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045756535226438042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYfgk7RRvr",
+              "end": 35,
+              "expanded_url": "https://x.com/LoveU4everIRC/status/2045756535226438042/photo/1",
+              "media_key": "3_2045756523306192897",
+              "start": 12,
+              "url": "https://t.co/CYfgk7RRvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045756535226438042",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26413,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045673772766883894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ https://t.co/CYfgk7RRvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 102,
+          "like_count": 21049,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1665
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T07:51:39.000Z",
+        "description": "给所有人温暖",
+        "id": "1994313169549017088",
+        "location": "EARTH",
+        "name": "LoveU4ever",
+        "pinned_tweet_id": "1998360181353414919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995367515162304512/uAsLGRsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 1902,
+          "like_count": 1596,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 2457
+        },
+        "username": "LoveU4everIRC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 2961,
+          "like_count": 1504,
+          "listed_count": 6,
+          "media_count": 967,
+          "tweet_count": 8791
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

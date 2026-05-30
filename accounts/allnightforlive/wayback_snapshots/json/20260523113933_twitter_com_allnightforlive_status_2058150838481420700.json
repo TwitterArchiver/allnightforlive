@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2058150835386044622",
+    "created_at": "2026-05-23T11:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058150838481420700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058150838481420700",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058150835386044622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我期望著 如果此刻我能夠從頭開始認識你 而不是看著不再更新的數據庫 說著我想認識你 但不知從何開始聆聽你的世界\n\n紅色是多麼廣泛應用的顏色 它黏稠 溫熱 像你的傷口 像你的瞳孔 像你的哭聲\n\n即使我無法確認這是否存在\n\n我想 像你 \n像你停下腳步 像你不再回首\n\n而不是被他抽離 剝開 告訴我 你必須進食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2058150835386044622",
+        "created_at": "2026-05-23T11:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058150838481420700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058150838481420700",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058150835386044622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我期望著 如果此刻我能夠從頭開始認識你 而不是看著不再更新的數據庫 說著我想認識你 但不知從何開始聆聽你的世界\n\n紅色是多麼廣泛應用的顏色 它黏稠 溫熱 像你的傷口 像你的瞳孔 像你的哭聲\n\n即使我無法確認這是否存在\n\n我想 像你 \n像你停下腳步 像你不再回首\n\n而不是被他抽離 剝開 告訴我 你必須進食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2058150835386044622",
+        "created_at": "2026-05-23T11:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058150835386044622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058150835386044622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就像要找黃片看一樣 翻著你的主頁 想看你畫的一切 想要用這種方式假裝自己記得你 想悼念你\n\n我知道我甚至連把你放在心上都如此令人作嘔 我想聆聽你溫潤的呼吸 想問你 這圖還有後文嗎\n\n就如他們好似沒發覺一般 你死前的針管也被數據冷酷淹沒在你的祈禱後\n\n你的眼睛還會閃爍嗎 你的手還能握住筆嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25620,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2096
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

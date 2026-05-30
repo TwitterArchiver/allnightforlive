@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2002450355515474378",
+    "created_at": "2025-12-20T18:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T19:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002450355515474378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002450355515474378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就這樣渴望被發現自己真的糟糕到一個不行甚至情緒憋到極致還會忘記怎麼哭。\n所以我就一直找有沒有催淚的東西 有沒有可以自我貶低的理由\n好結局是痛苦的哭了並且得到了一定程度的穩定\n壞結局是沒有辦法發洩情緒最後選擇放棄治療並且失眠一個晚上後只要被石頭絆到就會直接痛哭流涕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2002450355515474378",
+        "created_at": "2025-12-20T18:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002450355515474378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002450355515474378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這樣渴望被發現自己真的糟糕到一個不行甚至情緒憋到極致還會忘記怎麼哭。\n所以我就一直找有沒有催淚的東西 有沒有可以自我貶低的理由\n好結局是痛苦的哭了並且得到了一定程度的穩定\n壞結局是沒有辦法發洩情緒最後選擇放棄治療並且失眠一個晚上後只要被石頭絆到就會直接痛哭流涕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8858,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 693
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

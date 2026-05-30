@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024503762023567361"
+      ],
+      "media_source_tweet_id": [
+        "2024503891921162693"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024713508173304040",
+    "created_at": "2026-02-20T05:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024713508173304040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1318440586593005568",
+          "start": 3,
+          "username": "jiangyi3610"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jozo7UtA70",
+          "end": 61,
+          "expanded_url": "https://x.com/jiangyi3610/status/2024503891921162693/photo/1",
+          "media_key": "3_2024503762023567361",
+          "start": 38,
+          "url": "https://t.co/jozo7UtA70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024713508173304040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503891921162693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiangyi3610: ？為什麼一打開台大信箱就看到尼可拉斯凱吉 https://t.co/jozo7UtA70"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2024503762023567361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh7cf3bUAEV2Vv.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503762023567361"
+          ],
+          "media_source_tweet_id": [
+            "2024503891921162693"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024713508173304040",
+        "created_at": "2026-02-20T05:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024713508173304040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1318440586593005568",
+              "start": 3,
+              "username": "jiangyi3610"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jozo7UtA70",
+              "end": 61,
+              "expanded_url": "https://x.com/jiangyi3610/status/2024503891921162693/photo/1",
+              "media_key": "3_2024503762023567361",
+              "start": 38,
+              "url": "https://t.co/jozo7UtA70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024713508173304040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503891921162693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiangyi3610: ？為什麼一打開台大信箱就看到尼可拉斯凱吉 https://t.co/jozo7UtA70"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024503762023567361"
+          ]
+        },
+        "author_id": "1318440586593005568",
+        "conversation_id": "2024503891921162693",
+        "created_at": "2026-02-19T15:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024503891921162693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jozo7UtA70",
+              "end": 44,
+              "expanded_url": "https://x.com/jiangyi3610/status/2024503891921162693/photo/1",
+              "media_key": "3_2024503762023567361",
+              "start": 21,
+              "url": "https://t.co/jozo7UtA70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503891921162693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13974,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "？為什麼一打開台大信箱就看到尼可拉斯凱吉 https://t.co/jozo7UtA70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 14229,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1092
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T06:35:11.000Z",
+        "description": "用肝看電影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/5ai9B",
+                "end": 23,
+                "expanded_url": "https://boxd.it/5ai9B",
+                "start": 0,
+                "url": "https://t.co/qo9TK6RbUg"
+              }
+            ]
+          }
+        },
+        "id": "1318440586593005568",
+        "location": "熱河路",
+        "name": "江豫🌵",
+        "pinned_tweet_id": "1978907247200899349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874841404536680448/MQod5JgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 396,
+          "like_count": 21426,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 8329
+        },
+        "url": "https://t.co/qo9TK6RbUg",
+        "username": "jiangyi3610",
+        "verified": false
+      }
+    ]
+  }
+}

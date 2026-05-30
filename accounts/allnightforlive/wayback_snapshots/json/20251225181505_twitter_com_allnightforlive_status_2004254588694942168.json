@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2004254586090180874",
+    "created_at": "2025-12-25T18:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004254588694942168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004254588694942168",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004254586090180874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他真的以為受了傷的魚還能繼續在海裡悠遊 他真的覺得我能夠撐到成年 所以說著 到了我成年就不再愛了吧\n我要等到成年嗎 我覺得我撐不下去了\n我要有一個放棄存活的理由 可是男人一定會怕別人死掉吧 ⋯到底憑什麼她可以因為死亡所以被你記住 我又感到痛苦了。對不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2004254586090180874",
+        "created_at": "2025-12-25T18:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004254588694942168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004254588694942168",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004254586090180874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他真的以為受了傷的魚還能繼續在海裡悠遊 他真的覺得我能夠撐到成年 所以說著 到了我成年就不再愛了吧\n我要等到成年嗎 我覺得我撐不下去了\n我要有一個放棄存活的理由 可是男人一定會怕別人死掉吧 ⋯到底憑什麼她可以因為死亡所以被你記住 我又感到痛苦了。對不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2004254586090180874",
+        "created_at": "2025-12-25T18:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004254586090180874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004254586090180874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他會說 他擔心説他不愛我了 我會哭得很慘 我會馬上死掉 會跟他腦海裡那個女孩子一樣又哭又鬧的 但他好像也知道我不會這麼做 所以肆無忌憚的冷落我 即使這一切都有理由 仍然不打算改變現狀 因為我好像還活著 我好像還是這麼開心 他因為我真的被救活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 81,
+          "like_count": 9118,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 715
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

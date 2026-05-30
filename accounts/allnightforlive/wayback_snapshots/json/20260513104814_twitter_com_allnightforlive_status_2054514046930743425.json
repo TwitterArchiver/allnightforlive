@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054514046930743425",
+    "created_at": "2026-05-13T10:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054514046930743425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054514046930743425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每個人都要經歷的嗎 是這樣嗎 沒關係的 只有我被丟下也沒關係的 那個想法是對的嗎 我一直都這麼想的吧 我會被拋下 他會比我早死嗎 為什麼不能只有我家離婚就好了 啊果然一切痛苦什麼的 都給我就夠了 沒關係的 我可以死的 沒關係的 一切都沒關係的 啊好熱 一點也不高興 如果是這樣的話 我不想哭的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054514046930743425",
+        "created_at": "2026-05-13T10:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054514046930743425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054514046930743425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每個人都要經歷的嗎 是這樣嗎 沒關係的 只有我被丟下也沒關係的 那個想法是對的嗎 我一直都這麼想的吧 我會被拋下 他會比我早死嗎 為什麼不能只有我家離婚就好了 啊果然一切痛苦什麼的 都給我就夠了 沒關係的 我可以死的 沒關係的 一切都沒關係的 啊好熱 一點也不高興 如果是這樣的話 我不想哭的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 107,
+          "like_count": 24154,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1972
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

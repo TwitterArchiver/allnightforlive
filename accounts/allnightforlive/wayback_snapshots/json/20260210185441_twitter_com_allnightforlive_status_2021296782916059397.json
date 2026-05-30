@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2021296782916059397",
+    "created_at": "2026-02-10T18:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021296782916059397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021296782916059397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近因為一些聲音而整個人顫抖的次數越來越多了\n\n我以為 我真的曾經以為我可以顧好自己 \n\n然後我人生的目標從治好自己 變成了\n在不傷害自己或自殺的情況下精神狀態穩定下降\n\n我真的 精神衰弱了。 其實蠻討厭的 但 這一切 都只是痛苦而已吧 我只是想要感到痛苦而已的 一切都 沒關係的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021296782916059397",
+        "created_at": "2026-02-10T18:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021296782916059397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021296782916059397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近因為一些聲音而整個人顫抖的次數越來越多了\n\n我以為 我真的曾經以為我可以顧好自己 \n\n然後我人生的目標從治好自己 變成了\n在不傷害自己或自殺的情況下精神狀態穩定下降\n\n我真的 精神衰弱了。 其實蠻討厭的 但 這一切 都只是痛苦而已吧 我只是想要感到痛苦而已的 一切都 沒關係的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12422,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 973
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

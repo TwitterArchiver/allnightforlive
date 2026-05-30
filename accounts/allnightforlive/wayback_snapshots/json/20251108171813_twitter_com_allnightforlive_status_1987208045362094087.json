@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986835829051006976"
+      ],
+      "media_source_tweet_id": [
+        "1986835835636097503"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "1987208045362094087",
+    "created_at": "2025-11-08T17:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208045362094087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QhFctzWA3l",
+          "end": 36,
+          "expanded_url": "https://x.com/hgds520/status/1986835835636097503/photo/1",
+          "media_key": "3_1986835829051006976",
+          "start": 13,
+          "url": "https://t.co/QhFctzWA3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208045362094087",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986835835636097503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: https://t.co/QhFctzWA3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_1986835829051006976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KoqOmaoAArvY2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986835829051006976"
+          ],
+          "media_source_tweet_id": [
+            "1986835835636097503"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987208045362094087",
+        "created_at": "2025-11-08T17:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208045362094087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhFctzWA3l",
+              "end": 36,
+              "expanded_url": "https://x.com/hgds520/status/1986835835636097503/photo/1",
+              "media_key": "3_1986835829051006976",
+              "start": 13,
+              "url": "https://t.co/QhFctzWA3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208045362094087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986835835636097503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: https://t.co/QhFctzWA3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986835829051006976"
+          ]
+        },
+        "author_id": "1826321786834944000",
+        "conversation_id": "1986835835636097503",
+        "created_at": "2025-11-07T16:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986835835636097503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhFctzWA3l",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds520/status/1986835835636097503/photo/1",
+              "media_key": "3_1986835829051006976",
+              "start": 0,
+              "url": "https://t.co/QhFctzWA3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986835835636097503",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 140756,
+          "like_count": 1723,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QhFctzWA3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7482,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 546
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "搬运工",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1953803355685372350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 577,
+          "like_count": 8764,
+          "listed_count": 10,
+          "media_count": 92,
+          "tweet_count": 627
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

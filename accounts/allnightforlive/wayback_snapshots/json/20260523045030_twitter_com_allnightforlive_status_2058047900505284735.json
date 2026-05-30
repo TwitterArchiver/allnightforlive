@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2058047900505284735",
+    "created_at": "2026-05-23T04:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058047900505284735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1101341449",
+          "start": 3,
+          "username": "wander0302_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058047900505284735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057427348916720054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wander0302_: 👨：「我兒子真不愧是上升水瓶的男人。有夠ㄎㄧㄤ。」\n\n然後繼續吃飯。\n\n（大哥你這結論？？？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2058047900505284735",
+        "created_at": "2026-05-23T04:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058047900505284735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1101341449",
+              "start": 3,
+              "username": "wander0302_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058047900505284735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057427348916720054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wander0302_: 👨：「我兒子真不愧是上升水瓶的男人。有夠ㄎㄧㄤ。」\n\n然後繼續吃飯。\n\n（大哥你這結論？？？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1101341449",
+        "conversation_id": "2057423437531107388",
+        "created_at": "2026-05-21T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057427348916720054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057427348916720054",
+        "in_reply_to_user_id": "1101341449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1184,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057423437531107388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👨：「我兒子真不愧是上升水瓶的男人。有夠ㄎㄧㄤ。」\n\n然後繼續吃飯。\n\n（大哥你這結論？？？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 25498,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2092
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-18T16:00:59.000Z",
+        "description": "2022年末轉職成全職媽媽。這裡多是媽媽日常瑣事。",
+        "id": "1101341449",
+        "name": "Y.C Chloe",
+        "pinned_tweet_id": "1675555654570999813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847278518759264256/UdrxMlEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 110,
+          "like_count": 70457,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 6431
+        },
+        "username": "wander0302_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053485616227397790",
+    "created_at": "2026-05-10T18:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053541242651468124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039862908394291200",
+          "start": 0,
+          "username": "chyuan555"
+        },
+        {
+          "end": 20,
+          "id": "126581934",
+          "start": 11,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053541242651468124",
+    "in_reply_to_user_id": "2039862908394291200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053538067496210440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chyuan555 @dearemon 昨天才聽說他們是真的會亂說、回覆留言時智商堪比一根成年香蕉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053485616227397790",
+        "created_at": "2026-05-10T18:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053541242651468124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039862908394291200",
+              "start": 0,
+              "username": "chyuan555"
+            },
+            {
+              "end": 20,
+              "id": "126581934",
+              "start": 11,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053541242651468124",
+        "in_reply_to_user_id": "2039862908394291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053538067496210440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chyuan555 @dearemon 昨天才聽說他們是真的會亂說、回覆留言時智商堪比一根成年香蕉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039862908394291200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2053485616227397790",
+        "created_at": "2026-05-10T18:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053538067496210440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053538067496210440",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053485616227397790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 我想起来之前刷抖音有人说中国地理乱说……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 23983,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1937
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T00:30:10.000Z",
+        "description": "",
+        "id": "2039862908394291200",
+        "name": "与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042118647704121344/PnOfhT9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "chyuan555",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56320,
+          "following_count": 689,
+          "like_count": 5825,
+          "listed_count": 213,
+          "media_count": 28932,
+          "tweet_count": 389242
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

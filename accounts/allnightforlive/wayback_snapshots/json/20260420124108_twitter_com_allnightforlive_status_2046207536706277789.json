@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046023016426201392",
+    "created_at": "2026-04-20T12:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046207536706277789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871402595467808768",
+          "start": 0,
+          "username": "fried_life_233"
+        },
+        {
+          "end": 26,
+          "id": "2822069676",
+          "start": 16,
+          "username": "itachi644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046207536706277789",
+    "in_reply_to_user_id": "1871402595467808768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046097587791675695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fried_life_233 @itachi644 感覺是⋯整個人跌坐在上面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046023016426201392",
+        "created_at": "2026-04-20T12:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046207536706277789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871402595467808768",
+              "start": 0,
+              "username": "fried_life_233"
+            },
+            {
+              "end": 26,
+              "id": "2822069676",
+              "start": 16,
+              "username": "itachi644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046207536706277789",
+        "in_reply_to_user_id": "1871402595467808768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046097587791675695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fried_life_233 @itachi644 感覺是⋯整個人跌坐在上面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871402595467808768",
+        "conversation_id": "2046023016426201392",
+        "created_at": "2026-04-20T05:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046097587791675695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2822069676",
+              "start": 0,
+              "username": "itachi644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046097587791675695",
+        "in_reply_to_user_id": "2822069676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1166,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046023016426201392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itachi644 ？？？没记错的话，龟甲相当于人的肋骨，要用多大力气才能把肋骨干碎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 102,
+          "like_count": 21152,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1670
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T03:48:57.000Z",
+        "description": "🦊",
+        "id": "1871402595467808768",
+        "name": "A/0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871419061609041920/eQJZRBuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 126,
+          "like_count": 3076,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "username": "fried_life_233",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-20T15:04:12.000Z",
+        "description": "成人済  25↑ \n台灣人，I'm Taiwanese\n嚴窟王受好き，ソ科❤️\nWarhammer 40k\n爬蟲類&鳥類、野鳥救傷相關，是忠誠的克里格\n訂閱＆風暴之子的帳號：https://t.co/QwE7fllXMx\n※TWIRC會員\n※經常性的幹譙餵食癖與私養仔\n☆醜拒毛寶、小草、並憎恨餵食癖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/snakebrid",
+                "end": 110,
+                "expanded_url": "http://patreon.com/snakebrid",
+                "start": 87,
+                "url": "https://t.co/QwE7fllXMx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/snakebrid?utm_…",
+                "end": 23,
+                "expanded_url": "https://patreon.com/snakebrid?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_crea",
+                "start": 0,
+                "url": "https://t.co/n8Mti4soz7"
+              }
+            ]
+          }
+        },
+        "id": "2822069676",
+        "location": "Taiwan",
+        "name": "蟒龜Krieg",
+        "pinned_tweet_id": "2027953336377647407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021089891376119808/txNEXV0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3928,
+          "following_count": 850,
+          "like_count": 21938,
+          "listed_count": 28,
+          "media_count": 3400,
+          "tweet_count": 17592
+        },
+        "url": "https://t.co/n8Mti4soz7",
+        "username": "itachi644",
+        "verified": true
+      }
+    ]
+  }
+}

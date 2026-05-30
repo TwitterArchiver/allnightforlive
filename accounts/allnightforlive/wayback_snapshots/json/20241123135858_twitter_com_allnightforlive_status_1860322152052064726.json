@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1860322152052064726",
+    "created_at": "2024-11-23T13:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T14:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860322152052064726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860322152052064726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“因為不能被發現，所以…”\n\n“……”\n\n“我愛你”\n\n“愛你，愛你，愛你，愛你，愛你，愛你……”\n\n“…非常…非常愛你”\n\n“…不要拒絕我”\n\n“…所以…愛我。”\n\n“求你”\n\n“愛我。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1860322152052064726",
+        "created_at": "2024-11-23T13:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T14:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860322152052064726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860322152052064726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“因為不能被發現，所以…”\n\n“……”\n\n“我愛你”\n\n“愛你，愛你，愛你，愛你，愛你，愛你……”\n\n“…非常…非常愛你”\n\n“…不要拒絕我”\n\n“…所以…愛我。”\n\n“求你”\n\n“愛我。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找的到我。\n\n糜爛的言論在這裡會不斷的出現，如同我化為腐肉的軀體。",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 802,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

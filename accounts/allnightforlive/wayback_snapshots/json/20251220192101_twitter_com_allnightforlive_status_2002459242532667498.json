@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2002459242532667498",
+    "created_at": "2025-12-20T19:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T20:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002459242532667498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002459242532667498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002211246880534584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 你会因为她长得漂亮，性格开朗明媚，眼睛亮晶晶的，各种各样的理由喜欢上她，但爱不一样，爱是在你一次次看到她狼狈的样子，看到她的家庭，未来和过去，看到她的一切不完美，你还坚信自己会永远喜欢她，这个才能叫爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2002459242532667498",
+        "created_at": "2025-12-20T19:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T20:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002459242532667498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002459242532667498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002211246880534584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 你会因为她长得漂亮，性格开朗明媚，眼睛亮晶晶的，各种各样的理由喜欢上她，但爱不一样，爱是在你一次次看到她狼狈的样子，看到她的家庭，未来和过去，看到她的一切不完美，你还坚信自己会永远喜欢她，这个才能叫爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2002211246880534584",
+        "created_at": "2025-12-20T02:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002211246880534584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002211246880534584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3629,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你会因为她长得漂亮，性格开朗明媚，眼睛亮晶晶的，各种各样的理由喜欢上她，但爱不一样，爱是在你一次次看到她狼狈的样子，看到她的家庭，未来和过去，看到她的一切不完美，你还坚信自己会永远喜欢她，这个才能叫爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8908,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 701
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 7,
+          "like_count": 654,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 810
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

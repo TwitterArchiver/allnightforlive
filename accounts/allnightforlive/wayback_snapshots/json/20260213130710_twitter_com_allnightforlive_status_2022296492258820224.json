@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022247103540711874",
+    "created_at": "2026-02-13T13:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022296492258820224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "826519520",
+          "start": 0,
+          "username": "yunyunyshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022296492258820224",
+    "in_reply_to_user_id": "826519520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022247103540711874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyshu 而且聽人家說男裝的質量做的比女裝還好，想到成為另一性別的最大的問題就是情感表達了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022247103540711874",
+        "created_at": "2026-02-13T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022296492258820224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "826519520",
+              "start": 0,
+              "username": "yunyunyshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022296492258820224",
+        "in_reply_to_user_id": "826519520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022247103540711874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyshu 而且聽人家說男裝的質量做的比女裝還好，想到成為另一性別的最大的問題就是情感表達了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826519520",
+        "conversation_id": "2022247103540711874",
+        "created_at": "2026-02-13T09:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022247103540711874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022247103540711874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5047,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "学生说她下辈子想当男的\n我问她：女的不好吗？\n\n她掰着手指数着说：要来姨妈，要怀孕，要化妆，不能随便吃好吃的，要减肥，有什么好的？\n\n我歪头想半天，愣是没想出男的哪里不好，憋出一句：女的好看啊。\n\n她秒回：男的也帅啊。\n于是就给我干沉默了\n\n不是…我…感觉…我是小丑？🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12721,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 995
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-16T05:05:18.000Z",
+        "description": "减不下肥我不活了 | 是妈妈👉 @zcy1224 | x 推我的全是肌肉男怎么办，好吧可以再推点的我不要紧的。🧧 辞暮尔尔，烟火年年，岁岁平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zcy1224"
+              }
+            ]
+          }
+        },
+        "id": "826519520",
+        "name": "云云朮🐽",
+        "pinned_tweet_id": "1949393105385595201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994098282793193474/zAjBDxdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20049,
+          "following_count": 1,
+          "like_count": 4185,
+          "listed_count": 52,
+          "media_count": 665,
+          "tweet_count": 2136
+        },
+        "username": "yunyunyshu",
+        "verified": true
+      }
+    ]
+  }
+}

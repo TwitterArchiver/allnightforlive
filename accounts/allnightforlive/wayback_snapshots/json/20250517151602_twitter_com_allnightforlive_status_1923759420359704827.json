@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1923759420359704827",
+    "created_at": "2025-05-17T15:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923759420359704827"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923759420359704827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一邊想著爸爸一邊被先生擁抱著嗎？\n可是先生的溫度越來越不明顯了。\n先生的懷抱越來越不情願了。\n先生的手越來越安分了。\n我回頭不怎麼看得到他了。\n他還在那裡。\n至少有片刻我突然開始害怕他了。\n可是我喜歡他抱著我。\n他存在的。\n只是偶爾。\n跟爸爸一樣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1923759420359704827",
+        "created_at": "2025-05-17T15:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923759420359704827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923759420359704827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一邊想著爸爸一邊被先生擁抱著嗎？\n可是先生的溫度越來越不明顯了。\n先生的懷抱越來越不情願了。\n先生的手越來越安分了。\n我回頭不怎麼看得到他了。\n他還在那裡。\n至少有片刻我突然開始害怕他了。\n可是我喜歡他抱著我。\n他存在的。\n只是偶爾。\n跟爸爸一樣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 4245,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 296
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

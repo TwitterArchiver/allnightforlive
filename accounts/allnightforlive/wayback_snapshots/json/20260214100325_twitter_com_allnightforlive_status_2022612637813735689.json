@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022612634466685252",
+    "created_at": "2026-02-14T10:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022612637813735689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022612637813735689",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022612634466685252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只是單純因為這個邏輯問題被好幾個人炸到。\n就老是說什麼：男人死掉都是因為不珍惜生命啊、還不是因為男生個性衝動，老是死於非命。\n\n怎麼不說男人有多喜歡家暴，打死了多少女人，還要姦殺虐殺姦屍，最後說人不檢點💥💥💥\n（不指控所有男性都會家暴，並非只有男女兩性，支持多元性別🧎）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022612634466685252",
+        "created_at": "2026-02-14T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022612637813735689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022612637813735689",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022612634466685252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是單純因為這個邏輯問題被好幾個人炸到。\n就老是說什麼：男人死掉都是因為不珍惜生命啊、還不是因為男生個性衝動，老是死於非命。\n\n怎麼不說男人有多喜歡家暴，打死了多少女人，還要姦殺虐殺姦屍，最後說人不檢點💥💥💥\n（不指控所有男性都會家暴，並非只有男女兩性，支持多元性別🧎）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2022612634466685252",
+        "created_at": "2026-02-14T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022612634466685252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022612634466685252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的死亡率比女的高跟韓國一條河上加設溫馨指示牌增加死亡率的，邏輯上都有概率關乎現代社會心理健康低下。\n\n由於男性缺乏表達與釋放情緒的能力，且對自身要求過高，使其壓力過載，而有自殺行為。\n\n後者由於現代心理健康意識抬頭，且疫情與經濟導致社會與生存壓力增加，使有更多人於當時輕生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12848,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1003
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

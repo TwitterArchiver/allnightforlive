@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989720853248901484",
+    "created_at": "2025-11-15T15:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989720907150213307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989720907150213307",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989720903501189541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸可不可以看看我，你的小孩，真的一直都很痛苦的活著喔\n你做得真的很好，我也在不健全關係裡面很開心，我體驗過了，我感受到難以啟齒的衝動，我有多想跟別人說我當過三喔，我還是別人的小情婦。\n\n可我知道這絕對不可能啊，這比造謠我自己有憂鬱症還更不可能。\n\n我好痛苦喔 真的很痛苦啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720907150213307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720907150213307",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720903501189541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸可不可以看看我，你的小孩，真的一直都很痛苦的活著喔\n你做得真的很好，我也在不健全關係裡面很開心，我體驗過了，我感受到難以啟齒的衝動，我有多想跟別人說我當過三喔，我還是別人的小情婦。\n\n可我知道這絕對不可能啊，這比造謠我自己有憂鬱症還更不可能。\n\n我好痛苦喔 真的很痛苦啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720903501189541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720903501189541",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720898773889277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正到時候我會走上爸爸討厭的路，他會厭惡我，他會覺得我墮落，然後認清我，最後把我變成他操過的一個廢物嗎？\n\n⋯其實我覺得挺好的。\n比起曾經被他在做的時候辱罵還要現實。\n\n如過他能看到就好了\n我一直想著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7600,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 577
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

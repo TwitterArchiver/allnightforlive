@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2023856587341983927",
+    "created_at": "2026-02-18T04:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023982947062124893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700409183445864448",
+          "start": 0,
+          "username": "klaus749301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023982947062124893",
+    "in_reply_to_user_id": "1700409183445864448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023918714903818563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klaus749301 別說 真的能換\n但看情況 有時候還是想給自己來一下（（這個時候最狠的是精神痛苦跟外貌焦慮了 兩個打起來的時候還得牽其他因素出來亂鬥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2023856587341983927",
+        "created_at": "2026-02-18T04:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023982947062124893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700409183445864448",
+              "start": 0,
+              "username": "klaus749301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023982947062124893",
+        "in_reply_to_user_id": "1700409183445864448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023918714903818563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klaus749301 別說 真的能換\n但看情況 有時候還是想給自己來一下（（這個時候最狠的是精神痛苦跟外貌焦慮了 兩個打起來的時候還得牽其他因素出來亂鬥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700409183445864448",
+        "conversation_id": "2023856587341983927",
+        "created_at": "2026-02-18T00:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023918714903818563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511572100225462281",
+              "start": 0,
+              "username": "allnightforlive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023918714903818563",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023856587341983927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allnightforlive 🥺这个能不能换成zw  想给自己一下的时候就zw一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 86,
+          "like_count": 13504,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1054
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T07:22:12.000Z",
+        "description": "",
+        "id": "1700409183445864448",
+        "name": "klaus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859393592625897472/9G86Sj9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 627,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "klaus749301",
+        "verified": false
+      }
+    ]
+  }
+}

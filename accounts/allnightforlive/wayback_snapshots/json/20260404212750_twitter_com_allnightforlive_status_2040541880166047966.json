@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040239900499280034",
+    "created_at": "2026-04-04T21:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040541880166047966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558050035899990018",
+          "start": 0,
+          "username": "ooooooorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040541880166047966",
+    "in_reply_to_user_id": "1558050035899990018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040239900499280034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooooooorea 被性行為搞出創傷就不太會有這種想法了w不妨找點糟糕的經驗試試水（並沒有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040239900499280034",
+        "created_at": "2026-04-04T21:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040541880166047966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558050035899990018",
+              "start": 0,
+              "username": "ooooooorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040541880166047966",
+        "in_reply_to_user_id": "1558050035899990018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040239900499280034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooooooorea 被性行為搞出創傷就不太會有這種想法了w不妨找點糟糕的經驗試試水（並沒有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558050035899990018",
+        "conversation_id": "2040239900499280034",
+        "created_at": "2026-04-04T01:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040239900499280034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040239900499280034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 125631,
+          "like_count": 826,
+          "quote_count": 10,
+          "reply_count": 105,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "性欲上头的时候脑子里真的会冒出“干脆在推特上找个身材好的炮友得了”这种念头，冲完了再想想会立马给自己两巴掌，不像话....……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 17967,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1429
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:17:37.000Z",
+        "description": "🐻🐻🐻🐻重度自恋者  🚪\n\n小号防走丢  @areeeooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "areeeooo"
+              }
+            ]
+          }
+        },
+        "id": "1558050035899990018",
+        "location": "山东",
+        "name": "orea",
+        "pinned_tweet_id": "2040409504135729387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758493778753757184/WXcsiLE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 17,
+          "like_count": 154,
+          "listed_count": 34,
+          "media_count": 84,
+          "tweet_count": 656
+        },
+        "username": "ooooooorea",
+        "verified": false
+      }
+    ]
+  }
+}

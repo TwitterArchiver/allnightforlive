@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1991191441440387528",
+    "created_at": "2025-11-19T17:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991191441440387528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991191441440387528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對爸爸說太多話了。不應該這樣的。說好只當炮友的，隨便了，隨便了啦，真的好痛苦，聽我說好嗎，能不能聽我說，我真的好痛，可不可以抱我，我好累，我不想在這裡，我想躲起來，為什麼只有晚上才能夠安靜，為什麼你們好像都要一副我不正常的感覺，如果感覺我不正常的話能不能關心我啊，我真的好痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1991191441440387528",
+        "created_at": "2025-11-19T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991191441440387528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991191441440387528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對爸爸說太多話了。不應該這樣的。說好只當炮友的，隨便了，隨便了啦，真的好痛苦，聽我說好嗎，能不能聽我說，我真的好痛，可不可以抱我，我好累，我不想在這裡，我想躲起來，為什麼只有晚上才能夠安靜，為什麼你們好像都要一副我不正常的感覺，如果感覺我不正常的話能不能關心我啊，我真的好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7798,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 610
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

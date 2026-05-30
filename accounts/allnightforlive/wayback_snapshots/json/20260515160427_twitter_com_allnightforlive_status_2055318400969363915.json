@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2055318400969363915",
+    "created_at": "2026-05-15T16:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055318400969363915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055318400969363915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我會自殺的 我想看你崩潰 我想看你精神失常 我想看你失去了我們任何一個人之後痛不欲生\n\n要讓這件事情更痛苦的話 要不要我跟你開個天大的玩笑 像是增加羈絆？\n\nWwww覺得自己的死好好笑\n\n怎麼能夠如此戲劇化 這在我的劇本裡嗎\n\n好想要明天去自殺\n\n多好吧 這很美妙喔\n\nWwwwww阿如果能夠 被殺死 就更好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2055318400969363915",
+        "created_at": "2026-05-15T16:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055318400969363915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055318400969363915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我會自殺的 我想看你崩潰 我想看你精神失常 我想看你失去了我們任何一個人之後痛不欲生\n\n要讓這件事情更痛苦的話 要不要我跟你開個天大的玩笑 像是增加羈絆？\n\nWwww覺得自己的死好好笑\n\n怎麼能夠如此戲劇化 這在我的劇本裡嗎\n\n好想要明天去自殺\n\n多好吧 這很美妙喔\n\nWwwwww阿如果能夠 被殺死 就更好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 109,
+          "like_count": 24294,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2006
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

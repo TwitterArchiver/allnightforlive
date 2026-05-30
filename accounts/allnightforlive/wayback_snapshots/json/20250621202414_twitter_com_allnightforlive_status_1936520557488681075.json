@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1936061086811480381",
+    "created_at": "2025-06-21T20:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T21:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936520557488681075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874082179724304388",
+          "start": 0,
+          "username": "Nuina_nunu5"
+        },
+        {
+          "end": 20,
+          "id": "1739270282907389952",
+          "start": 13,
+          "username": "kbzz24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936520557488681075",
+    "in_reply_to_user_id": "1874082179724304388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936414722468843532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuina_nunu5 @kbzz24 確實會這樣沒錯，但都說無意識，那我確實是不知道的👌\n但當下會有一種感覺自己不行了，雖然很享受但很想逃離的感覺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1936061086811480381",
+        "created_at": "2025-06-21T20:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T21:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936520557488681075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874082179724304388",
+              "start": 0,
+              "username": "Nuina_nunu5"
+            },
+            {
+              "end": 20,
+              "id": "1739270282907389952",
+              "start": 13,
+              "username": "kbzz24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936520557488681075",
+        "in_reply_to_user_id": "1874082179724304388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936414722468843532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuina_nunu5 @kbzz24 確實會這樣沒錯，但都說無意識，那我確實是不知道的👌\n但當下會有一種感覺自己不行了，雖然很享受但很想逃離的感覺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874082179724304388",
+        "conversation_id": "1936061086811480381",
+        "created_at": "2025-06-21T13:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936414722468843532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739270282907389952",
+              "start": 0,
+              "username": "kbzz24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936414722468843532",
+        "in_reply_to_user_id": "1739270282907389952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 996,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936061086811480381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kbzz24 无意识的往前爬是为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 77,
+          "like_count": 5662,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 415
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:16:33.000Z",
+        "description": "喜欢说点胡话，自称S的约调男勿扰，嘴里喊着“姐姐我是男高！”就冲过来的勿扰，莫名其妙问“有主吗”的弱智勿扰，一言不合发🐮子照的下体男勿扰，“可以认识一下吗”不可以；“约吗”不约；“打游戏吗”不打；   不要来沾边，离我远一点就是最好的事🙏🏻",
+        "id": "1874082179724304388",
+        "name": "Nuina_nunu五代",
+        "pinned_tweet_id": "1910564481349910993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906913774155771904/CNlGWMQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 172,
+          "like_count": 1954,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 307
+        },
+        "username": "Nuina_nunu5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T13:02:11.000Z",
+        "description": "s和dom的混合体｜喜欢虐心｜心不狠手挺辣｜喜爱阅读/历史/篮球/健身｜声控福音｜欢迎私信｜欢迎学术交流",
+        "id": "1739270282907389952",
+        "name": "每天反思八百遍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739280086858076160/1nzfOXS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8621,
+          "following_count": 0,
+          "like_count": 29,
+          "listed_count": 20,
+          "media_count": 47,
+          "tweet_count": 162
+        },
+        "username": "kbzz24",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2007861123878666522",
+    "created_at": "2026-01-04T17:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007861123878666522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007861123878666522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不敢看\n對我一個怕任何人消失的人來講\n我寧願一切一切人都消失 卻不希望孤獨\n我一次又一次的在試著擁有疾病\n試圖讓自己真正的患上性癮焦慮症以及最重要的 妄想症\n然而我感覺 自己好像一直在這裡徘徊著\n我好像成功的讓自己痛苦了\n但我發現 沒有人打算治療我\n而我也 不 不是回不去\n而是我想要再更痛一點"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2007861123878666522",
+        "created_at": "2026-01-04T17:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007861123878666522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007861123878666522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢看\n對我一個怕任何人消失的人來講\n我寧願一切一切人都消失 卻不希望孤獨\n我一次又一次的在試著擁有疾病\n試圖讓自己真正的患上性癮焦慮症以及最重要的 妄想症\n然而我感覺 自己好像一直在這裡徘徊著\n我好像成功的讓自己痛苦了\n但我發現 沒有人打算治療我\n而我也 不 不是回不去\n而是我想要再更痛一點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 83,
+          "like_count": 9763,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 783
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1922309984055894030",
+    "created_at": "2025-05-13T15:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922309995133067770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922309995133067770",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922309989529530872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我早就應該不存在了，直到現在我還畏懼著死亡活著，屬實有那麼一絲不合理，不是嗎？\n可是，我想知道的事情好多。\n像是，當我崩潰那時，你到底會不會覺得我就是在逃避現實呢？\n可是我真的，看不見未來啊。\n我是被未來殺死的小孩。\n我不想承認有那麼一刻我也覺得繪畫很開心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1922309984055894030",
+        "created_at": "2025-05-13T15:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922309995133067770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922309995133067770",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922309989529530872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早就應該不存在了，直到現在我還畏懼著死亡活著，屬實有那麼一絲不合理，不是嗎？\n可是，我想知道的事情好多。\n像是，當我崩潰那時，你到底會不會覺得我就是在逃避現實呢？\n可是我真的，看不見未來啊。\n我是被未來殺死的小孩。\n我不想承認有那麼一刻我也覺得繪畫很開心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1922309984055894030",
+        "created_at": "2025-05-13T15:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922309989529530872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922309989529530872",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922309985893003588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我現在的機會太多了，我這個年代跟你們差了不知道多少，所以我聽著來自另一對父母說出的話，讓自己痛苦得越來越多，讓我以為自己正常的想法再次沉沒。\n我是那樣的怠惰，我就是喜歡給自己找理由，我就是妄想別人都會傷害我，我就是設想所有人都知道我的秘密，所以我想把自己跟秘密帶進棺材裡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 4128,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 286
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

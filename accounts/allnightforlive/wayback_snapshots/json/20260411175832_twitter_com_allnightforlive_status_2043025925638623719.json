@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042950766437282087",
+    "created_at": "2026-04-11T17:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043025925638623719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "741628257158598657",
+          "start": 0,
+          "username": "LeeAnZelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043025925638623719",
+    "in_reply_to_user_id": "741628257158598657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042950766437282087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeAnZelo 左腦人去學美術了（）這我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2042950333668962304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoEgSQasAAUTQY.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042950766437282087",
+        "created_at": "2026-04-11T17:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043025925638623719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "741628257158598657",
+              "start": 0,
+              "username": "LeeAnZelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043025925638623719",
+        "in_reply_to_user_id": "741628257158598657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042950766437282087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeAnZelo 左腦人去學美術了（）這我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042950333668962304"
+          ]
+        },
+        "author_id": "741628257158598657",
+        "conversation_id": "2042950766437282087",
+        "created_at": "2026-04-11T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042950766437282087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FNM6GgK7d",
+              "end": 69,
+              "expanded_url": "https://x.com/LeeAnZelo/status/2042950766437282087/photo/1",
+              "media_key": "3_2042950333668962304",
+              "start": 46,
+              "url": "https://t.co/0FNM6GgK7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042950766437282087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 15789,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "沒看留言前:我怎麼看都是灰綠，果然不是畫畫人\n\n看了留言的圖後:我被矯正了🫨 現在它是粉白 https://t.co/0FNM6GgK7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18766,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1497
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-11T13:48:50.000Z",
+        "description": "▸徵助手模型師+各種繪師ing\n▸345↑ #Vtuber #Live2D 模型師\n▸線上課程 #LeeAnZelosClass\n▸個人 https://t.co/RCN1KElFhb | 公司 https://t.co/uEY24wy4bf \n▸節目 #Live2DQAQ #我話你拆 #2025年末VT模型評鑑會",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Live2D"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "tag": "LeeAnZelosClass"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "Live2DQAQ"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "我話你拆"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "tag": "2025年末VT模型評鑑會"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zeloan.net",
+                "end": 92,
+                "expanded_url": "https://www.zeloan.net",
+                "start": 69,
+                "url": "https://t.co/RCN1KElFhb"
+              },
+              {
+                "display_url": "leeanzelo.com",
+                "end": 121,
+                "expanded_url": "https://leeanzelo.com",
+                "start": 98,
+                "url": "https://t.co/uEY24wy4bf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clibo.tw/users/leeanzelo",
+                "end": 23,
+                "expanded_url": "https://clibo.tw/users/leeanzelo",
+                "start": 0,
+                "url": "https://t.co/emd6aGqwNv"
+              }
+            ]
+          }
+        },
+        "id": "741628257158598657",
+        "location": "中文😃 | English🤏 | meme🧡",
+        "name": "李安瑟羅Zelo🌻 Live2D rigger (OPEN)",
+        "pinned_tweet_id": "2008448554722095209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430564665340305415/0pbCZTvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 770,
+          "like_count": 6939,
+          "listed_count": 36,
+          "media_count": 1612,
+          "tweet_count": 7714
+        },
+        "url": "https://t.co/emd6aGqwNv",
+        "username": "LeeAnZelo",
+        "verified": true
+      }
+    ]
+  }
+}

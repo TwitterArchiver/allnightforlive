@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043711235095748810",
+    "created_at": "2026-04-13T15:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043711239537528832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043711239537528832",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043711235095748810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⋯好想要做手工 什麼的\n\n不用說太多 只要教我 然後我學會 我就可以做很多\n\n我只是想要誇誇\n\n我知道我對人真的很糟糕。\n我真的不知道怎麼做。\n情緒價值這種東西堵塞著我的咽喉\n\n你說我沒界線 我以為你想要的是無條件的關心\n\n我真的不知道。我真的不知道怎麼做。\n\n我根本就聽不懂啊\n我才是那個想死的人喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043711235095748810",
+        "created_at": "2026-04-13T15:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043711239537528832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043711239537528832",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043711235095748810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⋯好想要做手工 什麼的\n\n不用說太多 只要教我 然後我學會 我就可以做很多\n\n我只是想要誇誇\n\n我知道我對人真的很糟糕。\n我真的不知道怎麼做。\n情緒價值這種東西堵塞著我的咽喉\n\n你說我沒界線 我以為你想要的是無條件的關心\n\n我真的不知道。我真的不知道怎麼做。\n\n我根本就聽不懂啊\n我才是那個想死的人喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043711235095748810",
+        "created_at": "2026-04-13T15:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043711235095748810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043711235095748810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "連壓死蚊子都會幻痛\n\n我真的 也要像以前一樣 忽視所有情緒嗎\n\n好累\n\n我一點也不想要 面對那些東西了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 97,
+          "like_count": 19443,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1550
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

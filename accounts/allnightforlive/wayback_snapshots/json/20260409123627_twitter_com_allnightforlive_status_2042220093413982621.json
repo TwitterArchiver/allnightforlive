@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042220093413982621",
+    "created_at": "2026-04-09T12:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042220093413982621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1344888376197926912",
+          "start": 3,
+          "username": "Reina46940910"
+        },
+        {
+          "end": 35,
+          "id": "1669608992719654917",
+          "start": 19,
+          "username": "CryptoMaster_70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042220093413982621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041908825943633937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reina46940910: @CryptoMaster_70 这样的经验我太多了，导致了我养成了懒散的性格，反正到时候我能想出办法，就交给到时候的我吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042220093413982621",
+        "created_at": "2026-04-09T12:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042220093413982621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1344888376197926912",
+              "start": 3,
+              "username": "Reina46940910"
+            },
+            {
+              "end": 35,
+              "id": "1669608992719654917",
+              "start": 19,
+              "username": "CryptoMaster_70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220093413982621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041908825943633937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reina46940910: @CryptoMaster_70 这样的经验我太多了，导致了我养成了懒散的性格，反正到时候我能想出办法，就交给到时候的我吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344888376197926912",
+        "conversation_id": "2041761488034263348",
+        "created_at": "2026-04-08T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041908825943633937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669608992719654917",
+              "start": 0,
+              "username": "CryptoMaster_70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041908825943633937",
+        "in_reply_to_user_id": "1669608992719654917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7932,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041761488034263348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoMaster_70 这样的经验我太多了，导致了我养成了懒散的性格，反正到时候我能想出办法，就交给到时候的我吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 91,
+          "like_count": 18424,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1469
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T06:09:17.000Z",
+        "description": "一个无趣的人。",
+        "id": "1344888376197926912",
+        "name": "电光猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662692455043694592/PqualeMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 219,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 563
+        },
+        "username": "Reina46940910",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T07:33:40.000Z",
+        "description": "Master in MIS.\nStock, Crypto trader, ex-SW engineer. \n以前是碼農，後來是操盤手，現在是全職小丑 \n在透明的區塊鏈裡，你我都在裸奔\n\n大號沒了, 穢土轉生再出發",
+        "id": "1669608992719654917",
+        "location": "moon",
+        "name": "Master | 最強打野(穢土轉生)",
+        "pinned_tweet_id": "1774076142313668661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748982365152784384/vxAfgPmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7106,
+          "following_count": 1007,
+          "like_count": 3304,
+          "listed_count": 50,
+          "media_count": 2219,
+          "tweet_count": 8541
+        },
+        "username": "CryptoMaster_70",
+        "verified": true
+      }
+    ]
+  }
+}

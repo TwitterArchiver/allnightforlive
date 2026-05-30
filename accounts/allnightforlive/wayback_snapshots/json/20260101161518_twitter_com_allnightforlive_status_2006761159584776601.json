@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2006761159584776601",
+    "created_at": "2026-01-01T16:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T17:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006761159584776601"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006761159584776601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是那種會對著愛人無理取鬧的人 我是那種會漸漸的把愛放在心裡 最後被人說你對我好冷淡 如果你不喜歡我的話我們就分開吧 然後我就什麼都說不出口然後一直哭一直哭一直哭最後被丟下 因為我沉默又情緒化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2006761159584776601",
+        "created_at": "2026-01-01T16:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006761159584776601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006761159584776601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是那種會對著愛人無理取鬧的人 我是那種會漸漸的把愛放在心裡 最後被人說你對我好冷淡 如果你不喜歡我的話我們就分開吧 然後我就什麼都說不出口然後一直哭一直哭一直哭最後被丟下 因為我沉默又情緒化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 83,
+          "like_count": 9587,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 769
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1917959161331224913",
+    "created_at": "2025-05-01T15:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917959166972575978"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917959166972575978",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917959163117969505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我很自私的話，那所有人都應該體驗醒來後大腦只能夠反芻不存在的記憶片段，同時恐懼且厭惡自己和所有人，讓神經永遠都在一個被動緊繃的狀態。\n\n經過這幾天的反芻，我也發現了自己又有一個心理病徵一年之久了。\n\n總之呢。希望所有人都有說話的對象。\n不要成為我這樣的人^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1917959161331224913",
+        "created_at": "2025-05-01T15:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917959166972575978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917959166972575978",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917959163117969505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我很自私的話，那所有人都應該體驗醒來後大腦只能夠反芻不存在的記憶片段，同時恐懼且厭惡自己和所有人，讓神經永遠都在一個被動緊繃的狀態。\n\n經過這幾天的反芻，我也發現了自己又有一個心理病徵一年之久了。\n\n總之呢。希望所有人都有說話的對象。\n不要成為我這樣的人^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1917959161331224913",
+        "created_at": "2025-05-01T15:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917959163117969505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917959163117969505",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917959161331224913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "總之，我會繼續下去的。\n\n在我被拋下之前，我都会狠狠的嫉妒並渴望那傢伙的。\n\n至少我的目的性很強烈。\n利用他說我的這具身體還不錯的言論，狠狠的從他那邊得到關愛。\n很過分的話，我就只能夠繼續像他不存在的那幾天一樣失眠了喔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 3901,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 273
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

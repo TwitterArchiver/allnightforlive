@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2037921353383469534",
+    "created_at": "2026-03-28T15:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037921353383469534"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037921353383469534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我沒有辦法專心的做我自己。\n\n敲到頭了 身體的粘膩依然很明顯 身上的味道也好難聞\n\n果然不喜歡出門。\n\n走到一半的時候腦袋裡面就開始分析自己怎麼了\n\n好想要回家 腦袋裡稚嫩的女音開始哀嚎\n\n可是他們也想要回家 我不打算讓他們如願\n這很過分吧。\n\n。但我知道這個時候回家會很吵\n我也不能像那天一樣痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2037921353383469534",
+        "created_at": "2026-03-28T15:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037921353383469534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037921353383469534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我沒有辦法專心的做我自己。\n\n敲到頭了 身體的粘膩依然很明顯 身上的味道也好難聞\n\n果然不喜歡出門。\n\n走到一半的時候腦袋裡面就開始分析自己怎麼了\n\n好想要回家 腦袋裡稚嫩的女音開始哀嚎\n\n可是他們也想要回家 我不打算讓他們如願\n這很過分吧。\n\n。但我知道這個時候回家會很吵\n我也不能像那天一樣痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 88,
+          "like_count": 17334,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1352
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

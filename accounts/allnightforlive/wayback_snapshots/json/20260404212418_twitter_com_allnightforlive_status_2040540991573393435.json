@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040383707500978190",
+    "created_at": "2026-04-04T21:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040540991573393435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1099717860996325376",
+          "start": 0,
+          "username": "FlyingH04730458"
+        },
+        {
+          "end": 28,
+          "id": "1535701819812462600",
+          "start": 17,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040540991573393435",
+    "in_reply_to_user_id": "1099717860996325376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040394108984803802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlyingH04730458 @Kenntnis22 送重的東西就加錢 又沒搞性別歧視 邏輯有問題就別叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040383707500978190",
+        "created_at": "2026-04-04T21:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040540991573393435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1099717860996325376",
+              "start": 0,
+              "username": "FlyingH04730458"
+            },
+            {
+              "end": 28,
+              "id": "1535701819812462600",
+              "start": 17,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040540991573393435",
+        "in_reply_to_user_id": "1099717860996325376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040394108984803802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlyingH04730458 @Kenntnis22 送重的東西就加錢 又沒搞性別歧視 邏輯有問題就別叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1099717860996325376",
+        "conversation_id": "2040383707500978190",
+        "created_at": "2026-04-04T11:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040394108984803802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040394108984803802",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10837,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040383707500978190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 多给钱就不是“同工同酬”了喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 17954,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1428
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-24T17:09:04.000Z",
+        "description": "只有谎言是不许质疑的。如果相信地平说就要被烧死，那地球是圆的就只是一个巧合，而非真理。如果质疑美国登月要因叛国罪坐牢，那登月就一定只是一场骗局。质疑的存在不是否定了真相，反而是真相之所以为真相的最佳注脚。",
+        "id": "1099717860996325376",
+        "location": "United Kingdom",
+        "name": "FlyingHorse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600226162218831893/BcPHJmD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 169,
+          "like_count": 82349,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 29408
+        },
+        "username": "FlyingH04730458",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2040408674506543294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51514,
+          "following_count": 422,
+          "like_count": 53478,
+          "listed_count": 251,
+          "media_count": 11072,
+          "tweet_count": 17039
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

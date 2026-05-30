@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054614297322635649",
+    "created_at": "2026-05-13T17:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054614297322635649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054614297322635649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054373966706581908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054614297322635649",
+        "created_at": "2026-05-13T17:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054614297322635649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054614297322635649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054373966706581908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2054373966706581908",
+        "created_at": "2026-05-13T01:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054373966706581908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054373966706581908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 38068,
+          "like_count": 937,
+          "quote_count": 27,
+          "reply_count": 60,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 108,
+          "like_count": 24245,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1994
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7393,
+          "following_count": 68,
+          "like_count": 7105,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1721
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

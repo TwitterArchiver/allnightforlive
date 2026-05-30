@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1965060555607331263",
+    "created_at": "2025-09-08T14:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T15:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965060555607331263"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965060555607331263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很簡單的一句話\n我想怪別人但我自己也做不到\n當我怪別人的時候他們的難過又會是我的負擔\n那我他媽的到底要怪誰\n怪受害者嗎 還是我要怪加害者\n難道我這個調停者能夠拯救所有人嗎\n殺了我吧\n別殺死任何人\n殺了我吧\n當我伸出手給任何人的時候\n就代表有一方會死去啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1965060555607331263",
+        "created_at": "2025-09-08T14:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965060555607331263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965060555607331263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很簡單的一句話\n我想怪別人但我自己也做不到\n當我怪別人的時候他們的難過又會是我的負擔\n那我他媽的到底要怪誰\n怪受害者嗎 還是我要怪加害者\n難道我這個調停者能夠拯救所有人嗎\n殺了我吧\n別殺死任何人\n殺了我吧\n當我伸出手給任何人的時候\n就代表有一方會死去啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 6479,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 465
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

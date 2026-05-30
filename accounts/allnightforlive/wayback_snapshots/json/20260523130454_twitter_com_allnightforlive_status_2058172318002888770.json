@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2058172318002888770",
+    "created_at": "2026-05-23T13:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058172318002888770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979161342268366848",
+          "start": 3,
+          "username": "HaiEn74076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058172318002888770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058033546355519523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaiEn74076: 睡醒不起床就会发展成在床上自慰…^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2058172318002888770",
+        "created_at": "2026-05-23T13:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058172318002888770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979161342268366848",
+              "start": 3,
+              "username": "HaiEn74076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058172318002888770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058033546355519523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaiEn74076: 睡醒不起床就会发展成在床上自慰…^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979161342268366848",
+        "conversation_id": "2058033546355519523",
+        "created_at": "2026-05-23T03:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058033546355519523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058033546355519523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38278,
+          "like_count": 557,
+          "quote_count": 6,
+          "reply_count": 123,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒不起床就会发展成在床上自慰…^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25712,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2103
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T12:23:42.000Z",
+        "description": "一些碎碎念 = ᗜ ω ᗜ =\n只是一个普通人 喜欢我可以请我吃小蛋糕^ ^\n不+v 不卖照片 无🚪不聊s\n私信会看内容回^ ^",
+        "id": "1979161342268366848",
+        "name": "咪",
+        "pinned_tweet_id": "2048776268011966512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018739851089391616/dbZZzVna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 68,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 430
+        },
+        "username": "HaiEn74076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012778298149892096"
+      ],
+      "media_source_tweet_id": [
+        "2012778301459177482"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2012832768565104713",
+    "created_at": "2026-01-18T10:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012832768565104713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764515583553576960",
+          "start": 3,
+          "username": "Gvuo_Rin"
+        },
+        {
+          "end": 25,
+          "id": "1621552410048237569",
+          "start": 14,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BniBWVY4qX",
+          "end": 49,
+          "expanded_url": "https://x.com/Gvuo_Rin/status/2012778301459177482/photo/1",
+          "media_key": "3_2012778298149892096",
+          "start": 26,
+          "url": "https://t.co/BniBWVY4qX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012832768565104713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012778301459177482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gvuo_Rin: @amecandy_x https://t.co/BniBWVY4qX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2012778298149892096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7TMrDW8AAuHRW.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012778298149892096"
+          ],
+          "media_source_tweet_id": [
+            "2012778301459177482"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2012832768565104713",
+        "created_at": "2026-01-18T10:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012832768565104713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764515583553576960",
+              "start": 3,
+              "username": "Gvuo_Rin"
+            },
+            {
+              "end": 25,
+              "id": "1621552410048237569",
+              "start": 14,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BniBWVY4qX",
+              "end": 49,
+              "expanded_url": "https://x.com/Gvuo_Rin/status/2012778301459177482/photo/1",
+              "media_key": "3_2012778298149892096",
+              "start": 26,
+              "url": "https://t.co/BniBWVY4qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012832768565104713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012778301459177482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gvuo_Rin: @amecandy_x https://t.co/BniBWVY4qX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012778298149892096"
+          ]
+        },
+        "author_id": "1764515583553576960",
+        "conversation_id": "2012709857808248886",
+        "created_at": "2026-01-18T06:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012778301459177482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BniBWVY4qX",
+              "end": 35,
+              "expanded_url": "https://x.com/Gvuo_Rin/status/2012778301459177482/photo/1",
+              "media_key": "3_2012778298149892096",
+              "start": 12,
+              "url": "https://t.co/BniBWVY4qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012778301459177482",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 374,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012709857808248886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x https://t.co/BniBWVY4qX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 10428,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 851
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:58:36.000Z",
+        "description": "筑摩江畔蘆盪里,點點篝火勢漸微,我身亦成灰.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "https://www.google.com",
+                "start": 0,
+                "url": "https://t.co/GKlWrlSkoX"
+              }
+            ]
+          }
+        },
+        "id": "1764515583553576960",
+        "location": "地球",
+        "name": "GvuoRin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827405759757611010/kAKRsTP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 70,
+          "like_count": 5658,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/GKlWrlSkoX",
+        "username": "Gvuo_Rin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack💻/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2012540204280905884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5103,
+          "following_count": 1753,
+          "like_count": 23432,
+          "listed_count": 15,
+          "media_count": 984,
+          "tweet_count": 8039
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

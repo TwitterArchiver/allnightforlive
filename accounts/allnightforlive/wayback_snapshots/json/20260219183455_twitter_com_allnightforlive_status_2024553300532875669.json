@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024553300532875669",
+    "created_at": "2026-02-19T18:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024553300532875669"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024553300532875669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實每一次逃跑都是想要給自己一點時間痛苦\n其實回想起來 自己好像也是個孩子 什麼都做不了\n\n對我而言成年跟未成年就是一條鴻溝 我只有成年跟未成年的選擇 其他的 我真的不知道\n\n我不知道 我什麼時候才能夠去看看醫生 我覺得我真的很需要幫助\n\n其實比起吃藥我更需要的是愛吧\n\n啊啊 其實全都是矯情的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024553300532875669",
+        "created_at": "2026-02-19T18:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024553300532875669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024553300532875669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實每一次逃跑都是想要給自己一點時間痛苦\n其實回想起來 自己好像也是個孩子 什麼都做不了\n\n對我而言成年跟未成年就是一條鴻溝 我只有成年跟未成年的選擇 其他的 我真的不知道\n\n我不知道 我什麼時候才能夠去看看醫生 我覺得我真的很需要幫助\n\n其實比起吃藥我更需要的是愛吧\n\n啊啊 其實全都是矯情的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 86,
+          "like_count": 13829,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1068
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

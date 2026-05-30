@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987460725745614848"
+      ],
+      "media_source_tweet_id": [
+        "1987460780095349215"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040538808618541087",
+    "created_at": "2026-04-04T21:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040538808618541087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1364587658010271748",
+          "start": 3,
+          "username": "wjdkeh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pxlJLLQG5d",
+          "end": 59,
+          "expanded_url": "https://x.com/nostalgicboss/status/1987460780095349215/video/1",
+          "media_key": "13_1987460725745614848",
+          "start": 36,
+          "url": "https://t.co/pxlJLLQG5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040538808618541087",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040078517694853345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wjdkeh: 진짜 사는거 좆나 힘드네 인생 탈퇴하고싶다 https://t.co/pxlJLLQG5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5781,
+        "height": 1280,
+        "media_key": "13_1987460725745614848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987460725745614848/img/5bxb2bKlhho3mqIn.jpg",
+        "public_metrics": {
+          "view_count": 2878566
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987460725745614848/vid/avc1/320x568/Ao3Fcb804BW6PhUg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987460725745614848/vid/avc1/480x852/knKu5TVhcpGjBmHu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987460725745614848/vid/avc1/720x1280/DIK61ENVfbUy-frP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987460725745614848/pl/kD04vPxYuZXuh5mS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987460725745614848"
+          ],
+          "media_source_tweet_id": [
+            "1987460780095349215"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040538808618541087",
+        "created_at": "2026-04-04T21:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040538808618541087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1364587658010271748",
+              "start": 3,
+              "username": "wjdkeh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxlJLLQG5d",
+              "end": 59,
+              "expanded_url": "https://x.com/nostalgicboss/status/1987460780095349215/video/1",
+              "media_key": "13_1987460725745614848",
+              "start": 36,
+              "url": "https://t.co/pxlJLLQG5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040538808618541087",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040078517694853345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wjdkeh: 진짜 사는거 좆나 힘드네 인생 탈퇴하고싶다 https://t.co/pxlJLLQG5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987460725745614848"
+          ],
+          "media_source_tweet_id": [
+            "1987460780095349215"
+          ]
+        },
+        "author_id": "1364587658010271748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040078517694853345",
+        "created_at": "2026-04-03T14:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040078517694853345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxlJLLQG5d",
+              "end": 47,
+              "expanded_url": "https://x.com/nostalgicboss/status/1987460780095349215/video/1",
+              "media_key": "13_1987460725745614848",
+              "start": 24,
+              "url": "https://t.co/pxlJLLQG5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040078517694853345",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3628,
+          "impression_count": 2438226,
+          "like_count": 50178,
+          "quote_count": 801,
+          "reply_count": 73,
+          "retweet_count": 13505
+        },
+        "reply_settings": "everyone",
+        "text": "진짜 사는거 좆나 힘드네 인생 탈퇴하고싶다 https://t.co/pxlJLLQG5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 17940,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1425
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T14:47:17.000Z",
+        "description": "사랑을하면사망",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/user67999",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/user67999",
+                "start": 0,
+                "url": "https://t.co/NVV2VpXGjl"
+              }
+            ]
+          }
+        },
+        "id": "1364587658010271748",
+        "name": "Tszoo",
+        "pinned_tweet_id": "2000024193086443875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028674723073363968/UnrmORFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 368,
+          "like_count": 49241,
+          "listed_count": 3,
+          "media_count": 1845,
+          "tweet_count": 9412
+        },
+        "url": "https://t.co/NVV2VpXGjl",
+        "username": "wjdkeh",
+        "verified": false
+      }
+    ]
+  }
+}

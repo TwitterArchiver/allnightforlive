@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989941843036180543",
+    "created_at": "2025-11-16T06:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989941843036180543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989941843036180543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很討厭自己厭惡或嫉妒的時候\n但我真的不能接受一個看起來與世無爭的傢伙可以隨便畫出能別人誇獎的東西，但他自己其實不厲害，平時畫的東西跟幼兒園一樣，只有仿畫的時候才能稍微厲害一點。\n我真的不能接受，就算他學習了怎麼做2d動畫，但畫的東西一樣很糟糕啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989941843036180543",
+        "created_at": "2025-11-16T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989941843036180543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989941843036180543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很討厭自己厭惡或嫉妒的時候\n但我真的不能接受一個看起來與世無爭的傢伙可以隨便畫出能別人誇獎的東西，但他自己其實不厲害，平時畫的東西跟幼兒園一樣，只有仿畫的時候才能稍微厲害一點。\n我真的不能接受，就算他學習了怎麼做2d動畫，但畫的東西一樣很糟糕啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7700,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 595
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

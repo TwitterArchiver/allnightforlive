@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022137527361253734",
+    "created_at": "2026-02-13T02:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022137530360246754"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022137530360246754",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022137527361253734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看著地上的盤子 感覺自己好像在乞討著什麼一樣\n\n思考了一下 原本我是要去搞點微波食品的\n\n雖然並不餓 我一直在告訴自己這件事\n\n我明明可以去打遊戲 這樣虛度時間也不錯\n\n但是我呢 拿了盤子 回了房間 聽著耳邊依存的聲音\n\n好痛\n他們還在嗎\n\n如果我消失就好了\n\n既然我 得不到他們的幸福 那我也可以去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022137527361253734",
+        "created_at": "2026-02-13T02:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022137530360246754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022137530360246754",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022137527361253734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看著地上的盤子 感覺自己好像在乞討著什麼一樣\n\n思考了一下 原本我是要去搞點微波食品的\n\n雖然並不餓 我一直在告訴自己這件事\n\n我明明可以去打遊戲 這樣虛度時間也不錯\n\n但是我呢 拿了盤子 回了房間 聽著耳邊依存的聲音\n\n好痛\n他們還在嗎\n\n如果我消失就好了\n\n既然我 得不到他們的幸福 那我也可以去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022137527361253734",
+        "created_at": "2026-02-13T02:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022137527361253734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022137527361253734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的下意義 是罰站\n\n有那麼一瞬間我覺得我 想要把盤子摔破\n然後 我聽到阿姨的聲音\n\n我逃回了房間 我覺得眼睛好疼\n我愣住了 就像是處理器故障了一樣 我動不了\n\n我想了想 好像 需要蹲下來一下\n\n然後我又站了一會\n因為我不知道該怎麼做\n\n蹲下的那一刻 我有點痛\n\n我好需要安靜 耳邊又傳來阿姨的聲音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12687,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 989
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

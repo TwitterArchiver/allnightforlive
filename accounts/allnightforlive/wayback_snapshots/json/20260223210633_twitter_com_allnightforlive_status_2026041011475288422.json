@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2026041011475288422",
+    "created_at": "2026-02-23T21:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T22:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026041011475288422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026041011475288422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同學真的好難繃啊 她就這樣給我隨便坐了 我也沒聽說有這種坐法 算了 反正她舒服就算了\n\n我真的隨便了 我不想再參入任何東西\n\n園遊會也是 真的好討厭啊 我也想要爭取給別人的權益 到最後我還是這麼孤單\n\n討厭好討厭\n\n我甚至不敢報出自己的班級了 好討厭啊喔喔喔喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2026041011475288422",
+        "created_at": "2026-02-23T21:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026041011475288422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026041011475288422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同學真的好難繃啊 她就這樣給我隨便坐了 我也沒聽說有這種坐法 算了 反正她舒服就算了\n\n我真的隨便了 我不想再參入任何東西\n\n園遊會也是 真的好討厭啊 我也想要爭取給別人的權益 到最後我還是這麼孤單\n\n討厭好討厭\n\n我甚至不敢報出自己的班級了 好討厭啊喔喔喔喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 88,
+          "like_count": 14361,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1103
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

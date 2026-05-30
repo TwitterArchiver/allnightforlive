@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040546874562879653",
+    "created_at": "2026-04-04T21:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040546874562879653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009594484989026307",
+          "start": 3,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040546874562879653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040354870302224553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiuJingDe953: 我这个人好像做事很容易变得歇斯底里，玩游戏锁定了一个目标这把游戏结局就是要么他死要么我死，挤痘痘只要看到里面还剩一点白色分泌物我哪怕把这块肉都挤得血肉模糊我也要把那点挤出来，吵架或者辩论也是必须得讨论出个所以然才行，不然我活着都不顺畅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040546874562879653",
+        "created_at": "2026-04-04T21:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040546874562879653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009594484989026307",
+              "start": 3,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040546874562879653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040354870302224553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiuJingDe953: 我这个人好像做事很容易变得歇斯底里，玩游戏锁定了一个目标这把游戏结局就是要么他死要么我死，挤痘痘只要看到里面还剩一点白色分泌物我哪怕把这块肉都挤得血肉模糊我也要把那点挤出来，吵架或者辩论也是必须得讨论出个所以然才行，不然我活着都不顺畅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2040354870302224553",
+        "created_at": "2026-04-04T09:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040354870302224553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040354870302224553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1484,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这个人好像做事很容易变得歇斯底里，玩游戏锁定了一个目标这把游戏结局就是要么他死要么我死，挤痘痘只要看到里面还剩一点白色分泌物我哪怕把这块肉都挤得血肉模糊我也要把那点挤出来，吵架或者辩论也是必须得讨论出个所以然才行，不然我活着都不顺畅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 18005,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1433
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 85,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 226
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

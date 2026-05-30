@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043697299449373104",
+    "created_at": "2026-04-13T14:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043697299449373104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043697299449373104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這麼說起來我還有八張。\n\n好痛苦 好難受 好想要停下來\n\n如果明年也有這個比賽呢\n\n我真的好想要讓人看到\n可是\n可是\n現在的我\n看到這個就。\n\n我不會再拖延了、真的 最後一次 再給我一點時間\n\n一天 一天兩幅 可以的\n\n。對不起 對不起 對不起 對不起 對不起 對不起\n\n在你眼裡很會說話的孩子一度想毒啞自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043697299449373104",
+        "created_at": "2026-04-13T14:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043697299449373104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043697299449373104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這麼說起來我還有八張。\n\n好痛苦 好難受 好想要停下來\n\n如果明年也有這個比賽呢\n\n我真的好想要讓人看到\n可是\n可是\n現在的我\n看到這個就。\n\n我不會再拖延了、真的 最後一次 再給我一點時間\n\n一天 一天兩幅 可以的\n\n。對不起 對不起 對不起 對不起 對不起 對不起\n\n在你眼裡很會說話的孩子一度想毒啞自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 96,
+          "like_count": 19392,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1542
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

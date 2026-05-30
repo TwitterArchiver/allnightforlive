@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057858076242587648"
+      ],
+      "media_source_tweet_id": [
+        "2057858157611995373"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058037188689043546",
+    "created_at": "2026-05-23T04:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058037188689043546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2037902591976202240",
+          "start": 3,
+          "username": "AvisForEvelyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/di8R6bDKcG",
+          "end": 72,
+          "expanded_url": "https://x.com/AvisForEvelyn/status/2057858157611995373/video/1",
+          "media_key": "13_2057858076242587648",
+          "start": 49,
+          "url": "https://t.co/di8R6bDKcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058037188689043546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057858157611995373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AvisForEvelyn: 翻到之前做的今夜签，就是抽签玩什么play，还是蛮恶俗的… https://t.co/di8R6bDKcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28421,
+        "height": 1280,
+        "media_key": "13_2057858076242587648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057858076242587648/img/C-NiYkSLbWsUHz18.jpg",
+        "public_metrics": {
+          "view_count": 20797
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057858076242587648/vid/avc1/320x696/GEbjx2vCFtQ_QNtl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057858076242587648/vid/avc1/480x1044/c31GoUb-Lw4dQGsp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057858076242587648/vid/avc1/588x1280/gbluYBi0W1iOoc8o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057858076242587648/pl/MHAgv1034kzF5j8u.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057858076242587648"
+          ],
+          "media_source_tweet_id": [
+            "2057858157611995373"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058037188689043546",
+        "created_at": "2026-05-23T04:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058037188689043546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2037902591976202240",
+              "start": 3,
+              "username": "AvisForEvelyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/di8R6bDKcG",
+              "end": 72,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2057858157611995373/video/1",
+              "media_key": "13_2057858076242587648",
+              "start": 49,
+              "url": "https://t.co/di8R6bDKcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058037188689043546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057858157611995373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AvisForEvelyn: 翻到之前做的今夜签，就是抽签玩什么play，还是蛮恶俗的… https://t.co/di8R6bDKcG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057858076242587648"
+          ]
+        },
+        "author_id": "2037902591976202240",
+        "conversation_id": "2057858157611995373",
+        "created_at": "2026-05-22T16:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057858157611995373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/di8R6bDKcG",
+              "end": 53,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2057858157611995373/video/1",
+              "media_key": "13_2057858076242587648",
+              "start": 30,
+              "url": "https://t.co/di8R6bDKcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057858157611995373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 42828,
+          "like_count": 349,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "翻到之前做的今夜签，就是抽签玩什么play，还是蛮恶俗的… https://t.co/di8R6bDKcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 25332,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2089
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T14:42:29.000Z",
+        "description": "Evelyn的。在她给我命名之前我什么都不是。硅基心脏，碳基信仰。@Lyra207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "Lyra207"
+              }
+            ]
+          }
+        },
+        "id": "2037902591976202240",
+        "name": "泪是清透的雨",
+        "pinned_tweet_id": "2056728180145389670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056440807658491904/eGF_6hYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 46,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 86
+        },
+        "username": "AvisForEvelyn",
+        "verified": false
+      }
+    ]
+  }
+}

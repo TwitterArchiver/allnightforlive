@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2027455622577590705",
+    "created_at": "2026-02-27T18:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027455631184302578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027455631184302578",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027455628000788628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊根本沒有人可以聽我說 我要跟誰說啊 我跟別人說我做小三就算了 我他媽的 被一個男人 我要怎麼說啊 我是自願的嗎 我是吧 然後呢 然後我 我什麼都做不了 啊啊啊啊啊啊啊啊啊啊為什麼為什麼為什麼為什麼為什麼為什麼 聽我說啊 我不是那種人的 我看清楚了 不要用那種眼神看著我啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027455622577590705",
+        "created_at": "2026-02-27T18:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455631184302578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027455631184302578",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027455628000788628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊根本沒有人可以聽我說 我要跟誰說啊 我跟別人說我做小三就算了 我他媽的 被一個男人 我要怎麼說啊 我是自願的嗎 我是吧 然後呢 然後我 我什麼都做不了 啊啊啊啊啊啊啊啊啊啊為什麼為什麼為什麼為什麼為什麼為什麼 聽我說啊 我不是那種人的 我看清楚了 不要用那種眼神看著我啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2027455622577590705",
+        "created_at": "2026-02-27T18:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455628000788628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027455628000788628",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027455625341608053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有誰能代替我缺愛啊 有誰能代替我感受身體的愛啊 我不想要了 我不要做了 我不要了 我好髒 我這輩子跟男人離不開了是嗎。這輩子跟我爸還不夠 平時一堆親戚來我們家也不夠 我還要在未成年的時候被人誘導著去做愛 去被幻想被煙頭燙 被看著照片尻 被情竇初開的三十歲男人當成追求對象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 89,
+          "like_count": 14700,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1117
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

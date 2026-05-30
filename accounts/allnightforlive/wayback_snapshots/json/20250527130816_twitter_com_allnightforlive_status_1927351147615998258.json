@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1927351138388521370",
+    "created_at": "2025-05-27T13:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927351147615998258"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927351147615998258",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927351141190316223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果鏡頭再下面一點一定更美，我沒看過你睡醒，因為你家沒有我的位子。\n我會在那一天去搶她拋的花吧？\n我的幸福裡也不會有你了吧？\n打從開始似乎就不存在的第三者，正如同我試圖抽離一般，被強制拉了回來。\n愛你。因為我只能愛你。\n我在選擇一個虛擬人物當作夢中角色時，仍然會放棄般的把你代入。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1927351138388521370",
+        "created_at": "2025-05-27T13:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927351147615998258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927351147615998258",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927351141190316223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果鏡頭再下面一點一定更美，我沒看過你睡醒，因為你家沒有我的位子。\n我會在那一天去搶她拋的花吧？\n我的幸福裡也不會有你了吧？\n打從開始似乎就不存在的第三者，正如同我試圖抽離一般，被強制拉了回來。\n愛你。因為我只能愛你。\n我在選擇一個虛擬人物當作夢中角色時，仍然會放棄般的把你代入。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1927351138388521370",
+        "created_at": "2025-05-27T13:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927351141190316223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927351141190316223",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927351138388521370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我分泌的是催產素，你開啟的是聖人模式；我變得更愛你了，你似乎讓我漸漸話多了起來；我說，你沒聽，你聽不見，我也沒讓你知道；我累了，我睏了，我睡著了，我在你起床的前一個小時醒來，發現你窗戶的光真的很美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 74,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 307
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

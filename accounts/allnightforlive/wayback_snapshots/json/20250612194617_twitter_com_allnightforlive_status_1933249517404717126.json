@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1933249501281845480",
+    "created_at": "2025-06-12T19:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933249517404717126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933249517404717126",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933249514410000807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她值得你放在眼底一輩子。\n我值得你擁有過。\n\n畢竟我不想承認，我的付出只能得到一星好評。\n\n說個最後的謊。\n\n告訴她你從沒愛過我。\n告訴我你從沒愛過我。\n\n讓她永遠陪你。\n讓我永遠死在你的記憶裡。\n\n婚禮那天我會出席。\n\n喜歡紅色的我怎麼可能會穿紅色呢？\n主角可不是我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249517404717126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249517404717126",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933249514410000807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她值得你放在眼底一輩子。\n我值得你擁有過。\n\n畢竟我不想承認，我的付出只能得到一星好評。\n\n說個最後的謊。\n\n告訴她你從沒愛過我。\n告訴我你從沒愛過我。\n\n讓她永遠陪你。\n讓我永遠死在你的記憶裡。\n\n婚禮那天我會出席。\n\n喜歡紅色的我怎麼可能會穿紅色呢？\n主角可不是我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1933249501281845480",
+        "created_at": "2025-06-12T19:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933249514410000807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933249514410000807",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933249511071363320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我記得我嫉妒著你的臉。\n你那貪戀的表情。\n真的是，很讓人嫉妒啊。\n\n當你被拒絕的時候，很難過吧？\n很痛對吧？\n\n我多想告訴你，我曾經這樣五年之久。\n我多想把傷疤全都給你看，讓你有片刻的心疼我。\n\n這樣你就會多愛我一點吧？\n\n此刻的你仍然愛我就好了。\n當你的眼裡塞不下我的時候。\n請記得把我扔出來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 5065,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 369
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

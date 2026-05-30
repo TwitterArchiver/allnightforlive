@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1932981182599401785",
+    "created_at": "2025-06-12T10:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T11:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933104659058897242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478171776295514113",
+          "start": 0,
+          "username": "DDrefuge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933104659058897242",
+    "in_reply_to_user_id": "1478171776295514113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932981182599401785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDrefuge 想說為什麼會被推這則。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1932981182599401785",
+        "created_at": "2025-06-12T10:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933104659058897242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478171776295514113",
+              "start": 0,
+              "username": "DDrefuge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933104659058897242",
+        "in_reply_to_user_id": "1478171776295514113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932981182599401785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDrefuge 想說為什麼會被推這則。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478171776295514113",
+        "conversation_id": "1932981182599401785",
+        "created_at": "2025-06-12T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932981182599401785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "匿名發言4017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932981182599401785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 25172,
+          "like_count": 385,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#匿名發言4017\n\n主頁推了一個叫黑翼冰嵐的V，推的文章是在講跟哥哥在更衣室然後要對哥哥的GG做什麼，額⋯這是親哥？真的有人會賣這種人設？不理解真的不理解 自己是有兄弟姐妹看到在文章腦子當機了，拜託他的粉絲告訴我這一切都是假的人設而已⋯\n\n審文者：那是人家對她男友的暱稱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 5005,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 362
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T01:10:55.000Z",
+        "description": "新創Discord伺服器歡迎大家加入！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ez6NjF9J2n",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ez6NjF9J2n",
+                "start": 0,
+                "url": "https://t.co/BXjZXgXi7q"
+              }
+            ]
+          }
+        },
+        "id": "1478171776295514113",
+        "location": "台灣",
+        "name": "避難所",
+        "pinned_tweet_id": "1914701923309248853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660249958761779203/PndKmNAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15530,
+          "following_count": 48,
+          "like_count": 7108,
+          "listed_count": 19,
+          "media_count": 2054,
+          "tweet_count": 5852
+        },
+        "url": "https://t.co/BXjZXgXi7q",
+        "username": "DDrefuge",
+        "verified": true
+      }
+    ]
+  }
+}

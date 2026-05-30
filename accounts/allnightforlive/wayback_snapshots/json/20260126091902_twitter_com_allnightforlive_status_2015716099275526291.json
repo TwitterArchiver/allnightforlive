@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2015638174987583517",
+    "created_at": "2026-01-26T09:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015716099275526291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015716099275526291",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015638174987583517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 我阿嬤會拿著蠟燭探進家養的小老鼠用布搭的窩去看它，被人抓到會在三秒內把蠟燭吹滅，然後馬上說他沒有做過這種事\n他會拿風油精去澆小老鼠的窩，他甚至不知道那會不會毒死它\n有時候真的不是他們沒道德，他們只是蠢🉐不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2015638174987583517",
+        "created_at": "2026-01-26T09:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015716099275526291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015716099275526291",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015638174987583517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 我阿嬤會拿著蠟燭探進家養的小老鼠用布搭的窩去看它，被人抓到會在三秒內把蠟燭吹滅，然後馬上說他沒有做過這種事\n他會拿風油精去澆小老鼠的窩，他甚至不知道那會不會毒死它\n有時候真的不是他們沒道德，他們只是蠢🉐不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2015638174987583517",
+        "created_at": "2026-01-26T04:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015638174987583517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015638174987583517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8902,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "老一辈的人好恐怖……\n在商场里看到了用小动物来当玩具的“游乐园”，有小孩提着小鸟的尾巴在甩，他爸爸在拍照……\n还有很多小孩在玩弄动物，可是没有一个大人制止。\n他们那一辈人到底经历了什么，怎么可以这么麻木这么残忍。他们接受了怎样的教育，经历了怎样的竞争，我真的好奇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 85,
+          "like_count": 11180,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 893
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 188,
+          "like_count": 30311,
+          "listed_count": 18,
+          "media_count": 342,
+          "tweet_count": 7290
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

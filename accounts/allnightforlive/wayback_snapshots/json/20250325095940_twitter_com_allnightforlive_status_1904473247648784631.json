@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1903877471868772863",
+    "created_at": "2025-03-25T09:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T10:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904473247648784631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825826681485144064",
+          "start": 0,
+          "username": "guagua52013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904473247648784631",
+    "in_reply_to_user_id": "1825826681485144064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903877471868772863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guagua52013 一直以來都辛苦你了呢，不開心的話就讓被子接住你的眼淚吧，床單濕了也沒關係，心情好的時候再洗吧，今天的你依然努力的活著，真是太好了呢。糟糕的想法當然可以有喔，千萬不要把自己憋著了，春天的花、夏天的雨、秋天的風、冬天的溫暖都如此令人著迷，不是嗎？為了更好的明天，我們一起加油好嘛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1903877471868772863",
+        "created_at": "2025-03-25T09:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T10:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904473247648784631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825826681485144064",
+              "start": 0,
+              "username": "guagua52013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904473247648784631",
+        "in_reply_to_user_id": "1825826681485144064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903877471868772863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guagua52013 一直以來都辛苦你了呢，不開心的話就讓被子接住你的眼淚吧，床單濕了也沒關係，心情好的時候再洗吧，今天的你依然努力的活著，真是太好了呢。糟糕的想法當然可以有喔，千萬不要把自己憋著了，春天的花、夏天的雨、秋天的風、冬天的溫暖都如此令人著迷，不是嗎？為了更好的明天，我們一起加油好嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825826681485144064",
+        "conversation_id": "1903877471868772863",
+        "created_at": "2025-03-23T18:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903877471868772863"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "00b51c7d1aee21d3"
+        },
+        "id": "1903877471868772863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 267261,
+          "like_count": 3040,
+          "quote_count": 0,
+          "reply_count": 2025,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，陌生人  \n雖然跟你不認識\n但可以留一句「加油」給我嗎？\n讓我還有力氣繼續撐下去\n搞得我快崩潰了🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 62,
+          "like_count": 3031,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 247
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T09:26:25.000Z",
+        "description": "#請大家加入帶有禮貌 zzᙆ ᙆᙆ  不喜請勿擾\n謝謝喜歡   #付費約會    #本人經營 \n#唯一聯絡方式  https://t.co/viALDpZdON",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "請大家加入帶有禮貌"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "付費約會"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "本人經營"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "唯一聯絡方式"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/guaguawan",
+                "end": 80,
+                "expanded_url": "https://t.me/guaguawan",
+                "start": 57,
+                "url": "https://t.co/viALDpZdON"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tnanpaopao0",
+                "end": 23,
+                "expanded_url": "https://t.me/tnanpaopao0",
+                "start": 0,
+                "url": "https://t.co/vGJkevsM7B"
+              }
+            ]
+          }
+        },
+        "id": "1825826681485144064",
+        "location": "台南專屬小瓜澀澀",
+        "name": "🍉🍉",
+        "pinned_tweet_id": "1902656328285257868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898439354122670080/SZikyGsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46118,
+          "following_count": 2,
+          "like_count": 674,
+          "listed_count": 30,
+          "media_count": 200,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/vGJkevsM7B",
+        "username": "guagua52013",
+        "verified": false
+      }
+    ]
+  }
+}

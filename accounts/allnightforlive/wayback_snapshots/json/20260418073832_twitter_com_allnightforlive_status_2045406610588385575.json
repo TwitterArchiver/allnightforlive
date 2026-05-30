@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045375845733421224",
+    "created_at": "2026-04-18T07:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045406610588385575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "765015964693901313",
+          "start": 0,
+          "username": "JohnchenOrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045406610588385575",
+    "in_reply_to_user_id": "765015964693901313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045375845733421224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnchenOrz 醫生：（想換工作）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045375845733421224",
+        "created_at": "2026-04-18T07:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045406610588385575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "765015964693901313",
+              "start": 0,
+              "username": "JohnchenOrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045406610588385575",
+        "in_reply_to_user_id": "765015964693901313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045375845733421224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnchenOrz 醫生：（想換工作）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765015964693901313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045375845733421224",
+        "created_at": "2026-04-18T05:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045375845733421224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045375845733421224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3792,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為健康檢查被寫了一條紅字：即刻複檢\n\n所以去複檢了。\n\n醫生「你一年體重增加了10公斤，你生活上有什麼重大改變嗎？」\n我「換工作薪水變好了」\n醫生「喔？」\n我「從餐餐吃泡麵跟冷凍食品變成定食套餐拉麵漢堡，想吃什麼就吃什麼」\n醫生「...那很好」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 101,
+          "like_count": 20698,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1614
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-15T02:43:14.000Z",
+        "description": "『貴様、何者だ！』\n「通りすがりの一般人だ！」",
+        "id": "765015964693901313",
+        "name": "X燒焦肉-John",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547052332139302913/pi6ViM-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4359,
+          "following_count": 4619,
+          "like_count": 188388,
+          "listed_count": 32,
+          "media_count": 6369,
+          "tweet_count": 64307
+        },
+        "username": "JohnchenOrz",
+        "verified": true
+      }
+    ]
+  }
+}

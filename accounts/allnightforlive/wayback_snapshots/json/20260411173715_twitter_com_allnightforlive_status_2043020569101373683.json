@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043020569101373683",
+    "created_at": "2026-04-11T17:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043020569101373683"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043020569101373683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實哭也沒什麼用吧 其實完全不認識他對吧\n\n一直當假粉的你 甚至會為了人死亡而哭泣嗎 \n\n好可恨啊 一點也畫不下去了 我已經 畫不下去了 為什麼他笑得這麼開心呢 好痛苦\n\n一定要幸福 今天的我不痛不癢的這麼說著 或許明天也會有人死去吧\n\n啊啊 好想 好想要失去意識 痛苦怎麼 一直虐待我呢\n\n我也想要死掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043020569101373683",
+        "created_at": "2026-04-11T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043020569101373683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043020569101373683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實哭也沒什麼用吧 其實完全不認識他對吧\n\n一直當假粉的你 甚至會為了人死亡而哭泣嗎 \n\n好可恨啊 一點也畫不下去了 我已經 畫不下去了 為什麼他笑得這麼開心呢 好痛苦\n\n一定要幸福 今天的我不痛不癢的這麼說著 或許明天也會有人死去吧\n\n啊啊 好想 好想要失去意識 痛苦怎麼 一直虐待我呢\n\n我也想要死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18724,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1488
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

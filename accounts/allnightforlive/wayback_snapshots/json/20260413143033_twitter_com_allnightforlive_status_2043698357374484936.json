@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043373991516311756",
+    "created_at": "2026-04-13T14:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043698357374484936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043698357374484936",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043373991516311756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 有時候動一動或是被劃到都會有這種錯覺\n、幻痛w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043373981957554177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuFz3HbAAEoLrZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043373982595137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuFz5fbwAA3ZK0.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043373991516311756",
+        "created_at": "2026-04-13T14:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043698357374484936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043698357374484936",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043373991516311756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 有時候動一動或是被劃到都會有這種錯覺\n、幻痛w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043373981957554177",
+            "3_2043373982595137536"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043373991516311756",
+        "created_at": "2026-04-12T17:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043373991516311756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJxOY6muXX",
+              "end": 51,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043373991516311756/photo/1",
+              "media_key": "3_2043373981957554177",
+              "start": 28,
+              "url": "https://t.co/BJxOY6muXX"
+            },
+            {
+              "display_url": "pic.x.com/BJxOY6muXX",
+              "end": 51,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043373991516311756/photo/1",
+              "media_key": "3_2043373982595137536",
+              "start": 28,
+              "url": "https://t.co/BJxOY6muXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043373991516311756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5542,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我偶尔也会冒出诸如“把手上的筋割了会怎么样”这种念头。 https://t.co/BJxOY6muXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 97,
+          "like_count": 19419,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1545
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043608747449500052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 2901,
+          "like_count": 22201,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 5799
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

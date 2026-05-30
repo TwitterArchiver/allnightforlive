@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022251190696988673"
+      ],
+      "media_source_tweet_id": [
+        "2022251196569002051"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2022307864791097503",
+    "created_at": "2026-02-13T13:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022307864791097503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUfpot8Tt9",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/2022251196569002051/photo/1",
+          "media_key": "3_2022251190696988673",
+          "start": 12,
+          "url": "https://t.co/PUfpot8Tt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022307864791097503",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022251196569002051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/PUfpot8Tt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2022251190696988673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB6vlwa0AEietx.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022251190696988673"
+          ],
+          "media_source_tweet_id": [
+            "2022251196569002051"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2022307864791097503",
+        "created_at": "2026-02-13T13:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022307864791097503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUfpot8Tt9",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/2022251196569002051/photo/1",
+              "media_key": "3_2022251190696988673",
+              "start": 12,
+              "url": "https://t.co/PUfpot8Tt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022307864791097503",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022251196569002051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: https://t.co/PUfpot8Tt9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022251190696988673"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2022251196569002051",
+        "created_at": "2026-02-13T10:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022251196569002051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUfpot8Tt9",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2022251196569002051/photo/1",
+              "media_key": "3_2022251190696988673",
+              "start": 0,
+              "url": "https://t.co/PUfpot8Tt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022251196569002051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 18481,
+          "like_count": 546,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PUfpot8Tt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12828,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 999
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99702,
+          "following_count": 699,
+          "like_count": 34134,
+          "listed_count": 283,
+          "media_count": 15930,
+          "tweet_count": 22837
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

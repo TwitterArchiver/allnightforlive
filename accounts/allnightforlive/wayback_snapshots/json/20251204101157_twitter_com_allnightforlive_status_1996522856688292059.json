@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996403779579891712"
+      ],
+      "media_source_tweet_id": [
+        "1996403782478123047"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "1996522856688292059",
+    "created_at": "2025-12-04T10:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996522856688292059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "description": "随时随地「異議あり！」",
+          "display_url": "shoyu3.github.io/Portable-objec…",
+          "end": 36,
+          "expanded_url": "https://shoyu3.github.io/Portable-objection/",
+          "start": 13,
+          "status": 200,
+          "title": "随身异议",
+          "unwound_url": "https://shoyu3.github.io/Portable-objection/",
+          "url": "https://t.co/IzybAXmVSz"
+        },
+        {
+          "display_url": "pic.x.com/oEqzd2o9g7",
+          "end": 60,
+          "expanded_url": "https://x.com/hsn8086/status/1996403782478123047/photo/1",
+          "media_key": "3_1996403779579891712",
+          "start": 37,
+          "url": "https://t.co/oEqzd2o9g7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996522856688292059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996403782478123047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/IzybAXmVSz https://t.co/oEqzd2o9g7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996403779579891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7SmqP4bUAAwzEu.jpg",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996403779579891712"
+          ],
+          "media_source_tweet_id": [
+            "1996403782478123047"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "1996522856688292059",
+        "created_at": "2025-12-04T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996522856688292059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "description": "随时随地「異議あり！」",
+              "display_url": "shoyu3.github.io/Portable-objec…",
+              "end": 36,
+              "expanded_url": "https://shoyu3.github.io/Portable-objection/",
+              "start": 13,
+              "status": 200,
+              "title": "随身异议",
+              "unwound_url": "https://shoyu3.github.io/Portable-objection/",
+              "url": "https://t.co/IzybAXmVSz"
+            },
+            {
+              "display_url": "pic.x.com/oEqzd2o9g7",
+              "end": 60,
+              "expanded_url": "https://x.com/hsn8086/status/1996403782478123047/photo/1",
+              "media_key": "3_1996403779579891712",
+              "start": 37,
+              "url": "https://t.co/oEqzd2o9g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996522856688292059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996403782478123047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/IzybAXmVSz https://t.co/oEqzd2o9g7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996403779579891712"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1996403782478123047",
+        "created_at": "2025-12-04T02:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996403782478123047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "随时随地「異議あり！」",
+              "display_url": "shoyu3.github.io/Portable-objec…",
+              "end": 23,
+              "expanded_url": "https://shoyu3.github.io/Portable-objection/",
+              "start": 0,
+              "status": 200,
+              "title": "随身异议",
+              "unwound_url": "https://shoyu3.github.io/Portable-objection/",
+              "url": "https://t.co/IzybAXmVSz"
+            },
+            {
+              "display_url": "pic.x.com/oEqzd2o9g7",
+              "end": 47,
+              "expanded_url": "https://x.com/hsn8086/status/1996403782478123047/photo/1",
+              "media_key": "3_1996403779579891712",
+              "start": 24,
+              "url": "https://t.co/oEqzd2o9g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996403782478123047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1434,
+          "impression_count": 312732,
+          "like_count": 3625,
+          "quote_count": 21,
+          "reply_count": 39,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IzybAXmVSz https://t.co/oEqzd2o9g7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 8092,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 635
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110969,
+          "following_count": 1006,
+          "like_count": 47676,
+          "listed_count": 246,
+          "media_count": 17731,
+          "tweet_count": 26426
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2042671252700361045",
+    "created_at": "2026-04-10T18:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042671252700361045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042671252700361045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "意志是我活著的方式\n\n我賴以維生的 一直都是我的意志在堅持著硬是讓我活下去\n\n結果你說我的堅持原來是可笑的錯誤嗎？\n\n在我捍衛原則跟厭惡當前情況下那傢伙的惡劣行為 你說我錯得離譜\n\n果然嗎 當你們都把我推到台前當出頭鳥 最後妳說我影響了所有人\n\n好可憐 我好可憐 早就意識到了 但我不承認也沒用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2042671252700361045",
+        "created_at": "2026-04-10T18:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042671252700361045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042671252700361045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意志是我活著的方式\n\n我賴以維生的 一直都是我的意志在堅持著硬是讓我活下去\n\n結果你說我的堅持原來是可笑的錯誤嗎？\n\n在我捍衛原則跟厭惡當前情況下那傢伙的惡劣行為 你說我錯得離譜\n\n果然嗎 當你們都把我推到台前當出頭鳥 最後妳說我影響了所有人\n\n好可憐 我好可憐 早就意識到了 但我不承認也沒用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18622,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1480
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

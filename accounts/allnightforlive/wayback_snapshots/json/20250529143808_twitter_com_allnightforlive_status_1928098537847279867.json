@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1928098537847279867",
+    "created_at": "2025-05-29T14:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928098537847279867"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928098537847279867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我乖乖的話 就會被喜歡了吧？\n我好看的話 就會被追捧了吧？\n\n所以不適合這個環境這件事情也可以被藏起來的。\n所以心理問題是可以被我漠視的。\n所以我那樣不健康的關係是可以隨時放棄的。\n\n明天我就會離開。\n明天的我不會是我。\n是接手我的外星人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1928098537847279867",
+        "created_at": "2025-05-29T14:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T15:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928098537847279867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928098537847279867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我乖乖的話 就會被喜歡了吧？\n我好看的話 就會被追捧了吧？\n\n所以不適合這個環境這件事情也可以被藏起來的。\n所以心理問題是可以被我漠視的。\n所以我那樣不健康的關係是可以隨時放棄的。\n\n明天我就會離開。\n明天的我不會是我。\n是接手我的外星人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 _關鍵字-妄想.矛盾.自卑.假性遲鈍.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 74,
+          "like_count": 4471,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 314
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

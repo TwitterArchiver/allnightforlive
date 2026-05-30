@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957033359403622400"
+      ],
+      "media_source_tweet_id": [
+        "1957033401254314044"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989951839367032833",
+    "created_at": "2025-11-16T07:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989951839367032833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1627347502646034432",
+          "start": 3,
+          "username": "greendreaams"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9UtPptKibU",
+          "end": 73,
+          "expanded_url": "https://x.com/greendreaams/status/1957033401254314044/video/1",
+          "media_key": "7_1957033359403622400",
+          "start": 50,
+          "url": "https://t.co/9UtPptKibU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989951839367032833",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989727809565335931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @greendreaams: We share the earth, not own it  https://t.co/9UtPptKibU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 1280,
+        "media_key": "7_1957033359403622400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957033359403622400/pu/img/L8ItSMSdFH37C-Xo.jpg",
+        "public_metrics": {
+          "view_count": 265431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957033359403622400/pu/vid/avc1/320x568/S8m_NOHK-ikMLWXv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957033359403622400/pu/vid/avc1/480x852/PU_Q7ES39_cu_6eF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957033359403622400/pu/vid/avc1/720x1280/d9FSuCJ5ZgbFBq7V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957033359403622400/pu/pl/do3cL7PfL0SlUADp.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957033359403622400"
+          ],
+          "media_source_tweet_id": [
+            "1957033401254314044"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989951839367032833",
+        "created_at": "2025-11-16T07:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989951839367032833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1627347502646034432",
+              "start": 3,
+              "username": "greendreaams"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UtPptKibU",
+              "end": 73,
+              "expanded_url": "https://x.com/greendreaams/status/1957033401254314044/video/1",
+              "media_key": "7_1957033359403622400",
+              "start": 50,
+              "url": "https://t.co/9UtPptKibU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989951839367032833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989727809565335931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @greendreaams: We share the earth, not own it  https://t.co/9UtPptKibU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957033359403622400"
+          ],
+          "media_source_tweet_id": [
+            "1957033401254314044"
+          ]
+        },
+        "author_id": "1627347502646034432",
+        "conversation_id": "1989727809565335931",
+        "created_at": "2025-11-15T16:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989727809565335931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UtPptKibU",
+              "end": 55,
+              "expanded_url": "https://x.com/greendreaams/status/1957033401254314044/video/1",
+              "media_key": "7_1957033359403622400",
+              "start": 32,
+              "url": "https://t.co/9UtPptKibU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989727809565335931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 99717,
+          "like_count": 10569,
+          "quote_count": 45,
+          "reply_count": 31,
+          "retweet_count": 2136
+        },
+        "reply_settings": "everyone",
+        "text": "We share the earth, not own it  https://t.co/9UtPptKibU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7745,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 596
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T16:41:02.000Z",
+        "description": "photo account",
+        "id": "1627347502646034432",
+        "name": "ᅠ ᅠ",
+        "pinned_tweet_id": "1940911599646290246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660291208990564353/C5mdkMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343460,
+          "following_count": 30,
+          "like_count": 20430,
+          "listed_count": 1079,
+          "media_count": 15199,
+          "tweet_count": 15839
+        },
+        "username": "greendreaams",
+        "verified": true
+      }
+    ]
+  }
+}

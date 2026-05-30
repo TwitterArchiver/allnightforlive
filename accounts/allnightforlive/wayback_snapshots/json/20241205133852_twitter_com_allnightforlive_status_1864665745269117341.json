@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1864665728584176015",
+    "created_at": "2024-12-05T13:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T14:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864665745269117341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864665745269117341",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864665735576129785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我還是得一次次的阻止自己看著身上的肉評估要去哪裡落下劃痕呢^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1864665728584176015",
+        "created_at": "2024-12-05T13:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T14:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864665745269117341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864665745269117341",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864665735576129785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我還是得一次次的阻止自己看著身上的肉評估要去哪裡落下劃痕呢^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1864665728584176015",
+        "created_at": "2024-12-05T13:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T14:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864665735576129785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864665735576129785",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864665733042737592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我會將即將癒合的傷痕再次劃開，一次又一次，為了讓對方再多關心我一點。\n\n可是我知道沒有人。所以我無法自殘，我無法抱著一個人，我無法對著某人傾訴，我仍然是那個破碎一地沒人清掃的贗品花瓶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 104
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

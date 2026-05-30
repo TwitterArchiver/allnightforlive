@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2059933655829717052",
+    "created_at": "2026-05-28T09:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059933655829717052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059933655829717052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的 那因為恨意而露出的瞳孔\n\n因焦躁而散亂的頭髮\n\n是的 就連那陰影也恰到好處\n\n你想討好所有人嗎\n\n不\n你仍然為了活下去而尋找著那自癒的魔法\n\n你是瘋子吧\n\n果然還是\n\n對殺人這種事情 太渴望了解了\n\n你是個被侵犯過的孩子\n\n你是個精神衰弱的瘋子\n\n你為什麼不是可悲的殺人犯\n\n是因為你想不到完美犯罪嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2059933655829717052",
+        "created_at": "2026-05-28T09:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059933655829717052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059933655829717052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的 那因為恨意而露出的瞳孔\n\n因焦躁而散亂的頭髮\n\n是的 就連那陰影也恰到好處\n\n你想討好所有人嗎\n\n不\n你仍然為了活下去而尋找著那自癒的魔法\n\n你是瘋子吧\n\n果然還是\n\n對殺人這種事情 太渴望了解了\n\n你是個被侵犯過的孩子\n\n你是個精神衰弱的瘋子\n\n你為什麼不是可悲的殺人犯\n\n是因為你想不到完美犯罪嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25898,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2122
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

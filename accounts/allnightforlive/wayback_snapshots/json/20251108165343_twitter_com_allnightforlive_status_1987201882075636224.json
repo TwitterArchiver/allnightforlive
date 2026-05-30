@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1987201878674055190",
+    "created_at": "2025-11-08T16:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987201882075636224"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987201882075636224",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987201878674055190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我願意放過你，願意停止從你身上索求情緒價值的話。\n你能不能稍微的\n沒事 其實還是想要索求情緒價值而已\n其實就是真的很痛苦吧\n其實真的不想要那樣\n但果然就是寧願被侵犯這樣⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987201878674055190",
+        "created_at": "2025-11-08T16:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987201882075636224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987201882075636224",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987201878674055190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我願意放過你，願意停止從你身上索求情緒價值的話。\n你能不能稍微的\n沒事 其實還是想要索求情緒價值而已\n其實就是真的很痛苦吧\n其實真的不想要那樣\n但果然就是寧願被侵犯這樣⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1987201878674055190",
+        "created_at": "2025-11-08T16:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987201878674055190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987201878674055190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相差十歲而已其實，其實真的只是一個比較大的哥哥而已。\n可是好像真的很不常聊天呢。\n我真的很不會說話。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 7470,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 524
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

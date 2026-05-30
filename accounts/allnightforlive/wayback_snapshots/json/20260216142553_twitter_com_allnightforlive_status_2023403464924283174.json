@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023027603431727104"
+      ],
+      "media_source_tweet_id": [
+        "2023027606019559890"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2023403464924283174",
+    "created_at": "2026-02-16T14:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023403464924283174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z19cykSV6h",
+          "end": 59,
+          "expanded_url": "https://x.com/DXMDusk/status/2023027606019559890/photo/1",
+          "media_key": "3_2023027603431727104",
+          "start": 36,
+          "url": "https://t.co/z19cykSV6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023403464924283174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023027606019559890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 也许时间也是一种解药\n也是我现在正服下的毒药 https://t.co/z19cykSV6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2023027603431727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM84wlboAA-dld.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023027603431727104"
+          ],
+          "media_source_tweet_id": [
+            "2023027606019559890"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2023403464924283174",
+        "created_at": "2026-02-16T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023403464924283174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z19cykSV6h",
+              "end": 59,
+              "expanded_url": "https://x.com/DXMDusk/status/2023027606019559890/photo/1",
+              "media_key": "3_2023027603431727104",
+              "start": 36,
+              "url": "https://t.co/z19cykSV6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023403464924283174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023027606019559890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 也许时间也是一种解药\n也是我现在正服下的毒药 https://t.co/z19cykSV6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023027603431727104"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023027606019559890",
+        "created_at": "2026-02-15T13:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023027606019559890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z19cykSV6h",
+              "end": 46,
+              "expanded_url": "https://x.com/DXMDusk/status/2023027606019559890/photo/1",
+              "media_key": "3_2023027603431727104",
+              "start": 23,
+              "url": "https://t.co/z19cykSV6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023027606019559890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12375,
+          "like_count": 480,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "也许时间也是一种解药\n也是我现在正服下的毒药 https://t.co/z19cykSV6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 13262,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1035
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 158,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 361
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

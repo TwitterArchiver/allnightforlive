@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1929077930228891934",
+    "created_at": "2025-06-01T07:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T08:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929077930228891934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796903090551132160",
+          "start": 3,
+          "username": "ysy_Teriberak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929077930228891934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928358566576148968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysy_Teriberak: 你好像是一个典型的缺爱者，谁陪在你的身边，你就对谁产生依赖。如果有新的人陪你，你很快就会忘记上一个人离去带来的悲伤。你对谁都没有爱，又好像对谁都爱，你只是想被爱而已，你把他们当成你的救命稻草，但其实你只是缺一个人陪。你爱不上任何人，你也恐惧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1929077930228891934",
+        "created_at": "2025-06-01T07:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929077930228891934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796903090551132160",
+              "start": 3,
+              "username": "ysy_Teriberak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929077930228891934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928358566576148968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysy_Teriberak: 你好像是一个典型的缺爱者，谁陪在你的身边，你就对谁产生依赖。如果有新的人陪你，你很快就会忘记上一个人离去带来的悲伤。你对谁都没有爱，又好像对谁都爱，你只是想被爱而已，你把他们当成你的救命稻草，但其实你只是缺一个人陪。你爱不上任何人，你也恐惧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796903090551132160",
+        "conversation_id": "1928358566576148968",
+        "created_at": "2025-05-30T07:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T08:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928358566576148968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928358566576148968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 62239,
+          "like_count": 949,
+          "quote_count": 20,
+          "reply_count": 29,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "你好像是一个典型的缺爱者，谁陪在你的身边，你就对谁产生依赖。如果有新的人陪你，你很快就会忘记上一个人离去带来的悲伤。你对谁都没有爱，又好像对谁都爱，你只是想被爱而已，你把他们当成你的救命稻草，但其实你只是缺一个人陪。你爱不上任何人，你也恐惧爱上任何人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 75,
+          "like_count": 4763,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 345
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T13:54:24.000Z",
+        "description": "infp/上网就是为了到处看看/谢谢大家喜欢/私信看到会回的，就是不太会说话，感谢理解/https://t.co/A0tBxMIjYu提问在这里，欢迎大家找我玩/直男！！！！/🚪25（普通忍法帖）/50（火影月卡）/52（数字好看）/198（高级忍法帖/或者漂泊歹徒）过🚪私信或者凭转账截图私我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6666645275",
+                "end": 67,
+                "expanded_url": "https://ngl.link/6666645275",
+                "start": 44,
+                "url": "https://t.co/A0tBxMIjYu"
+              }
+            ]
+          }
+        },
+        "id": "1796903090551132160",
+        "location": "你心里",
+        "name": "渔思鱼",
+        "pinned_tweet_id": "1918267016416264349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916670298042114048/2ymQgdjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 118,
+          "like_count": 475,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 855
+        },
+        "username": "ysy_Teriberak",
+        "verified": false
+      }
+    ]
+  }
+}

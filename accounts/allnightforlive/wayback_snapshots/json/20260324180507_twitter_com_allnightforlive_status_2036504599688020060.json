@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2036504599688020060",
+    "created_at": "2026-03-24T18:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036504599688020060"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036504599688020060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為你的摯愛死了 所以我不能夠在你面前談論我也想死這個話題\n\n我會乖乖的 就像你叫我去死一樣 拼著命的吧刀從腸子裡拔出來\n\n每個晚上 每個晚上我都拿著你送我的刀在床上練習著 因為自殘的話會被關心的 你就會殺死我 才不要你這麼自私的殺了我\n\n撐過今晚就好了 明天多畫畫就好了 我會治好自己的 才怪吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2036504599688020060",
+        "created_at": "2026-03-24T18:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036504599688020060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036504599688020060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為你的摯愛死了 所以我不能夠在你面前談論我也想死這個話題\n\n我會乖乖的 就像你叫我去死一樣 拼著命的吧刀從腸子裡拔出來\n\n每個晚上 每個晚上我都拿著你送我的刀在床上練習著 因為自殘的話會被關心的 你就會殺死我 才不要你這麼自私的殺了我\n\n撐過今晚就好了 明天多畫畫就好了 我會治好自己的 才怪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 17214,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1334
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

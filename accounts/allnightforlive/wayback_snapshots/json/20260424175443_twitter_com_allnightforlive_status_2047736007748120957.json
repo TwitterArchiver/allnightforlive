@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2047206483289673789",
+    "created_at": "2026-04-24T17:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047736007748120957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1373764522482143234",
+          "start": 0,
+          "username": "lexi_labs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047736007748120957",
+    "in_reply_to_user_id": "1373764522482143234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047206483289673789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lexi_labs 說真的 就算有得討論 也會有人為了合群就什麼都不說 或是明明有意見在那憋著 甚至在討論的時候開始說自己的東西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2047206483289673789",
+        "created_at": "2026-04-24T17:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047736007748120957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1373764522482143234",
+              "start": 0,
+              "username": "lexi_labs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047736007748120957",
+        "in_reply_to_user_id": "1373764522482143234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047206483289673789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lexi_labs 說真的 就算有得討論 也會有人為了合群就什麼都不說 或是明明有意見在那憋著 甚至在討論的時候開始說自己的東西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373764522482143234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2047206483289673789",
+        "created_at": "2026-04-23T06:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047206483289673789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047206483289673789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 214131,
+          "like_count": 1358,
+          "quote_count": 11,
+          "reply_count": 268,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "一个群，超过5个人，就不会产生任何实质性的讨论。\n\n这是心理学决定的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 21744,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1739
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T22:33:42.000Z",
+        "description": "Tech/Finance advice and vibes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindefy.net",
+                "end": 23,
+                "expanded_url": "http://mindefy.net",
+                "start": 0,
+                "url": "https://t.co/Ez1Gl7RRAN"
+              }
+            ]
+          }
+        },
+        "id": "1373764522482143234",
+        "location": "United States",
+        "name": "Lexi 勒西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916707429380927488/z_PlJq73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14459,
+          "following_count": 362,
+          "like_count": 11408,
+          "listed_count": 97,
+          "media_count": 2481,
+          "tweet_count": 11279
+        },
+        "url": "https://t.co/Ez1Gl7RRAN",
+        "username": "lexi_labs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046442091291840577",
+    "created_at": "2026-04-21T15:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046614041960010000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760301675154411520",
+          "start": 0,
+          "username": "yehiorreel"
+        },
+        {
+          "end": 27,
+          "id": "1042070984663162880",
+          "start": 12,
+          "username": "tw111111111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046614041960010000",
+    "in_reply_to_user_id": "1760301675154411520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046562943857528864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yehiorreel @tw111111111111 信件的稱謂使用跟書信體這個東西國小就教了 其次很多詞彙都是從文言傳承下來的  現在要培養的是閱讀時的邏輯思辨 但教育趨向於趕課 而且很多人都不在乎閱讀這件事 再者說漫畫的普及使一本書的字數大幅縮減 也會使現代人逐漸喪失閱讀能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046442091291840577",
+        "created_at": "2026-04-21T15:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046614041960010000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760301675154411520",
+              "start": 0,
+              "username": "yehiorreel"
+            },
+            {
+              "end": 27,
+              "id": "1042070984663162880",
+              "start": 12,
+              "username": "tw111111111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046614041960010000",
+        "in_reply_to_user_id": "1760301675154411520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046562943857528864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yehiorreel @tw111111111111 信件的稱謂使用跟書信體這個東西國小就教了 其次很多詞彙都是從文言傳承下來的  現在要培養的是閱讀時的邏輯思辨 但教育趨向於趕課 而且很多人都不在乎閱讀這件事 再者說漫畫的普及使一本書的字數大幅縮減 也會使現代人逐漸喪失閱讀能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760301675154411520",
+        "conversation_id": "2046442091291840577",
+        "created_at": "2026-04-21T12:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046562943857528864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1042070984663162880",
+              "start": 0,
+              "username": "tw111111111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046562943857528864",
+        "in_reply_to_user_id": "1042070984663162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046442091291840577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tw111111111111 國文的內容有需要調整，不然現在人連信啊公文啊都快要讀不懂看不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 102,
+          "like_count": 21329,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1694
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T13:53:41.000Z",
+        "description": "99.9% spanker",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yehiorreel/pro…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yehiorreel/profilecard/?igsh=MXhnbGJhNXlib2U1cA==",
+                "start": 0,
+                "url": "https://t.co/LXZKHl2YjN"
+              }
+            ]
+          }
+        },
+        "id": "1760301675154411520",
+        "name": "Latour",
+        "pinned_tweet_id": "1971607463561756803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760302961937514496/9Gts1gF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 673,
+          "like_count": 6495,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/LXZKHl2YjN",
+        "username": "yehiorreel",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "260207 瑞典國防手冊\n\n260104 防災防恐避難資訊\n\n260104 防災包清單：\nhttps://t.co/nRW7026r3a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 69,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 46,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skylikesun.blogspot.com/2018/10/blog-p…",
+                "end": 23,
+                "expanded_url": "https://skylikesun.blogspot.com/2018/10/blog-post_88.html",
+                "start": 0,
+                "url": "https://t.co/y6AH80DnOv"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009810316742537216/9K8UmD7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16479,
+          "following_count": 942,
+          "like_count": 249361,
+          "listed_count": 59,
+          "media_count": 41828,
+          "tweet_count": 107717
+        },
+        "url": "https://t.co/y6AH80DnOv",
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

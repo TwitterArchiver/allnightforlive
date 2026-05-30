@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2053591304748020109",
+    "created_at": "2026-05-11T16:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053875486779195558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "447097172",
+          "start": 0,
+          "username": "smallboije"
+        },
+        {
+          "end": 28,
+          "id": "711508622904135680",
+          "start": 12,
+          "username": "Woooooooowilike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053875486779195558",
+    "in_reply_to_user_id": "447097172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053628963151630709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smallboije @Woooooooowilike 永支"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2053591304748020109",
+        "created_at": "2026-05-11T16:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053875486779195558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "447097172",
+              "start": 0,
+              "username": "smallboije"
+            },
+            {
+              "end": 28,
+              "id": "711508622904135680",
+              "start": 12,
+              "username": "Woooooooowilike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053875486779195558",
+        "in_reply_to_user_id": "447097172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053628963151630709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallboije @Woooooooowilike 永支"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "447097172",
+        "conversation_id": "2053591304748020109",
+        "created_at": "2026-05-11T00:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053628963151630709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "711508622904135680",
+              "start": 0,
+              "username": "Woooooooowilike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053628963151630709",
+        "in_reply_to_user_id": "711508622904135680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6343,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053591304748020109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Woooooooowilike 絕對是拿來轉移話題的，外行人根本就不懂整套CIS要花多大的心力製作，本科生路過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 24087,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1956
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-26T14:08:03.000Z",
+        "description": "よろしく/圈外插畫家/台北的正直散步進行中/perfume/興趣做菜後來就成了職業/庫存書量減少中感到欣慰/脾氣在做菜時會噴發/2019入了貓派但沒養貓/クルマ大好き/乗り物大好き",
+        "id": "447097172",
+        "location": "夢幻國度",
+        "name": "ユメ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662783748751118336/BczZSsqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 2030,
+          "like_count": 68327,
+          "listed_count": 18,
+          "media_count": 1507,
+          "tweet_count": 9773
+        },
+        "username": "smallboije",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-20T11:04:09.000Z",
+        "description": "飄浮中.....",
+        "id": "711508622904135680",
+        "location": "The Moon",
+        "name": "安然",
+        "pinned_tweet_id": "2051332193801093246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039430381514915840/Pamp_0h0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9779,
+          "following_count": 3874,
+          "like_count": 237060,
+          "listed_count": 45,
+          "media_count": 12907,
+          "tweet_count": 121740
+        },
+        "username": "Woooooooowilike",
+        "verified": false
+      }
+    ]
+  }
+}

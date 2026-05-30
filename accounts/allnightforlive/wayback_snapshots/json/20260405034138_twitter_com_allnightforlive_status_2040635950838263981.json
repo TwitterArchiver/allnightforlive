@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2040040397855228335",
+    "created_at": "2026-04-05T03:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040635950838263981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000598433359659008",
+          "start": 0,
+          "username": "shencsx1218"
+        },
+        {
+          "end": 23,
+          "id": "1598223190831923200",
+          "start": 13,
+          "username": "Rich77_KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040635950838263981",
+    "in_reply_to_user_id": "2000598433359659008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040559806176727160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shencsx1218 @Rich77_KK 不知道 但是好像比較多在推上嗎發日常文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2040040397855228335",
+        "created_at": "2026-04-05T03:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040635950838263981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000598433359659008",
+              "start": 0,
+              "username": "shencsx1218"
+            },
+            {
+              "end": 23,
+              "id": "1598223190831923200",
+              "start": 13,
+              "username": "Rich77_KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040635950838263981",
+        "in_reply_to_user_id": "2000598433359659008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040559806176727160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shencsx1218 @Rich77_KK 不知道 但是好像比較多在推上嗎發日常文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000598433359659008",
+        "conversation_id": "2040040397855228335",
+        "created_at": "2026-04-04T22:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T23:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040559806176727160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598223190831923200",
+              "start": 0,
+              "username": "Rich77_KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040559806176727160",
+        "in_reply_to_user_id": "1598223190831923200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1317,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040040397855228335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rich77_KK 礼貌询问，哪个国家的明星会发视频在推特呀？我以为明星发国际线一般都发instagram呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 89,
+          "like_count": 18011,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1435
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T16:07:09.000Z",
+        "description": "",
+        "id": "2000598433359659008",
+        "name": "黄油小熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000600523502981121/JoQqWe0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "shencsx1218",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T07:51:25.000Z",
+        "description": "不可回收垃圾桶｜不接广 不用关注我",
+        "id": "1598223190831923200",
+        "name": "栗",
+        "pinned_tweet_id": "1682975464833572866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974818801406574592/nx7uKF_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 57,
+          "like_count": 1694,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 344
+        },
+        "username": "Rich77_KK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1960365847492624472",
+    "created_at": "2025-08-27T11:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T12:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960673075332309237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1352140306758602753",
+          "start": 0,
+          "username": "mirotabasco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960673075332309237",
+    "in_reply_to_user_id": "1352140306758602753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960365847492624472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirotabasco 因為通常憂鬱狀態下的人有些會伴隨性慾下降，而且重病的人基本想色色也不太可能，所以把「不想色色」跟「死亡機率高」畫上等號，要麼是出自於心理層面，要麼就是人家收到病危通知正準備後事你問他現在想不想色色是一樣的道理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_1960365802273832960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSeT4pbAAARHI_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1960365847492624472",
+        "created_at": "2025-08-27T11:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960673075332309237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1352140306758602753",
+              "start": 0,
+              "username": "mirotabasco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960673075332309237",
+        "in_reply_to_user_id": "1352140306758602753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960365847492624472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirotabasco 因為通常憂鬱狀態下的人有些會伴隨性慾下降，而且重病的人基本想色色也不太可能，所以把「不想色色」跟「死亡機率高」畫上等號，要麼是出自於心理層面，要麼就是人家收到病危通知正準備後事你問他現在想不想色色是一樣的道理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960365802273832960"
+          ]
+        },
+        "author_id": "1352140306758602753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960365847492624472",
+        "created_at": "2025-08-26T15:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960365847492624472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahggOrFD3R",
+              "end": 37,
+              "expanded_url": "https://x.com/mirotabasco/status/1960365847492624472/photo/1",
+              "media_key": "3_1960365802273832960",
+              "start": 14,
+              "url": "https://t.co/ahggOrFD3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960365847492624472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 80629,
+          "like_count": 1862,
+          "quote_count": 28,
+          "reply_count": 60,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "大家都要誠實面對自己... https://t.co/ahggOrFD3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 79,
+          "like_count": 6233,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 454
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T06:25:59.000Z",
+        "description": "🐙官方推特:@MiroliveTw\n🐙Birthday🐙08/08\n🐙Fanart 二創🐙 #TAKOSEC \n🐙R18二創🐙 #TAKOR18SEC\n任何你想跟我分享的 #塔觸帝國",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "TAKOSEC"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "TAKOR18SEC"
+              },
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "塔觸帝國"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "MiroliveTw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCXe8h…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCXe8hqIk_Yap31y7EOCMdzg",
+                "start": 0,
+                "url": "https://t.co/V5w1j6NsUG"
+              }
+            ]
+          }
+        },
+        "id": "1352140306758602753",
+        "name": "Miro一期生塔芭絲可Tabasuko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957306938464915456/DTRCXcPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50737,
+          "following_count": 2868,
+          "like_count": 30804,
+          "listed_count": 125,
+          "media_count": 4600,
+          "tweet_count": 28060
+        },
+        "url": "https://t.co/V5w1j6NsUG",
+        "username": "mirotabasco",
+        "verified": false
+      }
+    ]
+  }
+}

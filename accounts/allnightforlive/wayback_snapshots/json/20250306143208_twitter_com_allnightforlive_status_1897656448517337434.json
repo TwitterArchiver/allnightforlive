@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1897656448517337434",
+    "created_at": "2025-03-06T14:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T15:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897656448517337434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NicoAliceOwO/s…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/NicoAliceOwO/status/1897561459766235492",
+          "start": 70,
+          "url": "https://t.co/jh27ZBoP56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897656448517337434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897561459766235492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "我應該可以正常的交兩任女友，可能可以得到一些朋友。同樣的，我會失去很多東西，我可能仍然被排擠，但往好處想，我得到過…然後……，還是不想轉性 https://t.co/jh27ZBoP56"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1897656448517337434",
+        "created_at": "2025-03-06T14:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897656448517337434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NicoAliceOwO/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/NicoAliceOwO/status/1897561459766235492",
+              "start": 70,
+              "url": "https://t.co/jh27ZBoP56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897656448517337434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897561459766235492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我應該可以正常的交兩任女友，可能可以得到一些朋友。同樣的，我會失去很多東西，我可能仍然被排擠，但往好處想，我得到過…然後……，還是不想轉性 https://t.co/jh27ZBoP56"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831720858953687040",
+        "conversation_id": "1897561459766235492",
+        "created_at": "2025-03-06T08:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897561459766235492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897561459766235492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11702,
+          "like_count": 160,
+          "quote_count": 23,
+          "reply_count": 96,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个if线\n如果在坐的各位被其实是出生性别相反的性别，会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "--未被確診的性成癮患者自述--",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 240
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:47:55.000Z",
+        "description": "INFJ / 会写点什么随笔 / 树洞 / 不太主动社交(快主动找我聊) / PC游戏活跃 / 人本主义 / 兼职小天使 / 别看外面的意识形态炮轰啦，来喝杯茶怎么样？/ 照骗移步@NicoAlexOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "NicoAlexOvO"
+              }
+            ]
+          }
+        },
+        "id": "1831720858953687040",
+        "location": "第四面墙打破计划",
+        "name": "❄️ 不自動書記人偶 📗",
+        "pinned_tweet_id": "1896063416621810131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831722027578740736/LqblqKx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 482,
+          "like_count": 3435,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 775
+        },
+        "username": "NicoAliceOwO",
+        "verified": false
+      }
+    ]
+  }
+}

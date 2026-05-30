@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2049139496726274245",
+    "created_at": "2026-04-29T17:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049538196422394144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2892958693",
+          "start": 0,
+          "username": "Jasdw1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049538196422394144",
+    "in_reply_to_user_id": "2892958693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049537724621996197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasdw1231 真的不敢吞⋯比起感冒藥有的苦有的甜什麼的，還是嚼好了、\n之前在想需不需要跟藥師說要藥粉、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2049139496726274245",
+        "created_at": "2026-04-29T17:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049538196422394144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2892958693",
+              "start": 0,
+              "username": "Jasdw1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049538196422394144",
+        "in_reply_to_user_id": "2892958693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049537724621996197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasdw1231 真的不敢吞⋯比起感冒藥有的苦有的甜什麼的，還是嚼好了、\n之前在想需不需要跟藥師說要藥粉、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2892958693",
+        "conversation_id": "2049139496726274245",
+        "created_at": "2026-04-29T17:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049537724621996197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511572100225462281",
+              "start": 0,
+              "username": "allnightforlive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049537724621996197",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049525588134891655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allnightforlive 你是狠人！！！༼⁠;⁠´⁠༎ຶ⁠ ⁠۝ ⁠༎ຶ⁠༽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 106,
+          "like_count": 22928,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1820
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-07T15:09:16.000Z",
+        "description": "Crazy person😎推什麼樣的帳不代表就是什麼樣的人，想認識請提著腦袋與尊重來私聊。😌#偏愛上鉤 #人體開發 😈如果讓我不開心了，我不會封鎖，因為我知道，你總有一天會再舔著臉回來找我，不相信可以試試😏\n甜寵@sexyreynard777\n壞狗@Le83866\n菜狗@lovebbw1022",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "偏愛上鉤"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "人體開發"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "sexyreynard777"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "username": "Le83866"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "lovebbw1022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g0v.social/@Jasdw1231",
+                "end": 23,
+                "expanded_url": "http://g0v.social/@Jasdw1231",
+                "start": 0,
+                "url": "https://t.co/tpP5pMyd3I"
+              }
+            ]
+          }
+        },
+        "id": "2892958693",
+        "location": "Taichung, Taiwan ",
+        "name": "Alice コウ",
+        "pinned_tweet_id": "1895458570512351468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1299144554428264449/zztSBI4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4177,
+          "following_count": 1614,
+          "like_count": 24922,
+          "listed_count": 6,
+          "media_count": 2650,
+          "tweet_count": 19221
+        },
+        "url": "https://t.co/tpP5pMyd3I",
+        "username": "Jasdw1231",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2054616484937335100",
+    "created_at": "2026-05-13T17:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054616484937335100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1977031348415246336",
+          "start": 3,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054616484937335100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053758066936725527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Estherishere_: 经常收到一些私信，有宝宝说自己毕业两年了，感觉什么都没学到，好像白白混了两年。但你想想，怎么可能真的什么都没学到呢？每天的你，一定比昨天的自己多知道了一点什么。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2054616484937335100",
+        "created_at": "2026-05-13T17:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054616484937335100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1977031348415246336",
+              "start": 3,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054616484937335100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053758066936725527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Estherishere_: 经常收到一些私信，有宝宝说自己毕业两年了，感觉什么都没学到，好像白白混了两年。但你想想，怎么可能真的什么都没学到呢？每天的你，一定比昨天的自己多知道了一点什么。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977031348415246336",
+        "conversation_id": "2053758066936725527",
+        "created_at": "2026-05-11T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053758066936725527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053758066936725527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经常收到一些私信，有宝宝说自己毕业两年了，感觉什么都没学到，好像白白混了两年。但你想想，怎么可能真的什么都没学到呢？每天的你，一定比昨天的自己多知道了一点什么。\n\n这让我想起上学时的经历。学习新知识后，如果不考试、不做题，我常常会怀疑：我到底会了没有？可一旦多做几道题，就确信自己掌握了。那么，掌握知识是靠做题才实现的吗？不是的。事实恰恰相反：你先真正理解了那个知识点，然后才能用它解出题目，而不是做完题才突然明白。做题只是反复验证你已经会的东西，它是在告诉你：“我懂，我知道，我越来越会了。”\n\n出了社会，再没有源源不断的题目给你做了。没有题目可做，你就会陷入一种奇怪的状态：刚学了新东西，却无从验证，于是不断自问：“我到底会了吗？好像会了，又好像不会……” 这种不确定感，容易让人觉得自己一事无成。\n\n那该怎么办？其实很简单，把你认为自己做得好的地方写下来，做得不好的地方也写下来，这就是你的“错题本”。时间久了，回头翻看，你会发现：“哎，这个地方我当时觉得好难，怎么现在看起来这么简单？” 当你有这种感觉时，就在那条记录旁画一个小小的爱心，告诉自己：“放心吧，你变得更强大了。”\n\n为什么画爱心，而不是画叉？因为永远不要否定自己。你从来不是因为不够努力或不够优秀而焦虑，你是因为看不到自己的优秀，才误以为自己平凡。 试着把成长的点滴记录下来，做自己的伯乐。在你真正的伯乐出现之前，你完全可以先成为最懂自己、最欣赏自己的那个人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4725,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经常收到一些私信，有宝宝说自己毕业两年了，感觉什么都没学到，好像白白混了两年。但你想想，怎么可能真的什么都没学到呢？每天的你，一定比昨天的自己多知道了一点什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 108,
+          "like_count": 24252,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1997
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "快乐小肥猫的妈妈@Wojiang38562\nhttps://t.co/H4pB8fnL48",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 45,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 22,
+                "url": "https://t.co/H4pB8fnL48"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "2053909587741524131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 434,
+          "like_count": 15835,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 13970
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

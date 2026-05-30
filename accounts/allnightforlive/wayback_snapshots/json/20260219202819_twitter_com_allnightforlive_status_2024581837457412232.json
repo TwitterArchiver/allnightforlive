@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024581834827514104",
+    "created_at": "2026-02-19T20:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024581837457412232"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024581837457412232",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024581834827514104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯然後也想喝看看酒\n爸爸說等我長大會陪我試酒量\n\n雖然 對我而言果然還是一點也不想要在熟人面前這樣、\n\n家裡也有點酒 老父親不讓喝就是了（煩）他最近老是表面上躁得要命 像我要偷他公司股份似的 說起話來又笑了 原生家庭還在追殺我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024581834827514104",
+        "created_at": "2026-02-19T20:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024581837457412232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024581837457412232",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024581834827514104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯然後也想喝看看酒\n爸爸說等我長大會陪我試酒量\n\n雖然 對我而言果然還是一點也不想要在熟人面前這樣、\n\n家裡也有點酒 老父親不讓喝就是了（煩）他最近老是表面上躁得要命 像我要偷他公司股份似的 說起話來又笑了 原生家庭還在追殺我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024581834827514104",
+        "created_at": "2026-02-19T20:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024581834827514104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024581834827514104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔爪好喝嗎 話說\n\n對於一個長年以來都是康貝特/蠻牛（小時候喝味道差不多的止咳藥水（不是感冒糖漿） ）\n\n挺好奇魔爪的味道\n\n性價比來講 應該是不會到想喝的地步 只是看有些人愛喝到痴迷 有點置疑的心態想知道（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 14042,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1081
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

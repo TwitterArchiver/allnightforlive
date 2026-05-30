@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1908367342557712395",
+    "created_at": "2025-04-05T03:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T04:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908367342557712395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908367342557712395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "明明能夠被滿足物質上的需求，並且已經進到生活的我嗎？\n\n卻在情緒價值上摳出了個填不滿的洞。\n那只是比較稠的液體而已。\n\n如果沒有灌滿，遲早會看到洞的底部。\n\n如果沒有一直澆灌的話就會死掉。\n\n別說得好像植物一樣，我根本就不如植物啊。\n\n他至少也是盤根錯節的存在吧。\n\n我卻把所有的根都去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1908367342557712395",
+        "created_at": "2025-04-05T03:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908367342557712395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908367342557712395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "明明能夠被滿足物質上的需求，並且已經進到生活的我嗎？\n\n卻在情緒價值上摳出了個填不滿的洞。\n那只是比較稠的液體而已。\n\n如果沒有灌滿，遲早會看到洞的底部。\n\n如果沒有一直澆灌的話就會死掉。\n\n別說得好像植物一樣，我根本就不如植物啊。\n\n他至少也是盤根錯節的存在吧。\n\n我卻把所有的根都去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 65,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 262
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

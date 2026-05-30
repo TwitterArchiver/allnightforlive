@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1922309984055894030",
+    "created_at": "2025-05-13T15:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922309984055894030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922309984055894030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我畫畫其實一直都是為了治療我自己。直到我得將它成為我的未來和生活，我恐懼它也要成為我的痛苦之一。所以我崩潰，我大哭，我跟個小孩一樣，聽著童年老師的話，“要哭就去廁所”，憋了點聲音，卻仍然被人聽得一清二楚，仍然有人知道我崩潰，可我第一個想法卻是，乾脆你就問我剛才去幹嘛好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1922309984055894030",
+        "created_at": "2025-05-13T15:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922309984055894030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922309984055894030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我畫畫其實一直都是為了治療我自己。直到我得將它成為我的未來和生活，我恐懼它也要成為我的痛苦之一。所以我崩潰，我大哭，我跟個小孩一樣，聽著童年老師的話，“要哭就去廁所”，憋了點聲音，卻仍然被人聽得一清二楚，仍然有人知道我崩潰，可我第一個想法卻是，乾脆你就問我剛才去幹嘛好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述  _關鍵字-妄想.矛盾.自卑.遲鈍.容易滿足",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 4128,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 286
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

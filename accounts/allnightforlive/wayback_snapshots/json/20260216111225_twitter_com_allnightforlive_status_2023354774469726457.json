@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023354767955927040"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023354774469726457",
+    "created_at": "2026-02-16T11:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023354774469726457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GQQyfDSeY",
+          "end": 121,
+          "expanded_url": "https://x.com/allnightforlive/status/2023354774469726457/photo/1",
+          "media_key": "3_2023354767955927040",
+          "start": 98,
+          "url": "https://t.co/0GQQyfDSeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023354774469726457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不行了 第一次看到這個 雖然最後培育成愛人了 但還是逃跑了嘻嘻\n\n、因為在森林被狼強姦了快十次然後在外面的時候還被路過的人矇眼綑綁接著又被三個人姦 整個人都不好了 最後被貝利帶回去了（叫這名字嗎 https://t.co/0GQQyfDSeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023354767955927040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRmcPabIAAGNdh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023354767955927040"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023354774469726457",
+        "created_at": "2026-02-16T11:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023354774469726457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GQQyfDSeY",
+              "end": 121,
+              "expanded_url": "https://x.com/allnightforlive/status/2023354774469726457/photo/1",
+              "media_key": "3_2023354767955927040",
+              "start": 98,
+              "url": "https://t.co/0GQQyfDSeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023354774469726457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了 第一次看到這個 雖然最後培育成愛人了 但還是逃跑了嘻嘻\n\n、因為在森林被狼強姦了快十次然後在外面的時候還被路過的人矇眼綑綁接著又被三個人姦 整個人都不好了 最後被貝利帶回去了（叫這名字嗎 https://t.co/0GQQyfDSeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 13192,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1024
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

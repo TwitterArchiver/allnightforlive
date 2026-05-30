@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1989720853248901484",
+    "created_at": "2025-11-15T15:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989720880361214451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989720880361214451",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989720875655164275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雖然是真的。\n不然爸爸為什麼會愛我。\n愛不就是要找有愛的人才能做嗎，反正他是這麼說的吧\n我會當作沒聽見"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720880361214451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720880361214451",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720875655164275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雖然是真的。\n不然爸爸為什麼會愛我。\n愛不就是要找有愛的人才能做嗎，反正他是這麼說的吧\n我會當作沒聽見"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1989720853248901484",
+        "created_at": "2025-11-15T15:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989720875655164275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720875655164275",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720870605193393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正就突然認識了吧，我以為我去直播是為了聊色吧，想說死之前趕快做一做，回家的時候找個橋跳了好了\n\n⋯結果怎麼一堆人勸我好好上學啊。\n⋯⋯為什麼要試圖救我啊\n⋯⋯這群人簡直是瘋了，怎麼會想著花時間誇讚我甚至是讓我覺得自己很好\n⋯絕對是瘋子，這群人一定是瘋了\n我想他們一定還是想做愛而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 7600,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 570
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

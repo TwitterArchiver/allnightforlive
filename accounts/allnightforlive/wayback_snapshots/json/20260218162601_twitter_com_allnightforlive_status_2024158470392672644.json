@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024158464076120064"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024099231624290512",
+    "created_at": "2026-02-18T16:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024158470392672644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1713492820802351104",
+          "start": 0,
+          "username": "36dioppai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycr6wHD0Kg",
+          "end": 105,
+          "expanded_url": "https://x.com/allnightforlive/status/2024158470392672644/photo/1",
+          "media_key": "3_2024158464076120064",
+          "start": 82,
+          "url": "https://t.co/ycr6wHD0Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024158470392672644",
+    "in_reply_to_user_id": "1713492820802351104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024099231624290512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36dioppai 老闆敢這樣殺 其實也代表這個真的不貴 （（蝦皮一頂最低大概90左右，再高一點一百（不是要故意冷場，只是提一下，畢竟都是做生意，也要有利潤的啦 https://t.co/ycr6wHD0Kg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024158464076120064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdBZgxbgAAuAa9.jpg",
+        "width": 946
+      },
+      {
+        "height": 1701,
+        "media_key": "3_2024099222501650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcLhMta8AA_lo1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024158464076120064"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024099231624290512",
+        "created_at": "2026-02-18T16:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024158470392672644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1713492820802351104",
+              "start": 0,
+              "username": "36dioppai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycr6wHD0Kg",
+              "end": 105,
+              "expanded_url": "https://x.com/allnightforlive/status/2024158470392672644/photo/1",
+              "media_key": "3_2024158464076120064",
+              "start": 82,
+              "url": "https://t.co/ycr6wHD0Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024158470392672644",
+        "in_reply_to_user_id": "1713492820802351104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024099231624290512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36dioppai 老闆敢這樣殺 其實也代表這個真的不貴 （（蝦皮一頂最低大概90左右，再高一點一百（不是要故意冷場，只是提一下，畢竟都是做生意，也要有利潤的啦 https://t.co/ycr6wHD0Kg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024099222501650432"
+          ]
+        },
+        "author_id": "1713492820802351104",
+        "conversation_id": "2024099231624290512",
+        "created_at": "2026-02-18T12:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024099231624290512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yluigtow0e",
+              "end": 187,
+              "expanded_url": "https://x.com/36dioppai/status/2024099231624290512/photo/1",
+              "media_key": "3_2024099222501650432",
+              "start": 164,
+              "url": "https://t.co/Yluigtow0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024099231624290512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老闆居然賣我450 \n然後阿婆說算我390\n可是我心裡價格是300\n\n阿婆：妹妹你這樣我們沒賺錢欸\n我：不能看在我戴起來很可愛算便宜嗎🥺\n\n阿婆：不然你問老闆⋯\n我：老闆⋯🥺🥺🥺\n\n老闆：好啦！算你300\n\n我媽&amp;我弟：？？？\n\n我媽：那我這頂多少？\n老闆：590算500\n我：好貴欸🥺\n老闆：⋯400賣你\n\n我弟：？ https://t.co/Yluigtow0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 86,
+          "like_count": 13683,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1061
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T09:52:29.000Z",
+        "description": "【個人勢Vtuber】因為發生醬醬釀釀(?)的事故從深海上岸的海鮮\n可以簡稱36(⁠๑⁠˙⁠❥⁠˙⁠๑⁠)\n◈YT：https://t.co/DequMk16Ai\n◈棉花糖：https://t.co/L88ZKC4Awb\n◈綠界打賞：https://t.co/HmepZ6hlZT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@36dioppai",
+                "end": 81,
+                "expanded_url": "http://youtube.com/@36dioppai",
+                "start": 58,
+                "url": "https://t.co/DequMk16Ai"
+              },
+              {
+                "display_url": "reurl.cc/4dGkA2",
+                "end": 110,
+                "expanded_url": "https://reurl.cc/4dGkA2",
+                "start": 87,
+                "url": "https://t.co/L88ZKC4Awb"
+              },
+              {
+                "display_url": "p.ecpay.com.tw/5A38257",
+                "end": 140,
+                "expanded_url": "http://p.ecpay.com.tw/5A38257",
+                "start": 117,
+                "url": "https://t.co/HmepZ6hlZT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/36dioppai",
+                "end": 23,
+                "expanded_url": "https://lit.link/36dioppai",
+                "start": 0,
+                "url": "https://t.co/qH0UdSTApm"
+              }
+            ]
+          }
+        },
+        "id": "1713492820802351104",
+        "name": "弎陸蒂36🦑🪄-連動歡迎/魷魚海怪/外黑內黃",
+        "pinned_tweet_id": "1946534595908010222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912545319788900355/kaLH_6pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 198,
+          "like_count": 2731,
+          "listed_count": 6,
+          "media_count": 562,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/qH0UdSTApm",
+        "username": "36dioppai",
+        "verified": false
+      }
+    ]
+  }
+}

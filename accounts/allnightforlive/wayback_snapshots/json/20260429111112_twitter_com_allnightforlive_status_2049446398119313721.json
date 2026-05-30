@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049079941959180288"
+      ],
+      "media_source_tweet_id": [
+        "2049079947713749107"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2049446398119313721",
+    "created_at": "2026-04-29T11:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049446398119313721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "242588305",
+          "start": 3,
+          "username": "Takehiro_Wei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EmmM5wBrFk",
+          "end": 62,
+          "expanded_url": "https://x.com/Takehiro_Wei/status/2049079947713749107/photo/1",
+          "media_key": "3_2049079941959180288",
+          "start": 39,
+          "url": "https://t.co/EmmM5wBrFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049446398119313721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049079947713749107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takehiro_Wei: 明明拔掉消音器，機車也是一種樂器啊（被打 https://t.co/EmmM5wBrFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2049079941959180288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_LWcja4AAW_7q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049079941959180288"
+          ],
+          "media_source_tweet_id": [
+            "2049079947713749107"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2049446398119313721",
+        "created_at": "2026-04-29T11:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049446398119313721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "242588305",
+              "start": 3,
+              "username": "Takehiro_Wei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmmM5wBrFk",
+              "end": 62,
+              "expanded_url": "https://x.com/Takehiro_Wei/status/2049079947713749107/photo/1",
+              "media_key": "3_2049079941959180288",
+              "start": 39,
+              "url": "https://t.co/EmmM5wBrFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049446398119313721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049079947713749107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takehiro_Wei: 明明拔掉消音器，機車也是一種樂器啊（被打 https://t.co/EmmM5wBrFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049079941959180288"
+          ]
+        },
+        "author_id": "242588305",
+        "conversation_id": "2049079947713749107",
+        "created_at": "2026-04-28T10:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049079947713749107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmmM5wBrFk",
+              "end": 44,
+              "expanded_url": "https://x.com/Takehiro_Wei/status/2049079947713749107/photo/1",
+              "media_key": "3_2049079941959180288",
+              "start": 21,
+              "url": "https://t.co/EmmM5wBrFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049079947713749107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 54668,
+          "like_count": 1394,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "明明拔掉消音器，機車也是一種樂器啊（被打 https://t.co/EmmM5wBrFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 104,
+          "like_count": 22706,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1801
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-25T03:43:12.000Z",
+        "description": "程式開發就像下山一樣，\r\n你可以選擇從階梯穩健踏實地往下步行，\r\n也許會有點麻煩也慢了一些；\r\n或是你也可以選擇從懸崖毅然決然地縱身一跳，\r\n則會非常輕鬆也快了很多...............\r\n不過死得也滿快的就是。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/nonoway72/invi…",
+                "end": 23,
+                "expanded_url": "http://www.plurk.com/nonoway72/invite",
+                "start": 0,
+                "url": "https://t.co/tg4w22vzpU"
+              }
+            ]
+          }
+        },
+        "id": "242588305",
+        "location": "Taiwan",
+        "name": "Takehiro🌈威",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225195615/7432981-big2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 1710,
+          "like_count": 42223,
+          "listed_count": 11,
+          "media_count": 13831,
+          "tweet_count": 52883
+        },
+        "url": "https://t.co/tg4w22vzpU",
+        "username": "Takehiro_Wei",
+        "verified": false
+      }
+    ]
+  }
+}

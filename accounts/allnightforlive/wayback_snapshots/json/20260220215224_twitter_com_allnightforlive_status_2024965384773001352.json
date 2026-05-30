@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2024965384773001352",
+    "created_at": "2026-02-20T21:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T22:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024965384773001352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 90,
+          "tag": "ボカコレ2026冬"
+        },
+        {
+          "end": 117,
+          "start": 101,
+          "tag": "ボカコレ2026冬TOP100"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1026003783774429185",
+          "start": 3,
+          "username": "maigo_ox8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/vjzxcgyp",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/vjzxcgyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024965384773001352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024861605201338873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_ox8: □□　新曲　□□ \n\n アルゴリズムのきまぐれ / ナースロボ_タイプT \n\n ⟡.· ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⟡.·\n\n⇩full link⇩\n\n#ボカコレ2026冬 #ボカコレ2026冬TOP100 https://t.co/vjzxcgyp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20333,
+        "height": 1080,
+        "media_key": "13_2024806916351041536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024806916351041536/img/k_KRKbZB8uFFLvPo.jpg",
+        "public_metrics": {
+          "view_count": 2323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024806916351041536/vid/avc1/480x270/NkA82SEy75Fg32rQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024806916351041536/pl/6KgueWLYpiFCngB6.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024806916351041536/vid/avc1/1280x720/aONfWPcmfpkF17wa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024806916351041536/vid/avc1/1920x1080/7kpFomxGGNYNQJ1D.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024806916351041536/vid/avc1/640x360/WPP5EdjGMU4LCdj7.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2024965384773001352",
+        "created_at": "2026-02-20T21:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024965384773001352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 90,
+              "tag": "ボカコレ2026冬"
+            },
+            {
+              "end": 117,
+              "start": 101,
+              "tag": "ボカコレ2026冬TOP100"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1026003783774429185",
+              "start": 3,
+              "username": "maigo_ox8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/vjzxcgyp",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/vjzxcgyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024965384773001352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024861605201338873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_ox8: □□　新曲　□□ \n\n アルゴリズムのきまぐれ / ナースロボ_タイプT \n\n ⟡.· ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⟡.·\n\n⇩full link⇩\n\n#ボカコレ2026冬 #ボカコレ2026冬TOP100 https://t.co/vjzxcgyp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024806916351041536"
+          ]
+        },
+        "author_id": "1026003783774429185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024861605201338873",
+        "created_at": "2026-02-20T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024861605201338873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "ボカコレ2026冬"
+            },
+            {
+              "end": 102,
+              "start": 86,
+              "tag": "ボカコレ2026冬TOP100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjzxcgyp4J",
+              "end": 126,
+              "expanded_url": "https://x.com/maigo_ox8/status/2024861605201338873/video/1",
+              "media_key": "13_2024806916351041536",
+              "start": 103,
+              "url": "https://t.co/vjzxcgyp4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024861605201338873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 14127,
+          "like_count": 433,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "□□　新曲　□□ \n\n アルゴリズムのきまぐれ / ナースロボ_タイプT \n\n ⟡.· ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⟡.·\n\n⇩full link⇩\n\n#ボカコレ2026冬 #ボカコレ2026冬TOP100 https://t.co/vjzxcgyp4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 88,
+          "like_count": 14249,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1093
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-05T07:15:39.000Z",
+        "description": "▫️ ᴠᴏᴄᴀʟᴏɪᴅ ᴘ ▫️ɢᴛ. ʙᴀ. ᴘꜰ.▫️きれいな旋律と音▫️作編曲･宅録･ᴍɪx等ご依頼受付中▫️ᴅᴍまたは maigocomposer@gmail.comまで https://t.co/b7rwQ03ueI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/maigo0",
+                "end": 113,
+                "expanded_url": "https://linktr.ee/maigo0",
+                "start": 90,
+                "url": "https://t.co/b7rwQ03ueI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maigo.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://maigo.myportfolio.com",
+                "start": 0,
+                "url": "https://t.co/Na0ZDz1Y1m"
+              }
+            ]
+          }
+        },
+        "id": "1026003783774429185",
+        "name": "maigo",
+        "pinned_tweet_id": "1882745170589823444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021311170746130433/KWMFzEDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6604,
+          "following_count": 834,
+          "like_count": 137117,
+          "listed_count": 84,
+          "media_count": 2568,
+          "tweet_count": 21609
+        },
+        "url": "https://t.co/Na0ZDz1Y1m",
+        "username": "maigo_ox8",
+        "verified": true
+      }
+    ]
+  }
+}

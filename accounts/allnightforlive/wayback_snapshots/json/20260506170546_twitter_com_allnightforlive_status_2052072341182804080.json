@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2052072335801499792",
+    "created_at": "2026-05-06T17:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052072341182804080"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052072341182804080",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052072335801499792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道就是 很焦慮。\n\n你說要我去打工嗎 我真的 比起這個 \n\n我好想要去看醫生啊\n\n。我能不能活到那個時候 我能不能在畢業之前活下來\n\n一定可以的吧 我到現在都沒有成功做出自殺跟自殘的行為\n\n啊對 妳問了吧\n\n我家沒有夠利的刀子 除了我弄丟的一盒修眉刀以外\n\n開始崩潰了嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052072335801499792",
+        "created_at": "2026-05-06T17:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052072341182804080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052072341182804080",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052072335801499792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道就是 很焦慮。\n\n你說要我去打工嗎 我真的 比起這個 \n\n我好想要去看醫生啊\n\n。我能不能活到那個時候 我能不能在畢業之前活下來\n\n一定可以的吧 我到現在都沒有成功做出自殺跟自殘的行為\n\n啊對 妳問了吧\n\n我家沒有夠利的刀子 除了我弄丟的一盒修眉刀以外\n\n開始崩潰了嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2052072335801499792",
+        "created_at": "2026-05-06T17:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052072335801499792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052072335801499792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⋯以後如果只能賣身體了怎麼辦、\n\n如果以後連畫畫都做不到怎麼辦。\n\n我知道的我一直都很蠢 一直都是個傻子 連讀書都做不好我是知道的\n\n如果只能夠賣身體了怎麼辦 同學會陪我嗎 ⋯陪我才奇怪吧 說什麼呢\n\n好惡心 我覺得我 可能真的有一天會比經濟能力差的人更早去用不正當的的方式賺錢。\n我是知道的、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 107,
+          "like_count": 23554,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1881
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

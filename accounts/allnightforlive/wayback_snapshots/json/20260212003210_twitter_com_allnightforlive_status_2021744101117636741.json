@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2021744093945385238",
+    "created_at": "2026-02-12T00:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T01:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021744101117636741"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021744101117636741",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021744098676511086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好不想要被討厭 但我已經被人討厭了\n\n果然不出生就能夠解決一切了\n\n果然只要我自己一個人死掉就不會有問題了\n\n今天 今天 好想要離開\n\n好想要做一點有意義的事情\n\n像是在今天的我 馬上死掉一樣\n\n我帶不走的 就讓他們全都死掉吧\n\n啊啊啊 真的好討厭啊\n活著這種事 就交給別人好了 \n不要問我啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021744093945385238",
+        "created_at": "2026-02-12T00:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021744101117636741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021744101117636741",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021744098676511086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好不想要被討厭 但我已經被人討厭了\n\n果然不出生就能夠解決一切了\n\n果然只要我自己一個人死掉就不會有問題了\n\n今天 今天 好想要離開\n\n好想要做一點有意義的事情\n\n像是在今天的我 馬上死掉一樣\n\n我帶不走的 就讓他們全都死掉吧\n\n啊啊啊 真的好討厭啊\n活著這種事 就交給別人好了 \n不要問我啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2021744093945385238",
+        "created_at": "2026-02-12T00:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021744098676511086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021744098676511086",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021744096273154374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我寧願沒有人告訴我 我也不自願的想得到喜歡\n\n喜歡的反面就是厭惡對吧\n\n所有人都是這樣的\n\n所以我永遠都不會被所有人喜歡\n\n但不喜歡的話 就往我身上插一把刀 然後讓我的傷口再次潰爛到不成人形 最後我連傷口都不管不顧 因為我知道沒有人在乎我的傷口 他們會認為我虛情假意 會認為我是個多麼厲害的演員"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 12504,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 979
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2045376046330257436",
+    "created_at": "2026-04-18T05:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045376046330257436"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045376046330257436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "120秒 連一個剛好紅燈的路口都過不去 廢物\n\n60秒 車子開走了。真想躺車道上，這樣什麼都不用做了。\n\n30秒 感覺精神不怎麼妙呢 有人罵我的話我會死掉。\n\n12秒 講話太衝了嗎？他也不能這麼說吧？真的特別難受ww\n\n6秒 死亡也可以這麼快嗎？ 可以 隨時都可以\n\n1秒 您輸入太快了 請再稍等1秒即可傳送訊息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2045376046330257436",
+        "created_at": "2026-04-18T05:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045376046330257436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045376046330257436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "120秒 連一個剛好紅燈的路口都過不去 廢物\n\n60秒 車子開走了。真想躺車道上，這樣什麼都不用做了。\n\n30秒 感覺精神不怎麼妙呢 有人罵我的話我會死掉。\n\n12秒 講話太衝了嗎？他也不能這麼說吧？真的特別難受ww\n\n6秒 死亡也可以這麼快嗎？ 可以 隨時都可以\n\n1秒 您輸入太快了 請再稍等1秒即可傳送訊息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 100,
+          "like_count": 20569,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1607
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

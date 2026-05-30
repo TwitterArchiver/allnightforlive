@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043023947579691289",
+    "created_at": "2026-04-11T17:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043023947579691289"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043023947579691289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想要就這樣一直哭下去 好想要就這樣失去一切能力 哭泣就夠了 我只要當一個只會哭泣的小丑就夠了\n\n明天的我還是會穿得很漂亮然後出去吧。\n\n明天的我還是得赴約吧\n\n我可能 最討厭 那種放鴿子的人吧\n\n可惜了 鳥是個很美麗的生物 即使我一直都是殺手 如果這把屠夫的刀可以架在自己脖子上就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043023947579691289",
+        "created_at": "2026-04-11T17:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043023947579691289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043023947579691289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要就這樣一直哭下去 好想要就這樣失去一切能力 哭泣就夠了 我只要當一個只會哭泣的小丑就夠了\n\n明天的我還是會穿得很漂亮然後出去吧。\n\n明天的我還是得赴約吧\n\n我可能 最討厭 那種放鴿子的人吧\n\n可惜了 鳥是個很美麗的生物 即使我一直都是殺手 如果這把屠夫的刀可以架在自己脖子上就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 18733,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1491
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

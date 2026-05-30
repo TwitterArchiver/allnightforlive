@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057757372677038080"
+      ],
+      "media_source_tweet_id": [
+        "2057757421402214869"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058045699460354213",
+    "created_at": "2026-05-23T04:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045699460354213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1627993133056397313",
+          "start": 3,
+          "username": "RIP2x_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lnlr6saPOd",
+          "end": 66,
+          "expanded_url": "https://x.com/RIP2x_/status/2057757421402214869/photo/1",
+          "media_key": "3_2057757372677038080",
+          "start": 43,
+          "url": "https://t.co/lnlr6saPOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045699460354213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057757421402214869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIP2x_: ちゃんと出すのでもう急かさないでください！\nやめてください！ https://t.co/lnlr6saPOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2057757372677038080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fbZBbIAAylk6.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057757372677038080"
+          ],
+          "media_source_tweet_id": [
+            "2057757421402214869"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058045699460354213",
+        "created_at": "2026-05-23T04:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045699460354213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1627993133056397313",
+              "start": 3,
+              "username": "RIP2x_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnlr6saPOd",
+              "end": 66,
+              "expanded_url": "https://x.com/RIP2x_/status/2057757421402214869/photo/1",
+              "media_key": "3_2057757372677038080",
+              "start": 43,
+              "url": "https://t.co/lnlr6saPOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045699460354213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057757421402214869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIP2x_: ちゃんと出すのでもう急かさないでください！\nやめてください！ https://t.co/lnlr6saPOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057757372677038080"
+          ]
+        },
+        "author_id": "1627993133056397313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057757421402214869",
+        "created_at": "2026-05-22T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057757421402214869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnlr6saPOd",
+              "end": 54,
+              "expanded_url": "https://x.com/RIP2x_/status/2057757421402214869/photo/1",
+              "media_key": "3_2057757372677038080",
+              "start": 31,
+              "url": "https://t.co/lnlr6saPOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057757421402214869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2307,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "ちゃんと出すのでもう急かさないでください！\nやめてください！ https://t.co/lnlr6saPOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 25457,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2091
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T11:26:33.000Z",
+        "description": "アイコンはskebで依頼したものです→ioolx_◆ ブログ https://t.co/t213W3PER1 FA #黒野京展覧会 ◆ 本垢→@RIP2_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 58,
+                "tag": "黒野京展覧会"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 71,
+                "username": "RIP2_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ch.nicovideo.jp/krnkyRIP2",
+                "end": 54,
+                "expanded_url": "https://ch.nicovideo.jp/krnkyRIP2",
+                "start": 31,
+                "url": "https://t.co/t213W3PER1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2HU84WCNPW13O?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/OZfFABkSVO"
+              }
+            ]
+          }
+        },
+        "id": "1627993133056397313",
+        "name": "𝐑𝐈𝐏𝟐_",
+        "pinned_tweet_id": "2050531011478643126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007775160670232576/vBgZ2uCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6696,
+          "following_count": 5,
+          "like_count": 37390,
+          "listed_count": 16,
+          "media_count": 568,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/OZfFABkSVO",
+        "username": "RIP2x_",
+        "verified": false
+      }
+    ]
+  }
+}

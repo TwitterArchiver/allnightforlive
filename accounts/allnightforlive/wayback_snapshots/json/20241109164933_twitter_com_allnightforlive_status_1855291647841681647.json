@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1855291643685183780",
+    "created_at": "2024-11-09T16:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T17:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855291647841681647"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1855291647841681647",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855291645123858728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊好痛苦。\n如果繼續像小孩子那樣吵鬧的話可以有人忍受我？\n\n當然沒有。\n總之…這個明知故問的自虐狂又在自我安慰了…。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1855291643685183780",
+        "created_at": "2024-11-09T16:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T17:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855291647841681647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855291647841681647",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855291645123858728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊好痛苦。\n如果繼續像小孩子那樣吵鬧的話可以有人忍受我？\n\n當然沒有。\n總之…這個明知故問的自虐狂又在自我安慰了…。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1855291643685183780",
+        "created_at": "2024-11-09T16:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T17:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855291645123858728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855291645123858728",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855291643685183780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒有人會接受，小孩子般的吵鬧吧？\n那種…不明所以的道歉…誰會接受啊。\n…沒關係，錯的還是我，我只要不接受，然後\n擅自的離開這個群體就好了。\n\n再問有意義嗎？…好像沒有。\n以我的印象而論，…我已經被一個人討厭了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "沒有人找的到我。\n\n糜爛的言論在這裡會不斷的出現，如同我化為腐肉的軀體。",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 526,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

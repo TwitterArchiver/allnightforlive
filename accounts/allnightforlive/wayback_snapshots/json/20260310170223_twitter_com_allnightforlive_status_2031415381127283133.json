@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2031007649379062006",
+    "created_at": "2026-03-10T17:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031415381127283133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        },
+        {
+          "end": 21,
+          "id": "1871529139720863744",
+          "start": 12,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031415381127283133",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031010691402871106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 @TOOBE775 AI的起源是人類文明 盡頭是數字 再怎麼樣ai就只是合成肉 ai判斷情緒詞彙的類別 再選擇意義上適合的來使用 它可以選到「第一名」的範例 但他選不出「完美」的答案 因為選擇題永遠都不會比填空題來得更人性 更多元 人性的同義詞就是七情六慾 ai只能重複計算上一代的產物 而不能創造新一代的物品。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2031007649379062006",
+        "created_at": "2026-03-10T17:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031415381127283133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            },
+            {
+              "end": 21,
+              "id": "1871529139720863744",
+              "start": 12,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031415381127283133",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031010691402871106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 @TOOBE775 AI的起源是人類文明 盡頭是數字 再怎麼樣ai就只是合成肉 ai判斷情緒詞彙的類別 再選擇意義上適合的來使用 它可以選到「第一名」的範例 但他選不出「完美」的答案 因為選擇題永遠都不會比填空題來得更人性 更多元 人性的同義詞就是七情六慾 ai只能重複計算上一代的產物 而不能創造新一代的物品。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012843367982628864",
+        "conversation_id": "2031007649379062006",
+        "created_at": "2026-03-09T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031010691402871106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031010691402871106",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2137,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031009774935192037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 我觉得AI有极大机会做到，因为人和AI的区别就是人有七情六欲，人的一生就是被七情六欲束缚着无法突破"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 90,
+          "like_count": 15809,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1187
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "闲人一个｜中间偏右｜聊点情感｜发点段子｜念点日常｜meme爱好者｜素材来源网络收集·自行辨别",
+        "id": "2012843367982628864",
+        "name": "老季",
+        "pinned_tweet_id": "2030978347212169272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021819823077183488/dmpU-l-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 643,
+          "like_count": 5560,
+          "listed_count": 12,
+          "media_count": 225,
+          "tweet_count": 2341
+        },
+        "username": "XiaoJi0403",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂了人性，却依旧被生活按头教育、社会反复毒打，嘴硬至今。",
+        "id": "1871529139720863744",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2031180403617444018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022668758897307648/al3mWURP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1455,
+          "like_count": 3283,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3783
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

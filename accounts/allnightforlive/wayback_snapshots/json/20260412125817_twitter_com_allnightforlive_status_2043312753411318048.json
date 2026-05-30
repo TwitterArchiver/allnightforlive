@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043198505788084578",
+    "created_at": "2026-04-12T12:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043312753411318048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430428104804077572",
+          "start": 0,
+          "username": "somaruriro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043312753411318048",
+    "in_reply_to_user_id": "1430428104804077572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043198505788084578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@somaruriro 那邊的很多文都轉這裡的 但封人的情況好像比這裡好一點？ 畢竟他們用戶的能力能夠給人罵到註銷 神人的魅力（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043198505788084578",
+        "created_at": "2026-04-12T12:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043312753411318048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430428104804077572",
+              "start": 0,
+              "username": "somaruriro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043312753411318048",
+        "in_reply_to_user_id": "1430428104804077572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043198505788084578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@somaruriro 那邊的很多文都轉這裡的 但封人的情況好像比這裡好一點？ 畢竟他們用戶的能力能夠給人罵到註銷 神人的魅力（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430428104804077572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2043198505788084578",
+        "created_at": "2026-04-12T05:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043198505788084578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043198505788084578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14584,
+          "like_count": 365,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "還有誰跟我一樣是到現在還沒有滑過threads的天生麗質原始人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 93,
+          "like_count": 19009,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1523
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T07:13:37.000Z",
+        "description": "あなたの水色です。 #水縹色に染まる\nhttps://t.co/UfGxC83joJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 10,
+                "tag": "水縹色に染まる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@somaruriro",
+                "end": 42,
+                "expanded_url": "https://youtube.com/@somaruriro",
+                "start": 19,
+                "url": "https://t.co/UfGxC83joJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/somaruriro",
+                "end": 23,
+                "expanded_url": "https://lit.link/somaruriro",
+                "start": 0,
+                "url": "https://t.co/TRjfxoSx5v"
+              }
+            ]
+          }
+        },
+        "id": "1430428104804077572",
+        "location": "awamizm (Vo.)",
+        "name": "水縹そまる🧊",
+        "pinned_tweet_id": "2035719931556462596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866798456670654465/hvLegzWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10152,
+          "following_count": 116,
+          "like_count": 17398,
+          "listed_count": 52,
+          "media_count": 1694,
+          "tweet_count": 13049
+        },
+        "url": "https://t.co/TRjfxoSx5v",
+        "username": "somaruriro",
+        "verified": false
+      }
+    ]
+  }
+}

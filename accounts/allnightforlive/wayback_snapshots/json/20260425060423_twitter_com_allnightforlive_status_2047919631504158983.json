@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2047919631504158983",
+    "created_at": "2026-04-25T06:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047919631504158983"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047919631504158983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你想做什麼 你剛剛看著他是為了什麼 因為你被拋棄了對嗎 我想說 好像是的 原本想著陪著他們好了 於是我也沒有出門 然後發現所有人都出門了 只有我在被褥裡面沉澱腐爛 好想要在他們看不到的時候讓自己過得特別糟糕 果然是這樣的 就算現在出門也不會高興的 我會刺痛 會倒在公車站 會為了我出門而厭惡生存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2047919631504158983",
+        "created_at": "2026-04-25T06:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047919631504158983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047919631504158983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你想做什麼 你剛剛看著他是為了什麼 因為你被拋棄了對嗎 我想說 好像是的 原本想著陪著他們好了 於是我也沒有出門 然後發現所有人都出門了 只有我在被褥裡面沉澱腐爛 好想要在他們看不到的時候讓自己過得特別糟糕 果然是這樣的 就算現在出門也不會高興的 我會刺痛 會倒在公車站 會為了我出門而厭惡生存"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 21840,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1743
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

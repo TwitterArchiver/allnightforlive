@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2032612170450743649",
+    "created_at": "2026-03-14T16:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032849743098122575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "771277659624001536",
+          "start": 0,
+          "username": "Gachi_Yellow"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        },
+        {
+          "end": 35,
+          "id": "1326454601533415424",
+          "start": 22,
+          "username": "yutsuki_rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032849743098122575",
+    "in_reply_to_user_id": "771277659624001536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032716655042965860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gachi_Yellow @Cldeop @yutsuki_rose Know的K不發音，那為什麼唸起來跟now不一樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2032612170450743649",
+        "created_at": "2026-03-14T16:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032849743098122575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "771277659624001536",
+              "start": 0,
+              "username": "Gachi_Yellow"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            },
+            {
+              "end": 35,
+              "id": "1326454601533415424",
+              "start": 22,
+              "username": "yutsuki_rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032849743098122575",
+        "in_reply_to_user_id": "771277659624001536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032716655042965860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gachi_Yellow @Cldeop @yutsuki_rose Know的K不發音，那為什麼唸起來跟now不一樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771277659624001536",
+        "conversation_id": "2032612170450743649",
+        "created_at": "2026-03-14T07:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032716655042965860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 21,
+              "id": "1326454601533415424",
+              "start": 8,
+              "username": "yutsuki_rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032716655042965860",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2837,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032612170450743649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @yutsuki_rose 因為要尊重國王的K，所以除了King外，K開頭的K不發音\n\n比如knight , know , knock K都是不發音的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "IS",
+              "full_name": "Iceland",
+              "geo": {
+                "coordinates": [
+                  -18.0,
+                  65.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 16214,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1221
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T09:24:58.000Z",
+        "description": "愛狗人士\n\nヒメヒナのファン\nHIMEHINA的粉絲",
+        "id": "771277659624001536",
+        "location": "有條會倒立走路灰貴賓的家",
+        "name": "善良的紳士大叔@🥕ジョジ民🥕",
+        "pinned_tweet_id": "1817494559670054997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946527389150056448/4yvPn9QW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2088,
+          "like_count": 124723,
+          "listed_count": 8,
+          "media_count": 2181,
+          "tweet_count": 37324
+        },
+        "username": "Gachi_Yellow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2027908377758863690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101543,
+          "following_count": 731,
+          "like_count": 35151,
+          "listed_count": 289,
+          "media_count": 16695,
+          "tweet_count": 24009
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-11T09:20:08.000Z",
+        "description": "🖋自己受肉/個人勢/🇹🇼/INFJ\n🦄宇宙夥伴 @ClarkHitandalia \n🟪圖奇https://t.co/byMRx5M7Uh\n🚫二創R18、R18G禁止\n🏷️標籤#Rozen_Cosmos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "ClarkHitandalia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/rozen_cosmos",
+                "end": 68,
+                "expanded_url": "https://www.twitch.tv/rozen_cosmos",
+                "start": 45,
+                "url": "https://t.co/byMRx5M7Uh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yutsuki_rose",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yutsuki_rose",
+                "start": 0,
+                "url": "https://t.co/rGL5oNaW8k"
+              }
+            ]
+          }
+        },
+        "id": "1326454601533415424",
+        "location": "https://discord.gg/UVrhCnyUp6",
+        "name": "🦄🪽咲紗 露世✨＋占卜魔法師＋🤍Vtuber",
+        "pinned_tweet_id": "1923682285691470050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003187112246726656/lx2j1Px2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 425,
+          "like_count": 309349,
+          "listed_count": 18,
+          "media_count": 25863,
+          "tweet_count": 189181
+        },
+        "url": "https://t.co/rGL5oNaW8k",
+        "username": "yutsuki_rose",
+        "verified": false
+      }
+    ]
+  }
+}

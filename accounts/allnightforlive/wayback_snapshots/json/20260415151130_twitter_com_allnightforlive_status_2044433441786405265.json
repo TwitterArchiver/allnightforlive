@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043584445563998241",
+    "created_at": "2026-04-15T15:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044433441786405265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028321716049743872",
+          "start": 0,
+          "username": "xynMTFxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044433441786405265",
+    "in_reply_to_user_id": "2028321716049743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043584445563998241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMTFxyn 老師你們人格記憶不互通嗎？還是因為沒有管理所以會出現記憶缺失？所以唐毓文是屬於主人格還是副人格的什麼類型？人格方面是自主切換還是被動切換？如果是被動切換是唐毓文的權利大於南盺嗎？既然如此為什麼唐毓文不能夠更自主的去解決既有的問題？為什麼對外稱是唐毓文要把南盺踢掉才能自主說話？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043584445563998241",
+        "created_at": "2026-04-15T15:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044433441786405265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028321716049743872",
+              "start": 0,
+              "username": "xynMTFxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044433441786405265",
+        "in_reply_to_user_id": "2028321716049743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043584445563998241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMTFxyn 老師你們人格記憶不互通嗎？還是因為沒有管理所以會出現記憶缺失？所以唐毓文是屬於主人格還是副人格的什麼類型？人格方面是自主切換還是被動切換？如果是被動切換是唐毓文的權利大於南盺嗎？既然如此為什麼唐毓文不能夠更自主的去解決既有的問題？為什麼對外稱是唐毓文要把南盺踢掉才能自主說話？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2043584445563998241",
+        "created_at": "2026-04-13T06:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043584445563998241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2043583241341350313",
+              "start": 95,
+              "url": "https://t.co/xYMhEsDsRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043584445563998241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3432,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043583241341350313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南盺来解释啦～\n关于唐毓文不发货的事情我问她了qwq\n她说并非不发货 而是要等月底货清关完成再发（）\n至于过激言论是因为她被问的实在很烦很烦所以爆典了\n大家有关于唐毓文的问题可以找南盺ww https://t.co/xYMhEsDsRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 100,
+          "like_count": 20244,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1584
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041822092631667176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 84,
+          "like_count": 73,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 471
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      }
+    ]
+  }
+}

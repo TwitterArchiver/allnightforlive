@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1864604513480659211",
+    "created_at": "2024-12-05T09:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T10:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864604513480659211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864604513480659211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "當有一天你的大腦已經無法正確的辨別感情，甚至一度將感情和性畫上等號。\n沒什麼，因為我並沒有辦法解釋甚至為此定義一點什麼。\n對我，就算一點點試探性的觸碰，在我的眼中也會認為那是“愛我”。\n就算是一個擁抱，最終不是我的崩潰大哭，就是一場性愛的結束。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1864604513480659211",
+        "created_at": "2024-12-05T09:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864604513480659211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864604513480659211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當有一天你的大腦已經無法正確的辨別感情，甚至一度將感情和性畫上等號。\n沒什麼，因為我並沒有辦法解釋甚至為此定義一點什麼。\n對我，就算一點點試探性的觸碰，在我的眼中也會認為那是“愛我”。\n就算是一個擁抱，最終不是我的崩潰大哭，就是一場性愛的結束。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "“小島今天也被喜愛著哦♡”--未被確診的性成癮患者自述",
+        "id": "1511572100225462281",
+        "location": "Iceland",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1854492260387447279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2043709913176891523",
+    "created_at": "2026-04-13T15:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043709913176891523"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043709913176891523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是不是太麻煩了。\n\n我是不是花太多錢了\n\n我是不是把別人的付出當作理所當然\n\n可是我真的、真的很努力了\n\n你說要像演講一樣有抑揚頓挫\n\n我做到了\n\n但是我的手顫抖不止\n\n我連寫字都帶著我要恨透剛才自己的感覺\n\n。\n\n我真的不該活著\n\n活著這種事情為什麼是我來做呢？\n\n啊啊啊 天上一定有好多姊姊、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2043709913176891523",
+        "created_at": "2026-04-13T15:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043709913176891523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043709913176891523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是太麻煩了。\n\n我是不是花太多錢了\n\n我是不是把別人的付出當作理所當然\n\n可是我真的、真的很努力了\n\n你說要像演講一樣有抑揚頓挫\n\n我做到了\n\n但是我的手顫抖不止\n\n我連寫字都帶著我要恨透剛才自己的感覺\n\n。\n\n我真的不該活著\n\n活著這種事情為什麼是我來做呢？\n\n啊啊啊 天上一定有好多姊姊、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "1881024842637746685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 97,
+          "like_count": 19434,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1547
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

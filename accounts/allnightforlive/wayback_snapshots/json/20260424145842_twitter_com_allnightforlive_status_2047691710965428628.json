@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2047443626158952543",
+    "created_at": "2026-04-24T14:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047691710965428628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1317515722210226176",
+          "start": 0,
+          "username": "everredzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047691710965428628",
+    "in_reply_to_user_id": "1317515722210226176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047443626158952543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@everredzzz 老師胸口那一塊刺青真的好有感覺 好像要把人吸進去一樣、、耳墜也好有設計感、、、老師要是我畫畫也能畫出這麼美麗的生物就好了T^T 真的很喜歡齊劉海////手癖完全就是照著老師的模樣在長的、、、不管了舔一口（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047443621293559809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGn7IDDXkAESu84.jpg",
+        "width": 1357
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047443621285101568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGn7IDBWgAAoLAg.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2047443626158952543",
+        "created_at": "2026-04-24T14:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047691710965428628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1317515722210226176",
+              "start": 0,
+              "username": "everredzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691710965428628",
+        "in_reply_to_user_id": "1317515722210226176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047443626158952543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@everredzzz 老師胸口那一塊刺青真的好有感覺 好像要把人吸進去一樣、、耳墜也好有設計感、、、老師要是我畫畫也能畫出這麼美麗的生物就好了T^T 真的很喜歡齊劉海////手癖完全就是照著老師的模樣在長的、、、不管了舔一口（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047443621293559809",
+            "3_2047443621285101568"
+          ]
+        },
+        "author_id": "1317515722210226176",
+        "conversation_id": "2047443626158952543",
+        "created_at": "2026-04-23T22:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047443626158952543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFtAUdttcl",
+              "end": 32,
+              "expanded_url": "https://x.com/everredzzz/status/2047443626158952543/photo/1",
+              "media_key": "3_2047443621293559809",
+              "start": 9,
+              "url": "https://t.co/uFtAUdttcl"
+            },
+            {
+              "display_url": "pic.x.com/uFtAUdttcl",
+              "end": 32,
+              "expanded_url": "https://x.com/everredzzz/status/2047443626158952543/photo/1",
+              "media_key": "3_2047443621285101568",
+              "start": 9,
+              "url": "https://t.co/uFtAUdttcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047443626158952543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 699,
+          "impression_count": 152568,
+          "like_count": 11061,
+          "quote_count": 37,
+          "reply_count": 154,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "我和头帘不共戴天 https://t.co/uFtAUdttcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 21597,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1726
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T17:20:12.000Z",
+        "description": "They/Them｜Dom｜废话小号：@avoidhumansss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "avoidhumansss"
+              }
+            ]
+          }
+        },
+        "id": "1317515722210226176",
+        "location": "666 feet underground",
+        "name": "脑",
+        "pinned_tweet_id": "1518222078620880897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019502286595141632/TOYyZNPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37846,
+          "following_count": 87,
+          "like_count": 6276,
+          "listed_count": 60,
+          "media_count": 656,
+          "tweet_count": 4771
+        },
+        "username": "everredzzz",
+        "verified": false
+      }
+    ]
+  }
+}
