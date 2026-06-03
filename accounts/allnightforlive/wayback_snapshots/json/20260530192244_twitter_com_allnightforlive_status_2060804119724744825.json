@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060804119724744825",
+    "created_at": "2026-05-30T19:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060804119724744825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664970844026867713",
+          "start": 3,
+          "username": "GodBottleXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060804119724744825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060731518335762473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GodBottleXD: 河豚🐡在极度恐惧时的内脏痉挛，不可控制的过度呼吸，身体胀大的痛苦，拼命喝水避免自己被吃掉。这种极度惊恐并不能被让捕食者感同身受。\n它们在充气之后会虚脱数小时甚至数天，但人只是拿着擦鞋玩，当皮球踢回水里，或者当成一种可爱的样子做成图片或表情包。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060731514971901952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkwZQdaUAA92Sl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060804119724744825",
+        "created_at": "2026-05-30T19:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060804119724744825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664970844026867713",
+              "start": 3,
+              "username": "GodBottleXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060804119724744825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060731518335762473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GodBottleXD: 河豚🐡在极度恐惧时的内脏痉挛，不可控制的过度呼吸，身体胀大的痛苦，拼命喝水避免自己被吃掉。这种极度惊恐并不能被让捕食者感同身受。\n它们在充气之后会虚脱数小时甚至数天，但人只是拿着擦鞋玩，当皮球踢回水里，或者当成一种可爱的样子做成图片或表情包。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060731514971901952"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "2060731518335762473",
+        "created_at": "2026-05-30T14:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060731518335762473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kBQO81QNW",
+              "end": 161,
+              "expanded_url": "https://x.com/GodBottleXD/status/2060731518335762473/photo/1",
+              "media_key": "3_2060731514971901952",
+              "start": 138,
+              "url": "https://t.co/6kBQO81QNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060731518335762473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 9416,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "河豚🐡在极度恐惧时的内脏痉挛，不可控制的过度呼吸，身体胀大的痛苦，拼命喝水避免自己被吃掉。这种极度惊恐并不能被让捕食者感同身受。\n它们在充气之后会虚脱数小时甚至数天，但人只是拿着擦鞋玩，当皮球踢回水里，或者当成一种可爱的样子做成图片或表情包。\n于是这种性癖被我称之为河豚🐡。 https://t.co/6kBQO81QNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 110,
+          "like_count": 26086,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2146
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "pinned_tweet_id": "1950160542544646570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 491,
+          "like_count": 1958,
+          "listed_count": 9,
+          "media_count": 1768,
+          "tweet_count": 4068
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

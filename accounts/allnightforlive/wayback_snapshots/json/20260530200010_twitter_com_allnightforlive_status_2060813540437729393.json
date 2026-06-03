@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060813540437729393",
+    "created_at": "2026-05-30T20:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060813540437729393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2006299992693329920",
+          "start": 3,
+          "username": "forownblueprint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060813540437729393",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060637982273802672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @forownblueprint: 이건 ㅈㄴ 심연인데\n나의죽음이누군가에게트라우마가된다면좋을것같단 생각을 해본적이있음 그렇게 해서라도 평생 기억에 남고 싶다고 생각햇엇음\n\n지금은그정도정신병자는아님오해마라"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060813540437729393",
+        "created_at": "2026-05-30T20:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060813540437729393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2006299992693329920",
+              "start": 3,
+              "username": "forownblueprint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060813540437729393",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060637982273802672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @forownblueprint: 이건 ㅈㄴ 심연인데\n나의죽음이누군가에게트라우마가된다면좋을것같단 생각을 해본적이있음 그렇게 해서라도 평생 기억에 남고 싶다고 생각햇엇음\n\n지금은그정도정신병자는아님오해마라"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006299992693329920",
+        "conversation_id": "2060637982273802672",
+        "created_at": "2026-05-30T08:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060637982273802672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horsekim72/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/horsekim72/status/2060365548417155246",
+              "start": 94,
+              "url": "https://t.co/vlmNRL597p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060637982273802672",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 359625,
+          "like_count": 4384,
+          "quote_count": 873,
+          "reply_count": 5,
+          "retweet_count": 920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060365548417155246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이건 ㅈㄴ 심연인데\n나의죽음이누군가에게트라우마가된다면좋을것같단 생각을 해본적이있음 그렇게 해서라도 평생 기억에 남고 싶다고 생각햇엇음\n\n지금은그정도정신병자는아님오해마라 https://t.co/vlmNRL597p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 110,
+          "like_count": 26160,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2159
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T09:42:54.000Z",
+        "description": "너무그러지마",
+        "id": "2006299992693329920",
+        "location": "urpocket",
+        "name": "단추",
+        "pinned_tweet_id": "2060744609127661936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044045477038174212/CzgPlSRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 49,
+          "like_count": 32613,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 17685
+        },
+        "username": "forownblueprint",
+        "verified": false
+      }
+    ]
+  }
+}

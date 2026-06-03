@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2061163567567769757",
+    "created_at": "2026-05-31T19:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061163567567769757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061163567567769757",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060899150204404114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2061163567567769757",
+        "created_at": "2026-05-31T19:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061163567567769757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061163567567769757",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060899150204404114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2060899150204404114",
+        "created_at": "2026-05-31T01:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060899150204404114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060899150204404114",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 264865,
+          "like_count": 8714,
+          "quote_count": 370,
+          "reply_count": 241,
+          "retweet_count": 1499
+        },
+        "reply_settings": "everyone",
+        "text": "O Twitter é dividido em dois grupos: os que querem morrer e os que querem transar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 111,
+          "like_count": 26356,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2185
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 464,
+          "like_count": 118,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 240
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

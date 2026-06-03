@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060569365364523215",
+    "created_at": "2026-05-30T03:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060569368145342887"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060569368145342887",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060569365364523215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雖然後來對這些鳥的死亡而感到痛苦 \n\n但死了太多了 就算後面都是對他們好 努力的養活他們\n\n最後都在不同成因下死去 順帶殺了我對於死亡的銳利\n\n最後一隻 我記得是野鳥 撿到的那種\n\n後面忘記怎麼死的\n\n因為我過了快半個禮拜才發現他的籠子清掉了(忙於學業)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060569365364523215",
+        "created_at": "2026-05-30T03:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060569368145342887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060569368145342887",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569365364523215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雖然後來對這些鳥的死亡而感到痛苦 \n\n但死了太多了 就算後面都是對他們好 努力的養活他們\n\n最後都在不同成因下死去 順帶殺了我對於死亡的銳利\n\n最後一隻 我記得是野鳥 撿到的那種\n\n後面忘記怎麼死的\n\n因為我過了快半個禮拜才發現他的籠子清掉了(忙於學業)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060569365364523215",
+        "created_at": "2026-05-30T03:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060569365364523215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060569365364523215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現實中絕大多數的人都知道 個人是特別喜歡鳥類 並且養過很多次鳥（但養殖場問題都沒有活很久）\n\n但實則 在最早期養鳥（小學期間？）\n\n我在沒有被訓練與教育的情況下 會摔鳥 以及掐鳥 並且曾經在鳥癲癇的時候將它拋出摔死（這是意外 我當時是蠢。）\n\n不可否認的是我想試圖意識到我是否有隱藏的\n\n問題?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25980,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2134
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

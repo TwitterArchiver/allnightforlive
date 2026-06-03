@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060809461284167796",
+    "created_at": "2026-05-30T19:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060809461284167796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1469625369309646849",
+          "start": 3,
+          "username": "StCEwQrWJMEAM9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060809461284167796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060599615280533719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StCEwQrWJMEAM9W: 酒鬱。\n希死念慮。\n今いる彼の家は9階。\n飛び降りよう。\n依存症は治らないのだから。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060809461284167796",
+        "created_at": "2026-05-30T19:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060809461284167796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1469625369309646849",
+              "start": 3,
+              "username": "StCEwQrWJMEAM9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060809461284167796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060599615280533719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StCEwQrWJMEAM9W: 酒鬱。\n希死念慮。\n今いる彼の家は9階。\n飛び降りよう。\n依存症は治らないのだから。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469625369309646849",
+        "conversation_id": "2060599615280533719",
+        "created_at": "2026-05-30T05:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060599615280533719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060599615280533719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 15505,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "酒鬱。\n希死念慮。\n今いる彼の家は9階。\n飛び降りよう。\n依存症は治らないのだから。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 110,
+          "like_count": 26119,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2155
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T11:09:44.000Z",
+        "description": "全般性不安障害、アルコール依存症。断酒は安定したり時々スリップ。OD2回未遂。もうしない！ # Twitter断酒部",
+        "id": "1469625369309646849",
+        "location": "日本 ",
+        "name": "なつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947039265804288/gdOgT7v0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 813,
+          "like_count": 20751,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 3172
+        },
+        "username": "StCEwQrWJMEAM9W",
+        "verified": false
+      }
+    ]
+  }
+}

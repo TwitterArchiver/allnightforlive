@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060340821615055207",
+    "created_at": "2026-05-30T05:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060592216108843396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997292379385307136",
+          "start": 0,
+          "username": "baeghui_1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060592216108843396",
+    "in_reply_to_user_id": "1997292379385307136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340821615055207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baeghui_1206 為了人 為了奉獻我自己 為了繼續感受痛苦 為了等到能夠成為正常人的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060340821615055207",
+        "created_at": "2026-05-30T05:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060592216108843396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997292379385307136",
+              "start": 0,
+              "username": "baeghui_1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060592216108843396",
+        "in_reply_to_user_id": "1997292379385307136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340821615055207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baeghui_1206 為了人 為了奉獻我自己 為了繼續感受痛苦 為了等到能夠成為正常人的一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997292379385307136",
+        "conversation_id": "2060340821615055207",
+        "created_at": "2026-05-29T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340821615055207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340821615055207",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 271326,
+          "like_count": 1920,
+          "quote_count": 1409,
+          "reply_count": 697,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "다들 뭐땜에 살아갈까"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 26046,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2138
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T13:10:00.000Z",
+        "description": "낭랑십육세",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1070405205/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1070405205/",
+                "start": 0,
+                "url": "https://t.co/PwK9YagpLP"
+              }
+            ]
+          }
+        },
+        "id": "1997292379385307136",
+        "location": "정신병바이",
+        "name": "백희",
+        "pinned_tweet_id": "2058854182241853770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997293102290329600/QX4bkJ_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 346,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 9598
+        },
+        "url": "https://t.co/PwK9YagpLP",
+        "username": "baeghui_1206",
+        "verified": false
+      }
+    ]
+  }
+}

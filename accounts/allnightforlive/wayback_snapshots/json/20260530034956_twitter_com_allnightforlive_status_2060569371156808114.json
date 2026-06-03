@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2060569365364523215",
+    "created_at": "2026-05-30T03:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060569371156808114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060569371156808114",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060569368145342887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不可被原諒的是 當下我確實是個可悲可恨的虐鳥人士 \n因此我確實是該死的 在鳥圈裡是十惡不赦的 \n\n甚至說在人類這種在排異「性」言論的 之中 \n\n虐待跟欺凌才是我最令人憎惡的點\n\n。。不否認的是我仍然覺得鳥類可愛 仍然期望我能夠被鳥這種生物觸摸\n\n但好可惜。 我真的好糟糕。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060569365364523215",
+        "created_at": "2026-05-30T03:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060569371156808114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060569371156808114",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569368145342887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不可被原諒的是 當下我確實是個可悲可恨的虐鳥人士 \n因此我確實是該死的 在鳥圈裡是十惡不赦的 \n\n甚至說在人類這種在排異「性」言論的 之中 \n\n虐待跟欺凌才是我最令人憎惡的點\n\n。。不否認的是我仍然覺得鳥類可愛 仍然期望我能夠被鳥這種生物觸摸\n\n但好可惜。 我真的好糟糕。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2060569365364523215",
+        "created_at": "2026-05-30T03:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060569368145342887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060569368145342887",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569365364523215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雖然後來對這些鳥的死亡而感到痛苦 \n\n但死了太多了 就算後面都是對他們好 努力的養活他們\n\n最後都在不同成因下死去 順帶殺了我對於死亡的銳利\n\n最後一隻 我記得是野鳥 撿到的那種\n\n後面忘記怎麼死的\n\n因為我過了快半個禮拜才發現他的籠子清掉了(忙於學業)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 25980,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2134
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

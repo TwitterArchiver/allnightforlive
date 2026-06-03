@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2061566332668457217",
+    "created_at": "2026-06-01T21:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T22:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061566332668457217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775436213270519808",
+          "start": 3,
+          "username": "better__time"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061566332668457217",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061385274773631284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @better__time: 감정이 고장 났을 때 나타나는 행동들\n\n1. 사람들과의 대화가 피곤해진다.\n2. 여행, 운동, 취미도 기분 전환이 잘되지 않는다.\n3. 작은 일에도 쉽게 화가 나고 더 억울하다.\n4. 아무것도 하기 싫고 집에서 누워만…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2061566332668457217",
+        "created_at": "2026-06-01T21:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061566332668457217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775436213270519808",
+              "start": 3,
+              "username": "better__time"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061566332668457217",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061385274773631284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @better__time: 감정이 고장 났을 때 나타나는 행동들\n\n1. 사람들과의 대화가 피곤해진다.\n2. 여행, 운동, 취미도 기분 전환이 잘되지 않는다.\n3. 작은 일에도 쉽게 화가 나고 더 억울하다.\n4. 아무것도 하기 싫고 집에서 누워만…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775436213270519808",
+        "conversation_id": "2061385274773631284",
+        "created_at": "2026-06-01T09:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061385274773631284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061385274773631284",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3475,
+          "like_count": 111,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "감정이 고장 났을 때 나타나는 행동들\n\n1. 사람들과의 대화가 피곤해진다.\n2. 여행, 운동, 취미도 기분 전환이 잘되지 않는다.\n3. 작은 일에도 쉽게 화가 나고 더 억울하다.\n4. 아무것도 하기 싫고 집에서 누워만 있고 싶다.\n5. 혼자 있을 때 갑자기 눈물이 흐른다."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 111,
+          "like_count": 26398,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2193
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T08:12:47.000Z",
+        "description": "지친 하루에, 작은 위로가 되는 공간",
+        "id": "1775436213270519808",
+        "name": "better time",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973156619044397056/I7tAHB-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21048,
+          "following_count": 1105,
+          "like_count": 58336,
+          "listed_count": 42,
+          "media_count": 2522,
+          "tweet_count": 43556
+        },
+        "username": "better__time",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2061791872021127410",
+    "created_at": "2026-06-02T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061791872021127410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1797136217227898880",
+          "start": 3,
+          "username": "achivestardust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061791872021127410",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061455271382430152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @achivestardust: 자해가 왜 나쁘다는 거야? 내가 남들한테 피해주는 것도 아닌데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2061791872021127410",
+        "created_at": "2026-06-02T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061791872021127410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1797136217227898880",
+              "start": 3,
+              "username": "achivestardust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061791872021127410",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061455271382430152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @achivestardust: 자해가 왜 나쁘다는 거야? 내가 남들한테 피해주는 것도 아닌데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797136217227898880",
+        "conversation_id": "2061455271382430152",
+        "created_at": "2026-06-01T14:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061455271382430152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061455271382430152",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 76896,
+          "like_count": 2901,
+          "quote_count": 152,
+          "reply_count": 98,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "자해가 왜 나쁘다는 거야? 내가 남들한테 피해주는 것도 아닌데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26405,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2198
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:20:52.000Z",
+        "description": "폐급고3/ 초멘초뎀 좋아해요",
+        "id": "1797136217227898880",
+        "name": "실밥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049373662810419200/XAPhbxtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 6111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "username": "achivestardust",
+        "verified": false
+      }
+    ]
+  }
+}
