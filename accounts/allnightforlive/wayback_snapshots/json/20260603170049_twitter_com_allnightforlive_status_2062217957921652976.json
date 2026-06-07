@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2062217957921652976",
+    "created_at": "2026-06-03T17:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062217957921652976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toko_1025/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/toko_1025/status/2061774985472118947",
+          "start": 29,
+          "url": "https://t.co/oleQM2QqFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062217957921652976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061774985472118947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老師：你們未來⋯職涯⋯生活⋯\n同學：未定向\n我：完全自殺 https://t.co/oleQM2QqFV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2062217957921652976",
+        "created_at": "2026-06-03T17:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062217957921652976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toko_1025/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/toko_1025/status/2061774985472118947",
+              "start": 29,
+              "url": "https://t.co/oleQM2QqFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217957921652976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061774985472118947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老師：你們未來⋯職涯⋯生活⋯\n同學：未定向\n我：完全自殺 https://t.co/oleQM2QqFV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867876581496225792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061774985472118947",
+        "created_at": "2026-06-02T11:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061774985472118947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061774985472118947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 22869,
+          "like_count": 1529,
+          "quote_count": 28,
+          "reply_count": 4,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "「高校卒業後どうしたいか」的な授業嫌い\nｹﾞﾁで自殺以外考えてない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26478,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2213
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T10:18:20.000Z",
+        "description": "sjc｜壁打ち｜摂食｜zeta民｜\n顔面コンプ ｜🇹🇭｜👊🩸｜希死念慮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u4asuu99zl2dl3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u4asuu99zl2dl3d?t=rFOMmA&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nJlKRnicd6"
+              }
+            ]
+          }
+        },
+        "id": "1867876581496225792",
+        "location": "無言フォロー失礼します",
+        "name": "とこ",
+        "pinned_tweet_id": "2057825041316975034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039847962252386304/fAAcfSrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 278,
+          "like_count": 17863,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/nJlKRnicd6",
+        "username": "toko_1025",
+        "verified": false
+      }
+    ]
+  }
+}

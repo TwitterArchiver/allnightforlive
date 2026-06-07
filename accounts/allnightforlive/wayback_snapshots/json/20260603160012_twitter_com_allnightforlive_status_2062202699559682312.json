@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062202699559682312",
+    "created_at": "2026-06-03T16:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062202699559682312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1629500653348462592",
+          "start": 3,
+          "username": "kurage_seaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062202699559682312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061744763167228156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurage_seaaa: どの死に方が一番綺麗なんだろうか。　　\n誰にも知られずに綺麗に死にたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062202699559682312",
+        "created_at": "2026-06-03T16:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062202699559682312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1629500653348462592",
+              "start": 3,
+              "username": "kurage_seaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062202699559682312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061744763167228156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurage_seaaa: どの死に方が一番綺麗なんだろうか。　　\n誰にも知られずに綺麗に死にたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629500653348462592",
+        "conversation_id": "2061744763167228156",
+        "created_at": "2026-06-02T09:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061744763167228156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061744763167228156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 119807,
+          "like_count": 1809,
+          "quote_count": 45,
+          "reply_count": 65,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "どの死に方が一番綺麗なんだろうか。　　\n誰にも知られずに綺麗に死にたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26439,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2205
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T15:18:17.000Z",
+        "description": "03'👩🏻♀誰にも言えない気持ちを吐き出しているだけです: 皆さんが楽しく幸せな日々を送れますように🕊",
+        "id": "1629500653348462592",
+        "location": "海のなか",
+        "name": "海月。",
+        "pinned_tweet_id": "1819373961832288396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630663101174661121/GimPzLPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3556,
+          "following_count": 68,
+          "like_count": 22243,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 1192
+        },
+        "username": "kurage_seaaa",
+        "verified": false
+      }
+    ]
+  }
+}

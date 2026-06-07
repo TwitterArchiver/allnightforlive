@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062218200289546645",
+    "created_at": "2026-06-03T17:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062218200289546645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735916636618797056",
+          "start": 3,
+          "username": "iiiiiiigasuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062218200289546645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061988538544234508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiiiiiigasuki: この世は自傷行為と性行為が救いなんだよ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062218200289546645",
+        "created_at": "2026-06-03T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062218200289546645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735916636618797056",
+              "start": 3,
+              "username": "iiiiiiigasuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062218200289546645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061988538544234508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiiiiiigasuki: この世は自傷行為と性行為が救いなんだよ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735916636618797056",
+        "conversation_id": "2061988538544234508",
+        "created_at": "2026-06-03T01:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061988538544234508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061988538544234508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2631,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "この世は自傷行為と性行為が救いなんだよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26483,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2214
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T06:56:25.000Z",
+        "description": "酔生夢死。￤08 （07）￤ 8階からの飛び降りで脳挫傷､臓器各所破裂､骨盤複雑骨折､左大腿骨骨折｡よって高次機能障害｡￤@yri001212_0115 のサブ垢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "yri001212_0115"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yri001212_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yri001212_?igsh=MWF5Y21icmpwZzdteQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/wOoZjiE3tS"
+              }
+            ]
+          }
+        },
+        "id": "1735916636618797056",
+        "location": "18歳",
+        "name": "ｲ.",
+        "pinned_tweet_id": "2009448627660554413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047995287395057664/KZsEnLAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 89,
+          "like_count": 24293,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 6014
+        },
+        "url": "https://t.co/wOoZjiE3tS",
+        "username": "iiiiiiigasuki",
+        "verified": false
+      }
+    ]
+  }
+}

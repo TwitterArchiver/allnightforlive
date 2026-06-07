@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062921235584180684",
+    "created_at": "2026-06-05T15:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062921235584180684"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062921235584180684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的沒錯 你早就知道了吧 我是個不乖的孩子\n所以媽媽你才會不要我的吧\n你不喜歡我對吧\n\n所以我才沒有媽媽對吧\n\n都是我的錯\n只要不反抗就好了。為什麼每次反抗都會失去好多人\n\n啊啊啊不要反抗啊。為什麼。哭泣也好討厭\n\n可以的 打我 沒關係的。像你產後的那樣 試圖殺了我啊\n\n是的 都是因為這樣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062921235584180684",
+        "created_at": "2026-06-05T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062921235584180684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062921235584180684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的沒錯 你早就知道了吧 我是個不乖的孩子\n所以媽媽你才會不要我的吧\n你不喜歡我對吧\n\n所以我才沒有媽媽對吧\n\n都是我的錯\n只要不反抗就好了。為什麼每次反抗都會失去好多人\n\n啊啊啊不要反抗啊。為什麼。哭泣也好討厭\n\n可以的 打我 沒關係的。像你產後的那樣 試圖殺了我啊\n\n是的 都是因為這樣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26493,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2227
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

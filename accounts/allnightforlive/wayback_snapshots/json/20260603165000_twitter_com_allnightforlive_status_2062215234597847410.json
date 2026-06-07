@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062215234597847410",
+    "created_at": "2026-06-03T16:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062215234597847410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998034535444025344",
+          "start": 3,
+          "username": "immdyingnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062215234597847410",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061953525463257218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immdyingnow: 모든 인간들이 사랑스러워 보이는 것과\n모든 인간들이 역겨워 보이는게 반복됨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062215234597847410",
+        "created_at": "2026-06-03T16:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062215234597847410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998034535444025344",
+              "start": 3,
+              "username": "immdyingnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062215234597847410",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061953525463257218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immdyingnow: 모든 인간들이 사랑스러워 보이는 것과\n모든 인간들이 역겨워 보이는게 반복됨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998034535444025344",
+        "conversation_id": "2061953525463257218",
+        "created_at": "2026-06-02T23:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061953525463257218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061953525463257218",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 123856,
+          "like_count": 4950,
+          "quote_count": 170,
+          "reply_count": 3,
+          "retweet_count": 1661
+        },
+        "reply_settings": "everyone",
+        "text": "모든 인간들이 사랑스러워 보이는 것과\n모든 인간들이 역겨워 보이는게 반복됨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26459,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2211
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T14:19:48.000Z",
+        "description": "너가 과연 날 감당할 수 있을까?ㅣ부계 @immdyingnow_2                                                      https://t.co/TCoLrIM1Jr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "immdyingnow_2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Iwannadie",
+                "end": 113,
+                "expanded_url": "https://spin-spin.com/Iwannadie",
+                "start": 90,
+                "url": "https://t.co/TCoLrIM1Jr"
+              }
+            ]
+          }
+        },
+        "id": "1998034535444025344",
+        "location": "니 머릿속",
+        "name": "흥엥엥",
+        "pinned_tweet_id": "2059241791938032072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049456003553570816/lbUE3WHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3501,
+          "following_count": 240,
+          "like_count": 40290,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 2938
+        },
+        "username": "immdyingnow",
+        "verified": false
+      }
+    ]
+  }
+}

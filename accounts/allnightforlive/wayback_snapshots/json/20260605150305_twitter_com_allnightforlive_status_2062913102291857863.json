@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062913102291857863",
+    "created_at": "2026-06-05T15:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062913102291857863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062913102291857863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要離開我。\n不要死掉\n我會 我可以去找你 請不要 請你不要自殺\n\n我什麼都做不到嗎 我知道的 一定都是開玩笑的吧\n\n啊啊啊 你不可以死掉啊\n\n我不想要忘記你\n我不想要生活裡少了一個選擇\n\n請你活著\n\n我拜託你\n\n我不能理解你的痛苦 我也無法分擔你的痛\n所以我用這種看似痛苦的方式請求你\n不要 不要走 好嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062913102291857863",
+        "created_at": "2026-06-05T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062913102291857863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062913102291857863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要離開我。\n不要死掉\n我會 我可以去找你 請不要 請你不要自殺\n\n我什麼都做不到嗎 我知道的 一定都是開玩笑的吧\n\n啊啊啊 你不可以死掉啊\n\n我不想要忘記你\n我不想要生活裡少了一個選擇\n\n請你活著\n\n我拜託你\n\n我不能理解你的痛苦 我也無法分擔你的痛\n所以我用這種看似痛苦的方式請求你\n不要 不要走 好嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26471,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2216
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

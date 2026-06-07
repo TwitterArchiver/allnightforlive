@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062913756267745539",
+    "created_at": "2026-06-05T15:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062913756267745539"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062913756267745539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要。\n\n請你 看看她好嗎\n\n她是個很好的孩子\n她需要更好的\n\n求你了 請你 讓她活下去吧\n\n為什麼\n為什麼 考試而已吧 而已吧。不可以 不可以死掉\n\n未來還有很長的 我知道的 因為我也看不見\n\n請你 活下去 為了貪欲\n為了我和你的貪慾\n\n活下去\n\n這種希望根本就不可能達成的\n\n無能為力真的好難受 好痛苦。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062913756267745539",
+        "created_at": "2026-06-05T15:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062913756267745539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062913756267745539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要。\n\n請你 看看她好嗎\n\n她是個很好的孩子\n她需要更好的\n\n求你了 請你 讓她活下去吧\n\n為什麼\n為什麼 考試而已吧 而已吧。不可以 不可以死掉\n\n未來還有很長的 我知道的 因為我也看不見\n\n請你 活下去 為了貪欲\n為了我和你的貪慾\n\n活下去\n\n這種希望根本就不可能達成的\n\n無能為力真的好難受 好痛苦。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26473,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2218
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

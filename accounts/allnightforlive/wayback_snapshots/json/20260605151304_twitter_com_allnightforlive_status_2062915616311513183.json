@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062915616311513183",
+    "created_at": "2026-06-05T15:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062915616311513183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062915616311513183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胃好痛\n我 根本就沒有壓力吧\n\n她甚至因為壓力沒來一年月經\n\n。\n\n這個根本不叫壓力\n\n那叫瘋了\n\n一定是的\n\n自作多情的傢伙 一定是瘋了\n\n啊啊 好想要被證明\n\n我也想要 知道我自己怎麼了啊\n\n我理解了\n我知道你為什麼得知自己是自閉症時會欣喜了\n\n如果我能夠知道我的哭泣是為了什麼 我也會欣喜若狂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062915616311513183",
+        "created_at": "2026-06-05T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062915616311513183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062915616311513183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃好痛\n我 根本就沒有壓力吧\n\n她甚至因為壓力沒來一年月經\n\n。\n\n這個根本不叫壓力\n\n那叫瘋了\n\n一定是的\n\n自作多情的傢伙 一定是瘋了\n\n啊啊 好想要被證明\n\n我也想要 知道我自己怎麼了啊\n\n我理解了\n我知道你為什麼得知自己是自閉症時會欣喜了\n\n如果我能夠知道我的哭泣是為了什麼 我也會欣喜若狂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 26478,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2222
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}
