@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053445012848091136"
+      ],
+      "media_source_tweet_id": [
+        "2053445389806956830"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063280397044306049",
+    "created_at": "2026-06-06T15:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063280397044306049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1032419742840107009",
+          "start": 3,
+          "username": "naishonopiasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReuLgr7vMf",
+          "end": 134,
+          "expanded_url": "https://x.com/naishonopiasu/status/2053445389806956830/video/1",
+          "media_key": "13_2053445012848091136",
+          "start": 111,
+          "url": "https://t.co/ReuLgr7vMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063280397044306049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053445389806956830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naishonopiasu: 告白 / 可不 (CONFESSION / KAFU)\nMV 100万再生ありがとうございます\n\n末永くあなたの傍においていただけますように\nこれからもどうぞよろしくお願いいたします https://t.co/ReuLgr7vMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15188,
+        "height": 1080,
+        "media_key": "13_2053445012848091136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053445012848091136/img/C1c8rh2cuuFlSnx-.jpg",
+        "public_metrics": {
+          "view_count": 22414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053445012848091136/vid/avc1/1920x1080/e36Buv1AeOV3oaQI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053445012848091136/vid/avc1/480x270/idZIP6MLva1Opa4F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053445012848091136/pl/vrG1TOdIzJin7J_m.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053445012848091136/vid/avc1/640x360/aAxpIGOVultF5Luy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053445012848091136/vid/avc1/1280x720/IWoBZZ2crQzD6oim.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053445012848091136"
+          ],
+          "media_source_tweet_id": [
+            "2053445389806956830"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063280397044306049",
+        "created_at": "2026-06-06T15:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063280397044306049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1032419742840107009",
+              "start": 3,
+              "username": "naishonopiasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReuLgr7vMf",
+              "end": 134,
+              "expanded_url": "https://x.com/naishonopiasu/status/2053445389806956830/video/1",
+              "media_key": "13_2053445012848091136",
+              "start": 111,
+              "url": "https://t.co/ReuLgr7vMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280397044306049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 609
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053445389806956830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naishonopiasu: 告白 / 可不 (CONFESSION / KAFU)\nMV 100万再生ありがとうございます\n\n末永くあなたの傍においていただけますように\nこれからもどうぞよろしくお願いいたします https://t.co/ReuLgr7vMf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053445012848091136"
+          ]
+        },
+        "author_id": "1032419742840107009",
+        "conversation_id": "2053445389806956830",
+        "created_at": "2026-05-10T12:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053445389806956830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReuLgr7vMf",
+              "end": 115,
+              "expanded_url": "https://x.com/naishonopiasu/status/2053445389806956830/video/1",
+              "media_key": "13_2053445012848091136",
+              "start": 92,
+              "url": "https://t.co/ReuLgr7vMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053445389806956830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 76756,
+          "like_count": 3528,
+          "quote_count": 47,
+          "reply_count": 46,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "告白 / 可不 (CONFESSION / KAFU)\nMV 100万再生ありがとうございます\n\n末永くあなたの傍においていただけますように\nこれからもどうぞよろしくお願いいたします https://t.co/ReuLgr7vMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 111,
+          "like_count": 26547,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2249
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-23T00:10:22.000Z",
+        "description": "愛らしく、鬱くしい | https://t.co/tESodYlYIm.mail@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "csp.info",
+                "end": 35,
+                "expanded_url": "http://csp.info",
+                "start": 12,
+                "url": "https://t.co/tESodYlYIm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naishonopiasu",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naishonopiasu",
+                "start": 0,
+                "url": "https://t.co/EehEJf3Zd7"
+              }
+            ]
+          }
+        },
+        "id": "1032419742840107009",
+        "name": "内緒のピアス",
+        "pinned_tweet_id": "2037884915035807824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659137378160869376/3v0-n6M1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41532,
+          "following_count": 369,
+          "like_count": 56421,
+          "listed_count": 98,
+          "media_count": 1100,
+          "tweet_count": 10189
+        },
+        "url": "https://t.co/EehEJf3Zd7",
+        "username": "naishonopiasu",
+        "verified": true
+      }
+    ]
+  }
+}

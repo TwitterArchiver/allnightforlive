@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2064400462988898323",
+    "created_at": "2026-06-09T17:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064400462988898323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064400462988898323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064194845061853597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 健全人常有的误区是：\n觉得自残是因为不想活着\n自伤的全名是“非自杀性自伤”。是患者在面对自杀时依然想努力活着，而做出的极端手法，常见于抑郁症等情绪病患者。\n以下来自高雄大学\nNSSI是一個人刻意對自己的身體表面造成傷害,但這樣的自傷行為並不是為了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2064194841551257600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV-RZXbQAAT-yr.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2064400462988898323",
+        "created_at": "2026-06-09T17:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064400462988898323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064400462988898323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064194845061853597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 健全人常有的误区是：\n觉得自残是因为不想活着\n自伤的全名是“非自杀性自伤”。是患者在面对自杀时依然想努力活着，而做出的极端手法，常见于抑郁症等情绪病患者。\n以下来自高雄大学\nNSSI是一個人刻意對自己的身體表面造成傷害,但這樣的自傷行為並不是為了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064194841551257600"
+          ]
+        },
+        "author_id": "2055521229625262080",
+        "conversation_id": "2064194845061853597",
+        "created_at": "2026-06-09T03:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064194845061853597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M30eWTjGwQ",
+              "end": 183,
+              "expanded_url": "https://x.com/ynxxx_jjkk/status/2064194845061853597/photo/1",
+              "media_key": "3_2064194841551257600",
+              "start": 160,
+              "url": "https://t.co/M30eWTjGwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064194845061853597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1610,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "健全人常有的误区是：\n觉得自残是因为不想活着\n自伤的全名是“非自杀性自伤”。是患者在面对自杀时依然想努力活着，而做出的极端手法，常见于抑郁症等情绪病患者。\n以下来自高雄大学\nNSSI是一個人刻意對自己的身體表面造成傷害,但這樣的自傷行為並不是為了要结束自己的性命(Lloyd-Richardsonetal, 2007) https://t.co/M30eWTjGwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 113,
+          "like_count": 26870,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2293
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 166,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

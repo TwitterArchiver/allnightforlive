@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063208450516299776"
+      ],
+      "media_source_tweet_id": [
+        "2063208456669348301"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063280108711161862",
+    "created_at": "2026-06-06T15:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063280108711161862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313371000822587394",
+          "start": 3,
+          "username": "2O2IO427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ll2UJVHhkk",
+          "end": 48,
+          "expanded_url": "https://x.com/2O2IO427/status/2063208456669348301/photo/1",
+          "media_key": "3_2063208450516299776",
+          "start": 25,
+          "url": "https://t.co/Ll2UJVHhkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063280108711161862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063208456669348301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2O2IO427: ストックホルム症候群 https://t.co/Ll2UJVHhkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063208450516299776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH9J4absAA47Nn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063208450516299776"
+          ],
+          "media_source_tweet_id": [
+            "2063208456669348301"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063280108711161862",
+        "created_at": "2026-06-06T15:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063280108711161862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313371000822587394",
+              "start": 3,
+              "username": "2O2IO427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll2UJVHhkk",
+              "end": 48,
+              "expanded_url": "https://x.com/2O2IO427/status/2063208456669348301/photo/1",
+              "media_key": "3_2063208450516299776",
+              "start": 25,
+              "url": "https://t.co/Ll2UJVHhkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280108711161862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063208456669348301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2O2IO427: ストックホルム症候群 https://t.co/Ll2UJVHhkk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063208450516299776"
+          ]
+        },
+        "author_id": "1313371000822587394",
+        "conversation_id": "2063208456669348301",
+        "created_at": "2026-06-06T10:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063208456669348301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll2UJVHhkk",
+              "end": 34,
+              "expanded_url": "https://x.com/2O2IO427/status/2063208456669348301/photo/1",
+              "media_key": "3_2063208450516299776",
+              "start": 11,
+              "url": "https://t.co/Ll2UJVHhkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063208456669348301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 46134,
+          "like_count": 4865,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "ストックホルム症候群 https://t.co/Ll2UJVHhkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 111,
+          "like_count": 26541,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2247
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T06:51:46.000Z",
+        "description": "読切→ #愛が満ちたので、 電子書籍→ チグリジア. 先輩と後輩. 弟×兄.\n連絡→ ty2o2io427@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 4,
+                "tag": "愛が満ちたので"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/2o2io427",
+                "end": 23,
+                "expanded_url": "https://lit.link/2o2io427",
+                "start": 0,
+                "url": "https://t.co/QUOu4Gu6nB"
+              }
+            ]
+          }
+        },
+        "id": "1313371000822587394",
+        "location": "2022年9月から創作活動",
+        "name": "ゆう",
+        "pinned_tweet_id": "2050506650281525322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675915190469271552/gLsVYHY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52000,
+          "following_count": 50,
+          "like_count": 5134,
+          "listed_count": 144,
+          "media_count": 50,
+          "tweet_count": 4526
+        },
+        "url": "https://t.co/QUOu4Gu6nB",
+        "username": "2O2IO427",
+        "verified": false
+      }
+    ]
+  }
+}

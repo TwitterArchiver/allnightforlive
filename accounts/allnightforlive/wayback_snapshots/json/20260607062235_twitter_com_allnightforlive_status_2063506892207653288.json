@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063414446895337693",
+    "created_at": "2026-06-07T06:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063506892207653288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1784561170537672705",
+          "start": 0,
+          "username": "Naki__yooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063506892207653288",
+    "in_reply_to_user_id": "1784561170537672705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063414446895337693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naki__yooo 預防，但是援助不等於真正的幫助。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063414446895337693",
+        "created_at": "2026-06-07T06:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063506892207653288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1784561170537672705",
+              "start": 0,
+              "username": "Naki__yooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063506892207653288",
+        "in_reply_to_user_id": "1784561170537672705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063414446895337693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naki__yooo 預防，但是援助不等於真正的幫助。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784561170537672705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2063414446895337693",
+        "created_at": "2026-06-07T00:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063414446895337693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063414446895337693",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 195644,
+          "like_count": 6004,
+          "quote_count": 463,
+          "reply_count": 10,
+          "retweet_count": 947
+        },
+        "reply_settings": "everyone",
+        "text": "한번 생각해 봣는데 \n학교에서 개쓸때없는 교육은 \n\n1.자살예방교육\n2.학교폭력 예방교육\n3.가정폭력예방교육\n\n이렇게 3가지임 애들이 실천을 할거라고 생각함?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 112,
+          "like_count": 26685,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2264
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T12:32:07.000Z",
+        "description": "본계: @Naki__yoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Naki__yoo"
+              }
+            ]
+          }
+        },
+        "id": "1784561170537672705",
+        "location": "님들이 알던 나키 맞아요",
+        "name": "나키정지먹음",
+        "pinned_tweet_id": "2063116091652768170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063045911702609920/5KO6WLsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 61,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "Naki__yooo",
+        "verified": false
+      }
+    ]
+  }
+}

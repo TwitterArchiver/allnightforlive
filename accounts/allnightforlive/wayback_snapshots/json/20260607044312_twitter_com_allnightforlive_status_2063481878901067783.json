@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2062956365942075798",
+    "created_at": "2026-06-07T04:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063481878901067783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1703764783936462848",
+          "start": 0,
+          "username": "zhngxin53274393"
+        },
+        {
+          "end": 24,
+          "id": "1664742004423794688",
+          "start": 17,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063481878901067783",
+    "in_reply_to_user_id": "1703764783936462848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063136465492791670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxin53274393 @rwayne 可以直接使用人類的器材，而且人型的主要目的就是吸引人的注意，因為提到高科技，異形的可能都不知道在做什麼，但一旦是人型的，就會默認跟人一樣優秀，就會把它當成是資優一樣。\n但事實上它效率絕對不比非人型的高，人型要適應的太多了，地形、突發狀況、人為因素，隨便一個都能夠把一天的工作量毀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2062956365942075798",
+        "created_at": "2026-06-07T04:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063481878901067783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703764783936462848",
+              "start": 0,
+              "username": "zhngxin53274393"
+            },
+            {
+              "end": 24,
+              "id": "1664742004423794688",
+              "start": 17,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063481878901067783",
+        "in_reply_to_user_id": "1703764783936462848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063136465492791670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxin53274393 @rwayne 可以直接使用人類的器材，而且人型的主要目的就是吸引人的注意，因為提到高科技，異形的可能都不知道在做什麼，但一旦是人型的，就會默認跟人一樣優秀，就會把它當成是資優一樣。\n但事實上它效率絕對不比非人型的高，人型要適應的太多了，地形、突發狀況、人為因素，隨便一個都能夠把一天的工作量毀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703764783936462848",
+        "conversation_id": "2062956365942075798",
+        "created_at": "2026-06-06T05:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063136465492791670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063136465492791670",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6798,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062956365942075798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 我不懂，机器人非得做成人形吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 112,
+          "like_count": 26639,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2258
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T13:36:34.000Z",
+        "description": "",
+        "id": "1703764783936462848",
+        "name": "等风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715085065611554816/-keB-p3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 464,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "username": "zhngxin53274393",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2059873043292520557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51521,
+          "following_count": 803,
+          "like_count": 36304,
+          "listed_count": 269,
+          "media_count": 3764,
+          "tweet_count": 16950
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

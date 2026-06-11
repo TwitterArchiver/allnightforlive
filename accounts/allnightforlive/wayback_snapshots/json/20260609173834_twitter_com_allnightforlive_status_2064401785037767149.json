@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2064261967460860361",
+    "created_at": "2026-06-09T17:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064401785037767149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892855445871874048",
+          "start": 0,
+          "username": "aesyeo238393"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064401785037767149",
+    "in_reply_to_user_id": "1892855445871874048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064261967460860361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aesyeo238393 嗯，可能是紅包吧？那種用來裝錢送給人的袋子，可能被暈染上了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064261950188711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW7TohacAABl7S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2064261967460860361",
+        "created_at": "2026-06-09T17:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064401785037767149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892855445871874048",
+              "start": 0,
+              "username": "aesyeo238393"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064401785037767149",
+        "in_reply_to_user_id": "1892855445871874048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064261967460860361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aesyeo238393 嗯，可能是紅包吧？那種用來裝錢送給人的袋子，可能被暈染上了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064261950188711936"
+          ]
+        },
+        "author_id": "1892855445871874048",
+        "conversation_id": "2064261967460860361",
+        "created_at": "2026-06-09T08:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064261967460860361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5XiZeNMot",
+              "end": 51,
+              "expanded_url": "https://x.com/aesyeo238393/status/2064261967460860361/photo/1",
+              "media_key": "3_2064261950188711936",
+              "start": 28,
+              "url": "https://t.co/g5XiZeNMot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064261967460860361",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 1576281,
+          "like_count": 9779,
+          "quote_count": 671,
+          "reply_count": 180,
+          "retweet_count": 1442
+        },
+        "reply_settings": "everyone",
+        "text": "편의점에서 이상한 지폐 받았는데\n이거 괜찮은거임? https://t.co/g5XiZeNMot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 113,
+          "like_count": 26882,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2296
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T08:34:49.000Z",
+        "description": "나도 내가 시험기간에는 트위터 안들어가고 정신 차릴줄 알았지",
+        "id": "1892855445871874048",
+        "name": "김찌핑 (상태:낙값못한이승)",
+        "pinned_tweet_id": "1969338241976332302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046997479212912640/saCavp25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 138,
+          "like_count": 13103,
+          "listed_count": 9,
+          "media_count": 1447,
+          "tweet_count": 8663
+        },
+        "username": "aesyeo238393",
+        "verified": false
+      }
+    ]
+  }
+}

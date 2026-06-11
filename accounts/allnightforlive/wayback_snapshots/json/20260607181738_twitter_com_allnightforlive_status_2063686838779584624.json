@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063686838779584624",
+    "created_at": "2026-06-07T18:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063686838779584624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2002716961604812800",
+          "start": 3,
+          "username": "imduyyyyopppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063686838779584624",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063546793045168407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imduyyyyopppp: 사실 이제는 내 정체성도 모르겠어\n내가 정신병자인지\n정신병이 나인지\n정신병이 있어서 나인지\n나라서 정신병이 있는건지\n내가 미친년인지\n미친년이 나인지\n정신병이 미친건지\n미친년이 정신병인지\n삶이 힘든건지\n힘들어서 삶인건지"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063686838779584624",
+        "created_at": "2026-06-07T18:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063686838779584624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2002716961604812800",
+              "start": 3,
+              "username": "imduyyyyopppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063686838779584624",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063546793045168407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imduyyyyopppp: 사실 이제는 내 정체성도 모르겠어\n내가 정신병자인지\n정신병이 나인지\n정신병이 있어서 나인지\n나라서 정신병이 있는건지\n내가 미친년인지\n미친년이 나인지\n정신병이 미친건지\n미친년이 정신병인지\n삶이 힘든건지\n힘들어서 삶인건지"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002716961604812800",
+        "conversation_id": "2063546793045168407",
+        "created_at": "2026-06-07T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063546793045168407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063546793045168407",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 43499,
+          "like_count": 2327,
+          "quote_count": 67,
+          "reply_count": 1,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "사실 이제는 내 정체성도 모르겠어\n내가 정신병자인지\n정신병이 나인지\n정신병이 있어서 나인지\n나라서 정신병이 있는건지\n내가 미친년인지\n미친년이 나인지\n정신병이 미친건지\n미친년이 정신병인지\n삶이 힘든건지\n힘들어서 삶인건지"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 114,
+          "like_count": 26771,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2276
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T12:25:18.000Z",
+        "description": "전두엽 아니고 귀두엽 아니고 유두엽 아니고 정두팔 아니고 정두엽입니다 우인:@iseogheon539552",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "iseogheon539552"
+              }
+            ]
+          }
+        },
+        "id": "2002716961604812800",
+        "location": "오티♥ 서연♥ 설유♥",
+        "name": "정두엽",
+        "pinned_tweet_id": "2061037259223388305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062072292713373696/G1MNB71F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 491,
+          "like_count": 36474,
+          "listed_count": 20,
+          "media_count": 265,
+          "tweet_count": 6891
+        },
+        "username": "imduyyyyopppp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2064402723978752045",
+    "created_at": "2026-06-09T17:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064402723978752045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592084850986872834",
+          "start": 3,
+          "username": "_mn2364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064402723978752045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063884210314809606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mn2364: 現実はね、誰も助けてくれませんよ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2064402723978752045",
+        "created_at": "2026-06-09T17:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064402723978752045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592084850986872834",
+              "start": 3,
+              "username": "_mn2364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064402723978752045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063884210314809606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mn2364: 現実はね、誰も助けてくれませんよ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592084850986872834",
+        "conversation_id": "2063884210314809606",
+        "created_at": "2026-06-08T07:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063884210314809606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063884210314809606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 21813,
+          "like_count": 1608,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "現実はね、誰も助けてくれませんよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 113,
+          "like_count": 26889,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2298
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T09:20:00.000Z",
+        "description": "いつか大丈夫になりたい。 ￤JK￤♂△￤DMは最奥の人だけ￤日常@_mn2362 最奥@_mn2363￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "_mn2362"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "_mn2363"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/d36n077qrzwtau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/d36n077qrzwtaum?t=4Xi3Tn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/LnODR9T4Ms"
+              }
+            ]
+          }
+        },
+        "id": "1592084850986872834",
+        "location": "もうすぐ",
+        "name": "桃乃",
+        "pinned_tweet_id": "2058126604279414838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936742974383165440/_ES1Iez7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 166,
+          "like_count": 9646,
+          "listed_count": 9,
+          "media_count": 16,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/LnODR9T4Ms",
+        "username": "_mn2364",
+        "verified": false
+      }
+    ]
+  }
+}

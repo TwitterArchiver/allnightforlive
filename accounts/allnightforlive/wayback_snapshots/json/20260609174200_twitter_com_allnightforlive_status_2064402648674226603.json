@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2064402648674226603",
+    "created_at": "2026-06-09T17:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064402648674226603"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064402648674226603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不想面對那種情緒的時候，就意外的想笑\n\n有人死掉了：笑\n有人在生氣：笑\n有人在哭：笑\n自己無能：大笑\n\n但也不一定，有時候只是因為一切都太無厘頭了。所以可笑吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2064402648674226603",
+        "created_at": "2026-06-09T17:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064402648674226603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064402648674226603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想面對那種情緒的時候，就意外的想笑\n\n有人死掉了：笑\n有人在生氣：笑\n有人在哭：笑\n自己無能：大笑\n\n但也不一定，有時候只是因為一切都太無厘頭了。所以可笑吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 113,
+          "like_count": 26885,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2297
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

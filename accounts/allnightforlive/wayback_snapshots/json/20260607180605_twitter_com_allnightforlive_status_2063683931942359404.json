@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063683931942359404",
+    "created_at": "2026-06-07T18:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063683931942359404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1915659329128325122",
+          "start": 3,
+          "username": "haruhamaboroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063683931942359404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063206191778676957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haruhamaboroshi: なんか、胸がきゅーっと心理的に痛い感覚\nわかるひといるかな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063683931942359404",
+        "created_at": "2026-06-07T18:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063683931942359404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1915659329128325122",
+              "start": 3,
+              "username": "haruhamaboroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063683931942359404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063206191778676957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haruhamaboroshi: なんか、胸がきゅーっと心理的に痛い感覚\nわかるひといるかな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915659329128325122",
+        "conversation_id": "2063206191778676957",
+        "created_at": "2026-06-06T10:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063206191778676957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063206191778676957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 50256,
+          "like_count": 2692,
+          "quote_count": 41,
+          "reply_count": 16,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "なんか、胸がきゅーっと心理的に痛い感覚\nわかるひといるかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 114,
+          "like_count": 26725,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2271
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T06:49:17.000Z",
+        "description": "躁鬱、20代♀︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/t1stxxdw1njuu1…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/t1stxxdw1njuu1g?t=GVf9OD&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5Iu71mrjdW"
+              }
+            ]
+          }
+        },
+        "id": "1915659329128325122",
+        "name": "まこ",
+        "pinned_tweet_id": "2000527615304872368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919385946333847552/_mvgQK2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 1560,
+          "like_count": 69587,
+          "listed_count": 12,
+          "media_count": 9,
+          "tweet_count": 4704
+        },
+        "url": "https://t.co/5Iu71mrjdW",
+        "username": "haruhamaboroshi",
+        "verified": false
+      }
+    ]
+  }
+}

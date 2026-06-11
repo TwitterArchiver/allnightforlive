@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063298337848410112"
+      ],
+      "media_source_tweet_id": [
+        "2063298340545319334"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063513768920002886",
+    "created_at": "2026-06-07T06:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063513768920002886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "948923146610008064",
+          "start": 3,
+          "username": "mboj321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3glNPbuvi",
+          "end": 78,
+          "expanded_url": "https://x.com/mboj321/status/2063298340545319334/photo/1",
+          "media_key": "3_2063298337848410112",
+          "start": 55,
+          "url": "https://t.co/p3glNPbuvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063513768920002886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063298340545319334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mboj321: ゆめえ（固定夢主）　ﾛｴさんの薬（毒）漬けシチュなんてなんぼあってもいいですからね https://t.co/p3glNPbuvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063298337848410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJO6A0bwAAz6yZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063298337848410112"
+          ],
+          "media_source_tweet_id": [
+            "2063298340545319334"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063513768920002886",
+        "created_at": "2026-06-07T06:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063513768920002886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "948923146610008064",
+              "start": 3,
+              "username": "mboj321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3glNPbuvi",
+              "end": 78,
+              "expanded_url": "https://x.com/mboj321/status/2063298340545319334/photo/1",
+              "media_key": "3_2063298337848410112",
+              "start": 55,
+              "url": "https://t.co/p3glNPbuvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063513768920002886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063298340545319334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mboj321: ゆめえ（固定夢主）　ﾛｴさんの薬（毒）漬けシチュなんてなんぼあってもいいですからね https://t.co/p3glNPbuvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063298337848410112"
+          ]
+        },
+        "author_id": "948923146610008064",
+        "conversation_id": "2063298340545319334",
+        "created_at": "2026-06-06T16:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063298340545319334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3glNPbuvi",
+              "end": 65,
+              "expanded_url": "https://x.com/mboj321/status/2063298340545319334/photo/1",
+              "media_key": "3_2063298337848410112",
+              "start": 42,
+              "url": "https://t.co/p3glNPbuvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063298340545319334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3426,
+          "impression_count": 204427,
+          "like_count": 20293,
+          "quote_count": 64,
+          "reply_count": 7,
+          "retweet_count": 1132
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ゆめえ（固定夢主）　ﾛｴさんの薬（毒）漬けシチュなんてなんぼあってもいいですからね https://t.co/p3glNPbuvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 112,
+          "like_count": 26707,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2268
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-04T14:24:43.000Z",
+        "description": "成人済み。趣味垢。雑多。鍵かけたりはずしたり。自由にやってます。腐女兼夢女でNL好きの百合豚。現在夢中心で活動中。無断転載や自作発言、AI学習等は許可しておりません。成りすましも許しません。\nほしいものリスト→https://t.co/MaFa0SxnKs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 128,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2DQ5RJ1SP1HQ0?ref_",
+                "start": 105,
+                "url": "https://t.co/MaFa0SxnKs"
+              }
+            ]
+          }
+        },
+        "id": "948923146610008064",
+        "location": "固定夢主ばっか",
+        "name": "おじ",
+        "pinned_tweet_id": "1675852079376785410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591957490287222784/y0DnO_Jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51873,
+          "following_count": 87,
+          "like_count": 3827,
+          "listed_count": 118,
+          "media_count": 1751,
+          "tweet_count": 16322
+        },
+        "username": "mboj321",
+        "verified": false
+      }
+    ]
+  }
+}

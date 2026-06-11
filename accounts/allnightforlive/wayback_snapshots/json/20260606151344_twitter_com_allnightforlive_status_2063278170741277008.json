@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063278170741277008",
+    "created_at": "2026-06-06T15:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063278170741277008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063278170741277008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062754489892040834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesterdayOrange: “目的论回归”（teleological regress）是哲学中对“为什么”的追问不断向更高层目的延伸，从而形成无穷倒退的一种问题。\n\n简单来说，就是：\n\n你为什么要学习？\n为了找到好工作。\n为什么要找到好工作？\n为了赚更多钱。\n为什…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063278170741277008",
+        "created_at": "2026-06-06T15:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063278170741277008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063278170741277008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062754489892040834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesterdayOrange: “目的论回归”（teleological regress）是哲学中对“为什么”的追问不断向更高层目的延伸，从而形成无穷倒退的一种问题。\n\n简单来说，就是：\n\n你为什么要学习？\n为了找到好工作。\n为什么要找到好工作？\n为了赚更多钱。\n为什…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2062754489892040834",
+        "created_at": "2026-06-05T04:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062754489892040834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062754489892040834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“目的论回归”（teleological regress）是哲学中对“为什么”的追问不断向更高层目的延伸，从而形成无穷倒退的一种问题。\n\n简单来说，就是：\n\n你为什么要学习？\n为了找到好工作。\n为什么要找到好工作？\n为了赚更多钱。\n为什么要赚更多钱？\n为了过更好的生活。\n为什么要过更好的生活？\n为了幸福。\n为什么要幸福？\n\n如果每个目的都只是为了实现另一个目的，那么这个链条似乎永远不会结束。这就是目的论回归。\n\n哲学家通常有三种应对方式：\n\n承认存在“终极目的”\n    这是最经典的方案。认为有些东西本身就是值得追求的，而不是为了别的东西。\n    例如 Aristotle 认为，人类行为最终都指向“幸福”（Eudaimonia）。幸福不是为了别的东西，而是目的链条的终点。\n    学习 → 工作 → 收入 → 幸福\n    到幸福这里就停止追问。\n否认必须有终点\n    一些现代哲学家认为，目的链条不一定需要一个最终目的。\n    就像语言中的定义可以互相支持一样，人生的目标也可能构成一个网络，而不是一条直线。\n认为追问最终会失去意义\n    例如 Ludwig Wittgenstein 后期哲学的一种解释是：并不是所有“为什么”问题都必须有更深层答案。有时一个行动已经嵌入某种生活形式之中，再继续追问就会脱离实际语境。\n\n举个更直观的例子：\n\n假设有人问：\n\n为什么下棋？\n\n你说：\n\n因为有趣。\n\n对方继续问：\n\n为什么要有趣？\n\n你说：\n\n因为快乐。\n\n对方又问：\n\n为什么要快乐？\n\n如果一直这样问下去，最后你可能会发现，要么必须承认某些价值本身就是好的，要么这个问题永远没有尽头。\n\n这也是目的论回归与另一个经典问题“因果回归”（为什么有这个原因？）的区别：\n\n因果回归关注：是什么导致了某件事发生。\n目的论回归关注：某件事是为了什么而做。\n\n例如：\n\n因果：火为什么烧起来？→ 因为点燃了木头。\n目的：你为什么点火？→ 为了取暖。\n\n前者寻找原因，后者寻找目的。\n\n在伦理学和人生哲学中，目的论回归实际上对应一个非常古老的问题：\n\n是否存在一种“为了它自身而值得追求”的东西？\n\n从 Aristotle 的“幸福”，到 Immanuel Kant 的“善意志”，再到 Friedrich Nietzsche 的“权力意志”，许多哲学体系都可以被看作是在寻找能够终止目的论回归的那个最终价值。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 911,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“目的论回归”（teleological regress）是哲学中对“为什么”的追问不断向更高层目的延伸，从而形成无穷倒退的一种问题。\n\n简单来说，就是：\n\n你为什么要学习？\n为了找到好工作。\n为什么要找到好工作？\n为了赚更多钱。\n为什么要赚更多钱？\n为了过更好的生活。\n为什么要过更好的生活？\n为了幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 111,
+          "like_count": 26536,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2243
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2062796473314799809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12133,
+          "following_count": 5124,
+          "like_count": 93518,
+          "listed_count": 21,
+          "media_count": 2286,
+          "tweet_count": 20291
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

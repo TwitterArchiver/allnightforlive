@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2063689907357495682",
+    "created_at": "2026-06-07T18:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063689907357495682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1895834801925734403",
+          "start": 3,
+          "username": "4pgct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063689907357495682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063138870351548803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4pgct: 精神的虐待を疑わなかった \n不登校でも無理やり引きずって学校まで行かせて\n子どもは非力で人権なんかあってないようなものだったよ\n親が就学させる義務があるだけで\n私が行かなきゃいけない義務などひとつもなかった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2063689907357495682",
+        "created_at": "2026-06-07T18:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063689907357495682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1895834801925734403",
+              "start": 3,
+              "username": "4pgct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063689907357495682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063138870351548803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4pgct: 精神的虐待を疑わなかった \n不登校でも無理やり引きずって学校まで行かせて\n子どもは非力で人権なんかあってないようなものだったよ\n親が就学させる義務があるだけで\n私が行かなきゃいけない義務などひとつもなかった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895834801925734403",
+        "conversation_id": "2063137280630620611",
+        "created_at": "2026-06-06T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063138870351548803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063138870351548803",
+        "in_reply_to_user_id": "1895834801925734403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 138267,
+          "like_count": 965,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063137280630620611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精神的虐待を疑わなかった \n不登校でも無理やり引きずって学校まで行かせて\n子どもは非力で人権なんかあってないようなものだったよ\n親が就学させる義務があるだけで\n私が行かなきゃいけない義務などひとつもなかった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 114,
+          "like_count": 26782,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2284
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T13:54:17.000Z",
+        "description": "22歳 女 まともになれなかった 高卒無職 毒親育ち 虐待サバイバー →元拒食症 現在適応障害/bpd/asd/adhd \n前垢@Hana10_14 現在この垢も度々不具合で呟けません Threads見てください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Hana10_14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@milkufuku?igs…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@milkufuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/ukWderHHUu"
+              }
+            ]
+          }
+        },
+        "id": "1895834801925734403",
+        "name": "はな",
+        "pinned_tweet_id": "2063184949617004979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060815148223451136/GHw0TzKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 100,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/ukWderHHUu",
+        "username": "4pgct",
+        "verified": false
+      }
+    ]
+  }
+}
