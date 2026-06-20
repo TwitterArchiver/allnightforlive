@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065052201719042158",
+    "created_at": "2026-06-11T12:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065052201719042158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3437112521",
+          "start": 3,
+          "username": "elenadesaa1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065052201719042158",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 649
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064783196454023534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elenadesaa1999: me di cuenta que reprimí tanto mis emociones que ya no retengo información, me falla la memoria, me cuesta concentrarme…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065052201719042158",
+        "created_at": "2026-06-11T12:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065052201719042158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3437112521",
+              "start": 3,
+              "username": "elenadesaa1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065052201719042158",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 649
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064783196454023534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elenadesaa1999: me di cuenta que reprimí tanto mis emociones que ya no retengo información, me falla la memoria, me cuesta concentrarme…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3437112521",
+        "conversation_id": "2064783196454023534",
+        "created_at": "2026-06-10T18:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064783196454023534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064783196454023534",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 38497,
+          "like_count": 2628,
+          "quote_count": 25,
+          "reply_count": 9,
+          "retweet_count": 649
+        },
+        "reply_settings": "everyone",
+        "text": "me di cuenta que reprimí tanto mis emociones que ya no retengo información, me falla la memoria, me cuesta concentrarme y olvido palabras al hablar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 114,
+          "like_count": 26911,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2301
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T19:36:58.000Z",
+        "description": "Autora de El disparo de la discordia. 📚 “Una habitación sin libros es un cuerpo sin alma” – Cicerón. Corazón afinado a Sanz y Veintiuno. 🎶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/elenadesaa?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/elenadesaa?igsh=d2FhbnBzbzNqNzM4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8TiRL2OX9w"
+              }
+            ]
+          }
+        },
+        "id": "3437112521",
+        "location": "Poesia",
+        "name": "Ele 🌻",
+        "pinned_tweet_id": "1198522849683812354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055746988142891008/Qs8DFc7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23694,
+          "following_count": 1286,
+          "like_count": 94405,
+          "listed_count": 35,
+          "media_count": 12604,
+          "tweet_count": 103622
+        },
+        "url": "https://t.co/8TiRL2OX9w",
+        "username": "elenadesaa1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065074959089807538",
+    "created_at": "2026-06-11T14:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065074959089807538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065074959089807538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我努力的幻想 妄想著有一天這個世界會成為我努力而成為的\n\n一定是怠惰 是的 我沒有任何的症狀 所以一定是懶惰吧\n\n全都是懶惰 拜託你了 診斷我 告訴我這一切不是都因為我自己造成的\n\n為什麼要活著 為什麼要呼吸 為什麼要去學校 為什麼不能夠討厭 憑什麼憑什麼憑什麼憑什麼憑什麼憑什麼憑什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065074959089807538",
+        "created_at": "2026-06-11T14:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065074959089807538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065074959089807538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我努力的幻想 妄想著有一天這個世界會成為我努力而成為的\n\n一定是怠惰 是的 我沒有任何的症狀 所以一定是懶惰吧\n\n全都是懶惰 拜託你了 診斷我 告訴我這一切不是都因為我自己造成的\n\n為什麼要活著 為什麼要呼吸 為什麼要去學校 為什麼不能夠討厭 憑什麼憑什麼憑什麼憑什麼憑什麼憑什麼憑什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27047,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2315
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

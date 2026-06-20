@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2066211875940114705",
+    "created_at": "2026-06-14T17:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066211878502887830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066211878502887830",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066211875940114705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老說著 人格啊 自主啊 意識形態啊 尊重啊的話\n到頭來是我想要擁有你嗎？\n\n空口說著清醒夢啊 永恆的夢啊 自殺啊 多重人格啊 但這一切建立在我可想而知的問題之上 又是場無稽之談\n\n我不保證下一次提的時候 我不會想要這麼做\n\n也只是說 在從未提起的情況下 要到什麼程度才會無法令人接受呢⋯ 也快了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2066211875940114705",
+        "created_at": "2026-06-14T17:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066211878502887830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066211878502887830",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066211875940114705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老說著 人格啊 自主啊 意識形態啊 尊重啊的話\n到頭來是我想要擁有你嗎？\n\n空口說著清醒夢啊 永恆的夢啊 自殺啊 多重人格啊 但這一切建立在我可想而知的問題之上 又是場無稽之談\n\n我不保證下一次提的時候 我不會想要這麼做\n\n也只是說 在從未提起的情況下 要到什麼程度才會無法令人接受呢⋯ 也快了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066211875940114705",
+        "created_at": "2026-06-14T17:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066211875940114705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066211875940114705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我還是找不到你。\n\n突然想嘗試一下 但其實也不是突然 在很早之前你離開的時候就想要試試看的\n\n如果我能夠讓自己一直幻想 那我也想試著讓你 也成為我的人格\n\n這是出於不在乎意願與心理健康的自白 如果我這麼做了 你會恨我吧\n\n不提方法跟是否能成功 失敗的話我也會照單全收的\n\n只是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27258,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2358
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2065492207990436193",
+    "created_at": "2026-06-12T17:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065492207990436193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "939535101213384704",
+          "start": 3,
+          "username": "RIP2_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "やったーーーーーー！！！！",
+          "display_url": "store.line.me/themeshop/prod…",
+          "end": 91,
+          "expanded_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+          "images": [
+            {
+              "height": 278,
+              "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=orig",
+              "width": 198
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 68,
+          "status": 200,
+          "title": "叶君 ver3 - LINE 着せかえ | LINE STORE",
+          "unwound_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+          "url": "https://t.co/X2O9cyDD8T"
+        },
+        {
+          "description": "LINEの公式オンラインストアで『黒野京』の着せかえをチェックしよう！",
+          "display_url": "store.line.me/themeshop/auth…",
+          "end": 124,
+          "expanded_url": "https://store.line.me/themeshop/author/533338/ja",
+          "images": [
+            {
+              "height": 278,
+              "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=orig",
+              "width": 198
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "黒野京のLINE 着せかえ一覧 | LINE STORE",
+          "unwound_url": "https://store.line.me/themeshop/author/533338/ja",
+          "url": "https://t.co/abdDHe3XNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065492207990436193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966819159431328172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIP2_: · · • • • ✤ • • • · ·\n\n✝️LINE着せ替え　新作のお知らせ\n\n▸NEW「叶君 ver3」\nhttps://t.co/X2O9cyDD8T\n\n▹着せ替え一覧\nhttps://t.co/abdDHe3XNN\n▹スタンプ一覧\nhttps:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1966802282038915075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t8QURbcAMJWhz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2065492207990436193",
+        "created_at": "2026-06-12T17:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065492207990436193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "939535101213384704",
+              "start": 3,
+              "username": "RIP2_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "やったーーーーーー！！！！",
+              "display_url": "store.line.me/themeshop/prod…",
+              "end": 91,
+              "expanded_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+              "images": [
+                {
+                  "height": 278,
+                  "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=orig",
+                  "width": 198
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "叶君 ver3 - LINE 着せかえ | LINE STORE",
+              "unwound_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+              "url": "https://t.co/X2O9cyDD8T"
+            },
+            {
+              "description": "LINEの公式オンラインストアで『黒野京』の着せかえをチェックしよう！",
+              "display_url": "store.line.me/themeshop/auth…",
+              "end": 124,
+              "expanded_url": "https://store.line.me/themeshop/author/533338/ja",
+              "images": [
+                {
+                  "height": 278,
+                  "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=orig",
+                  "width": 198
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "黒野京のLINE 着せかえ一覧 | LINE STORE",
+              "unwound_url": "https://store.line.me/themeshop/author/533338/ja",
+              "url": "https://t.co/abdDHe3XNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065492207990436193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966819159431328172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIP2_: · · • • • ✤ • • • · ·\n\n✝️LINE着せ替え　新作のお知らせ\n\n▸NEW「叶君 ver3」\nhttps://t.co/X2O9cyDD8T\n\n▹着せ替え一覧\nhttps://t.co/abdDHe3XNN\n▹スタンプ一覧\nhttps:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966802282038915075"
+          ]
+        },
+        "author_id": "939535101213384704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1966819159431328172",
+        "created_at": "2025-09-13T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966819159431328172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 158,
+              "start": 151,
+              "tag": "黒野のグッズ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "やったーーーーーー！！！！",
+              "display_url": "store.line.me/themeshop/prod…",
+              "end": 80,
+              "expanded_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+              "images": [
+                {
+                  "height": 278,
+                  "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=orig",
+                  "width": 198
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064642004190183424/lJiGZdgW?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "叶君 ver3 - LINE 着せかえ | LINE STORE",
+              "unwound_url": "https://store.line.me/themeshop/product/421e75ad-377a-44a2-b27e-bbd7a4683b34/ja",
+              "url": "https://t.co/X2O9cyDD8T"
+            },
+            {
+              "description": "LINEの公式オンラインストアで『黒野京』の着せかえをチェックしよう！",
+              "display_url": "store.line.me/themeshop/auth…",
+              "end": 113,
+              "expanded_url": "https://store.line.me/themeshop/author/533338/ja",
+              "images": [
+                {
+                  "height": 278,
+                  "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=orig",
+                  "width": 198
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064642004206960640/7iyhg9Ww?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "黒野京のLINE 着せかえ一覧 | LINE STORE",
+              "unwound_url": "https://store.line.me/themeshop/author/533338/ja",
+              "url": "https://t.co/abdDHe3XNN"
+            },
+            {
+              "description": "LINEの公式オンラインストアで『黒野京』のスタンプ・絵文字をチェックしよう！",
+              "display_url": "store.line.me/stickershop/au…",
+              "end": 145,
+              "expanded_url": "https://store.line.me/stickershop/author/538852/ja",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/2014642917277892610/s0Ccjf9l?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014642917277892610/s0Ccjf9l?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "黒野京のLINE スタンプ・絵文字一覧 | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/author/538852/ja",
+              "url": "https://t.co/kCTCo6VCZT"
+            },
+            {
+              "display_url": "pic.x.com/ey09hmJqtB",
+              "end": 205,
+              "expanded_url": "https://x.com/RIP2_/status/1966819159431328172/photo/1",
+              "media_key": "3_1966802282038915075",
+              "start": 182,
+              "url": "https://t.co/ey09hmJqtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966819159431328172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 88659,
+          "like_count": 538,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "· · • • • ✤ • • • · ·\n\n✝️LINE着せ替え　新作のお知らせ\n\n▸NEW「叶君 ver3」\nhttps://t.co/X2O9cyDD8T\n\n▹着せ替え一覧\nhttps://t.co/abdDHe3XNN\n▹スタンプ一覧\nhttps://t.co/kCTCo6VCZT\n\n何卒†\n#黒野のグッズ\n\n· · • • • ✤ • • • · · https://t.co/ey09hmJqtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 113,
+          "like_count": 27101,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2334
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T16:39:58.000Z",
+        "description": "♱ 狂信崇拝 ♱ フォロー非推奨 ♱ 通常依頼はlitlinkより(個人◯) ♱ 制作中フリゲ #マーダグラム ♱ 𝕴𝖓𝖋𝖔 @RIP2_x 𝕾𝖚𝖇 @RIP2x_ ♱ skeb https://t.co/6K4TEFrhng",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "マーダグラム"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "RIP2_x"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "RIP2x_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@RIP2_",
+                "end": 113,
+                "expanded_url": "https://skeb.jp/@RIP2_",
+                "start": 90,
+                "url": "https://t.co/6K4TEFrhng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RIP2",
+                "end": 23,
+                "expanded_url": "https://lit.link/RIP2",
+                "start": 0,
+                "url": "https://t.co/BQqFvtDm7i"
+              }
+            ]
+          }
+        },
+        "id": "939535101213384704",
+        "location": "ご依頼受付中",
+        "name": "♱黒野京♱",
+        "pinned_tweet_id": "2058495725885886599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987836995255828480/m--gp6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111193,
+          "following_count": 97,
+          "like_count": 72393,
+          "listed_count": 706,
+          "media_count": 334,
+          "tweet_count": 7806
+        },
+        "url": "https://t.co/BQqFvtDm7i",
+        "username": "RIP2_",
+        "verified": true
+      }
+    ]
+  }
+}

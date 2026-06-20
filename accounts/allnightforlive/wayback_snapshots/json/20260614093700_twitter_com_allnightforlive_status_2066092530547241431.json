@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2066092530547241431",
+    "created_at": "2026-06-14T09:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066092530547241431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782990236836089856",
+          "start": 3,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066092530547241431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065795826375598505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilllllli1i: 我的少女心事是我想跳楼不知道怎么处理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2066092530547241431",
+        "created_at": "2026-06-14T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066092530547241431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782990236836089856",
+              "start": 3,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066092530547241431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065795826375598505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilllllli1i: 我的少女心事是我想跳楼不知道怎么处理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782990236836089856",
+        "conversation_id": "2065795826375598505",
+        "created_at": "2026-06-13T13:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065795826375598505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065795826375598505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10546,
+          "like_count": 333,
+          "quote_count": 4,
+          "reply_count": 41,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女心事是我想跳楼不知道怎么处理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27235,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2354
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "不要回应",
+        "id": "1782990236836089856",
+        "name": "lilllllli1i",
+        "pinned_tweet_id": "2036102534524551206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360720048984064/5y0fSRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 439,
+          "like_count": 22152,
+          "listed_count": 23,
+          "media_count": 406,
+          "tweet_count": 4723
+        },
+        "username": "lilllllli1i",
+        "verified": false
+      }
+    ]
+  }
+}

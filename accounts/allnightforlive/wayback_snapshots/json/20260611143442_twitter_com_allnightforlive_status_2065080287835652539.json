@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065080287835652539",
+    "created_at": "2026-06-11T14:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065080287835652539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059878871231844352",
+          "start": 3,
+          "username": "qorath4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065080287835652539",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064892273809330179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qorath4r: 칼로 저 좀 찔러주세요 죽여주세요 안락사 시켜주세요 제발 죽여주세요 못 버티겠어요 아무도 나 안 사랑해줘 제발 죽여줘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065080287835652539",
+        "created_at": "2026-06-11T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065080287835652539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059878871231844352",
+              "start": 3,
+              "username": "qorath4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065080287835652539",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064892273809330179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qorath4r: 칼로 저 좀 찔러주세요 죽여주세요 안락사 시켜주세요 제발 죽여주세요 못 버티겠어요 아무도 나 안 사랑해줘 제발 죽여줘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059878871231844352",
+        "conversation_id": "2064892273809330179",
+        "created_at": "2026-06-11T02:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064892273809330179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064892273809330179",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1270,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "칼로 저 좀 찔러주세요 죽여주세요 안락사 시켜주세요 제발 죽여주세요 못 버티겠어요 아무도 나 안 사랑해줘 제발 죽여줘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27063,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2323
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T06:07:21.000Z",
+        "description": "이 추락은 어디까진 걸까\n                                                             \n초멘 초뎀 조아해여",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/2809261199",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/2809261199",
+                "start": 0,
+                "url": "https://t.co/GrHSoCTdZZ"
+              }
+            ]
+          }
+        },
+        "id": "2059878871231844352",
+        "location": "우울증 불안장애 애정결핍",
+        "name": "녜 ㅌㅊㅅ",
+        "pinned_tweet_id": "2061586646454427972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059879830922092544/z3CE0iaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 176,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/GrHSoCTdZZ",
+        "username": "qorath4r",
+        "verified": false
+      }
+    ]
+  }
+}

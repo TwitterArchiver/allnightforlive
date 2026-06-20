@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065079749945467106",
+    "created_at": "2026-06-11T14:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065079755637162420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065079755637162420",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065079749945467106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少那絕對、絕對不是一根黑色的硬棍子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065079749945467106",
+        "created_at": "2026-06-11T14:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065079755637162420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065079755637162420",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065079749945467106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少那絕對、絕對不是一根黑色的硬棍子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065079749945467106",
+        "created_at": "2026-06-11T14:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065079749945467106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065079749945467106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實你也不在乎嗎\n\n沒關係的\n\n死掉可以解決我的問題 還有我造成的問題。\n\n什麼都做不到的我開始挖牆壁了。\n\n什麼都做不到的我要挖一個好大好大的洞\n\n要藏下我自己跟我糟糕的一面\n\n流血了 但那不是我想要的。\n\n我要挖一個好大好大的洞。\n\n藏下我的一切還有我的未來\n\n看不到的希望也會在裡面吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27049,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2317
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

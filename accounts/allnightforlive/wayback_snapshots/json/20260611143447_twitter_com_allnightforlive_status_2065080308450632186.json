@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2065080308450632186",
+    "created_at": "2026-06-11T14:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065080308450632186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972299495976112128",
+          "start": 3,
+          "username": "usuariofyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065080308450632186",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 748
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064816372131963048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usuariofyp: entro a ig\nmiro historias\npienso pq sigo a gente tan idiota\nsalgo de ig\nentro a twitter\nreposteo\nreposteo\nreposteo\nreposteo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065080308450632186",
+        "created_at": "2026-06-11T14:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065080308450632186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972299495976112128",
+              "start": 3,
+              "username": "usuariofyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065080308450632186",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 748
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064816372131963048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usuariofyp: entro a ig\nmiro historias\npienso pq sigo a gente tan idiota\nsalgo de ig\nentro a twitter\nreposteo\nreposteo\nreposteo\nreposteo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972299495976112128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2064816372131963048",
+        "created_at": "2026-06-10T21:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064816372131963048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064816372131963048",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 16215,
+          "like_count": 1793,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 748
+        },
+        "reply_settings": "everyone",
+        "text": "entro a ig\nmiro historias\npienso pq sigo a gente tan idiota\nsalgo de ig\nentro a twitter\nreposteo\nreposteo\nreposteo\nreposteo\nsalgo d twitter\nentro a tiktok\ncomparto \ncomparto \ncomparto \ncomparto\nsalgo de tiktok\ny así sucesivamente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27063,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2323
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T13:57:09.000Z",
+        "description": "",
+        "id": "1972299495976112128",
+        "name": "usuario",
+        "pinned_tweet_id": "2064487379222557070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013201946329366528/0PYtiVKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10355,
+          "following_count": 124,
+          "like_count": 7758,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 2627
+        },
+        "username": "usuariofyp",
+        "verified": false
+      }
+    ]
+  }
+}

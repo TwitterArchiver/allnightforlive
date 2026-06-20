@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2066222408756048122",
+    "created_at": "2026-06-14T18:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066222408756048122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563131222506684421",
+          "start": 3,
+          "username": "kkmh1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066222408756048122",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066081113827955051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkmh1989: 10대 20대의 자살은 뉴스가 되지만 그 이후의 자살은 그냥 통계가 될 뿐임"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2066222408756048122",
+        "created_at": "2026-06-14T18:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066222408756048122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563131222506684421",
+              "start": 3,
+              "username": "kkmh1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066222408756048122",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066081113827955051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkmh1989: 10대 20대의 자살은 뉴스가 되지만 그 이후의 자살은 그냥 통계가 될 뿐임"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563131222506684421",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2066081113827955051",
+        "created_at": "2026-06-14T08:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066081113827955051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066081113827955051",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 191931,
+          "like_count": 4942,
+          "quote_count": 235,
+          "reply_count": 4,
+          "retweet_count": 569
+        },
+        "reply_settings": "everyone",
+        "text": "10대 20대의 자살은 뉴스가 되지만 그 이후의 자살은 그냥 통계가 될 뿐임"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27287,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2363
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T11:48:50.000Z",
+        "description": "성북동김이사계정이정1지됫어요",
+        "id": "1563131222506684421",
+        "name": "A hahaha",
+        "pinned_tweet_id": "2055955193871925310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055596418765901824/k6mJvPSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 238,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 662
+        },
+        "username": "kkmh1989",
+        "verified": false
+      }
+    ]
+  }
+}

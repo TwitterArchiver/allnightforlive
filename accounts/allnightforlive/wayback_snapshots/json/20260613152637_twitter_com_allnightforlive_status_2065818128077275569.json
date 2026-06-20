@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065298721152307200"
+      ],
+      "media_source_tweet_id": [
+        "2065298769051292132"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065818128077275569",
+    "created_at": "2026-06-13T15:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065818128077275569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1014071164900003841",
+          "start": 3,
+          "username": "aka_bake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMz8GjMrJv",
+          "end": 46,
+          "expanded_url": "https://x.com/aka_bake/status/2065298769051292132/photo/1",
+          "media_key": "3_2065298721152307200",
+          "start": 23,
+          "url": "https://t.co/dMz8GjMrJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065818128077275569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065298769051292132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aka_bake: oc suicy https://t.co/dMz8GjMrJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2065298721152307200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlqPpVaEAAYxIW.jpg",
+        "width": 1745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065298721152307200"
+          ],
+          "media_source_tweet_id": [
+            "2065298769051292132"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065818128077275569",
+        "created_at": "2026-06-13T15:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818128077275569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1014071164900003841",
+              "start": 3,
+              "username": "aka_bake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMz8GjMrJv",
+              "end": 46,
+              "expanded_url": "https://x.com/aka_bake/status/2065298769051292132/photo/1",
+              "media_key": "3_2065298721152307200",
+              "start": 23,
+              "url": "https://t.co/dMz8GjMrJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065818128077275569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065298769051292132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aka_bake: oc suicy https://t.co/dMz8GjMrJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065298721152307200"
+          ]
+        },
+        "author_id": "1014071164900003841",
+        "conversation_id": "2065298769051292132",
+        "created_at": "2026-06-12T05:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065298769051292132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMz8GjMrJv",
+              "end": 32,
+              "expanded_url": "https://x.com/aka_bake/status/2065298769051292132/photo/1",
+              "media_key": "3_2065298721152307200",
+              "start": 9,
+              "url": "https://t.co/dMz8GjMrJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065298769051292132",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 964,
+          "impression_count": 57072,
+          "like_count": 8431,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 707
+        },
+        "reply_settings": "everyone",
+        "text": "oc suicy https://t.co/dMz8GjMrJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27143,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2345
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-03T08:59:41.000Z",
+        "description": "https://t.co/Ljco2a1giW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/truedeath",
+                "end": 23,
+                "expanded_url": "https://lit.link/truedeath",
+                "start": 0,
+                "url": "https://t.co/Ljco2a1giW"
+              }
+            ]
+          }
+        },
+        "id": "1014071164900003841",
+        "location": "⸸",
+        "name": "ₐᴷᵃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963291423899619332/rHM9iMCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56206,
+          "following_count": 941,
+          "like_count": 11505,
+          "listed_count": 515,
+          "media_count": 75,
+          "tweet_count": 1110
+        },
+        "username": "aka_bake",
+        "verified": false
+      }
+    ]
+  }
+}

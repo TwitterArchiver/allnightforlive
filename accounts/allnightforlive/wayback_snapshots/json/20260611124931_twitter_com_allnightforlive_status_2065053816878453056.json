@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2064399125211488635",
+    "created_at": "2026-06-11T12:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065053816878453056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065053816878453056",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064399125211488635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 好可愛的互動//"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2064399125211488635",
+        "created_at": "2026-06-11T12:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065053816878453056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065053816878453056",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064399125211488635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 好可愛的互動//"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977031348415246336",
+        "conversation_id": "2064399125211488635",
+        "created_at": "2026-06-09T17:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064399125211488635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064399125211488635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们俩各种事情吵架的日常，也没什么惊天动地、有趣的事，基本上都是这样的，所以我也不知道分享什么。\n\n有一次吵完，他直接出去了。他出去的那一瞬间，我就开始拿手机看他的定位，看他往哪走。结果我发现他绕了一圈，又回来了，就在家楼下，但不上楼。\n我打开家里的监控访客，发现他在看监控，也就是说，他也在盯着我看。两个人就这样隔空互相监视对方。\n我就把监控拔了。他电话马上打过来，问：“你什么意思？”\n我说：“你不想看到我，那我就拔了，省得你看见我。”\n他说：“我只是出来了，不代表我不想看见你。”\n我说：“你就是不想见我。”\n他说：“我想见你。”\n我说：“那你他妈的就不要给老子逼啰嗦。”\n\n还有一次吵架，早上。他做早餐，只做一份。我洗漱完出来一看，就一份，应该是没给我做，我心里有点不高兴，觉得没必要吧。\n结果他说他没胃口，让我吃。那我就吃，假客气说：“你再做一份，自己吃。”\n他说：“我从此以后不吃早餐了，我把自己饿死。”\n我一下就笑了，但想到还在吵架，赶紧又绷着脸说：“那你再做一份，我要吃两份，我从此以后吃两份早餐，我就把自己撑死。”\n他说：“凭啥你让我做啥，我就做啥？我就不做，我不是你的舔狗。”\n我说：“你再装逼，那你就别做。”\n他说：“你让我别做？我现在就要去做。”\n然后他真的去做。\n我说：“我不吃了。”\n他说：“你不吃？算你牛逼，那我自己吃。”\n\n这就是我们的日常。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9008,
+          "like_count": 163,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们俩各种事情吵架的日常，也没什么惊天动地、有趣的事，基本上都是这样的，所以我也不知道分享什么。\n\n有一次吵完，他直接出去了。他出去的那一瞬间，我就开始拿手机看他的定位，看他往哪走。结果我发现他绕了一圈，又回来了，就在家楼下，但不上楼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 26944,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2302
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "快乐小肥猫的妈妈@Wojiang38562\nhttps://t.co/H4pB8fnL48",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 45,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 22,
+                "url": "https://t.co/H4pB8fnL48"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "2063991055419314255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5716,
+          "following_count": 432,
+          "like_count": 15853,
+          "listed_count": 7,
+          "media_count": 445,
+          "tweet_count": 14067
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

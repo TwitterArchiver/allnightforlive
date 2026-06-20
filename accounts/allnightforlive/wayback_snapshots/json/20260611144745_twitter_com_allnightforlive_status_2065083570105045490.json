@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065083566296604805",
+    "created_at": "2026-06-11T14:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065083570105045490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065083570105045490",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065083566296604805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回應我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065083566296604805",
+        "created_at": "2026-06-11T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065083570105045490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065083570105045490",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083566296604805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回應我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065083566296604805",
+        "created_at": "2026-06-11T14:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065083566296604805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065083566296604805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才是問題學生 一定是的\n全都是我的錯。\n\n哈？\n\n我討厭你。我討厭你活著。我討厭你因為你喜歡所以你來到這裡。我討厭因為我感到不適所以我的情緒控管不好。\n\n今天很累。\n\n今天一樣痛苦。\n\n如果你像現在這樣繼續說話 會不會聽不到我掉在地上的聲音\n\n父親大人告訴我 我能不能夠去看醫生了\n\n我夠資格了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27080,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2329
+        },
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

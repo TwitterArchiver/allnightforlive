@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065084767385862207",
+    "created_at": "2026-06-11T14:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065084767385862207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887040538182107136",
+          "start": 3,
+          "username": "tangyparfait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065084767385862207",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064816223758750058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangyparfait: who up considering suicide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065084767385862207",
+        "created_at": "2026-06-11T14:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065084767385862207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887040538182107136",
+              "start": 3,
+              "username": "tangyparfait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065084767385862207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064816223758750058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangyparfait: who up considering suicide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887040538182107136",
+        "conversation_id": "2064816223758750058",
+        "created_at": "2026-06-10T21:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064816223758750058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064816223758750058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 55371,
+          "like_count": 5667,
+          "quote_count": 30,
+          "reply_count": 51,
+          "retweet_count": 1266
+        },
+        "reply_settings": "everyone",
+        "text": "who up considering suicide"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 27114,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2331
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T07:28:51.000Z",
+        "description": "ifb!! •͈ᴗ⁃͈⊹ #venttwt multifandom\nilmgf ♡ cw 109lbs gw 105lbs gbmi 17",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "venttwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "killunyan.straw.page",
+                "end": 23,
+                "expanded_url": "https://killunyan.straw.page/",
+                "start": 0,
+                "url": "https://t.co/Jgjso9yokH"
+              }
+            ]
+          }
+        },
+        "id": "1887040538182107136",
+        "location": "18 ♡ rspbyf",
+        "name": "lulu 🐾",
+        "pinned_tweet_id": "2059606549107253681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057936738304290816/ireBVcbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 295,
+          "like_count": 8392,
+          "listed_count": 12,
+          "media_count": 85,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/Jgjso9yokH",
+        "username": "tangyparfait",
+        "verified": false
+      }
+    ]
+  }
+}

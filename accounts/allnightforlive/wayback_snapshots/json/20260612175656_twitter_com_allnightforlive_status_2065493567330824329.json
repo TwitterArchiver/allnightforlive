@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2065493567330824329",
+    "created_at": "2026-06-12T17:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065493567330824329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929946874959794176",
+          "start": 3,
+          "username": "hachii112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065493567330824329",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065328201254187431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachii112: 여러분\n정신과 가서 어디까지 말해야 하는지 고민된다면\n그냥 솔직하게 다 말하세요\n이걸 말해도 되나..?? 싶을수록 더 말해야함\n창피하거나 범죄에 가까울지라도 걱정마세요\n당신들의 의사옵은 이미\n별의별 얘기를 다 들어봤을테니까"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2065493567330824329",
+        "created_at": "2026-06-12T17:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065493567330824329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929946874959794176",
+              "start": 3,
+              "username": "hachii112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065493567330824329",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065328201254187431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachii112: 여러분\n정신과 가서 어디까지 말해야 하는지 고민된다면\n그냥 솔직하게 다 말하세요\n이걸 말해도 되나..?? 싶을수록 더 말해야함\n창피하거나 범죄에 가까울지라도 걱정마세요\n당신들의 의사옵은 이미\n별의별 얘기를 다 들어봤을테니까"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929946874959794176",
+        "conversation_id": "2065328201254187431",
+        "created_at": "2026-06-12T06:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065328201254187431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065328201254187431",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 217748,
+          "like_count": 3348,
+          "quote_count": 278,
+          "reply_count": 5,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "여러분\n정신과 가서 어디까지 말해야 하는지 고민된다면\n그냥 솔직하게 다 말하세요\n이걸 말해도 되나..?? 싶을수록 더 말해야함\n창피하거나 범죄에 가까울지라도 걱정마세요\n당신들의 의사옵은 이미\n별의별 얘기를 다 들어봤을테니까"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 113,
+          "like_count": 27115,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2338
+        },
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T17:02:56.000Z",
+        "description": "내 인생 마치 한 편의 드라마",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/hachii112",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/hachii112",
+                "start": 0,
+                "url": "https://t.co/gzdfPG0mvb"
+              }
+            ]
+          }
+        },
+        "id": "1929946874959794176",
+        "location": "쌩노베 인생역전기",
+        "name": "김하치",
+        "pinned_tweet_id": "2020096454598225944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043489138679435264/AUgSXJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 291,
+          "like_count": 12927,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 5928
+        },
+        "url": "https://t.co/gzdfPG0mvb",
+        "username": "hachii112",
+        "verified": false
+      }
+    ]
+  }
+}
