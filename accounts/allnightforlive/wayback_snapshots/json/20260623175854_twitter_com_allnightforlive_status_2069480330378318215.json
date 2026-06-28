@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2069480330378318215",
+    "created_at": "2026-06-23T17:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069480330378318215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008426475683446784",
+          "start": 3,
+          "username": "Gakkks100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069480330378318215",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069234829309460779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gakkks100: 한국에서 우울증보고 마음의병 &lt;\n이지랄하는거 대체 언제 멈출수있을까\n아니 뇌에 문제가 있는 거라니까\n약먹어야된다고 보험도 잘해주고 하라고"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2069480330378318215",
+        "created_at": "2026-06-23T17:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069480330378318215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008426475683446784",
+              "start": 3,
+              "username": "Gakkks100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069480330378318215",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069234829309460779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gakkks100: 한국에서 우울증보고 마음의병 &lt;\n이지랄하는거 대체 언제 멈출수있을까\n아니 뇌에 문제가 있는 거라니까\n약먹어야된다고 보험도 잘해주고 하라고"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008426475683446784",
+        "conversation_id": "2069234829309460779",
+        "created_at": "2026-06-23T01:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069234829309460779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069234829309460779",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 276456,
+          "like_count": 6833,
+          "quote_count": 228,
+          "reply_count": 25,
+          "retweet_count": 1867
+        },
+        "reply_settings": "everyone",
+        "text": "한국에서 우울증보고 마음의병 &lt;\n이지랄하는거 대체 언제 멈출수있을까\n아니 뇌에 문제가 있는 거라니까\n약먹어야된다고 보험도 잘해주고 하라고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27836,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2417
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:32:48.000Z",
+        "description": "먹짱계를 희망합니다\n🩵 🤙",
+        "id": "2008426475683446784",
+        "name": "각시",
+        "pinned_tweet_id": "2050763474360508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011952582282096640/9LJjRMpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 2734,
+          "like_count": 37574,
+          "listed_count": 39,
+          "media_count": 664,
+          "tweet_count": 63783
+        },
+        "url": "",
+        "username": "Gakkks100",
+        "verified": true
+      }
+    ]
+  }
+}

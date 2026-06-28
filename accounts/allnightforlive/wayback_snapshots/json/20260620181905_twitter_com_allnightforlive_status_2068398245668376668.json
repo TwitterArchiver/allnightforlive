@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068398245668376668",
+    "created_at": "2026-06-20T18:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068398245668376668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068398245668376668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蛞蝓。黏液。黏液。紅光。\n\n那些不曾擁有的痛苦伴隨著作嘔的黏膩湧上咽喉。我快吐了。\n\n無法畫出來嗎？我沒有試過。\n\n到處都是。看見，但是看不見。\n\n你們的眼睛都怎麼了？為什麼都看不見？那一閃而過的無脊椎生物遍佈在整個房間攀爬啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068398245668376668",
+        "created_at": "2026-06-20T18:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068398245668376668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068398245668376668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛞蝓。黏液。黏液。紅光。\n\n那些不曾擁有的痛苦伴隨著作嘔的黏膩湧上咽喉。我快吐了。\n\n無法畫出來嗎？我沒有試過。\n\n到處都是。看見，但是看不見。\n\n你們的眼睛都怎麼了？為什麼都看不見？那一閃而過的無脊椎生物遍佈在整個房間攀爬啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27466,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2380
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

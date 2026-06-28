@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2069473544145387540",
+    "created_at": "2026-06-23T17:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069473544145387540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1032419742840107009",
+          "start": 3,
+          "username": "naishonopiasu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069473544145387540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069183321339502724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naishonopiasu: あまりにも恐ろしい夢を見て、涙ながらに起床\n僕がいったいなにをしたというのですか\n\nもう今日は好きなだけ甘いものを食べてよい日とします\n\n気をつけていってらっしゃい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2069473544145387540",
+        "created_at": "2026-06-23T17:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069473544145387540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1032419742840107009",
+              "start": 3,
+              "username": "naishonopiasu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069473544145387540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069183321339502724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naishonopiasu: あまりにも恐ろしい夢を見て、涙ながらに起床\n僕がいったいなにをしたというのですか\n\nもう今日は好きなだけ甘いものを食べてよい日とします\n\n気をつけていってらっしゃい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032419742840107009",
+        "conversation_id": "2069183321339502724",
+        "created_at": "2026-06-22T22:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069183321339502724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069183321339502724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 24463,
+          "like_count": 1721,
+          "quote_count": 8,
+          "reply_count": 55,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "あまりにも恐ろしい夢を見て、涙ながらに起床\n僕がいったいなにをしたというのですか\n\nもう今日は好きなだけ甘いものを食べてよい日とします\n\n気をつけていってらっしゃい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27773,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-23T00:10:22.000Z",
+        "description": "愛らしく、鬱くしい | https://t.co/tESodYlYIm.mail@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "csp.info",
+                "end": 35,
+                "expanded_url": "http://csp.info",
+                "start": 12,
+                "url": "https://t.co/tESodYlYIm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naishonopiasu",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naishonopiasu",
+                "start": 0,
+                "url": "https://t.co/EehEJf3Zd7"
+              }
+            ]
+          }
+        },
+        "id": "1032419742840107009",
+        "name": "内緒のピアス",
+        "pinned_tweet_id": "2067623929473310873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659137378160869376/3v0-n6M1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42046,
+          "following_count": 371,
+          "like_count": 57356,
+          "listed_count": 100,
+          "media_count": 1107,
+          "tweet_count": 10226
+        },
+        "url": "https://t.co/EehEJf3Zd7",
+        "username": "naishonopiasu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2070763762190274928",
+    "created_at": "2026-06-27T06:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070763762190274928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1444180647287853061",
+          "start": 3,
+          "username": "gabooutside"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070763762190274928",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13891
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070273128320885139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gabooutside: tuitear es para gente que de chiquitos hablaban solos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070763762190274928",
+        "created_at": "2026-06-27T06:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070763762190274928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1444180647287853061",
+              "start": 3,
+              "username": "gabooutside"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070763762190274928",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070273128320885139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gabooutside: tuitear es para gente que de chiquitos hablaban solos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444180647287853061",
+        "conversation_id": "2070273128320885139",
+        "created_at": "2026-06-25T22:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T23:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070273128320885139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070273128320885139",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 732332,
+          "like_count": 50419,
+          "quote_count": 2273,
+          "reply_count": 402,
+          "retweet_count": 13891
+        },
+        "reply_settings": "everyone",
+        "text": "tuitear es para gente que de chiquitos hablaban solos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28122,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T06:01:25.000Z",
+        "description": ":v\nig: gbrlolivarria",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31dlgp3uc…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31dlgp3ucska4r4nyxyqbnnosj6y?si=6f388a0d761a4565",
+                "start": 0,
+                "url": "https://t.co/CL0WhwoI6z"
+              }
+            ]
+          }
+        },
+        "id": "1444180647287853061",
+        "location": "he",
+        "name": "gabo",
+        "pinned_tweet_id": "2069946038228836519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068561946346135553/z0Z3icJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 310,
+          "like_count": 13732,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 5408
+        },
+        "url": "https://t.co/CL0WhwoI6z",
+        "username": "gabooutside",
+        "verified": false
+      }
+    ]
+  }
+}

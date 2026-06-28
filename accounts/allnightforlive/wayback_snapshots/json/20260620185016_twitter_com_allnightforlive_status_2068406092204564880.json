@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068406092204564880",
+    "created_at": "2026-06-20T18:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068406092204564880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068406092204564880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067813876100739109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoim33: 很多人都不知道一个最基本的道理：\n无论是谁一旦受到超过限度的压力时都会变得暴躁、哭泣、具有攻击性、抑郁、无法保持理智\n\n人类是很脆弱的，有些人的情绪状态看起来非常良好，是因为他一直处在正常的环境中，但并不代表他就是个情绪稳定的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068406092204564880",
+        "created_at": "2026-06-20T18:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068406092204564880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068406092204564880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067813876100739109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoim33: 很多人都不知道一个最基本的道理：\n无论是谁一旦受到超过限度的压力时都会变得暴躁、哭泣、具有攻击性、抑郁、无法保持理智\n\n人类是很脆弱的，有些人的情绪状态看起来非常良好，是因为他一直处在正常的环境中，但并不代表他就是个情绪稳定的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2067813876100739109",
+        "created_at": "2026-06-19T03:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067813876100739109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067813876100739109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人都不知道一个最基本的道理：\n无论是谁一旦受到超过限度的压力时都会变得暴躁、哭泣、具有攻击性、抑郁、无法保持理智\n\n人类是很脆弱的，有些人的情绪状态看起来非常良好，是因为他一直处在正常的环境中，但并不代表他就是个情绪稳定的人\n但也不可否认，不同人的压力限度承受能力不一样有的人可能承受能力很强，千万次拯救了自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 17370,
+          "like_count": 422,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "很多人都不知道一个最基本的道理：\n无论是谁一旦受到超过限度的压力时都会变得暴躁、哭泣、具有攻击性、抑郁、无法保持理智\n\n人类是很脆弱的，有些人的情绪状态看起来非常良好，是因为他一直处在正常的环境中，但并不代表他就是个情绪稳定的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27486,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 3071,
+          "like_count": 53711,
+          "listed_count": 21,
+          "media_count": 3287,
+          "tweet_count": 13756
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

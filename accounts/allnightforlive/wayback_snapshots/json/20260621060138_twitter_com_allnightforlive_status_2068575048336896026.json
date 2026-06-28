@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068575048336896026",
+    "created_at": "2026-06-21T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068575048336896026"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068575048336896026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我殺了一個人 真的 但是在夢裡\n\n他嘲諷我 說我無能 但其實 我已經忘記所有事情了\n\n我把他逼到牆角 用東西砸他 他還在笑 可能是我真的不希望有人死掉而收力 但手裡的木椅 仍然很重 很重很重\n\n直到我真的忘記了 我說我希望你死\n\n木頭上穿插著使人作嘔的血 很髒 很噁心\n\n為什麼最後我被送進警局了？想笑、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068575048336896026",
+        "created_at": "2026-06-21T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068575048336896026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068575048336896026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我殺了一個人 真的 但是在夢裡\n\n他嘲諷我 說我無能 但其實 我已經忘記所有事情了\n\n我把他逼到牆角 用東西砸他 他還在笑 可能是我真的不希望有人死掉而收力 但手裡的木椅 仍然很重 很重很重\n\n直到我真的忘記了 我說我希望你死\n\n木頭上穿插著使人作嘔的血 很髒 很噁心\n\n為什麼最後我被送進警局了？想笑、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27512,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2389
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

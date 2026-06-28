@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068758859230093692",
+    "created_at": "2026-06-21T18:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068758859230093692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063266311254552576",
+          "start": 3,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2068…",
+          "end": 35,
+          "expanded_url": "http://x.com/i/article/2068652712846069760",
+          "start": 12,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2068652712846069760",
+          "url": "https://t.co/PFfkZqnMss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068758859230093692",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068653026710294694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17nuun: https://t.co/PFfkZqnMss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068758859230093692",
+        "created_at": "2026-06-21T18:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068758859230093692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063266311254552576",
+              "start": 3,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 35,
+              "expanded_url": "http://x.com/i/article/2068652712846069760",
+              "start": 12,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068652712846069760",
+              "url": "https://t.co/PFfkZqnMss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068758859230093692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068653026710294694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17nuun: https://t.co/PFfkZqnMss"
+      },
+      {
+        "article": {
+          "title": "抑郁症有一种反刍行为"
+        },
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068653026710294694",
+        "created_at": "2026-06-21T11:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068653026710294694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2068652712846069760",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068652712846069760",
+              "url": "https://t.co/PFfkZqnMss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068653026710294694",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 715,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PFfkZqnMss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27620,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2396
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 881,
+          "like_count": 390,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

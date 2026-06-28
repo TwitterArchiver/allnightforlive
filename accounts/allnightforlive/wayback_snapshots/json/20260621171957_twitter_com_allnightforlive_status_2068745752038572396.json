@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068745752038572396",
+    "created_at": "2026-06-21T17:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068745752038572396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068745752038572396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "滿地都是修眉刀 但是不自殘（惱）\n\n情緒不好的時候就會握著一隻睡覺 結果間接導致一堆都掉在地上（以及身上莫名其妙的傷口？）\n\n壞消息☝️ 我的窗簾剛剛掉下來然後我懶得裝回去了嗯呃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068745752038572396",
+        "created_at": "2026-06-21T17:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068745752038572396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068745752038572396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滿地都是修眉刀 但是不自殘（惱）\n\n情緒不好的時候就會握著一隻睡覺 結果間接導致一堆都掉在地上（以及身上莫名其妙的傷口？）\n\n壞消息☝️ 我的窗簾剛剛掉下來然後我懶得裝回去了嗯呃🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27520,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

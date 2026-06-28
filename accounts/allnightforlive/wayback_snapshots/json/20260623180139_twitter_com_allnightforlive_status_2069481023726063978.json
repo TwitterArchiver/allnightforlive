@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "1941902896054050869",
+    "created_at": "2026-06-23T18:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069481023726063978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916005601563590656",
+          "start": 0,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069481023726063978",
+    "in_reply_to_user_id": "1916005601563590656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941903706410340378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiongli_BAKA 老師你還在嗎、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "1941902896054050869",
+        "created_at": "2026-06-23T18:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069481023726063978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916005601563590656",
+              "start": 0,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069481023726063978",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941903706410340378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiongli_BAKA 老師你還在嗎、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916005601563590656",
+        "conversation_id": "1941902896054050869",
+        "created_at": "2025-07-06T16:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941903706410340378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941903706410340378",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941902896054050869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全部的朋友\n都被我伤过了\n那我知道很邪恶\n最后一次\n我的确得消失了\n明天中午。\n也许永别吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27841,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "这里是笨蛋穹璃呀｜不混任何圈｜16岁｜180东北入（身高进一步缩水）｜欢迎交友喵｜重抑 重焦 双相 解离 惊恐 ADHD 被打出来的PTSD/buff叠满/｜诡异男生｜不稳定｜随时可能极端｜应该有点天赋｜辽宁人｜来喜欢我吧！｜\n大号@QiongliBAKA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 116,
+                "username": "QiongliBAKA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "happiness",
+        "name": "穹璃吖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043239285445599232/8NR-8Gxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 937,
+          "like_count": 4216,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

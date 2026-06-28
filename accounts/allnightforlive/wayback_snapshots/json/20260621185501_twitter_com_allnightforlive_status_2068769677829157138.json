@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068216339597267320",
+    "created_at": "2026-06-21T18:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068769677829157138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971622635493736449",
+          "start": 0,
+          "username": "mrs_zhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068769677829157138",
+    "in_reply_to_user_id": "971622635493736449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068372440657670567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrs_zhg 不其實好像還有因為台灣人愛吃保健食品\n最近還有看到推出讓人連吃一個月或是一年的獨立包裝訂購方案\n還有夜市多 又愛吃宵夜 之類的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068216339597267320",
+        "created_at": "2026-06-21T18:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068769677829157138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971622635493736449",
+              "start": 0,
+              "username": "mrs_zhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068769677829157138",
+        "in_reply_to_user_id": "971622635493736449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068372440657670567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrs_zhg 不其實好像還有因為台灣人愛吃保健食品\n最近還有看到推出讓人連吃一個月或是一年的獨立包裝訂購方案\n還有夜市多 又愛吃宵夜 之類的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971622635493736449",
+        "conversation_id": "2068216339597267320",
+        "created_at": "2026-06-20T16:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068372440657670567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068372440657670567",
+        "in_reply_to_user_id": "971622635493736449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9176,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068216339597267320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "補充一下我在原串看到關於洗腎的討論\n說是因為醫療費用便宜所以洗腎率也比其他國家高＆大部分原因是含糖飲料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27752,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2401
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-08T05:44:22.000Z",
+        "description": "張起靈的易怒老婆🇹🇼，盜墓盜了20年，勉強算是作者，現職研究生，25↑，FF外不回應。【HQ侑治｜咒術五夏｜巨人｜LCP、LCK】，追蹤建議關轉推。 #LOL雲玩家\n🏆［原創小說］https://t.co/usRKGbTKUr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "LOL雲玩家"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cxc.today/zh/store/mrs_z…",
+                "end": 113,
+                "expanded_url": "https://cxc.today/zh/store/mrs_zhg/work/16828",
+                "start": 90,
+                "url": "https://t.co/usRKGbTKUr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrs-zhg.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mrs-zhg.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nnShw2HeFC"
+              }
+            ]
+          }
+        },
+        "id": "971622635493736449",
+        "location": "Unabhängiges Taiwan",
+        "name": "智能動漫迷小張⍨",
+        "pinned_tweet_id": "1584938893916639232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746360426231926784/nSYtX0Gu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3494,
+          "following_count": 333,
+          "like_count": 72683,
+          "listed_count": 17,
+          "media_count": 6334,
+          "tweet_count": 74986
+        },
+        "url": "https://t.co/nnShw2HeFC",
+        "username": "mrs_zhg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068404547903775216",
+    "created_at": "2026-06-20T18:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068404547903775216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068404547903775216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想跟她說些話 如果是她的話一定能接受我的吧？\n\n我這輩子要怎麼辦啊 如果一直這樣的話。\n\n這是不正常嗎 如果會因為自慰而痛苦的自責的話 好想要正常的愛人啊 好想要正常的愛著一個人啊\n\n為什麼啊 為什麼啊 如果跟她講的話她會拒絕我嗎？\n\n原諒我啊 我沒有傷害任何人 我沒有殺掉任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068404547903775216",
+        "created_at": "2026-06-20T18:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068404547903775216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068404547903775216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟她說些話 如果是她的話一定能接受我的吧？\n\n我這輩子要怎麼辦啊 如果一直這樣的話。\n\n這是不正常嗎 如果會因為自慰而痛苦的自責的話 好想要正常的愛人啊 好想要正常的愛著一個人啊\n\n為什麼啊 為什麼啊 如果跟她講的話她會拒絕我嗎？\n\n原諒我啊 我沒有傷害任何人 我沒有殺掉任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27466,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2382
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2069482131370451085",
+    "created_at": "2026-06-23T18:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069482131370451085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069482131370451085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我最常的還是點開那位老師的主頁 然後去點讚一些被系統取消掉的貼文\n\n很多次了 每一次 每一次 每次都被吃掉\n\n就像在說存在這種東西根本就舉無輕重一樣 連系統都不屑記得一般\n\n一定有更愛他的人記得他。\n\n但我也可以 記得吧？\n\n這樣能不能讓我也好受一點。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2069482131370451085",
+        "created_at": "2026-06-23T18:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069482131370451085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069482131370451085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我最常的還是點開那位老師的主頁 然後去點讚一些被系統取消掉的貼文\n\n很多次了 每一次 每一次 每次都被吃掉\n\n就像在說存在這種東西根本就舉無輕重一樣 連系統都不屑記得一般\n\n一定有更愛他的人記得他。\n\n但我也可以 記得吧？\n\n這樣能不能讓我也好受一點。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27843,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

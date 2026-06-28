@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068816289599209961",
+    "created_at": "2026-06-21T22:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T23:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068816293348901055"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068816293348901055",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068816289599209961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "發現我 治療我 根治我 我也像像人一樣。我也想活著。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068816283479773184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXpcuJbEAAxDDH.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068816289599209961",
+        "created_at": "2026-06-21T22:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068816293348901055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068816293348901055",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068816289599209961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "發現我 治療我 根治我 我也像像人一樣。我也想活著。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068816283479773184"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068816289599209961",
+        "created_at": "2026-06-21T22:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068816289599209961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hucOf4ZKTt",
+              "end": 173,
+              "expanded_url": "https://x.com/allnightforlive/status/2068816289599209961/photo/1",
+              "media_key": "3_2068816283479773184",
+              "start": 150,
+              "url": "https://t.co/hucOf4ZKTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068816289599209961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這根本 就只是 論文。\n我以為我應該學到什麼 原來是資料分析\n\n自從這本書後我從來沒有讀完一本書過。\n\n我現在發現了 我不敢翻過去的最後一頁 都是謝詞跟引用文章\n\n我沒有看 我也不打算信任他 我不知道怎麼做了\n\n這是一本好書嗎？告訴我。\n\n讀完它 對我真的有用嗎？\n\n我只是想活著 我只是不想要痛了 https://t.co/hucOf4ZKTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27776,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2406
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

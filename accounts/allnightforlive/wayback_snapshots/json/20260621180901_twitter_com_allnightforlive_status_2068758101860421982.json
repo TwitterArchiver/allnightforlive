@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2068531602729140404",
+    "created_at": "2026-06-21T18:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068758101860421982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1479851302905470980",
+          "start": 0,
+          "username": "yandeshujianji"
+        },
+        {
+          "end": 23,
+          "id": "1613079089879076864",
+          "start": 16,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068758101860421982",
+    "in_reply_to_user_id": "1479851302905470980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068666536173465627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yandeshujianji @YunJiu 支持 內襯就算低明度還是綠色 紅配綠真不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2068531602729140404",
+        "created_at": "2026-06-21T18:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068758101860421982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1479851302905470980",
+              "start": 0,
+              "username": "yandeshujianji"
+            },
+            {
+              "end": 23,
+              "id": "1613079089879076864",
+              "start": 16,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068758101860421982",
+        "in_reply_to_user_id": "1479851302905470980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068666536173465627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yandeshujianji @YunJiu 支持 內襯就算低明度還是綠色 紅配綠真不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479851302905470980",
+        "conversation_id": "2068531602729140404",
+        "created_at": "2026-06-21T12:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068666536173465627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068666536173465627",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4236,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068531602729140404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 把内衬去了不就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27611,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2395
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T16:23:51.000Z",
+        "description": "",
+        "id": "1479851302905470980",
+        "name": "撕心刺骨灬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485295364706271232/Q0uefjmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 19,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "yandeshujianji",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105532,
+          "following_count": 811,
+          "like_count": 37331,
+          "listed_count": 295,
+          "media_count": 19541,
+          "tweet_count": 27950
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2069485114015522903",
+    "created_at": "2026-06-23T18:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069485114015522903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069485114015522903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068871379748102217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲。最后只剩下绝望的你和永远挥…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2069485114015522903",
+        "created_at": "2026-06-23T18:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069485114015522903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069485114015522903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068871379748102217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲。最后只剩下绝望的你和永远挥…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2068871379748102217",
+        "created_at": "2026-06-22T01:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068871379748102217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068871379748102217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 198691,
+          "like_count": 9004,
+          "quote_count": 88,
+          "reply_count": 267,
+          "retweet_count": 1206
+        },
+        "reply_settings": "everyone",
+        "text": "你们懂那种很恶心的感觉吗 就是原本那些烂人烂事已经结束了 你也知道已经过去很久该翻篇了 但就是会时不时跳出来回想一遍踹你一脚 当时的绝望尴尬愤怒羞耻感涌上心头 五官扭曲到一起在内心绝望呐喊别想了 结果越想越起劲。最后只剩下绝望的你和永远挥之不去的记忆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 27867,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9625,
+          "following_count": 71,
+          "like_count": 8467,
+          "listed_count": 8,
+          "media_count": 179,
+          "tweet_count": 1976
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}
