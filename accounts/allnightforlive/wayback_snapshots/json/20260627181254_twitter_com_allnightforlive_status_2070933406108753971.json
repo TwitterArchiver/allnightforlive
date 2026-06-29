@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2070933400932999670",
+    "created_at": "2026-06-27T18:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070933406108753971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070933406108753971",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070933403621613961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸 我想去看醫生\n\n我說不出口啊\n\n他可以做到的\n\n我說不出口啊\n\n好想要停止呼吸\n\n這樣就不會有明天了\n\n我不好\n我不好\n\n請你代替我跟他說\n\n我想要幫助\n\n但不是擁抱我\n\n我需要幫助\n\n但不是你的\n\n我無法與自己和解\n\n記憶裡的味道一直在我的子宮裡徘徊\n\n我恨自己 恨自己腦中的聲音\n恨先生的沉默與無能為力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070933400932999670",
+        "created_at": "2026-06-27T18:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070933406108753971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070933406108753971",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070933403621613961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸 我想去看醫生\n\n我說不出口啊\n\n他可以做到的\n\n我說不出口啊\n\n好想要停止呼吸\n\n這樣就不會有明天了\n\n我不好\n我不好\n\n請你代替我跟他說\n\n我想要幫助\n\n但不是擁抱我\n\n我需要幫助\n\n但不是你的\n\n我無法與自己和解\n\n記憶裡的味道一直在我的子宮裡徘徊\n\n我恨自己 恨自己腦中的聲音\n恨先生的沉默與無能為力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070933400932999670",
+        "created_at": "2026-06-27T18:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070933403621613961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070933403621613961",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070933400932999670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但什麼都不做並哭醒 是我。\n\n好想說些什麼一定會做的事情 為什麼就是這麼懦弱呢？\n\n不要說什麼活下去這種話激勵自己了。\n\n我想要逃跑 逃到一個不會醒來的夢\n即使現在我不再痛苦了 即使沒有人\n\n死去的念頭仍然在掐著自己\n他在我耳邊呢喃著\n\n我聽不懂 我不想聽\n\n症狀 為什麼又要提這個？\n\n這不重要 明明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28145,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

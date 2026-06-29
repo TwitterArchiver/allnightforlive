@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2070930854348529684",
+    "created_at": "2026-06-27T18:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070930854348529684"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070930854348529684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又再一次的逃跑了\n\n我想不在乎所有人 想要一個人\n我也想被抱住 也想和一個人在海邊的夕陽下 在被陽光的餘溫擁護的沙子上奔跑\n\n我也想被海浪沖刷進更深的礁石群 想要被鯨魚吞入最深的漆黑\n\n那裡也會有極光嗎？\n\n在你的世界\n\n那裡也有夜空中燃燒的隕石滑過天際線嗎？\n\n它也會像此刻的溫存一樣消逝嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070930854348529684",
+        "created_at": "2026-06-27T18:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070930854348529684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070930854348529684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又再一次的逃跑了\n\n我想不在乎所有人 想要一個人\n我也想被抱住 也想和一個人在海邊的夕陽下 在被陽光的餘溫擁護的沙子上奔跑\n\n我也想被海浪沖刷進更深的礁石群 想要被鯨魚吞入最深的漆黑\n\n那裡也會有極光嗎？\n\n在你的世界\n\n那裡也有夜空中燃燒的隕石滑過天際線嗎？\n\n它也會像此刻的溫存一樣消逝嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28143,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2439
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2070987439611769040",
+    "created_at": "2026-06-27T21:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T22:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070987439611769040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1637174960887148549",
+          "start": 3,
+          "username": "nvymz45421628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070987439611769040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070455839694213316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nvymz45421628: 你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070987439611769040",
+        "created_at": "2026-06-27T21:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070987439611769040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1637174960887148549",
+              "start": 3,
+              "username": "nvymz45421628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070987439611769040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070455839694213316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nvymz45421628: 你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637174960887148549",
+        "conversation_id": "2070455839694213316",
+        "created_at": "2026-06-26T10:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070455839694213316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070455839694213316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 93285,
+          "like_count": 1461,
+          "quote_count": 21,
+          "reply_count": 238,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28293,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2459
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T19:32:01.000Z",
+        "description": "",
+        "id": "1637174960887148549",
+        "name": "小山呵呵-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045154732030017537/YATTK7u9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "nvymz45421628",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070947351423016960"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2070947409534894385",
+    "created_at": "2026-06-27T19:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T20:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070947409534894385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/enV3BBYw6w",
+          "end": 129,
+          "expanded_url": "https://x.com/allnightforlive/status/2070947409534894385/video/1",
+          "media_key": "13_2070947351423016960",
+          "start": 106,
+          "url": "https://t.co/enV3BBYw6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070947409534894385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實當所有人想著 晚霞啊 星空 黃昏 的時候\n\n我想要畫橘色的 但不是那麼平靜\n\n他應該要紛亂 應該要有死亡 但不是那麼多的人\n\n那個孩子 很好 但他被所有人拋棄 \n回不去的家不會被戰火焚燒 但那裡的人不歡迎他 https://t.co/enV3BBYw6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5708,
+        "height": 720,
+        "media_key": "13_2070947351423016960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070947351423016960/img/V5sboTco8UluBq5c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070947351423016960/vid/avc1/360x270/Y3OmbFXczfI5xDy4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070947351423016960/vid/avc1/480x360/6iS5v3c4SYVyWVLq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070947351423016960/vid/avc1/960x720/8CgfxUmqEdhE66aj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070947351423016960/pl/vApnvzhwJy7lf693.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070947351423016960"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2070947409534894385",
+        "created_at": "2026-06-27T19:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070947409534894385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enV3BBYw6w",
+              "end": 129,
+              "expanded_url": "https://x.com/allnightforlive/status/2070947409534894385/video/1",
+              "media_key": "13_2070947351423016960",
+              "start": 106,
+              "url": "https://t.co/enV3BBYw6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070947409534894385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實當所有人想著 晚霞啊 星空 黃昏 的時候\n\n我想要畫橘色的 但不是那麼平靜\n\n他應該要紛亂 應該要有死亡 但不是那麼多的人\n\n那個孩子 很好 但他被所有人拋棄 \n回不去的家不會被戰火焚燒 但那裡的人不歡迎他 https://t.co/enV3BBYw6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28170,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 2454
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

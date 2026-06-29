@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2071319081781723645",
+    "created_at": "2026-06-28T19:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071319081781723645"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071319081781723645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實也在考慮寫日記 但 嗯 我不喜歡寫字 那種筆磨蹭的感覺 我只能接受是繪圖\n\n而且極度討厭錯字跟忘字。\n\n令人煩躁的事情發生了 我睡不著 並且感受得到強烈的糟糕情緒 主要是煩躁跟麻木"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2071319081781723645",
+        "created_at": "2026-06-28T19:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071319081781723645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071319081781723645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實也在考慮寫日記 但 嗯 我不喜歡寫字 那種筆磨蹭的感覺 我只能接受是繪圖\n\n而且極度討厭錯字跟忘字。\n\n令人煩躁的事情發生了 我睡不著 並且感受得到強烈的糟糕情緒 主要是煩躁跟麻木"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28385,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2467
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

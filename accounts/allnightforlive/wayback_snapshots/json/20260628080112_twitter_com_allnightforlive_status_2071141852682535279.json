@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070564054075387904"
+      ],
+      "media_source_tweet_id": [
+        "2070564062858211699"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2071141852682535279",
+    "created_at": "2026-06-28T08:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071141852682535279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986793268324261888",
+          "start": 3,
+          "username": "yazi398633"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KHXm6qMluF",
+          "end": 57,
+          "expanded_url": "https://x.com/yazi398633/status/2070564062858211699/photo/1",
+          "media_key": "3_2070564054075387904",
+          "start": 34,
+          "url": "https://t.co/KHXm6qMluF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071141852682535279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070564062858211699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yazi398633: @hsn8086 這讓我想到這張圖 https://t.co/KHXm6qMluF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2070564054075387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwfCW_bMAAHqg-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070564054075387904"
+          ],
+          "media_source_tweet_id": [
+            "2070564062858211699"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2071141852682535279",
+        "created_at": "2026-06-28T08:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071141852682535279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986793268324261888",
+              "start": 3,
+              "username": "yazi398633"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHXm6qMluF",
+              "end": 57,
+              "expanded_url": "https://x.com/yazi398633/status/2070564062858211699/photo/1",
+              "media_key": "3_2070564054075387904",
+              "start": 34,
+              "url": "https://t.co/KHXm6qMluF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071141852682535279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070564062858211699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yazi398633: @hsn8086 這讓我想到這張圖 https://t.co/KHXm6qMluF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070564054075387904"
+          ]
+        },
+        "author_id": "1986793268324261888",
+        "conversation_id": "2070426334325846503",
+        "created_at": "2026-06-26T17:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070564062858211699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHXm6qMluF",
+              "end": 41,
+              "expanded_url": "https://x.com/yazi398633/status/2070564062858211699/photo/1",
+              "media_key": "3_2070564054075387904",
+              "start": 18,
+              "url": "https://t.co/KHXm6qMluF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070564062858211699",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 29001,
+          "like_count": 1166,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070426334325846503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 這讓我想到這張圖 https://t.co/KHXm6qMluF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 28315,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2460
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T13:50:24.000Z",
+        "description": "",
+        "id": "1986793268324261888",
+        "name": "呀子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986793362499026945/n3bPd5lI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 72,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "yazi398633",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121159,
+          "following_count": 1120,
+          "like_count": 52142,
+          "listed_count": 297,
+          "media_count": 22488,
+          "tweet_count": 32972
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}
