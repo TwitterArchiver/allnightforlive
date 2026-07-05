@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2073077267635605660",
+    "created_at": "2026-07-03T16:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073077267635605660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073077267635605660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072659629897924856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoim33: 亲密产生轻蔑\n这种本能就和喜恶同因一样残酷\n\n但我们有爱与思考的能力\n在生活中必须看见亲密者的优点、珍惜亲密者的付出、呵护亲密者的情绪\n不轻蔑她们的感情、不无视她们的需求、不忘记你们的曾经\n\n只有这样才能从残酷中振作起来\n互相依靠着前进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2073077267635605660",
+        "created_at": "2026-07-03T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073077267635605660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073077267635605660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072659629897924856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoim33: 亲密产生轻蔑\n这种本能就和喜恶同因一样残酷\n\n但我们有爱与思考的能力\n在生活中必须看见亲密者的优点、珍惜亲密者的付出、呵护亲密者的情绪\n不轻蔑她们的感情、不无视她们的需求、不忘记你们的曾经\n\n只有这样才能从残酷中振作起来\n互相依靠着前进"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2072659629897924856",
+        "created_at": "2026-07-02T12:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072659629897924856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072659629897924856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 799,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "亲密产生轻蔑\n这种本能就和喜恶同因一样残酷\n\n但我们有爱与思考的能力\n在生活中必须看见亲密者的优点、珍惜亲密者的付出、呵护亲密者的情绪\n不轻蔑她们的感情、不无视她们的需求、不忘记你们的曾经\n\n只有这样才能从残酷中振作起来\n互相依靠着前进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 113,
+          "like_count": 28428,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2473
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6400,
+          "following_count": 3099,
+          "like_count": 54811,
+          "listed_count": 21,
+          "media_count": 3446,
+          "tweet_count": 14188
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

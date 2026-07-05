@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2073238027925901604",
+    "created_at": "2026-07-04T03:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073247967478444407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073247967478444407",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073238027925901604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest 右上角有一個粉頭髮的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1949,
+        "media_key": "3_2073237948431310848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWe7fsboAAAnX0.jpg",
+        "width": 1511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2073238027925901604",
+        "created_at": "2026-07-04T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073247967478444407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073247967478444407",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073238027925901604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 右上角有一個粉頭髮的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073237948431310848"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2073238027925901604",
+        "created_at": "2026-07-04T02:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073238027925901604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F96iBlxxBr",
+              "end": 46,
+              "expanded_url": "https://x.com/Stanleysobest/status/2073238027925901604/photo/1",
+              "media_key": "3_2073237948431310848",
+              "start": 23,
+              "url": "https://t.co/F96iBlxxBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073238027925901604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1023,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是演唱会看台上的女孩子，那男孩子在哪里呢？ https://t.co/F96iBlxxBr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 113,
+          "like_count": 28552,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2485
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2059210907948028168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53374,
+          "following_count": 1685,
+          "like_count": 26490,
+          "listed_count": 217,
+          "media_count": 9007,
+          "tweet_count": 40560
+        },
+        "url": "",
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}
