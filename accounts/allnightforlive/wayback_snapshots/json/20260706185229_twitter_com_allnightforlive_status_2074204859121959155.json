@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074204859121959155",
+    "created_at": "2026-07-06T18:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074204859121959155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2053428685295009792",
+          "start": 3,
+          "username": "xuckthsxxibal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074204859121959155",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1511
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074050175186981248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuckthsxxibal: 실제 우울증 있는 사람들은 대부분 곧 죽을것처럼 굴다가\n갑자기 헬렐레 웃으면서 외출하고 오고\n또 집와서 정신병자짓 하는것을 반복하는데\n그 일방적인 면만 보고 남을 판단하는 사람들이 개많음"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074204859121959155",
+        "created_at": "2026-07-06T18:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074204859121959155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2053428685295009792",
+              "start": 3,
+              "username": "xuckthsxxibal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074204859121959155",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1511
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074050175186981248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuckthsxxibal: 실제 우울증 있는 사람들은 대부분 곧 죽을것처럼 굴다가\n갑자기 헬렐레 웃으면서 외출하고 오고\n또 집와서 정신병자짓 하는것을 반복하는데\n그 일방적인 면만 보고 남을 판단하는 사람들이 개많음"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053428685295009792",
+        "conversation_id": "2074050175186981248",
+        "created_at": "2026-07-06T08:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074050175186981248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074050175186981248",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 320678,
+          "like_count": 7573,
+          "quote_count": 313,
+          "reply_count": 7,
+          "retweet_count": 1511
+        },
+        "reply_settings": "everyone",
+        "text": "실제 우울증 있는 사람들은 대부분 곧 죽을것처럼 굴다가\n갑자기 헬렐레 웃으면서 외출하고 오고\n또 집와서 정신병자짓 하는것을 반복하는데\n그 일방적인 면만 보고 남을 판단하는 사람들이 개많음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 112,
+          "like_count": 29079,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2510
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T10:55:55.000Z",
+        "description": "아름다고 멋진 고냐니같은 여자 민아 언니 숭배하세요.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/imduyyyoppp",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/imduyyyoppp",
+                "start": 0,
+                "url": "https://t.co/FYdVwixgIe"
+              }
+            ]
+          }
+        },
+        "id": "2053428685295009792",
+        "location": "이혠✨ 히소카💍 레정자💕",
+        "name": "정두엽",
+        "pinned_tweet_id": "2073627591869874447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072502754107596800/8o0PEdWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 270,
+          "like_count": 4594,
+          "listed_count": 8,
+          "media_count": 104,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/FYdVwixgIe",
+        "username": "xuckthsxxibal",
+        "verified": false
+      }
+    ]
+  }
+}

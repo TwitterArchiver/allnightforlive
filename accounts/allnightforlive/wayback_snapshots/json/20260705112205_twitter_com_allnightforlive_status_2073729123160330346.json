@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073594495980195840"
+      ],
+      "media_source_tweet_id": [
+        "2073594502326194194"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2073729123160330346",
+    "created_at": "2026-07-05T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073729123160330346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592401094273302528",
+          "start": 3,
+          "username": "LuoLuo_Miki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CWHIhfY54",
+          "end": 48,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2073594502326194194/photo/1",
+          "media_key": "3_2073594495980195840",
+          "start": 25,
+          "url": "https://t.co/0CWHIhfY54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073729123160330346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073594502326194194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuoLuo_Miki: 😋，美味的抽奖 https://t.co/0CWHIhfY54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2073594495980195840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjNS0a0AAAV2o.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073594495980195840"
+          ],
+          "media_source_tweet_id": [
+            "2073594502326194194"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2073729123160330346",
+        "created_at": "2026-07-05T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073729123160330346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592401094273302528",
+              "start": 3,
+              "username": "LuoLuo_Miki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CWHIhfY54",
+              "end": 48,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2073594502326194194/photo/1",
+              "media_key": "3_2073594495980195840",
+              "start": 25,
+              "url": "https://t.co/0CWHIhfY54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729123160330346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073594502326194194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuoLuo_Miki: 😋，美味的抽奖 https://t.co/0CWHIhfY54"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073594495980195840"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T02:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073594502326194194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CWHIhfY54",
+              "end": 31,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2073594502326194194/photo/1",
+              "media_key": "3_2073594495980195840",
+              "start": 8,
+              "url": "https://t.co/0CWHIhfY54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073594502326194194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13735,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "😋，美味的抽奖 https://t.co/0CWHIhfY54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 111,
+          "like_count": 28754,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2492
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 142,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

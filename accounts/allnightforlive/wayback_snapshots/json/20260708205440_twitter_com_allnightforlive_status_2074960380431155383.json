@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074960380431155383",
+    "created_at": "2026-07-08T20:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074960380431155383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763784470581456896",
+          "start": 3,
+          "username": "moon___ocean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074960380431155383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074876248812400951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moon___ocean: 眠れないあなたへ\n\nどんな夜をお過ごしですか。\n私は久しぶりにこんな時間にお腹が空いてしまって、冷麺と唐揚げを食べようと思います。あなたも無理に寝ようとしなくて大丈夫だからね。なんとか一緒に夜を乗り越えようね。大丈夫だよ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074960380431155383",
+        "created_at": "2026-07-08T20:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074960380431155383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763784470581456896",
+              "start": 3,
+              "username": "moon___ocean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074960380431155383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074876248812400951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moon___ocean: 眠れないあなたへ\n\nどんな夜をお過ごしですか。\n私は久しぶりにこんな時間にお腹が空いてしまって、冷麺と唐揚げを食べようと思います。あなたも無理に寝ようとしなくて大丈夫だからね。なんとか一緒に夜を乗り越えようね。大丈夫だよ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763784470581456896",
+        "conversation_id": "2074876248812400951",
+        "created_at": "2026-07-08T15:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074876248812400951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074876248812400951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 39618,
+          "like_count": 1918,
+          "quote_count": 19,
+          "reply_count": 18,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "眠れないあなたへ\n\nどんな夜をお過ごしですか。\n私は久しぶりにこんな時間にお腹が空いてしまって、冷麺と唐揚げを食べようと思います。あなたも無理に寝ようとしなくて大丈夫だからね。なんとか一緒に夜を乗り越えようね。大丈夫だよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 116,
+          "like_count": 29304,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T04:32:54.000Z",
+        "description": "誰かのちょっとした何かになれたらいいな",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@moon____ocean…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@moon____ocean?_r=1&_t=ZS-97DqzCK6bi6",
+                "start": 0,
+                "url": "https://t.co/vXgccXXlXC"
+              }
+            ]
+          }
+        },
+        "id": "1763784470581456896",
+        "name": "海月",
+        "pinned_tweet_id": "1975195149132239340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763786219857805312/NFPPrEe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24234,
+          "following_count": 109,
+          "like_count": 4354,
+          "listed_count": 66,
+          "media_count": 158,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/vXgccXXlXC",
+        "username": "moon___ocean",
+        "verified": false
+      }
+    ]
+  }
+}

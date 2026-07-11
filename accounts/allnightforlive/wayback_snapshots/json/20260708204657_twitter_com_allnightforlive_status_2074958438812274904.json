@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074958433124851712"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074826312900804680",
+    "created_at": "2026-07-08T20:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074958438812274904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1327884610378682368",
+          "start": 0,
+          "username": "motimoti_seizin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MQWzuo8JI6",
+          "end": 46,
+          "expanded_url": "https://x.com/allnightforlive/status/2074958438812274904/photo/1",
+          "media_key": "3_2074958433124851712",
+          "start": 23,
+          "url": "https://t.co/MQWzuo8JI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074958438812274904",
+    "in_reply_to_user_id": "1327884610378682368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074826312900804680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@motimoti_seizin 動物嗎ww https://t.co/MQWzuo8JI6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074958433124851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMu7s4oboAAaWXh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074958433124851712"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074826312900804680",
+        "created_at": "2026-07-08T20:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074958438812274904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1327884610378682368",
+              "start": 0,
+              "username": "motimoti_seizin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQWzuo8JI6",
+              "end": 46,
+              "expanded_url": "https://x.com/allnightforlive/status/2074958438812274904/photo/1",
+              "media_key": "3_2074958433124851712",
+              "start": 23,
+              "url": "https://t.co/MQWzuo8JI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074958438812274904",
+        "in_reply_to_user_id": "1327884610378682368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074826312900804680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@motimoti_seizin 動物嗎ww https://t.co/MQWzuo8JI6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327884610378682368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          }
+        ],
+        "conversation_id": "2074826312900804680",
+        "created_at": "2026-07-08T12:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074826312900804680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074826312900804680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1346,
+          "impression_count": 1483015,
+          "like_count": 12950,
+          "quote_count": 840,
+          "reply_count": 2889,
+          "retweet_count": 951
+        },
+        "reply_settings": "everyone",
+        "text": "このポストが‼️流れてきた‼️全員‼️ペットの‼️写真‼️送れ‼️今すぐ‼️\n\n遅い‼️早くしろ‼️全員‼️送れ‼️スルーすんな‼️ﾈｯｺでも‼️ｲｯﾇでも‼️ハムでも‼️ヘビでも‼️金魚でも‼️虫でも‼️人でも‼️なんでも‼️いいから‼️ペットの‼️可愛い‼️写真‼️送れ‼️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 116,
+          "like_count": 29298,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T08:03:12.000Z",
+        "description": "よく叫びよく歌います🤍🐹  アカペラと音割れのプロ。#もちもちゃアート サブ垢(@moti_subsub) その他SNS https://t.co/2djdPPpWaK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 26,
+                "tag": "もちもちゃアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "moti_subsub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/Moti",
+                "end": 84,
+                "expanded_url": "http://lit.link/Moti",
+                "start": 61,
+                "url": "https://t.co/2djdPPpWaK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@motimoti_seiz…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@motimoti_seizin",
+                "start": 0,
+                "url": "https://t.co/ds4LX08G2Z"
+              }
+            ]
+          }
+        },
+        "id": "1327884610378682368",
+        "name": "もちもちもっちゃん",
+        "pinned_tweet_id": "2040398986281132310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919361220022575104/RcGvARyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86765,
+          "following_count": 212,
+          "like_count": 64042,
+          "listed_count": 116,
+          "media_count": 1543,
+          "tweet_count": 23172
+        },
+        "url": "https://t.co/ds4LX08G2Z",
+        "username": "motimoti_seizin",
+        "verified": false
+      }
+    ]
+  }
+}

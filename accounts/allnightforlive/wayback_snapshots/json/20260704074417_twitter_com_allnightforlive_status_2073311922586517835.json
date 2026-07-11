@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072834725354647552"
+      ],
+      "media_source_tweet_id": [
+        "2072974125740515362"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2073311922586517835",
+    "created_at": "2026-07-04T07:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073311922586517835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222813258194702336",
+          "start": 3,
+          "username": "dashen9999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3zPlrSfWD",
+          "end": 48,
+          "expanded_url": "https://x.com/dashen9999/status/2072974125740515362/photo/1",
+          "media_key": "3_2072834725354647552",
+          "start": 25,
+          "url": "https://t.co/S3zPlrSfWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073311922586517835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072974125740515362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dashen9999: 发现自己挺难杀的 https://t.co/S3zPlrSfWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2072834725354647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQwM0rbsAAq0XH.png",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072834725354647552"
+          ],
+          "media_source_tweet_id": [
+            "2072974125740515362"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2073311922586517835",
+        "created_at": "2026-07-04T07:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073311922586517835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222813258194702336",
+              "start": 3,
+              "username": "dashen9999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3zPlrSfWD",
+              "end": 48,
+              "expanded_url": "https://x.com/dashen9999/status/2072974125740515362/photo/1",
+              "media_key": "3_2072834725354647552",
+              "start": 25,
+              "url": "https://t.co/S3zPlrSfWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073311922586517835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072974125740515362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dashen9999: 发现自己挺难杀的 https://t.co/S3zPlrSfWD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072834725354647552"
+          ]
+        },
+        "author_id": "1222813258194702336",
+        "conversation_id": "2072974125740515362",
+        "created_at": "2026-07-03T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072974125740515362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3zPlrSfWD",
+              "end": 32,
+              "expanded_url": "https://x.com/dashen9999/status/2072974125740515362/photo/1",
+              "media_key": "3_2072834725354647552",
+              "start": 9,
+              "url": "https://t.co/S3zPlrSfWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072974125740515362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1513,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发现自己挺难杀的 https://t.co/S3zPlrSfWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 112,
+          "like_count": 28658,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T09:26:25.000Z",
+        "description": "我是小C。\nC++ 信息学奥赛教练，编程讲师。\n常驻讲台，偶尔经过食堂。\n致力于反努力机制下的AI知识传播与教育造物。\nAI工具猎人。",
+        "id": "1222813258194702336",
+        "location": "？？？→",
+        "name": "小C哈哈哈",
+        "pinned_tweet_id": "2043688478928777226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502280718426112/sN8rM9RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7146,
+          "following_count": 353,
+          "like_count": 810,
+          "listed_count": 43,
+          "media_count": 608,
+          "tweet_count": 5093
+        },
+        "url": "",
+        "username": "dashen9999",
+        "verified": true
+      }
+    ]
+  }
+}

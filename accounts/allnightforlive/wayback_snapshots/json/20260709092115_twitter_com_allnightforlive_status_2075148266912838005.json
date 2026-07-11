@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2075148257634967659",
+    "created_at": "2026-07-09T09:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075148266912838005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075148266912838005",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075148263372763258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "後面有個畫面是妻子在酒館已經看到了他丈夫的手下 然後他完全不知道丈夫是那樣的人 （好像是這樣的行為屬於業界不可取的 之類）後面是妻子去找丈夫並且抄起店家用來擺肉做的配套木頭砍刀（大概有快兩米然後木製的很大片、這樣）接著一過去丈夫嘴臉一副什麼都沒有的硬要對方拿證據出來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075148257634967659",
+        "created_at": "2026-07-09T09:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075148266912838005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075148266912838005",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075148263372763258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "後面有個畫面是妻子在酒館已經看到了他丈夫的手下 然後他完全不知道丈夫是那樣的人 （好像是這樣的行為屬於業界不可取的 之類）後面是妻子去找丈夫並且抄起店家用來擺肉做的配套木頭砍刀（大概有快兩米然後木製的很大片、這樣）接著一過去丈夫嘴臉一副什麼都沒有的硬要對方拿證據出來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075148257634967659",
+        "created_at": "2026-07-09T09:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075148263372763258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075148263372763258",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075148260545790250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更有一次特別怪 那是場關於鮮血和殺死生命之類的⋯ 他騎北極熊🆘\n另一次是妻子跟看似情願實則不然的丈夫一起去做鞋子 因為妻子意外的平靜而讓常接待丈夫的工匠有些好感（之類的）後面發現它一直聚焦在這個腳上 她訂製的鞋跟是接近菱形的 底部是尖的 而整個鞋子把腳包裹起來 很小彎著很嚴重、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 117,
+          "like_count": 29393,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2552
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

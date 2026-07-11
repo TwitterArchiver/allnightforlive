@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074563675357380880",
+    "created_at": "2026-07-07T18:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074563675357380880"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074563675357380880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想要很特別的 跟一個人在一起 待在一起 一起呼吸 他可以 什麼都不做 他可以 是任何性別 我只是想要跟一個人待在一起 不用在意行程和時間 不用在意家人和臉色\n\n為什麼不能夠看著人看著就哭了\n\n覺得自己的語言系統有什麼問題 但我說不出來。 像是啞巴 開燈的時候 關燈的時候 我想不起來了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074563675357380880",
+        "created_at": "2026-07-07T18:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074563675357380880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074563675357380880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要很特別的 跟一個人在一起 待在一起 一起呼吸 他可以 什麼都不做 他可以 是任何性別 我只是想要跟一個人待在一起 不用在意行程和時間 不用在意家人和臉色\n\n為什麼不能夠看著人看著就哭了\n\n覺得自己的語言系統有什麼問題 但我說不出來。 像是啞巴 開燈的時候 關燈的時候 我想不起來了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 113,
+          "like_count": 29123,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074569906998370597",
+    "created_at": "2026-07-07T19:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074569906998370597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074569906998370597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇—— 我為什麼會無法接受皮肉上的痛苦 \n\n笑出來了 完全的笑出來了 \n\n怎麼會呢？ 只要劃下去就有機會被發現 為什麼 為什麼不這麼做？ 為什麼？\n\n明明早就無人關心你了你只要一天一次一天一次的越來越深就可以了 為什麼你不這麼做？\n\n你不是想要被關心嗎為什麼不這麼做？\n\n懦夫—— 根本就是懦夫啊\n\n好想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074569906998370597",
+        "created_at": "2026-07-07T19:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074569906998370597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074569906998370597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇—— 我為什麼會無法接受皮肉上的痛苦 \n\n笑出來了 完全的笑出來了 \n\n怎麼會呢？ 只要劃下去就有機會被發現 為什麼 為什麼不這麼做？ 為什麼？\n\n明明早就無人關心你了你只要一天一次一天一次的越來越深就可以了 為什麼你不這麼做？\n\n你不是想要被關心嗎為什麼不這麼做？\n\n懦夫—— 根本就是懦夫啊\n\n好想笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 114,
+          "like_count": 29171,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2524
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

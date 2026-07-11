@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074523112549621760"
+      ],
+      "media_source_tweet_id": [
+        "2074523167335621046"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2074947972245434448",
+    "created_at": "2026-07-08T20:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074947972245434448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044793008814739456",
+          "start": 3,
+          "username": "pagyopagyo22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrrCcKN6rm",
+          "end": 47,
+          "expanded_url": "https://x.com/pagyopagyo22/status/2074523167335621046/video/1",
+          "media_key": "13_2074523112549621760",
+          "start": 24,
+          "url": "https://t.co/hrrCcKN6rm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074947972245434448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 725
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074523167335621046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pagyopagyo22: 酸欠みたい https://t.co/hrrCcKN6rm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1533,
+        "height": 720,
+        "media_key": "13_2074523112549621760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074523112549621760/img/yefYMjdb55RZbgDX.jpg",
+        "public_metrics": {
+          "view_count": 20955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074523112549621760/vid/avc1/354x270/1U4uJyYLok5yc7lV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074523112549621760/vid/avc1/474x360/G5LtD4KQxBMDia1C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074523112549621760/vid/avc1/948x720/TUDo0TMXimp32Gnp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074523112549621760/pl/1qOIWLzy7AOPf0tS.m3u8"
+          }
+        ],
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074523112549621760"
+          ],
+          "media_source_tweet_id": [
+            "2074523167335621046"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074947972245434448",
+        "created_at": "2026-07-08T20:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074947972245434448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044793008814739456",
+              "start": 3,
+              "username": "pagyopagyo22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrrCcKN6rm",
+              "end": 47,
+              "expanded_url": "https://x.com/pagyopagyo22/status/2074523167335621046/video/1",
+              "media_key": "13_2074523112549621760",
+              "start": 24,
+              "url": "https://t.co/hrrCcKN6rm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074947972245434448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 725
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074523167335621046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pagyopagyo22: 酸欠みたい https://t.co/hrrCcKN6rm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074523112549621760"
+          ]
+        },
+        "author_id": "2044793008814739456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074523167335621046",
+        "created_at": "2026-07-07T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074523167335621046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrrCcKN6rm",
+              "end": 29,
+              "expanded_url": "https://x.com/pagyopagyo22/status/2074523167335621046/video/1",
+              "media_key": "13_2074523112549621760",
+              "start": 6,
+              "url": "https://t.co/hrrCcKN6rm"
+            },
+            {
+              "display_url": "x.com/ti111310/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ti111310/status/2068316463774265496",
+              "start": 30,
+              "url": "https://t.co/PpDmVbWqUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074523167335621046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 984,
+          "impression_count": 122950,
+          "like_count": 9073,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 725
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068316463774265496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酸欠みたい https://t.co/hrrCcKN6rm https://t.co/PpDmVbWqUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 116,
+          "like_count": 29247,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2527
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:01:43.000Z",
+        "description": "一次創作/FA\n\nFAタグ→#もでぃふぁい宛\n支部→ https://t.co/uY2yhWrCM6\nサブ→@hanetukgyo_za",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "もでぃふぁい宛"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "hanetukgyo_za"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105861177",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/105861177",
+                "start": 27,
+                "url": "https://t.co/uY2yhWrCM6"
+              }
+            ]
+          }
+        },
+        "id": "2044793008814739456",
+        "name": "もでぃふぁい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072709926921838592/Dh1A-dHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 203,
+          "like_count": 14306,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "pagyopagyo22",
+        "verified": false
+      }
+    ]
+  }
+}

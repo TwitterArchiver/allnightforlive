@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2075148257634967659",
+    "created_at": "2026-07-09T09:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075148282897334636"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075148282897334636",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075148278644306331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "、反正就是夢多 內容還挺複雜 又參雜一點可能我醒後的續寫 但其實真的不多。我不知道這九個小時裡我怎麼了 但睡醒後就開始算自己睡了多久好糟糕呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075148257634967659",
+        "created_at": "2026-07-09T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075148282897334636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075148282897334636",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075148278644306331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "、反正就是夢多 內容還挺複雜 又參雜一點可能我醒後的續寫 但其實真的不多。我不知道這九個小時裡我怎麼了 但睡醒後就開始算自己睡了多久好糟糕呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075148257634967659",
+        "created_at": "2026-07-09T09:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075148278644306331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075148278644306331",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075148275930517847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三個夢又是學校的那些事了 但這個不是他本人的事情 而是基於她的事情並且在夢境中又延伸出她在生活中的事情 （對象不是我但我也不怎麼確定沒有這件事情）總之就是在說這個女性同仁在她男友有問題的事情一直輸出並且反咬我在勸分 然後要求全班人一起搞我 其次就是我又得跟他扯這些我其實沒記得太多、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 117,
+          "like_count": 29393,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2552
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

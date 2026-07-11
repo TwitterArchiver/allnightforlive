@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073923495591858177"
+      ],
+      "media_source_tweet_id": [
+        "2073923504785781046"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074205670732452240",
+    "created_at": "2026-07-06T18:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074205670732452240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042977978267951104",
+          "start": 3,
+          "username": "NoraX2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xa17dsN7A8",
+          "end": 57,
+          "expanded_url": "https://x.com/NoraX2026/status/2073923504785781046/photo/1",
+          "media_key": "3_2073923495591858177",
+          "start": 34,
+          "url": "https://t.co/Xa17dsN7A8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074205670732452240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073923504785781046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoraX2026: 为什么能抗住事的人，往往不擅长哄人？ https://t.co/Xa17dsN7A8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2073923495591858177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgObl4W0AEaHr3.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073923495591858177"
+          ],
+          "media_source_tweet_id": [
+            "2073923504785781046"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074205670732452240",
+        "created_at": "2026-07-06T18:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074205670732452240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042977978267951104",
+              "start": 3,
+              "username": "NoraX2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xa17dsN7A8",
+              "end": 57,
+              "expanded_url": "https://x.com/NoraX2026/status/2073923504785781046/photo/1",
+              "media_key": "3_2073923495591858177",
+              "start": 34,
+              "url": "https://t.co/Xa17dsN7A8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074205670732452240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073923504785781046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoraX2026: 为什么能抗住事的人，往往不擅长哄人？ https://t.co/Xa17dsN7A8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073923495591858177"
+          ]
+        },
+        "author_id": "2042977978267951104",
+        "conversation_id": "2073923504785781046",
+        "created_at": "2026-07-06T00:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073923504785781046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xa17dsN7A8",
+              "end": 42,
+              "expanded_url": "https://x.com/NoraX2026/status/2073923504785781046/photo/1",
+              "media_key": "3_2073923495591858177",
+              "start": 19,
+              "url": "https://t.co/Xa17dsN7A8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073923504785781046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 51700,
+          "like_count": 1455,
+          "quote_count": 5,
+          "reply_count": 81,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "为什么能抗住事的人，往往不擅长哄人？ https://t.co/Xa17dsN7A8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 112,
+          "like_count": 29091,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2512
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n👩HerName成员\n💰搞钱｜AI｜信息差｜写段子\n商务合作v：jasmine704792 （备明来意）\nEmail：3885826362@qq.com",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "pinned_tweet_id": "2074111992504123661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415173804806144/IqEHzmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 177,
+          "like_count": 9742,
+          "listed_count": 33,
+          "media_count": 671,
+          "tweet_count": 6543
+        },
+        "url": "",
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073708737072922624"
+      ],
+      "media_source_tweet_id": [
+        "2073708739602059314"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2074041185828827172",
+    "created_at": "2026-07-06T08:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074041185828827172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937826463321092096",
+          "start": 3,
+          "username": "sigyonomure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YzCcS672M0",
+          "end": 40,
+          "expanded_url": "https://x.com/sigyonomure/status/2073708739602059314/photo/1",
+          "media_key": "3_2073708737072922624",
+          "start": 17,
+          "url": "https://t.co/YzCcS672M0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074041185828827172",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073708739602059314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sigyonomure: https://t.co/YzCcS672M0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2073708737072922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdLHADbAAAL8gp.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073708737072922624"
+          ],
+          "media_source_tweet_id": [
+            "2073708739602059314"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2074041185828827172",
+        "created_at": "2026-07-06T08:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074041185828827172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937826463321092096",
+              "start": 3,
+              "username": "sigyonomure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzCcS672M0",
+              "end": 40,
+              "expanded_url": "https://x.com/sigyonomure/status/2073708739602059314/photo/1",
+              "media_key": "3_2073708737072922624",
+              "start": 17,
+              "url": "https://t.co/YzCcS672M0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074041185828827172",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073708739602059314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sigyonomure: https://t.co/YzCcS672M0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073708737072922624"
+          ]
+        },
+        "author_id": "1937826463321092096",
+        "conversation_id": "2073708739602059314",
+        "created_at": "2026-07-05T10:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073708739602059314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzCcS672M0",
+              "end": 23,
+              "expanded_url": "https://x.com/sigyonomure/status/2073708739602059314/photo/1",
+              "media_key": "3_2073708737072922624",
+              "start": 0,
+              "url": "https://t.co/YzCcS672M0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073708739602059314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6221,
+          "impression_count": 2761361,
+          "like_count": 89152,
+          "quote_count": 813,
+          "reply_count": 107,
+          "retweet_count": 6389
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YzCcS672M0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 112,
+          "like_count": 28953,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2507
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T10:53:42.000Z",
+        "description": "oc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/s8dp5pozdfxafv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/s8dp5pozdfxafv3?t=95BQrN&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/y5fKNRokt3"
+              }
+            ]
+          }
+        },
+        "id": "1937826463321092096",
+        "location": "浅学",
+        "name": "死魚",
+        "pinned_tweet_id": "2051295484120289515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068089887144935424/SehSsuu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 62,
+          "like_count": 4621,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/y5fKNRokt3",
+        "username": "sigyonomure",
+        "verified": false
+      }
+    ]
+  }
+}

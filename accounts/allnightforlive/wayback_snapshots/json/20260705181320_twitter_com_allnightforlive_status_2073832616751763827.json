@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2073668892879376568",
+    "created_at": "2026-07-05T18:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073832616751763827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2064757465275871232",
+          "start": 0,
+          "username": "woaichiwan0hlx"
+        },
+        {
+          "end": 28,
+          "id": "1364146806",
+          "start": 16,
+          "username": "Mrcat_Mrdog"
+        },
+        {
+          "end": 43,
+          "id": "1622066090074607616",
+          "start": 29,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073832616751763827",
+    "in_reply_to_user_id": "2064757465275871232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073822228005949888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaichiwan0hlx @Mrcat_Mrdog @hoshinofujivy 再不用說有人是做企業或家庭企業，大不了招聘位會計幫忙算賬就行了，各司其職，何必要求一個人樣樣精通？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2073668892879376568",
+        "created_at": "2026-07-05T18:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073832616751763827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2064757465275871232",
+              "start": 0,
+              "username": "woaichiwan0hlx"
+            },
+            {
+              "end": 28,
+              "id": "1364146806",
+              "start": 16,
+              "username": "Mrcat_Mrdog"
+            },
+            {
+              "end": 43,
+              "id": "1622066090074607616",
+              "start": 29,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073832616751763827",
+        "in_reply_to_user_id": "2064757465275871232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073822228005949888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaichiwan0hlx @Mrcat_Mrdog @hoshinofujivy 再不用說有人是做企業或家庭企業，大不了招聘位會計幫忙算賬就行了，各司其職，何必要求一個人樣樣精通？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064757465275871232",
+        "conversation_id": "2073668892879376568",
+        "created_at": "2026-07-05T17:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073822228005949888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1364146806",
+              "start": 0,
+              "username": "Mrcat_Mrdog"
+            },
+            {
+              "end": 27,
+              "id": "1622066090074607616",
+              "start": 13,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073822228005949888",
+        "in_reply_to_user_id": "1364146806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756541015212543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrcat_Mrdog @hoshinofujivy 如果数学这个分数。算账都不一定能算明白还创业呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 112,
+          "like_count": 28802,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2498
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T17:13:21.000Z",
+        "description": "",
+        "id": "2064757465275871232",
+        "name": "woaichiwangchengkaidajiba",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 79,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "woaichiwan0hlx",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-19T11:12:06.000Z",
+        "description": "",
+        "id": "1364146806",
+        "name": "Jjbmk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810994952060706816/NVcPAXKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 118,
+          "like_count": 17902,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1816
+        },
+        "url": "",
+        "username": "Mrcat_Mrdog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12458,
+          "following_count": 4397,
+          "like_count": 50285,
+          "listed_count": 38,
+          "media_count": 3119,
+          "tweet_count": 17198
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}
