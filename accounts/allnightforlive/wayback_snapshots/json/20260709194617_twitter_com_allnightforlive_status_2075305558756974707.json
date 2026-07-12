@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2075305558756974707",
+    "created_at": "2026-07-09T19:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075305558756974707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075305558756974707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我為什麼要哭、因為人家的經驗很淒慘嗎 我想要比較嗎 根本就不是吧 只是 單純的看不到未來而已吧？ 總是說著要去死卻沒有任何動作的我啊 簡直是令人討厭到了極點 可是我能夠怎麼做呢 除了死掉我的未來沒有任何的路可以前進吧 我要怎麼 在這樣的情況下 和人溝通啊 明明連拌嘴都會哭的我 要怎麼做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075305558756974707",
+        "created_at": "2026-07-09T19:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075305558756974707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075305558756974707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我為什麼要哭、因為人家的經驗很淒慘嗎 我想要比較嗎 根本就不是吧 只是 單純的看不到未來而已吧？ 總是說著要去死卻沒有任何動作的我啊 簡直是令人討厭到了極點 可是我能夠怎麼做呢 除了死掉我的未來沒有任何的路可以前進吧 我要怎麼 在這樣的情況下 和人溝通啊 明明連拌嘴都會哭的我 要怎麼做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 117,
+          "like_count": 29416,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2554
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2075091358100889653",
+    "created_at": "2026-07-09T23:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075358653843149125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1046508079154638850",
+          "start": 0,
+          "username": "no_women_rights"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075358653843149125",
+    "in_reply_to_user_id": "1046508079154638850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075091358100889653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@no_women_rights 很明顯的你甚至完全沒有去查詢過你想知道的這個群體"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2075091358100889653",
+        "created_at": "2026-07-09T23:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075358653843149125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1046508079154638850",
+              "start": 0,
+              "username": "no_women_rights"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075358653843149125",
+        "in_reply_to_user_id": "1046508079154638850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075091358100889653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@no_women_rights 很明顯的你甚至完全沒有去查詢過你想知道的這個群體"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1046508079154638850",
+        "conversation_id": "2075091358100889653",
+        "created_at": "2026-07-09T05:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075091358100889653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075091358100889653",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1889,
+          "impression_count": 1304306,
+          "like_count": 45911,
+          "quote_count": 184,
+          "reply_count": 549,
+          "retweet_count": 3084
+        },
+        "reply_settings": "everyone",
+        "text": "Si los asesinos en serie nacen de traumas de la infancia, ¿por qué no hay (casi) mujeres asesinas en serie, a pesar de que las mujeres son sometidas a muchísimo más abuso?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 118,
+          "like_count": 29516,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2561
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-30T21:12:24.000Z",
+        "description": "El 97% de las españolas han sufrido violencia sexual (FCS, 2018). Abolicionista de género, pornografía y prostitución. Asentando el precedente de mundo justo.",
+        "id": "1046508079154638850",
+        "name": "Sorority",
+        "pinned_tweet_id": "1841228069379416283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636164062089232385/pQ1siUiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 149,
+          "like_count": 24921,
+          "listed_count": 7,
+          "media_count": 317,
+          "tweet_count": 10282
+        },
+        "url": "",
+        "username": "no_women_rights",
+        "verified": false
+      }
+    ]
+  }
+}
