@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2076828781927612768",
+    "created_at": "2026-07-14T00:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076828781927612768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076828781927612768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實平時根本吃不了什麼。重口味的⋯能吃一點 只是因為吃不下東西 除了有味道比較能下咽以外就是單純餓了\n\n不知道什麼時候可以不用進食 一點也不想要吃東西的說 能不能就這樣餓死呢 如果生活一直都是這樣 那我也想停下來吧\n\n為什麼呢 明明那張證明是這麼好用的呢？\n\n只要被確診就不是我的問題了吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2076828781927612768",
+        "created_at": "2026-07-14T00:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076828781927612768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076828781927612768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實平時根本吃不了什麼。重口味的⋯能吃一點 只是因為吃不下東西 除了有味道比較能下咽以外就是單純餓了\n\n不知道什麼時候可以不用進食 一點也不想要吃東西的說 能不能就這樣餓死呢 如果生活一直都是這樣 那我也想停下來吧\n\n為什麼呢 明明那張證明是這麼好用的呢？\n\n只要被確診就不是我的問題了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 121,
+          "like_count": 29855,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2581
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

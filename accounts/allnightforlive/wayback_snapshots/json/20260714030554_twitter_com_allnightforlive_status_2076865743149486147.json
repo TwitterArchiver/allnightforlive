@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076518544875880448"
+      ],
+      "media_source_tweet_id": [
+        "2076630219398517158"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2076865743149486147",
+    "created_at": "2026-07-14T03:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076865743149486147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2018123028635226112",
+          "start": 3,
+          "username": "Forgettodiary"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KeBRpa5wZC",
+          "end": 42,
+          "expanded_url": "https://x.com/Forgettodiary/status/2076630219398517158/video/1",
+          "media_key": "13_2076518544875880448",
+          "start": 19,
+          "url": "https://t.co/KeBRpa5wZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076865743149486147",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076630219398517158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Forgettodiary: https://t.co/KeBRpa5wZC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28328,
+        "height": 488,
+        "media_key": "13_2076518544875880448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076518544875880448/img/VzMT3401yXhm0gpQ.jpg",
+        "public_metrics": {
+          "view_count": 131060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076518544875880448/vid/avc1/398x270/MwBvS1yVOh2vZoNO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076518544875880448/vid/avc1/530x360/ObD6CcWAhPAhmYWh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076518544875880448/vid/avc1/720x488/WvDDfmFrgxL1cKyL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076518544875880448/pl/XuEnrQiLx2sJUNym.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076518544875880448"
+          ],
+          "media_source_tweet_id": [
+            "2076630219398517158"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2076865743149486147",
+        "created_at": "2026-07-14T03:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076865743149486147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2018123028635226112",
+              "start": 3,
+              "username": "Forgettodiary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeBRpa5wZC",
+              "end": 42,
+              "expanded_url": "https://x.com/Forgettodiary/status/2076630219398517158/video/1",
+              "media_key": "13_2076518544875880448",
+              "start": 19,
+              "url": "https://t.co/KeBRpa5wZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076865743149486147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630219398517158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Forgettodiary: https://t.co/KeBRpa5wZC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076518544875880448"
+          ]
+        },
+        "author_id": "2018123028635226112",
+        "conversation_id": "2076630219398517158",
+        "created_at": "2026-07-13T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076630219398517158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeBRpa5wZC",
+              "end": 23,
+              "expanded_url": "https://x.com/Forgettodiary/status/2076630219398517158/video/1",
+              "media_key": "13_2076518544875880448",
+              "start": 0,
+              "url": "https://t.co/KeBRpa5wZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076630219398517158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4958,
+          "impression_count": 259700,
+          "like_count": 22730,
+          "quote_count": 45,
+          "reply_count": 28,
+          "retweet_count": 2989
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KeBRpa5wZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 121,
+          "like_count": 30001,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2595
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T00:43:39.000Z",
+        "description": "Usuário profissional de tarja preta | Tenho autismo, borderline e + 5 transtornos mentais | Uso recreativo é o caralho, eu sou viciado porra | N tankei o Brasil",
+        "id": "2018123028635226112",
+        "location": "Brazil",
+        "name": "Hatsune de Xiquexique ✨",
+        "pinned_tweet_id": "2071339772291813888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065163247943057408/AShpyhK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 309,
+          "like_count": 12654,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "Forgettodiary",
+        "verified": true
+      }
+    ]
+  }
+}

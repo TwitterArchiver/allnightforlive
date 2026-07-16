@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076204738219999232"
+      ],
+      "media_source_tweet_id": [
+        "2076204749154619516"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076817431725797664",
+    "created_at": "2026-07-13T23:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076817431725797664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040496801401425920",
+          "start": 3,
+          "username": "Xxkg3g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JK6ZGhrN6u",
+          "end": 35,
+          "expanded_url": "https://x.com/Xxkg3g/status/2076204749154619516/photo/1",
+          "media_key": "3_2076204738219999232",
+          "start": 12,
+          "url": "https://t.co/JK6ZGhrN6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076817431725797664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 511
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076204749154619516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxkg3g: https://t.co/JK6ZGhrN6u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076204738219999232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNApNY6WAAAokDa.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076204738219999232"
+          ],
+          "media_source_tweet_id": [
+            "2076204749154619516"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076817431725797664",
+        "created_at": "2026-07-13T23:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076817431725797664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040496801401425920",
+              "start": 3,
+              "username": "Xxkg3g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JK6ZGhrN6u",
+              "end": 35,
+              "expanded_url": "https://x.com/Xxkg3g/status/2076204749154619516/photo/1",
+              "media_key": "3_2076204738219999232",
+              "start": 12,
+              "url": "https://t.co/JK6ZGhrN6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076817431725797664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 511
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076204749154619516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxkg3g: https://t.co/JK6ZGhrN6u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076204738219999232"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076204749154619516",
+        "created_at": "2026-07-12T07:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076204749154619516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JK6ZGhrN6u",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2076204749154619516/photo/1",
+              "media_key": "3_2076204738219999232",
+              "start": 0,
+              "url": "https://t.co/JK6ZGhrN6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076204749154619516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 89559,
+          "like_count": 3106,
+          "quote_count": 31,
+          "reply_count": 64,
+          "retweet_count": 511
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JK6ZGhrN6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 121,
+          "like_count": 29800,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2578
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 337,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

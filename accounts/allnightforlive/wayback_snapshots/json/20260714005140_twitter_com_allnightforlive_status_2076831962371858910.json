@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2076831959901446347",
+    "created_at": "2026-07-14T00:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076831962371858910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076831962371858910",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076831959901446347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "於是把這種東西塞進我的考量裡\n因為多一個身分比較好在既定的圈子裡活著啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2076831959901446347",
+        "created_at": "2026-07-14T00:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076831962371858910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076831962371858910",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076831959901446347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "於是把這種東西塞進我的考量裡\n因為多一個身分比較好在既定的圈子裡活著啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2076831959901446347",
+        "created_at": "2026-07-14T00:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076831959901446347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076831959901446347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的 其實我還有這樣一個東西在吧？\n\n根本就不是我人生的一部分 除了買那些東西以外沒有辦法說出為什麼愛 愛又是什麼\n\n其實根本就不打算把它當作精神支柱吧 \n只是為了喜歡一個東西而喜歡的啊 說什麼在乎不在乎的 \n其實只是單純的覺得沒有一個寄托真的很可笑啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 121,
+          "like_count": 29865,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2585
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

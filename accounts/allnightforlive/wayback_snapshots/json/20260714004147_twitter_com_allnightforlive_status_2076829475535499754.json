@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2076829475535499754",
+    "created_at": "2026-07-14T00:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076829475535499754"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076829475535499754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "現在出去可以曬太陽喔\n\n但是離開這裡的話就得矜持一點了吧？\n\n又得在我爸面前裝了吧\n\n其實我只是想要被覺得需要幫助\n\n你別再說什麼我應該獨立應該自主 就算我這麼做了你還是不想要關心我吧 你的聲音真的好吵啊 為什麼為什麼不是我去死呢 為什麼我不能夠真的從來沒出生過呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2076829475535499754",
+        "created_at": "2026-07-14T00:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076829475535499754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076829475535499754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現在出去可以曬太陽喔\n\n但是離開這裡的話就得矜持一點了吧？\n\n又得在我爸面前裝了吧\n\n其實我只是想要被覺得需要幫助\n\n你別再說什麼我應該獨立應該自主 就算我這麼做了你還是不想要關心我吧 你的聲音真的好吵啊 為什麼為什麼不是我去死呢 為什麼我不能夠真的從來沒出生過呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 121,
+          "like_count": 29856,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2582
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}
