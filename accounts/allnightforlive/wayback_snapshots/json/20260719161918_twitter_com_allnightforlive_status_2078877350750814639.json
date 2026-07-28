@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078877319738060800"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2078877350750814639",
+    "created_at": "2026-07-19T16:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078877350750814639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEt6HZSv84",
+          "end": 163,
+          "expanded_url": "https://x.com/allnightforlive/status/2078877350750814639/video/1",
+          "media_key": "13_2078877319738060800",
+          "start": 140,
+          "url": "https://t.co/sEt6HZSv84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078877350750814639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全長兩分鐘左右，我在第一分鐘結束差不多我才錄音的。我想要知道他可以說多久⋯我也想給我第一次打安心專線留個紀錄。我沒想到後面是這樣的。對我的心靈又造成了一次衝擊。果然這才是現實嗎？所以我哭了一會把想說的記錄下來，就累了。不想哭了。\n我很久沒有發出聲音哭泣了，⋯哭得很難聽⋯請見諒。 https://t.co/sEt6HZSv84"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18416,
+        "height": 1280,
+        "media_key": "13_2078877319738060800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078877319738060800/img/HEiFD9DNhVUyBo8p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078877319738060800/vid/avc1/320x690/M7WY8OW9UnaSWlpR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078877319738060800/vid/avc1/480x1036/pyU_zBQ_UUTm-REM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078877319738060800/vid/avc1/592x1280/xVV1eYcDuE7LS3uZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078877319738060800/pl/gz3Juyh4zt6MPNJf.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078877319738060800"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2078877350750814639",
+        "created_at": "2026-07-19T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078877350750814639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEt6HZSv84",
+              "end": 163,
+              "expanded_url": "https://x.com/allnightforlive/status/2078877350750814639/video/1",
+              "media_key": "13_2078877319738060800",
+              "start": 140,
+              "url": "https://t.co/sEt6HZSv84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078877350750814639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全長兩分鐘左右，我在第一分鐘結束差不多我才錄音的。我想要知道他可以說多久⋯我也想給我第一次打安心專線留個紀錄。我沒想到後面是這樣的。對我的心靈又造成了一次衝擊。果然這才是現實嗎？所以我哭了一會把想說的記錄下來，就累了。不想哭了。\n我很久沒有發出聲音哭泣了，⋯哭得很難聽⋯請見諒。 https://t.co/sEt6HZSv84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30844,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2678
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

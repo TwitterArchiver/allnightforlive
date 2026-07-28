@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2080594899372765592",
+    "created_at": "2026-07-24T10:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080594899372765592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080594899372765592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080253515663102343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: 求转帖🥺这个很用心在做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2080594899372765592",
+        "created_at": "2026-07-24T10:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080594899372765592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080594899372765592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080253515663102343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: 求转帖🥺这个很用心在做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2080253515663102343",
+        "created_at": "2026-07-23T11:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080253515663102343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sjshb57/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sjshb57/status/2080253118928056811",
+              "start": 13,
+              "url": "https://t.co/9QwJD80nSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080253515663102343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080253118928056811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转帖🥺这个很用心在做的 https://t.co/9QwJD80nSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 125,
+          "like_count": 30957,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2699
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 596,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

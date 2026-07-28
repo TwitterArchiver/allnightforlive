@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2081301543832498383",
+    "created_at": "2026-07-26T08:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081301551747158219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081301551747158219",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081301548400005260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我啊。看我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081301543832498383",
+        "created_at": "2026-07-26T08:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081301551747158219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081301551747158219",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081301548400005260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我啊。看我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081301543832498383",
+        "created_at": "2026-07-26T08:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081301548400005260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081301548400005260",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081301543832498383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天最難過的事情嗎？\n我完全聽不見說話，因為帶著耳機，耳機裡是那樣「死啊」「放棄啊」「希望啊」的聲音，我覺得我不該在外面接收情感投映的訊號——很久以前就這麼覺得了。\n那是再小不過的事情了。但我一定會因此有很多的想法吧？好多人呢。都不認識。我也不可能想認識。我恨人，卻也只能借人眼去看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 31134,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

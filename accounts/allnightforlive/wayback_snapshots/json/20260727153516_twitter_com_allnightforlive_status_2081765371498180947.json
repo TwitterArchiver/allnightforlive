@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081718288741269504",
+        "3_2081718288820879360",
+        "3_2081718288749670401",
+        "3_2081718288753836033"
+      ],
+      "media_source_tweet_id": [
+        "2081718297662464215",
+        "2081718297662464215",
+        "2081718297662464215",
+        "2081718297662464215"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2081765371498180947",
+    "created_at": "2026-07-27T15:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081765371498180947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "776508002400477184",
+          "start": 3,
+          "username": "machiko324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/edqq5cUNr2",
+          "end": 64,
+          "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+          "media_key": "3_2081718288741269504",
+          "start": 41,
+          "url": "https://t.co/edqq5cUNr2"
+        },
+        {
+          "display_url": "pic.x.com/edqq5cUNr2",
+          "end": 64,
+          "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+          "media_key": "3_2081718288820879360",
+          "start": 41,
+          "url": "https://t.co/edqq5cUNr2"
+        },
+        {
+          "display_url": "pic.x.com/edqq5cUNr2",
+          "end": 64,
+          "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+          "media_key": "3_2081718288749670401",
+          "start": 41,
+          "url": "https://t.co/edqq5cUNr2"
+        },
+        {
+          "display_url": "pic.x.com/edqq5cUNr2",
+          "end": 64,
+          "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+          "media_key": "3_2081718288753836033",
+          "start": 41,
+          "url": "https://t.co/edqq5cUNr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081765371498180947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081718297662464215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machiko324: 前天經過板橋車站\n好久沒看到這麼老的諧音梗了…… https://t.co/edqq5cUNr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081718288741269504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO_wRLbgAAADep.jpg",
+        "width": 2040
+      },
+      {
+        "height": 2022,
+        "media_key": "3_2081718288820879360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO_wReaQAATln0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081718288749670401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO_wRNbsAEDsTa.jpg",
+        "width": 2041
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081718288753836033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO_wRObQAElDnL.jpg",
+        "width": 2042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081718288741269504",
+            "3_2081718288820879360",
+            "3_2081718288749670401",
+            "3_2081718288753836033"
+          ]
+        },
+        "author_id": "776508002400477184",
+        "conversation_id": "2081718297662464215",
+        "created_at": "2026-07-27T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081718297662464215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 48,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288741269504",
+              "start": 25,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 48,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288820879360",
+              "start": 25,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 48,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288749670401",
+              "start": 25,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 48,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288753836033",
+              "start": 25,
+              "url": "https://t.co/edqq5cUNr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081718297662464215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22527,
+          "like_count": 569,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "前天經過板橋車站\n好久沒看到這麼老的諧音梗了…… https://t.co/edqq5cUNr2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081718288741269504",
+            "3_2081718288820879360",
+            "3_2081718288749670401",
+            "3_2081718288753836033"
+          ],
+          "media_source_tweet_id": [
+            "2081718297662464215",
+            "2081718297662464215",
+            "2081718297662464215",
+            "2081718297662464215"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081765371498180947",
+        "created_at": "2026-07-27T15:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081765371498180947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "776508002400477184",
+              "start": 3,
+              "username": "machiko324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 64,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288741269504",
+              "start": 41,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 64,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288820879360",
+              "start": 41,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 64,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288749670401",
+              "start": 41,
+              "url": "https://t.co/edqq5cUNr2"
+            },
+            {
+              "display_url": "pic.x.com/edqq5cUNr2",
+              "end": 64,
+              "expanded_url": "https://x.com/machiko324/status/2081718297662464215/photo/1",
+              "media_key": "3_2081718288753836033",
+              "start": 41,
+              "url": "https://t.co/edqq5cUNr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081765371498180947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081718297662464215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machiko324: 前天經過板橋車站\n好久沒看到這麼老的諧音梗了…… https://t.co/edqq5cUNr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 31451,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2724
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-15T19:48:29.000Z",
+        "description": "ㄇㄚˊ幾👉🏻LINE的那隻兔子｜Taiwan｜🚫DO NOT REPOST 🚫NO AI training｜OC @yoongi_oc｜LINE貼圖 https://t.co/6La8QUcooX｜大本營在IG(最近低浮上)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "yoongi_oc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/x6zQmE",
+                "end": 98,
+                "expanded_url": "https://reurl.cc/x6zQmE",
+                "start": 75,
+                "url": "https://t.co/6La8QUcooX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/machiko324?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/machiko324?igsh=MXE0b25tMHQ4NW43dA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/yEIjHxhaau"
+              }
+            ]
+          }
+        },
+        "id": "776508002400477184",
+        "location": "Instagram: machiko324",
+        "name": "雪路/YUKIJI🐇",
+        "pinned_tweet_id": "1966313634491183397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006059777605197824/QjeqKQ6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46671,
+          "following_count": 347,
+          "like_count": 16659,
+          "listed_count": 164,
+          "media_count": 1883,
+          "tweet_count": 5066
+        },
+        "url": "https://t.co/yEIjHxhaau",
+        "username": "machiko324",
+        "verified": false
+      }
+    ]
+  }
+}

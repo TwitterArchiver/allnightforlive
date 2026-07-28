@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2078324121776324684",
+    "created_at": "2026-07-18T03:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078324121776324684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1508479122292498437",
+          "start": 3,
+          "username": "boluditop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078324121776324684",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3980
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077915578472230968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boluditop: he pensado más veces mi suicidio que mi futuro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2078324121776324684",
+        "created_at": "2026-07-18T03:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078324121776324684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1508479122292498437",
+              "start": 3,
+              "username": "boluditop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078324121776324684",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3980
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077915578472230968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boluditop: he pensado más veces mi suicidio que mi futuro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508479122292498437",
+        "conversation_id": "2077915578472230968",
+        "created_at": "2026-07-17T00:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077915578472230968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077915578472230968",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 140884,
+          "like_count": 12561,
+          "quote_count": 67,
+          "reply_count": 21,
+          "retweet_count": 3980
+        },
+        "reply_settings": "everyone",
+        "text": "he pensado más veces mi suicidio que mi futuro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30676,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2641
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T16:20:33.000Z",
+        "description": "its just a cigarette and it cannot be that bad \nart cred schizocreep \n#venttwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "venttwt"
+              }
+            ]
+          }
+        },
+        "id": "1508479122292498437",
+        "location": "mental issues",
+        "name": "🍙",
+        "pinned_tweet_id": "2077778517362692438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298842781347840/EL_IrH5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 143,
+          "like_count": 1079,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "boluditop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2077614786792333782",
+    "created_at": "2026-07-17T04:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077979814825521374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077979814825521374",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077614786792333782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 老師這個還是太駭人了、"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077614786792333782].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077614786792333782",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077614786792333782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2077614786792333782",
+        "created_at": "2026-07-17T04:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077979814825521374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077979814825521374",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077614786792333782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 老師這個還是太駭人了、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30459,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "快乐小肥猫的妈妈@Wojiang38562\nhttps://t.co/rmxG8ACl3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 45,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 22,
+                "url": "https://t.co/rmxG8ACl3s"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "2063991055419314255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077645460572106752/qPIBpxzA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5634,
+          "following_count": 447,
+          "like_count": 16537,
+          "listed_count": 7,
+          "media_count": 469,
+          "tweet_count": 14806
+        },
+        "url": "",
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

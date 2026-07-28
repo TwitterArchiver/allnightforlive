@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2077539609236681159",
+    "created_at": "2026-07-15T23:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077539609236681159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077539609236681159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我記得一首歌，在我記得媽媽還愛我的時候。那個時候她還是在信著基督，說著那些理想，撫摸我的頭，我看著台上那些接收掌聲的人，她說那叫受洗，我不懂，只是習慣的和她一起站起身，即使我年齡小，他們都說我站不住，可以不用站的。那悠揚的旋律又響起，我記得當時我哭了，為什麼呢？一直以來都是如此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2077539609236681159",
+        "created_at": "2026-07-15T23:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077539609236681159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077539609236681159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我記得一首歌，在我記得媽媽還愛我的時候。那個時候她還是在信著基督，說著那些理想，撫摸我的頭，我看著台上那些接收掌聲的人，她說那叫受洗，我不懂，只是習慣的和她一起站起身，即使我年齡小，他們都說我站不住，可以不用站的。那悠揚的旋律又響起，我記得當時我哭了，為什麼呢？一直以來都是如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 122,
+          "like_count": 30161,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2605
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2078751695362752888",
+    "created_at": "2026-07-19T16:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078877918495920259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "703789736280719360",
+          "start": 0,
+          "username": "ddtoys2016"
+        },
+        {
+          "end": 21,
+          "id": "1844296703282925568",
+          "start": 12,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078877918495920259",
+    "in_reply_to_user_id": "703789736280719360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078771233282511064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddtoys2016 @0xJoveXu 孩子啊⋯很輕的，乘著千紙鶴就走了⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2078751695362752888",
+        "created_at": "2026-07-19T16:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078877918495920259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "703789736280719360",
+              "start": 0,
+              "username": "ddtoys2016"
+            },
+            {
+              "end": 21,
+              "id": "1844296703282925568",
+              "start": 12,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078877918495920259",
+        "in_reply_to_user_id": "703789736280719360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078771233282511064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddtoys2016 @0xJoveXu 孩子啊⋯很輕的，乘著千紙鶴就走了⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "703789736280719360",
+        "conversation_id": "2078751695362752888",
+        "created_at": "2026-07-19T09:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078771233282511064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078771233282511064",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9445,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078751695362752888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 跟老主任查房，有个特殊病房，小女孩，白血病，折千纸鹤，所有人都说折到999只就病好出院，满屋子挂着纸鹤。一出病房，上到70多老主任，下到我们实习生，加上护士，还有家属一起哭，掉眼泪。不到半个月，小女孩飞走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30849,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2679
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-28T03:52:03.000Z",
+        "description": "Shedding pounds, mastering English and Japanese, diving into books, writing my heart out, and learning to just *be*. Dreaming of ocean views and endless spring.",
+        "id": "703789736280719360",
+        "name": "ddtoys2016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741723793960411136/2VDQmaqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 2868,
+          "like_count": 3692,
+          "listed_count": 10,
+          "media_count": 2632,
+          "tweet_count": 12166
+        },
+        "url": "",
+        "username": "ddtoys2016",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jove.sh",
+                "end": 23,
+                "expanded_url": "http://jove.sh",
+                "start": 0,
+                "url": "https://t.co/SITILsBNd7"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2071820894968922493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29642,
+          "following_count": 7838,
+          "like_count": 42617,
+          "listed_count": 91,
+          "media_count": 1650,
+          "tweet_count": 39689
+        },
+        "url": "https://t.co/SITILsBNd7",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

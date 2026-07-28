@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2078536959681868286",
+    "created_at": "2026-07-18T17:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078536959681868286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1780706809814347777",
+          "start": 3,
+          "username": "WanwocaonideL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078536959681868286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078224602015441209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WanwocaonideL: 我已经把前额叶放生了 ，我觉得它是有生命的 ，不应该在我的脑子里，这片叶子它应该有属于它的更广阔的大树，再说脑袋里长叶子这不是给我捣乱吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2078536959681868286",
+        "created_at": "2026-07-18T17:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078536959681868286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1780706809814347777",
+              "start": 3,
+              "username": "WanwocaonideL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078536959681868286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078224602015441209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WanwocaonideL: 我已经把前额叶放生了 ，我觉得它是有生命的 ，不应该在我的脑子里，这片叶子它应该有属于它的更广阔的大树，再说脑袋里长叶子这不是给我捣乱吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780706809814347777",
+        "conversation_id": "2078224602015441209",
+        "created_at": "2026-07-17T21:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T22:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078224602015441209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078224602015441209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7852,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我已经把前额叶放生了 ，我觉得它是有生命的 ，不应该在我的脑子里，这片叶子它应该有属于它的更广阔的大树，再说脑袋里长叶子这不是给我捣乱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30827,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2660
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T21:16:15.000Z",
+        "description": "可以叫我素野/代号酱/蕾蕾（没有恶意就行）我喜欢你 @1_1qqy 11年 我会发负面相关 不怎么回私信互关也不一定 只是来分享自拍而已别来烦我 投喂在背景",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "1_1qqy"
+              }
+            ]
+          }
+        },
+        "id": "1780706809814347777",
+        "location": "宛平南路600号",
+        "name": "代᳐号L᳐੭",
+        "pinned_tweet_id": "1936757019723378873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018046029241987072/X-umUM9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 740,
+          "like_count": 21580,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 6502
+        },
+        "url": "",
+        "username": "WanwocaonideL",
+        "verified": false
+      }
+    ]
+  }
+}

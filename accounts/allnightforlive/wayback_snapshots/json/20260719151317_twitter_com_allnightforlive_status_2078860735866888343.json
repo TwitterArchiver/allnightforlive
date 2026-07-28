@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2078860735866888343",
+    "created_at": "2026-07-19T15:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078860735866888343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078860735866888343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這就是為什麼吧。水，羊水，淡水又接近他們家。我啊⋯要是真的去了。就能夠親眼看到那個小孩奪走我的一切了。\n\n⋯我會坐捷運了喔。我也有了自己的病。我不再是差點被母親打死的小孩了。所以我說。還給我。還給我還給我還給我還給我還給我還給我還給我還給我還給我那是我的人生那是我的幸福那是我家還我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2078860735866888343",
+        "created_at": "2026-07-19T15:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078860735866888343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078860735866888343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這就是為什麼吧。水，羊水，淡水又接近他們家。我啊⋯要是真的去了。就能夠親眼看到那個小孩奪走我的一切了。\n\n⋯我會坐捷運了喔。我也有了自己的病。我不再是差點被母親打死的小孩了。所以我說。還給我。還給我還給我還給我還給我還給我還給我還給我還給我還給我那是我的人生那是我的幸福那是我家還我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 30838,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2675
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

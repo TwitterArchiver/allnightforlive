@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2077566379902009663",
+    "created_at": "2026-07-16T01:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077566379902009663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077566379902009663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道該怎麼說起⋯⋯關於我對遊戲上癮的事情。\n那不是因為他有多好玩，也絕對不是因為它的什麼東西吸引我（某種層面上），而是因為我對他裡面的某些角色以及他們的性格和架空背景感到嚮往，是認真覺得「這個世界甚至沒有一個生命界線模糊且有大量有害的超自然生物」的世界觀不比現在的人生來得好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2077566379902009663",
+        "created_at": "2026-07-16T01:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077566379902009663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077566379902009663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道該怎麼說起⋯⋯關於我對遊戲上癮的事情。\n那不是因為他有多好玩，也絕對不是因為它的什麼東西吸引我（某種層面上），而是因為我對他裡面的某些角色以及他們的性格和架空背景感到嚮往，是認真覺得「這個世界甚至沒有一個生命界線模糊且有大量有害的超自然生物」的世界觀不比現在的人生來得好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 123,
+          "like_count": 30347,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2618
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}
