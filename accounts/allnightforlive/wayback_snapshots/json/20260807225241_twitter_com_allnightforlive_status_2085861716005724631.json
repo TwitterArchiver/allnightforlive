@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085861716005724631",
+    "created_at": "2026-08-07T22:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085861716005724631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1303592479908794368",
+          "start": 3,
+          "username": "syrupchan0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085861716005724631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085325776631816447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syrupchan0: 私「検査でADHDだったらどうしよう」\n\n友達「ADHDじゃなかった時の方が\n嫌じゃない？」\n\n私「なんで？」\n\n友達「お前はガチで\n無能でだらしない健常者ってことになるよ」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085861716005724631",
+        "created_at": "2026-08-07T22:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085861716005724631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1303592479908794368",
+              "start": 3,
+              "username": "syrupchan0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085861716005724631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085325776631816447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syrupchan0: 私「検査でADHDだったらどうしよう」\n\n友達「ADHDじゃなかった時の方が\n嫌じゃない？」\n\n私「なんで？」\n\n友達「お前はガチで\n無能でだらしない健常者ってことになるよ」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303592479908794368",
+        "conversation_id": "2085325776631816447",
+        "created_at": "2026-08-06T11:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085325776631816447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085325776631816447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2059,
+          "impression_count": 6072579,
+          "like_count": 87663,
+          "quote_count": 369,
+          "reply_count": 571,
+          "retweet_count": 3731
+        },
+        "reply_settings": "everyone",
+        "text": "私「検査でADHDだったらどうしよう」\n\n友達「ADHDじゃなかった時の方が\n嫌じゃない？」\n\n私「なんで？」\n\n友達「お前はガチで\n無能でだらしない健常者ってことになるよ」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33812,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 2865
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T07:14:09.000Z",
+        "description": "Amau Syrup￤ ネタツイッタラー兼アイドル、世界一かわいい天使系大学生個人Vtuber￤サブ垢🧁@syrupchan0_sub🧁 ￤ みんなに元気をお届け〜！仕事依頼 syrupchan0.work@gmail.com￤ストグラ◇佐糖あま💕https://t.co/lempcrNCjw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "syrupchan0_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/amau-syrup",
+                "end": 147,
+                "expanded_url": "https://lit.link/amau-syrup",
+                "start": 124,
+                "url": "https://t.co/lempcrNCjw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCDxHe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCDxHeaaTTRVgb2Pa2rQXSPw?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/j5naPW8u4K"
+              }
+            ]
+          }
+        },
+        "id": "1303592479908794368",
+        "location": "無所属 個人勢",
+        "name": "天羽しろっぷ🧁໒꒱· ﾟ@電気代が払える身バレ系Vtuber",
+        "pinned_tweet_id": "2062823765474787516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907654176999686144/ke2T94O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233402,
+          "following_count": 1279,
+          "like_count": 210240,
+          "listed_count": 760,
+          "media_count": 7918,
+          "tweet_count": 98270
+        },
+        "url": "https://t.co/j5naPW8u4K",
+        "username": "syrupchan0",
+        "verified": true
+      }
+    ]
+  }
+}

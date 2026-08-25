@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081499860684120064"
+      ],
+      "media_source_tweet_id": [
+        "2081499865608237125"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2081679673952784749",
+    "created_at": "2026-07-27T09:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081679673952784749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874237391583797250",
+          "start": 3,
+          "username": "getsuyou_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHakjLrm1O",
+          "end": 59,
+          "expanded_url": "https://x.com/getsuyou_man/status/2081499865608237125/photo/1",
+          "media_key": "3_2081499860684120064",
+          "start": 36,
+          "url": "https://t.co/xHakjLrm1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081679673952784749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3966
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081499865608237125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getsuyou_man: 子供たちには、指一本触れさせない。 https://t.co/xHakjLrm1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2081499860684120064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOL5GFQaIAAVRAc.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081499860684120064"
+          ]
+        },
+        "author_id": "1874237391583797250",
+        "conversation_id": "2081499865608237125",
+        "created_at": "2026-07-26T22:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081499865608237125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHakjLrm1O",
+              "end": 41,
+              "expanded_url": "https://x.com/getsuyou_man/status/2081499865608237125/photo/1",
+              "media_key": "3_2081499860684120064",
+              "start": 18,
+              "url": "https://t.co/xHakjLrm1O"
+            },
+            {
+              "display_url": "x.com/getsuyou_man/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/getsuyou_man/status/2081318617594073258",
+              "start": 42,
+              "url": "https://t.co/bu6hZqQF6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081499865608237125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1718,
+          "impression_count": 2120157,
+          "like_count": 57168,
+          "quote_count": 768,
+          "reply_count": 709,
+          "retweet_count": 3966
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081318617594073258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "子供たちには、指一本触れさせない。 https://t.co/xHakjLrm1O https://t.co/bu6hZqQF6l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081499860684120064"
+          ],
+          "media_source_tweet_id": [
+            "2081499865608237125"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081679673952784749",
+        "created_at": "2026-07-27T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081679673952784749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874237391583797250",
+              "start": 3,
+              "username": "getsuyou_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHakjLrm1O",
+              "end": 59,
+              "expanded_url": "https://x.com/getsuyou_man/status/2081499865608237125/photo/1",
+              "media_key": "3_2081499860684120064",
+              "start": 36,
+              "url": "https://t.co/xHakjLrm1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081679673952784749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3966
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081499865608237125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getsuyou_man: 子供たちには、指一本触れさせない。 https://t.co/xHakjLrm1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 31366,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2720
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T23:34:18.000Z",
+        "description": "休日明けの愚かな人間どもに月曜を宣告する者だ。/＃異形頭/ #マンデ絵/サブ垢のようなもの▶︎https://t.co/ubff7375jD /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "異形頭"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "マンデ絵"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/buttondaaa",
+                "end": 70,
+                "expanded_url": "https://x.com/buttondaaa",
+                "start": 47,
+                "url": "https://t.co/ubff7375jD"
+              }
+            ]
+          }
+        },
+        "id": "1874237391583797250",
+        "location": "地球",
+        "name": "月曜マン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875830589296877568/IsSV8ZTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192643,
+          "following_count": 16,
+          "like_count": 219,
+          "listed_count": 101,
+          "media_count": 203,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "getsuyou_man",
+        "verified": true
+      }
+    ]
+  }
+}

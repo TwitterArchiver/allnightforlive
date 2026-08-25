@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2083455472863252535",
+    "created_at": "2026-08-01T07:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083455477502153209"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083455477502153209",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083455472863252535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都殺死吧？不夠乖的人應該都要被殺死才對啊。如果能夠被殺死的話我一點也不想要乖巧啊。一點也不快樂啊！明明一點也不快樂啊！他們都是騙子，騙子應該要被殺死才對。為什麼為什麼，認真的快樂卻被亂石擊碎。所以我不夠乖巧吧！殺死我啊！為什麼沒有人殺死我，不是說危險嗎？怎麼從來被捅的人都不是我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083455472863252535",
+        "created_at": "2026-08-01T07:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083455477502153209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083455477502153209",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083455472863252535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都殺死吧？不夠乖的人應該都要被殺死才對啊。如果能夠被殺死的話我一點也不想要乖巧啊。一點也不快樂啊！明明一點也不快樂啊！他們都是騙子，騙子應該要被殺死才對。為什麼為什麼，認真的快樂卻被亂石擊碎。所以我不夠乖巧吧！殺死我啊！為什麼沒有人殺死我，不是說危險嗎？怎麼從來被捅的人都不是我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083455472863252535",
+        "created_at": "2026-08-01T07:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083455472863252535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083455472863252535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好討厭聲音，好討厭現實，好討厭感覺，好討厭本能，好討厭情緒，好討厭人，好討厭維繫，好討厭呼吸，好討厭思考。\n一切的一切都是因為活著才導致的吧？\n這就是為什麼妄想吧？我只有這個選擇了。\n自己玩、自己出門、自己感到快樂，那是獨立對吧，那才是乖巧吧！我都是知道的。\n可是其他人一點也不乖啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 124,
+          "like_count": 32522,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

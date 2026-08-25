@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085788064753016892",
+    "created_at": "2026-08-07T23:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085867359735312557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741768178559320064",
+          "start": 0,
+          "username": "zhangshuai16888"
+        },
+        {
+          "end": 27,
+          "id": "1870818143071059968",
+          "start": 17,
+          "username": "0xTheo520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085867359735312557",
+    "in_reply_to_user_id": "1741768178559320064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085788789495193813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangshuai16888 @0xTheo520 經濟條件、生活環境、有沒有房車之類的固定資產、生活作息、未來規劃，應該要問的基本上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085788064753016892",
+        "created_at": "2026-08-07T23:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085867359735312557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741768178559320064",
+              "start": 0,
+              "username": "zhangshuai16888"
+            },
+            {
+              "end": 27,
+              "id": "1870818143071059968",
+              "start": 17,
+              "username": "0xTheo520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085867359735312557",
+        "in_reply_to_user_id": "1741768178559320064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085788789495193813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangshuai16888 @0xTheo520 經濟條件、生活環境、有沒有房車之類的固定資產、生活作息、未來規劃，應該要問的基本上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741768178559320064",
+        "conversation_id": "2085788064753016892",
+        "created_at": "2026-08-07T18:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085788789495193813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870818143071059968",
+              "start": 0,
+              "username": "0xTheo520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085788789495193813",
+        "in_reply_to_user_id": "1870818143071059968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085788064753016892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xTheo520 如果都是普通人:到底判给谁？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33871,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 2870
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T10:27:57.000Z",
+        "description": "“币圈老兵 | 专注寻找被低估的价值标的 | 独立研究，不接推广 | 偶尔分享链上观察，欢迎交流”",
+        "id": "1741768178559320064",
+        "location": "New York, USA",
+        "name": "币圈屌老大",
+        "pinned_tweet_id": "2085774270186344776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782885649982377985/z7PDViSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4591,
+          "following_count": 2631,
+          "like_count": 40042,
+          "listed_count": 6,
+          "media_count": 5061,
+          "tweet_count": 33189
+        },
+        "url": "",
+        "username": "zhangshuai16888",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "分享段子｜梗图｜人间观察 | 互动多的都会回\n精神状态领先全网",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCyH95"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "location": "不含任何建议",
+        "name": "Theo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2024,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/YpPMXCyH95",
+        "username": "0xTheo520",
+        "verified": true
+      }
+    ]
+  }
+}

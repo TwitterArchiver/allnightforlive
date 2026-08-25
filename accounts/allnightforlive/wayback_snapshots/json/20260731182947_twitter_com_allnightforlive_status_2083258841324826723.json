@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2083258841324826723",
+    "created_at": "2026-07-31T18:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083258841324826723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083258841324826723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼啊。我為什麼是我。為什麼希望要存在。明明什麼都沒有啊。那裡什麼都沒有。你看到了吧？你明明看見了吧？那裡什麼都沒有。死掉了。全都死掉了。到最後都死掉了。腐爛了、廢棄了、發酵了。那樣的酸臭味你是知道的吧。生命就是在腐爛的肉塊，直到被另個肉塊鑑定為腐爛得徹底。那裡就是終點了嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083258841324826723",
+        "created_at": "2026-07-31T18:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083258841324826723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083258841324826723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼啊。我為什麼是我。為什麼希望要存在。明明什麼都沒有啊。那裡什麼都沒有。你看到了吧？你明明看見了吧？那裡什麼都沒有。死掉了。全都死掉了。到最後都死掉了。腐爛了、廢棄了、發酵了。那樣的酸臭味你是知道的吧。生命就是在腐爛的肉塊，直到被另個肉塊鑑定為腐爛得徹底。那裡就是終點了嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 124,
+          "like_count": 32500,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2773
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085817688337822106",
+    "created_at": "2026-08-07T19:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085817688337822106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085817688337822106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然意識到自己完全忘了怎麼表達。\n\n那不應該是，隨便的生活記事，不應該是為了吸引人目光而說出的話，不是因為奇葩而覺得有意思。\n\n我造成的是，忘記怎麼去敘述，忘記怎麼用可以讓人咀嚼很久的話去說。\n\n即使那是取悅，也是為了我自己啊。\n\n怎麼到頭來，那個原因在乎自己的人死了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085817688337822106",
+        "created_at": "2026-08-07T19:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085817688337822106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085817688337822106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意識到自己完全忘了怎麼表達。\n\n那不應該是，隨便的生活記事，不應該是為了吸引人目光而說出的話，不是因為奇葩而覺得有意思。\n\n我造成的是，忘記怎麼去敘述，忘記怎麼用可以讓人咀嚼很久的話去說。\n\n即使那是取悅，也是為了我自己啊。\n\n怎麼到頭來，那個原因在乎自己的人死了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 129,
+          "like_count": 33638,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

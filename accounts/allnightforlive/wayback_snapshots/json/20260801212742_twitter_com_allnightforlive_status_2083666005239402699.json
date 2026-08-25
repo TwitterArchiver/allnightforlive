@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2083666002458574950",
+    "created_at": "2026-08-01T21:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083666005239402699"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083666005239402699",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083666002458574950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你到底是誰？當我想呼喚對你的某個稱呼的時候，你就好像不存在過一樣。\n你的模樣，你的身形，你的性格，好像模仿著先人一般。你們都一樣吧？但又不盡相同。\n你刻薄得多了，就像要證明我得不到的一切似的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083666002458574950",
+        "created_at": "2026-08-01T21:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083666005239402699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083666005239402699",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083666002458574950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你到底是誰？當我想呼喚對你的某個稱呼的時候，你就好像不存在過一樣。\n你的模樣，你的身形，你的性格，好像模仿著先人一般。你們都一樣吧？但又不盡相同。\n你刻薄得多了，就像要證明我得不到的一切似的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083666002458574950",
+        "created_at": "2026-08-01T21:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083666002458574950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083666002458574950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底要叫你什麼。先生不見了，姐姐一直都不存在，爸爸被我殺了。你是誰？\n\n你是現實吧？還是幻想？為什麼你好像一直在嘲笑我？為什麼你總是看著我？為什麼總愛看著我痛苦卻不做任何事？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 125,
+          "like_count": 32703,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2790
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2089679647156080800",
+    "created_at": "2026-08-18T11:43:46.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089679647156080800"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089679647156080800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沒有看過別人談論殺死別人。\n\n一直都只想殺死自己。\n\n沒有看過別人恨一個人期望死去。\n\n他們說著去死啊去死啊，根本就沒有用處啊。\n\n窒息就好了，失血過多也可以，燃燒直到血管炸開也可以，失去意識就好了，不管怎麼樣他都會死的。\n\n我這麼想著。\n\n然後他們開始轉移話題了。\n\n反而更喜歡討論自殺嗎⋯⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2089679647156080800",
+        "created_at": "2026-08-18T11:43:46.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089679647156080800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089679647156080800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有看過別人談論殺死別人。\n\n一直都只想殺死自己。\n\n沒有看過別人恨一個人期望死去。\n\n他們說著去死啊去死啊，根本就沒有用處啊。\n\n窒息就好了，失血過多也可以，燃燒直到血管炸開也可以，失去意識就好了，不管怎麼樣他都會死的。\n\n我這麼想著。\n\n然後他們開始轉移話題了。\n\n反而更喜歡討論自殺嗎⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2089679647156080800",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 35127,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

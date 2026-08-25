@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2087258144212943030",
+    "created_at": "2026-08-11T19:21:35.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087258144212943030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1570786178802262016",
+          "start": 3,
+          "username": "7__6__7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087258144212943030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086970840462274918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7__6__7: しねばぜんぶ解決する"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2087258144212943030",
+        "created_at": "2026-08-11T19:21:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087258144212943030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1570786178802262016",
+              "start": 3,
+              "username": "7__6__7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087258144212943030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086970840462274918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7__6__7: しねばぜんぶ解決する"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570786178802262016",
+        "conversation_id": "2086970840462274918",
+        "created_at": "2026-08-11T00:19:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086970840462274918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086970840462274918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 39448,
+          "like_count": 1744,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "しねばぜんぶ解決する"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2087258144212943030",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 131,
+          "like_count": 34394,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2939
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T14:46:36.000Z",
+        "description": "24♀ 無能 怠 ひきこもり うつ病 手帳2級 反出生主義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/m9nsnrqxan5ipl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/m9nsnrqxan5ipll?t=7KXoLz&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Zkd7gACtqB"
+              }
+            ]
+          }
+        },
+        "id": "1570786178802262016",
+        "is_identity_verified": false,
+        "location": "布団",
+        "most_recent_tweet_id": "2086970840462274918",
+        "name": "ぬる",
+        "pinned_tweet_id": "1682637679132049408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570786178802262016/1663339856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598714584809865219/2EbxNKJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 270,
+          "like_count": 24443,
+          "listed_count": 16,
+          "media_count": 156,
+          "tweet_count": 5358
+        },
+        "url": "https://t.co/Zkd7gACtqB",
+        "username": "7__6__7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2082809616531177507",
+    "created_at": "2026-07-30T12:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082809616531177507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mitakoe123/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/mitakoe123/status/2082652649963364429",
+          "start": 63,
+          "url": "https://t.co/lXdHMZuQuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082809616531177507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082652649963364429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊、以前小時候也有一隻（但我忘記是丟了還是⋯拔了頭髮再丟的）特別可愛這個頭髮的變化 那個時候是拿去泡水還是其他的原因才發現的 https://t.co/lXdHMZuQuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2082071631770624000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUBHiibIAAqGfy.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2082071631774789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUBHijasAA-Rgj.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2082809616531177507",
+        "created_at": "2026-07-30T12:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082809616531177507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitakoe123/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/mitakoe123/status/2082652649963364429",
+              "start": 63,
+              "url": "https://t.co/lXdHMZuQuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082809616531177507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082652649963364429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊、以前小時候也有一隻（但我忘記是丟了還是⋯拔了頭髮再丟的）特別可愛這個頭髮的變化 那個時候是拿去泡水還是其他的原因才發現的 https://t.co/lXdHMZuQuz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082071631770624000",
+            "3_2082071631774789632"
+          ]
+        },
+        "author_id": "1845528159065702400",
+        "conversation_id": "2082652649963364429",
+        "created_at": "2026-07-30T02:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082652649963364429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4vhwvAGnf",
+              "end": 66,
+              "expanded_url": "https://x.com/mitakoe123/status/2082652649963364429/photo/1",
+              "media_key": "3_2082071631770624000",
+              "start": 43,
+              "url": "https://t.co/M4vhwvAGnf"
+            },
+            {
+              "display_url": "pic.x.com/M4vhwvAGnf",
+              "end": 66,
+              "expanded_url": "https://x.com/mitakoe123/status/2082652649963364429/photo/1",
+              "media_key": "3_2082071631774789632",
+              "start": 43,
+              "url": "https://t.co/M4vhwvAGnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082652649963364429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 1044517,
+          "like_count": 9008,
+          "quote_count": 24,
+          "reply_count": 29,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "外暑すぎてメルちゃんの髪ピンクになって、スーパー入った瞬間ベージュに戻るのおもろい😂 https://t.co/M4vhwvAGnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 124,
+          "like_count": 32417,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T18:13:05.000Z",
+        "description": "「えっ」ってなった投稿だけ集めてます。",
+        "id": "1845528159065702400",
+        "name": "見た瞬間、声出たやつ",
+        "pinned_tweet_id": "2082652649963364429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015299146429960192/ym4eZtOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11942,
+          "following_count": 3520,
+          "like_count": 5183,
+          "listed_count": 20,
+          "media_count": 1216,
+          "tweet_count": 16211
+        },
+        "url": "",
+        "username": "mitakoe123",
+        "verified": true
+      }
+    ]
+  }
+}

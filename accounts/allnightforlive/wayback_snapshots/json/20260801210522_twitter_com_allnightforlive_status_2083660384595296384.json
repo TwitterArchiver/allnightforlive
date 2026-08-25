@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2083660384595296384",
+    "created_at": "2026-08-01T21:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083660384595296384"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083660384595296384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不 不對 為什麼我要這樣做 我被侵犯了吧？ 那是侵犯吧！我好髒 一定是這樣的吧？好噁心對吧？ 我聽到了的 你說過了嗎？我為什麼是這樣的？好髒好髒啊 啊啊啊啊啊為什麼為什麼 我為什麼要這麼做 一點也不開心啊 為什麼為什麼 那種行為 我一點也不想要 啊啊啊啊啊啊啊啊啊為什麼為什麼為什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2083660384595296384",
+        "created_at": "2026-08-01T21:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083660384595296384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083660384595296384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不 不對 為什麼我要這樣做 我被侵犯了吧？ 那是侵犯吧！我好髒 一定是這樣的吧？好噁心對吧？ 我聽到了的 你說過了嗎？我為什麼是這樣的？好髒好髒啊 啊啊啊啊啊為什麼為什麼 我為什麼要這麼做 一點也不開心啊 為什麼為什麼 那種行為 我一點也不想要 啊啊啊啊啊啊啊啊啊為什麼為什麼為什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 125,
+          "like_count": 32694,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

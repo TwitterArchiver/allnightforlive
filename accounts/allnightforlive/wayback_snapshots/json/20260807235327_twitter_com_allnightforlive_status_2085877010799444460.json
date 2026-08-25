@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085877004680015872"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085877010799444460",
+    "created_at": "2026-08-07T23:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085877010799444460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbArULiAAd",
+          "end": 95,
+          "expanded_url": "https://x.com/allnightforlive/status/2085877010799444460/photo/1",
+          "media_key": "3_2085877004680015872",
+          "start": 72,
+          "url": "https://t.co/CbArULiAAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085877010799444460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聽勸是一件壞事呢 雖然買了適合除毛的 但不適合在這種時候用呢\n到頭來還是思考了自己為什麼要傷害自己的問題。為什麼難受但是沒辦法自殘呢。對不起。 https://t.co/CbArULiAAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085877004680015872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKGFZUbsAAgwc2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085877004680015872"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085877010799444460",
+        "created_at": "2026-08-07T23:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085877010799444460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbArULiAAd",
+              "end": 95,
+              "expanded_url": "https://x.com/allnightforlive/status/2085877010799444460/photo/1",
+              "media_key": "3_2085877004680015872",
+              "start": 72,
+              "url": "https://t.co/CbArULiAAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085877010799444460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聽勸是一件壞事呢 雖然買了適合除毛的 但不適合在這種時候用呢\n到頭來還是思考了自己為什麼要傷害自己的問題。為什麼難受但是沒辦法自殘呢。對不起。 https://t.co/CbArULiAAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33952,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

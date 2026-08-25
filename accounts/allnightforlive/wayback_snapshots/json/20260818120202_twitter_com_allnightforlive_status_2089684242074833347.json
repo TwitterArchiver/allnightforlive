@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2089684242074833347",
+    "created_at": "2026-08-18T12:02:02.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089684242074833347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1650980283477291008",
+          "start": 3,
+          "username": "S1CKHEARTS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089684242074833347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089441540238102957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S1CKHEARTS_: childhood depression was the lamest shit ever. i was thinking id be better off dead at like age 9-10 wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2089684242074833347",
+        "created_at": "2026-08-18T12:02:02.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089684242074833347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1650980283477291008",
+              "start": 3,
+              "username": "S1CKHEARTS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089684242074833347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089441540238102957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S1CKHEARTS_: childhood depression was the lamest shit ever. i was thinking id be better off dead at like age 9-10 wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650980283477291008",
+        "conversation_id": "2089441540238102957",
+        "created_at": "2026-08-17T19:57:37.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089441540238102957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089441540238102957",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1460,
+          "impression_count": 576272,
+          "like_count": 50163,
+          "quote_count": 405,
+          "reply_count": 108,
+          "retweet_count": 6476
+        },
+        "reply_settings": "everyone",
+        "text": "childhood depression was the lamest shit ever. i was thinking id be better off dead at like age 9-10 wtf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2089684242074833347",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 35174,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 3017
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-25T21:49:22.000Z",
+        "description": "biggest minus the bear fan under the age of 35 || musictwt mostly",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/illusiono…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/illusionoflove_",
+                "start": 0,
+                "url": "https://t.co/WnL6ltPh2O"
+              }
+            ]
+          }
+        },
+        "id": "1650980283477291008",
+        "is_identity_verified": false,
+        "location": "it/its blk 19",
+        "most_recent_tweet_id": "2089631275002757283",
+        "name": "josiah Ⴟ ☽☾ ∞",
+        "pinned_tweet_id": "1991224459655557420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650980283477291008/1702656980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929236400689352704/y0kgGWKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 994,
+          "like_count": 223685,
+          "listed_count": 27,
+          "media_count": 3821,
+          "tweet_count": 54944
+        },
+        "url": "https://t.co/WnL6ltPh2O",
+        "username": "S1CKHEARTS_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

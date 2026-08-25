@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088003508989841433",
+    "created_at": "2026-08-13T20:43:24.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088003508989841433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "838269820843896832",
+          "start": 3,
+          "username": "Sano_dess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088003508989841433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 758
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087742791078273371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sano_dess: ちょっと無視されたり、返事適当だっただけで嫌われたって思うの辞めたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088003508989841433",
+        "created_at": "2026-08-13T20:43:24.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088003508989841433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "838269820843896832",
+              "start": 3,
+              "username": "Sano_dess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088003508989841433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 758
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087742791078273371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sano_dess: ちょっと無視されたり、返事適当だっただけで嫌われたって思うの辞めたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838269820843896832",
+        "conversation_id": "2087742791078273371",
+        "created_at": "2026-08-13T03:27:24.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087742791078273371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087742791078273371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 131913,
+          "like_count": 5151,
+          "quote_count": 167,
+          "reply_count": 12,
+          "retweet_count": 758
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと無視されたり、返事適当だっただけで嫌われたって思うの辞めたい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088003508989841433",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 34631,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2957
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-05T06:07:54.000Z",
+        "description": "あなたに届ける恋の言葉",
+        "id": "838269820843896832",
+        "is_identity_verified": false,
+        "location": "恋愛で悩む人への手助け🕊️",
+        "most_recent_tweet_id": "2087816428816888168",
+        "name": "佐野くん",
+        "pinned_tweet_id": "2073967188386680841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838269820843896832/1780849094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063655584713555968/2DvqZ5fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 2,
+          "like_count": 692,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "Sano_dess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

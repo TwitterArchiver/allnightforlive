@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2087257172036170214",
+    "created_at": "2026-08-11T19:17:43.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087257172036170214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820734137483001856",
+          "start": 3,
+          "username": "VincentChar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087257172036170214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087067610152342013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VincentChar: 我还能用青少年这个理由痛苦几年？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2087257172036170214",
+        "created_at": "2026-08-11T19:17:43.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087257172036170214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820734137483001856",
+              "start": 3,
+              "username": "VincentChar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087257172036170214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087067610152342013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VincentChar: 我还能用青少年这个理由痛苦几年？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2087067610152342013",
+        "created_at": "2026-08-11T06:44:28.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087067610152342013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087067610152342013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6187,
+          "like_count": 219,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我还能用青少年这个理由痛苦几年？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2087257172036170214",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 131,
+          "like_count": 34385,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "リスカ￤OD￤病み垢￤酒￤タバコ\n重焦精分情绪不稳/od自伤毒虫阿片鬼/痴迷烫吸 药物化学 药理 心理学 神经科学/Minimal Vocal/Kawaii Metal/叙事RPG 恐游 文字类\n什么也做不了，只能躲在被窝里哭的废物。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+                "start": 0,
+                "url": "https://t.co/K7v18DP8j5"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "is_identity_verified": false,
+        "location": "🚪52/88/520",
+        "most_recent_tweet_id": "2087068634363670626",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2067809598405525563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820734137483001856/1781960163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068314104515973120/4G599WbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 273,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/K7v18DP8j5",
+        "username": "VincentChar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

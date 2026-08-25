@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091225815468171359",
+    "created_at": "2026-08-22T18:07:42.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091225815468171359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675364163428978689",
+          "start": 3,
+          "username": "chopin__s6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091225815468171359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1337
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090718691256369549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chopin__s6: 精神疾患になった人を「おかしい」と言う前に、そこまで追い詰められた理由を考えてほしい。壊れた人がおかしいんじゃない。人が壊れるまで追い詰める環境や人のほうが、よっぽどおかしい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091225815468171359",
+        "created_at": "2026-08-22T18:07:42.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091225815468171359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675364163428978689",
+              "start": 3,
+              "username": "chopin__s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091225815468171359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1337
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090718691256369549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chopin__s6: 精神疾患になった人を「おかしい」と言う前に、そこまで追い詰められた理由を考えてほしい。壊れた人がおかしいんじゃない。人が壊れるまで追い詰める環境や人のほうが、よっぽどおかしい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675364163428978689",
+        "conversation_id": "2090718691256369549",
+        "created_at": "2026-08-21T08:32:34.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090718691256369549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090718691256369549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 625,
+          "impression_count": 169440,
+          "like_count": 6985,
+          "quote_count": 159,
+          "reply_count": 64,
+          "retweet_count": 1337
+        },
+        "reply_settings": "everyone",
+        "text": "精神疾患になった人を「おかしい」と言う前に、そこまで追い詰められた理由を考えてほしい。壊れた人がおかしいんじゃない。人が壊れるまで追い詰める環境や人のほうが、よっぽどおかしい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091225815468171359",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35358,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 3047
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T04:43:00.000Z",
+        "description": "01 ︴鬱 ︴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vd7wllw7wxgijs…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/vd7wllw7wxgijse?t=5B76IQ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/J85heOjB9h"
+              }
+            ]
+          }
+        },
+        "id": "1675364163428978689",
+        "is_identity_verified": false,
+        "location": "心に傘を",
+        "most_recent_tweet_id": "2091091113608397230",
+        "name": "𝘴𝘶𝘪𝘯𝘦.",
+        "pinned_tweet_id": "1999005007786684741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675364163428978689/1742516320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851092765784096769/UIrVX8rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 160,
+          "like_count": 12167,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/J85heOjB9h",
+        "username": "chopin__s6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

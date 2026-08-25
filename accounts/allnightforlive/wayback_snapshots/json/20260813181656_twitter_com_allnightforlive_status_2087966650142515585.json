@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2087617348132114516",
+    "created_at": "2026-08-13T18:16:56.000Z",
+    "display_text_range": [
+      14,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087966650142515585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934583935100760064",
+          "start": 0,
+          "username": "sunxuaoxhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087966650142515585",
+    "in_reply_to_user_id": "1934583935100760064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087617348132114516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunxuaoxhuan 哭，寫日記，找第三方釐清自己的困擾。相對不推薦的是破壞、損害人事物，主要原因還是依賴這個行為緩解的話，反而會影響未來對壓力的反應，從而導致自傷、傷他之類的情況。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2087617348132114516",
+        "created_at": "2026-08-13T18:16:56.000Z",
+        "display_text_range": [
+          14,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087966650142515585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934583935100760064",
+              "start": 0,
+              "username": "sunxuaoxhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087966650142515585",
+        "in_reply_to_user_id": "1934583935100760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087617348132114516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunxuaoxhuan 哭，寫日記，找第三方釐清自己的困擾。相對不推薦的是破壞、損害人事物，主要原因還是依賴這個行為緩解的話，反而會影響未來對壓力的反應，從而導致自傷、傷他之類的情況。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934583935100760064",
+        "conversation_id": "2087617348132114516",
+        "created_at": "2026-08-12T19:08:56.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087617348132114516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087617348132114516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15680,
+          "like_count": 175,
+          "quote_count": 6,
+          "reply_count": 162,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "除了自残 酗酒 抽烟 自慰 还有什么办法可以缓解压力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2087966650142515585",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 34615,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T12:08:57.000Z",
+        "description": "我只是每天都在懵逼的活着呀\n我只是一个糖逼呀",
+        "id": "1934583935100760064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087626465080979551",
+        "name": "懵逼了一个假期",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934583935100760064/1786299433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085080649577185280/e01-0nVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 47,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "sunxuaoxhuan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

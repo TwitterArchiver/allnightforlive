@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2082372093027688686",
+    "created_at": "2026-07-29T07:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082372093027688686"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082372093027688686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾經抱著、哭鬧著，要拿枯萎的向日葵回去給父親修。我記得他無所不能，他是個神一般的修理工。我是知道的。\n老師說，這個不能修，它修不好了。\n可是我記得植物還是有希望的啊，他沒有死掉。它沒有死掉啊！\n我哭喊著，嘴裡是不成字句的聲節。\n他們沒懂，跟我一直以來的那樣沈默著看著它被堆肥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2082372093027688686",
+        "created_at": "2026-07-29T07:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082372093027688686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082372093027688686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾經抱著、哭鬧著，要拿枯萎的向日葵回去給父親修。我記得他無所不能，他是個神一般的修理工。我是知道的。\n老師說，這個不能修，它修不好了。\n可是我記得植物還是有希望的啊，他沒有死掉。它沒有死掉啊！\n我哭喊著，嘴裡是不成字句的聲節。\n他們沒懂，跟我一直以來的那樣沈默著看著它被堆肥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 123,
+          "like_count": 32021,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

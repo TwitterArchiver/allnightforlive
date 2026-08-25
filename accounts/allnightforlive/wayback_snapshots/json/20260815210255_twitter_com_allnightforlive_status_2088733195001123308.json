@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088733195001123308",
+    "created_at": "2026-08-15T21:02:55.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088733195001123308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "732519295901556736",
+          "start": 3,
+          "username": "cymbaltan555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088733195001123308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088472707012903319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cymbaltan555: 死にたいというより、消えたい。死んで悲しまれるとか、誰かの記憶に残るとか、それすらなくていい。最初から私なんて存在していなかったことになって、誰の人生にも何の痕跡も残さず、全部なかったことになれたらいいのにって思う。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088733195001123308",
+        "created_at": "2026-08-15T21:02:55.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088733195001123308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "732519295901556736",
+              "start": 3,
+              "username": "cymbaltan555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088733195001123308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088472707012903319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cymbaltan555: 死にたいというより、消えたい。死んで悲しまれるとか、誰かの記憶に残るとか、それすらなくていい。最初から私なんて存在していなかったことになって、誰の人生にも何の痕跡も残さず、全部なかったことになれたらいいのにって思う。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732519295901556736",
+        "conversation_id": "2088472707012903319",
+        "created_at": "2026-08-15T03:47:49.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088472707012903319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088472707012903319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 541,
+          "impression_count": 446784,
+          "like_count": 6790,
+          "quote_count": 172,
+          "reply_count": 36,
+          "retweet_count": 1346
+        },
+        "reply_settings": "everyone",
+        "text": "死にたいというより、消えたい。死んで悲しまれるとか、誰かの記憶に残るとか、それすらなくていい。最初から私なんて存在していなかったことになって、誰の人生にも何の痕跡も残さず、全部なかったことになれたらいいのにって思う。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088733195001123308",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 133,
+          "like_count": 34824,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2987
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-17T10:33:04.000Z",
+        "description": "統合失調感情障害 https://t.co/bptL1tyd1t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E7%B5%B1%E5%…",
+                "end": 32,
+                "expanded_url": "https://www.youtube.com/@%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E7%97%87%E3%83%8B%E3%83%BC%E3%83%88%E3%81%AE%E6%97%A5%E5%B8%B8",
+                "start": 9,
+                "url": "https://t.co/bptL1tyd1t"
+              }
+            ]
+          }
+        },
+        "id": "732519295901556736",
+        "is_identity_verified": false,
+        "location": "会えません",
+        "most_recent_tweet_id": "2088698078706774504",
+        "name": "さば(サインバルタン星人)",
+        "pinned_tweet_id": "2088042635172970533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/732519295901556736/1754534665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990789773938835456/fM7EXUHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1,
+          "like_count": 4188,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 10301
+        },
+        "url": "",
+        "username": "cymbaltan555",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

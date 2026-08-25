@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2081873938209198082",
+    "created_at": "2026-07-27T22:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T23:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081873938209198082"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081873938209198082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼還是、這麼厭惡到想殺了她。她才應該去死。我厭惡那個味道，厭惡那個聲音，厭惡那個不請自來，厭惡她她的行為，除了給錢以外她又會做什麼？即使我根本不想要，即使我對她的好感一點也沒增加。我仍然想殺了她，即使金錢觀要被修改，我也比他好上一百倍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081873938209198082",
+        "created_at": "2026-07-27T22:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081873938209198082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081873938209198082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼還是、這麼厭惡到想殺了她。她才應該去死。我厭惡那個味道，厭惡那個聲音，厭惡那個不請自來，厭惡她她的行為，除了給錢以外她又會做什麼？即使我根本不想要，即使我對她的好感一點也沒增加。我仍然想殺了她，即使金錢觀要被修改，我也比他好上一百倍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 31506,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2727
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2086886074287292773",
+    "created_at": "2026-08-10T18:43:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086886074287292773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1603652234096521216",
+          "start": 3,
+          "username": "Anti_Social_040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086886074287292773",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086561154000683079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anti_Social_040: have you ever typed a message but halfway through you think “you know what, they don't even care” and deleted that shi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2086886074287292773",
+        "created_at": "2026-08-10T18:43:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086886074287292773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1603652234096521216",
+              "start": 3,
+              "username": "Anti_Social_040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086886074287292773",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086561154000683079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anti_Social_040: have you ever typed a message but halfway through you think “you know what, they don't even care” and deleted that shi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603652234096521216",
+        "conversation_id": "2086561154000683079",
+        "created_at": "2026-08-09T21:12:00.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086561154000683079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086561154000683079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 687,
+          "impression_count": 518222,
+          "like_count": 31970,
+          "quote_count": 237,
+          "reply_count": 163,
+          "retweet_count": 4105
+        },
+        "reply_settings": "everyone",
+        "text": "have you ever typed a message but halfway through you think “you know what, they don't even care” and deleted that shit."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2086886074287292773",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 131,
+          "like_count": 34256,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2924
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-16T07:24:41.000Z",
+        "description": "want to promote your page? DM me for details..\nFSWVJRNC",
+        "id": "1603652234096521216",
+        "is_identity_verified": false,
+        "location": "🌍",
+        "most_recent_tweet_id": "2086832944933749224",
+        "name": "AntiSocial",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603652234096521216/1756296799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062188635563438080/DFWLkfK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101431,
+          "following_count": 42,
+          "like_count": 729,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 8488
+        },
+        "url": "",
+        "username": "Anti_Social_040",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

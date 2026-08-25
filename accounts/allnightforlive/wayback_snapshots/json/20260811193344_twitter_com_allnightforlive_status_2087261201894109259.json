@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2087261201894109259",
+    "created_at": "2026-08-11T19:33:44.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087261201894109259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "743791443010019328",
+          "start": 3,
+          "username": "gastonfyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087261201894109259",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086614258247241838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gastonfyp: Una vez intenté llevar un diario, pero parecía que estaba escribiendo una nota de suicidio."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2087261201894109259",
+        "created_at": "2026-08-11T19:33:44.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087261201894109259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "743791443010019328",
+              "start": 3,
+              "username": "gastonfyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087261201894109259",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086614258247241838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gastonfyp: Una vez intenté llevar un diario, pero parecía que estaba escribiendo una nota de suicidio."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "743791443010019328",
+        "conversation_id": "2086614258247241838",
+        "created_at": "2026-08-10T00:43:01.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086614258247241838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086614258247241838",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1313,
+          "impression_count": 701115,
+          "like_count": 58408,
+          "quote_count": 620,
+          "reply_count": 99,
+          "retweet_count": 9107
+        },
+        "reply_settings": "everyone",
+        "text": "Una vez intenté llevar un diario, pero parecía que estaba escribiendo una nota de suicidio."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2087261201894109259",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 34430,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2941
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-17T13:04:33.000Z",
+        "description": "16K 🔜",
+        "id": "743791443010019328",
+        "is_identity_verified": false,
+        "location": "Chaco, Argentina",
+        "most_recent_tweet_id": "2087226464307458064",
+        "name": "Gastón🫀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/743791443010019328/1786061983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637906824727781376/RywI3A-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15659,
+          "following_count": 824,
+          "like_count": 13731,
+          "listed_count": 11,
+          "media_count": 169,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "gastonfyp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

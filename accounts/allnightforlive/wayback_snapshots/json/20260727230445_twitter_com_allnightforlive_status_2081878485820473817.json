@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2081878481856778738",
+    "created_at": "2026-07-27T23:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T00:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081878485820473817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081878485820473817",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081878481856778738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可當句點真的畫下，一切要修改卻又是這麼的困難。到底是人品，到底還是建立在道德上。想要得知卻無法對話，想要後文，卻已到了最終章。\n\n死亡是最直接的剝離，我即使到了幾乎沒那麼熟悉這個人，甚至可以說是一直在用偏見理解的人，當他真的生命意義上的劃下休止符，我仍然無法言喻那樣的感觸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081878481856778738",
+        "created_at": "2026-07-27T23:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081878485820473817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081878485820473817",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081878481856778738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可當句點真的畫下，一切要修改卻又是這麼的困難。到底是人品，到底還是建立在道德上。想要得知卻無法對話，想要後文，卻已到了最終章。\n\n死亡是最直接的剝離，我即使到了幾乎沒那麼熟悉這個人，甚至可以說是一直在用偏見理解的人，當他真的生命意義上的劃下休止符，我仍然無法言喻那樣的感觸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2081878481856778738",
+        "created_at": "2026-07-27T23:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081878481856778738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081878481856778738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "東野圭吾、對他的感受仍然停在那年我癡迷在推理小說中，卻無法理解他的名字大剌剌的擺在那些熱門書籍裡，我一直不擅長接受推薦，更何況是當時熾愛的作家被拿來和他對比，比起無知，可能還帶上了愚昧的排斥。\n如今那本書還是從書架上落下，給過去的我當頭一棒。\n老話一句，我永遠都在等著完結篇到來。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 31528,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

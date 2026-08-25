@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085875237053399295",
+    "created_at": "2026-08-07T23:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085875237053399295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796600566493118464",
+          "start": 3,
+          "username": "strwberryvape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085875237053399295",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085752630819565593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strwberryvape: \"Suicide is selfish\" sorry do you want me to kill you too"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085875237053399295",
+        "created_at": "2026-08-07T23:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085875237053399295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796600566493118464",
+              "start": 3,
+              "username": "strwberryvape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085875237053399295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085752630819565593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strwberryvape: \"Suicide is selfish\" sorry do you want me to kill you too"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796600566493118464",
+        "conversation_id": "2085752630819565593",
+        "created_at": "2026-08-07T15:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085752630819565593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085752630819565593",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 57711,
+          "like_count": 6060,
+          "quote_count": 25,
+          "reply_count": 23,
+          "retweet_count": 1224
+        },
+        "reply_settings": "everyone",
+        "text": "\"Suicide is selfish\" sorry do you want me to kill you too"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33944,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 2879
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T17:52:21.000Z",
+        "description": "dogs love me because im crazy sniffable",
+        "id": "1796600566493118464",
+        "location": "KGL 250",
+        "name": "stewie garlic",
+        "pinned_tweet_id": "2085454945994809487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073137049062780928/fjxYZ6CQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 710,
+          "like_count": 35265,
+          "listed_count": 8,
+          "media_count": 245,
+          "tweet_count": 5432
+        },
+        "url": "",
+        "username": "strwberryvape",
+        "verified": false
+      }
+    ]
+  }
+}

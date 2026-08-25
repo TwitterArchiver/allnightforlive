@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085849130757484709",
+    "created_at": "2026-08-07T22:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085849130757484709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1912538833893396480",
+          "start": 3,
+          "username": "Izabella0704cc"
+        },
+        {
+          "end": 30,
+          "id": "2062460470997721088",
+          "start": 20,
+          "username": "qinshuobk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085849130757484709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085718304837238942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Izabella0704cc: @qinshuobk 我哭了，别给我这种缺爱逼推这种文案好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085849130757484709",
+        "created_at": "2026-08-07T22:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085849130757484709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1912538833893396480",
+              "start": 3,
+              "username": "Izabella0704cc"
+            },
+            {
+              "end": 30,
+              "id": "2062460470997721088",
+              "start": 20,
+              "username": "qinshuobk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085849130757484709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085718304837238942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Izabella0704cc: @qinshuobk 我哭了，别给我这种缺爱逼推这种文案好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912538833893396480",
+        "conversation_id": "2085573025966211454",
+        "created_at": "2026-08-07T13:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085718304837238942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062460470997721088",
+              "start": 0,
+              "username": "qinshuobk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085718304837238942",
+        "in_reply_to_user_id": "2062460470997721088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4058,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085573025966211454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinshuobk 我哭了，别给我这种缺爱逼推这种文案好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33803,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T16:09:56.000Z",
+        "description": "。",
+        "id": "1912538833893396480",
+        "name": "姗姗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912758252900872194/_d9Wzybx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 206,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "Izabella0704cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T09:05:37.000Z",
+        "description": "来此记录一些所思所想\n疯狂输出一些碎碎念",
+        "id": "2062460470997721088",
+        "location": "月球",
+        "name": "秦硕",
+        "pinned_tweet_id": "2083612240733929842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461931143991297/ht-wjmtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8531,
+          "following_count": 16,
+          "like_count": 864,
+          "listed_count": 12,
+          "media_count": 108,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "qinshuobk",
+        "verified": true
+      }
+    ]
+  }
+}

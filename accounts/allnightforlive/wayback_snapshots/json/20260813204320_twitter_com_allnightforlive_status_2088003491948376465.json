@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088003491948376465",
+    "created_at": "2026-08-13T20:43:20.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088003491948376465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012179738631208960",
+          "start": 3,
+          "username": "6ravu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088003491948376465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087529666391523420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6ravu: 鬱病にならない人生がよかったな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088003491948376465",
+        "created_at": "2026-08-13T20:43:20.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088003491948376465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012179738631208960",
+              "start": 3,
+              "username": "6ravu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088003491948376465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087529666391523420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6ravu: 鬱病にならない人生がよかったな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012179738631208960",
+        "conversation_id": "2087529666391523420",
+        "created_at": "2026-08-12T13:20:31.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087529666391523420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087529666391523420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 27251,
+          "like_count": 848,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "鬱病にならない人生がよかったな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088003508989841433",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 34631,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2957
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-16T15:07:00.000Z",
+        "description": "全日→通信jk/躁鬱(診断済み)/過食/希死念慮/情緒不安定/反出生主義/出会い厨の🚹❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/L4J5pxu48v8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/L4J5pxu48v8?si=IW4_pqqxd-YcmIZ3",
+                "start": 0,
+                "url": "https://t.co/JJp2tex7Cp"
+              }
+            ]
+          }
+        },
+        "id": "2012179738631208960",
+        "is_identity_verified": false,
+        "location": "官営八幡製鐵所 戸畑第4高炉",
+        "most_recent_tweet_id": "2087871456931897473",
+        "name": "八幡製鉄所",
+        "pinned_tweet_id": "2082213019027918920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012179738631208960/1785138570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012180227125137408/x-UdVH6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 155,
+          "like_count": 14001,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/JJp2tex7Cp",
+        "username": "6ravu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

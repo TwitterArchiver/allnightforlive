@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088725771040981225",
+    "created_at": "2026-08-15T20:33:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088725771040981225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1047478901318905857",
+          "start": 3,
+          "username": "yoshi_majime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088725771040981225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088386437226065950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshi_majime: 実は「躁うつ（双極性障害）」な人の特徴\n\n5位　睡眠バグ\n・寝なくても平気\n・よく寝ても起きれない\n・睡眠時間が極端\n\n4位　突然キャンセル界隈↓\n・予定を直前キャンセル\n・人に会うだけでHPゼロ\n・イベント前ディープブルー\n\n3位　アクセル…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088725771040981225",
+        "created_at": "2026-08-15T20:33:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088725771040981225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1047478901318905857",
+              "start": 3,
+              "username": "yoshi_majime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088725771040981225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088386437226065950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshi_majime: 実は「躁うつ（双極性障害）」な人の特徴\n\n5位　睡眠バグ\n・寝なくても平気\n・よく寝ても起きれない\n・睡眠時間が極端\n\n4位　突然キャンセル界隈↓\n・予定を直前キャンセル\n・人に会うだけでHPゼロ\n・イベント前ディープブルー\n\n3位　アクセル…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1047478901318905857",
+        "conversation_id": "2088386437226065950",
+        "created_at": "2026-08-14T22:05:01.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T23:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088386437226065950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088386437226065950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1521,
+          "impression_count": 2778342,
+          "like_count": 4426,
+          "quote_count": 309,
+          "reply_count": 30,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "実は「躁うつ（双極性障害）」な人の特徴\n\n5位　睡眠バグ\n・寝なくても平気\n・よく寝ても起きれない\n・睡眠時間が極端\n\n4位　突然キャンセル界隈↓\n・予定を直前キャンセル\n・人に会うだけでHPゼロ\n・イベント前ディープブルー\n\n3位　アクセル踏み込みすぎ↓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088725771040981225",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 133,
+          "like_count": 34779,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-03T13:30:06.000Z",
+        "description": "「過重労働」「人間関係」「ハラスメント」「休職・復職」「評価」「キャリアの不安」などでメンタルを崩した方のサポートをしている人事の週休3日会社員｜まじめ・繊細・不器用な人の心が楽になるメンタルの整え方、考え方、働き方をつぶやいてます｜「自分の辞令は自分で切る」がモットー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/yoshi_majime_r…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/yoshi_majime_roadmap",
+                "start": 0,
+                "url": "https://t.co/erftlxC9WZ"
+              }
+            ]
+          }
+        },
+        "id": "1047478901318905857",
+        "is_identity_verified": false,
+        "location": "公式ライン登録でネガティブ思考脱出ロードマッププレゼント",
+        "most_recent_tweet_id": "2088616030247764132",
+        "name": "よっしー",
+        "pinned_tweet_id": "2088386437226065950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047478901318905857/1784463646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012903697798291456/J76lkTr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32440,
+          "following_count": 1920,
+          "like_count": 233694,
+          "listed_count": 162,
+          "media_count": 2013,
+          "tweet_count": 127055
+        },
+        "url": "https://t.co/erftlxC9WZ",
+        "username": "yoshi_majime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

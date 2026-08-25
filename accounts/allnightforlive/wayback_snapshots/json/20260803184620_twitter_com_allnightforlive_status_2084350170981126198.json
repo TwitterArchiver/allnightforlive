@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2084350165914439705",
+    "created_at": "2026-08-03T18:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084350170981126198"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084350170981126198",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084350168401629618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在他們真的決定「回去」的時候，我也在生日前夕去看過他們一次、\n我還記得我當時哭著 喊著的是另一個人的代稱 因為我承受不住一個人活著的感受\n\n我承認我過去最渴望的一直都是能夠有另一個人格 不管他是比我更極端的傷害人事物 或是厭棄人格的身分\n\n理所當然這種完全不在乎自己行為結果的我是不可取的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2084350165914439705",
+        "created_at": "2026-08-03T18:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084350170981126198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084350170981126198",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084350168401629618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在他們真的決定「回去」的時候，我也在生日前夕去看過他們一次、\n我還記得我當時哭著 喊著的是另一個人的代稱 因為我承受不住一個人活著的感受\n\n我承認我過去最渴望的一直都是能夠有另一個人格 不管他是比我更極端的傷害人事物 或是厭棄人格的身分\n\n理所當然這種完全不在乎自己行為結果的我是不可取的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2084350165914439705",
+        "created_at": "2026-08-03T18:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084350168401629618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084350168401629618",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084350165914439705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這麼算起來 是一年吧？\n對她而言，一年之內的事情，從她更早些年就有的伏筆，其實這樣也好吧？我是知道的、\n不論是最後的整合 還是最開始的讓這個問題被社會關注 年初的時候關注這個病症也是因為他們\n一週裡能夠想到最開心的事情是分享他們的生活和剛理解的心理因果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 125,
+          "like_count": 32806,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2801
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

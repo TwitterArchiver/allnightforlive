@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086563936720347136",
+        "3_2086563937190051840",
+        "3_2086563936732946432"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046623299292336442",
+    "created_at": "2026-08-09T21:23:07.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086563952792887774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Xx07YW4vf",
+          "end": 83,
+          "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+          "media_key": "3_2086563936720347136",
+          "start": 60,
+          "url": "https://t.co/7Xx07YW4vf"
+        },
+        {
+          "display_url": "pic.x.com/7Xx07YW4vf",
+          "end": 83,
+          "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+          "media_key": "3_2086563937190051840",
+          "start": 60,
+          "url": "https://t.co/7Xx07YW4vf"
+        },
+        {
+          "display_url": "pic.x.com/7Xx07YW4vf",
+          "end": 83,
+          "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+          "media_key": "3_2086563936732946432",
+          "start": 60,
+          "url": "https://t.co/7Xx07YW4vf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086563952792887774",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086563936720347136"
+      },
+      {
+        "media_key": "3_2086563937190051840"
+      },
+      {
+        "media_key": "3_2086563936732946432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046623299292336442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "不論怎麼模糊，不論怎麼曲解，那都是最開始的意思。\n只有活著的人生才能被改寫，也只有那樣的人生才是自己的模樣。\n\n-致友 https://t.co/7Xx07YW4vf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2086563936720347136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT22GlbYAA7_og.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2086563937190051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT22IVagAAB_si.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2086563936732946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT22GoboAAaAja.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086563936720347136",
+            "3_2086563937190051840",
+            "3_2086563936732946432"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-08-09T21:23:07.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086563952792887774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Xx07YW4vf",
+              "end": 83,
+              "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+              "media_key": "3_2086563936720347136",
+              "start": 60,
+              "url": "https://t.co/7Xx07YW4vf"
+            },
+            {
+              "display_url": "pic.x.com/7Xx07YW4vf",
+              "end": 83,
+              "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+              "media_key": "3_2086563937190051840",
+              "start": 60,
+              "url": "https://t.co/7Xx07YW4vf"
+            },
+            {
+              "display_url": "pic.x.com/7Xx07YW4vf",
+              "end": 83,
+              "expanded_url": "https://x.com/allnightforlive/status/2086563952792887774/photo/1",
+              "media_key": "3_2086563936732946432",
+              "start": 60,
+              "url": "https://t.co/7Xx07YW4vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086563952792887774",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086563936720347136"
+          },
+          {
+            "media_key": "3_2086563937190051840"
+          },
+          {
+            "media_key": "3_2086563936732946432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046623299292336442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "不論怎麼模糊，不論怎麼曲解，那都是最開始的意思。\n只有活著的人生才能被改寫，也只有那樣的人生才是自己的模樣。\n\n-致友 https://t.co/7Xx07YW4vf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-04-21T16:13:13.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046623299292336442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046623299292336442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "對於自述有些障礙 大致概括一下個人資料\n\n-氫氣球\n-精神狀況未知\n-mbti intp~infp \n-帳號方面用於紀錄自身想法 與現實行為有一定落差\n\n｜樓下無限期引用本自述紀錄精神狀況｜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2086563952792887774",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 131,
+          "like_count": 34134,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

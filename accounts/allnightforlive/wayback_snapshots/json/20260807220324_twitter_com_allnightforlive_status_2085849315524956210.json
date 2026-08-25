@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085644343063539773",
+    "created_at": "2026-08-07T22:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085849315524956210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919450895529738241",
+          "start": 0,
+          "username": "Stellane2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085849315524956210",
+    "in_reply_to_user_id": "1919450895529738241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085644343063539773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stellane2025 現在銀價好貴的、就去年跟今年比都要差幾千塊的程度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2085644324939919360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGydpvacAATYaL.jpg",
+        "width": 3364
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2085644333492137984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGyeJma8AAeogV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085644343063539773",
+        "created_at": "2026-08-07T22:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085849315524956210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919450895529738241",
+              "start": 0,
+              "username": "Stellane2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085849315524956210",
+        "in_reply_to_user_id": "1919450895529738241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085644343063539773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stellane2025 現在銀價好貴的、就去年跟今年比都要差幾千塊的程度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085644324939919360",
+            "3_2085644333492137984"
+          ]
+        },
+        "author_id": "1919450895529738241",
+        "conversation_id": "2085644343063539773",
+        "created_at": "2026-08-07T08:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085644343063539773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/in1Baacuak",
+              "end": 110,
+              "expanded_url": "https://x.com/Stellane2025/status/2085644343063539773/photo/1",
+              "media_key": "3_2085644324939919360",
+              "start": 87,
+              "url": "https://t.co/in1Baacuak"
+            },
+            {
+              "display_url": "pic.x.com/in1Baacuak",
+              "end": 110,
+              "expanded_url": "https://x.com/Stellane2025/status/2085644343063539773/photo/1",
+              "media_key": "3_2085644333492137984",
+              "start": 87,
+              "url": "https://t.co/in1Baacuak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085644343063539773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5565,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打掃的時候在餐具櫃裡看到幾年前做的銀筷，發現有點氧化，拿起來拋光了\n一下，覺得好重喔就量了一下重量，想說這個重量現在這個銀價不知道有多少錢\n\n……大概有二十幾隻阿邁的身價🫥 https://t.co/in1Baacuak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 33803,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 2862
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T17:55:47.000Z",
+        "description": "art jewelry 🐿️ 製作過程、訂製委託、進修微鑲時的一點一滴 ✨  12年的金工、琺瑯、鍛敲、蠟雕、鑲鑽經歷||有訂製委託可以私訊☺️ 網站連結即為委託流程說明\nX(推特)很常藏私訊，若我沒有回應請直接@我的帳號＞＜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/7bVYKb",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/7bVYKb",
+                "start": 0,
+                "url": "https://t.co/4YiHSQEfsA"
+              }
+            ]
+          }
+        },
+        "id": "1919450895529738241",
+        "name": "Stellane",
+        "pinned_tweet_id": "2076279554436640958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004658019720970240/siJG4lqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 4,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/4YiHSQEfsA",
+        "username": "Stellane2025",
+        "verified": false
+      }
+    ]
+  }
+}

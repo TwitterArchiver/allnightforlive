@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088087055893155842",
+    "created_at": "2026-08-14T02:15:23.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088087055893155842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045431095764615168",
+          "start": 3,
+          "username": "Gminds_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088087055893155842",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087725184388116749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gminds_: everyone on here is either horny, suicidal, or maybe gay"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088087055893155842",
+        "created_at": "2026-08-14T02:15:23.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088087055893155842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045431095764615168",
+              "start": 3,
+              "username": "Gminds_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088087055893155842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087725184388116749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gminds_: everyone on here is either horny, suicidal, or maybe gay"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045431095764615168",
+        "conversation_id": "2087725184388116749",
+        "created_at": "2026-08-13T02:17:26.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087725184388116749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087725184388116749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1748,
+          "impression_count": 1203470,
+          "like_count": 70122,
+          "quote_count": 2924,
+          "reply_count": 863,
+          "retweet_count": 11142
+        },
+        "reply_settings": "everyone",
+        "text": "everyone on here is either horny, suicidal, or maybe gay"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088087055893155842",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 132,
+          "like_count": 34676,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2967
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T09:16:46.000Z",
+        "description": "🙈 karmieArts..... would love to travel the whole world 🩵🩵",
+        "id": "2045431095764615168",
+        "is_identity_verified": false,
+        "location": "K-city",
+        "most_recent_tweet_id": "2087950911289074041",
+        "name": "🦀",
+        "pinned_tweet_id": "2084466391445352526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045431095764615168/1776504536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080005242335166464/97OM9Qmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 337,
+          "like_count": 1814,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "Gminds_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

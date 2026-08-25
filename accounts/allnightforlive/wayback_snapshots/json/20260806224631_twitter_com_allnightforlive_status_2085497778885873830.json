@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2085497778885873830",
+    "created_at": "2026-08-06T22:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T23:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085497778885873830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085497778885873830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好難受啊 為什麼要一直為了歷史爭辯呢（苦笑\n只是為了逝者和一紙上保留的東西 連屠殺跟鞭屍都能夠想出來\n尤其是是借他人的惡說一些意淫的話 好似活著就只能是你和分等次的飛機杯 簡直是噁心到了極致啊\n多了就好難受啊 所有人都說著自己的話 到底誰是對的根本不重要了\n除掉啊 殺掉啊 這才是萬物的解嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2085497778885873830",
+        "created_at": "2026-08-06T22:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T23:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085497778885873830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085497778885873830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好難受啊 為什麼要一直為了歷史爭辯呢（苦笑\n只是為了逝者和一紙上保留的東西 連屠殺跟鞭屍都能夠想出來\n尤其是是借他人的惡說一些意淫的話 好似活著就只能是你和分等次的飛機杯 簡直是噁心到了極致啊\n多了就好難受啊 所有人都說著自己的話 到底誰是對的根本不重要了\n除掉啊 殺掉啊 這才是萬物的解嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 128,
+          "like_count": 33522,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2835
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

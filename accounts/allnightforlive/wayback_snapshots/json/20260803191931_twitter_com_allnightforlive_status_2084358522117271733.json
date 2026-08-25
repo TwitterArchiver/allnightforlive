@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2084358519307018523",
+    "created_at": "2026-08-03T19:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084358522117271733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084358522117271733",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084358519307018523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道為什麼會有巾跟棉不互通的問題、雖然這麼一說又是我從小愛看搬運影片的錯了（）\n但想到就委屈吧、一代活網人的墮落（並沒有這麼自稱的好嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2084358519307018523",
+        "created_at": "2026-08-03T19:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084358522117271733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084358522117271733",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084358519307018523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道為什麼會有巾跟棉不互通的問題、雖然這麼一說又是我從小愛看搬運影片的錯了（）\n但想到就委屈吧、一代活網人的墮落（並沒有這麼自稱的好嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2084358519307018523",
+        "created_at": "2026-08-03T19:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084358519307018523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084358519307018523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "、又想到一個尷尬的。\n小時候來月經，血都要流到褲子上了，跟老師要衛生棉，講的是衛生巾，老師聽不懂、、，一開始也跟同學要，沒有一個人聽得懂的情況下，我就這樣一直說衛生巾 ，老師看我很窘迫，就這樣順手的——掏出了衛生紙 （痛哭）\n後面不知道是這個老師絕經了還是什麼情況，我去找護士阿姨拿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "location": "天台",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 125,
+          "like_count": 32839,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2804
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false
+      }
+    ]
+  }
+}

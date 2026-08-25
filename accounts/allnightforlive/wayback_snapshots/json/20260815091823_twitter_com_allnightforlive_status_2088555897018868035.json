@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2088555897018868035",
+    "created_at": "2026-08-15T09:18:23.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088555897018868035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088555897018868035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就快要 呼吸不過來了啊。無法回應外界了⋯。我不想睡，但我也沒辦法再保持意識。\n\n我還是錯了嗎？明明我⋯沒有收到惡評，可是他卻一直告訴我做得不夠好，我好難過啊。對我說謊吧？只要一句謊言我就能活下去了。即使我過了今天也不會死掉的。我真的有夢想了媽媽，媽媽你為什麼不看我呢？媽媽？我好難受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2088555897018868035",
+        "created_at": "2026-08-15T09:18:23.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088555897018868035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088555897018868035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就快要 呼吸不過來了啊。無法回應外界了⋯。我不想睡，但我也沒辦法再保持意識。\n\n我還是錯了嗎？明明我⋯沒有收到惡評，可是他卻一直告訴我做得不夠好，我好難過啊。對我說謊吧？只要一句謊言我就能活下去了。即使我過了今天也不會死掉的。我真的有夢想了媽媽，媽媽你為什麼不看我呢？媽媽？我好難受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2088555897018868035",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 133,
+          "like_count": 34753,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2973
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
