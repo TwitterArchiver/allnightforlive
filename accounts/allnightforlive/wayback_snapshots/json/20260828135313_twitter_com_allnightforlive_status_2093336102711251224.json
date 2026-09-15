@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093336096587608064"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2093336102711251224",
+    "created_at": "2026-08-28T13:53:13.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093336102711251224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6Z5QYNfYG",
+          "end": 158,
+          "expanded_url": "https://x.com/allnightforlive/status/2093336102711251224/photo/1",
+          "media_key": "3_2093336096587608064",
+          "start": 135,
+          "url": "https://t.co/z6Z5QYNfYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093336102711251224",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093336096587608064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情緒崩潰把所有掛著疊著房間裡的衣服全部扯下來丟滿房間，最後收拾出被亂、掛堆放在我房間的衣架。\n\n真的很多。而我也是真的討厭這種衣架。為此還買了二十幾個木製的自用。\n結果衣架一直增加。一直亂放。一直找不到衣服。\n\n扯到後面手紅了，東西都是扔的甩的，房間的東西也被弄亂了。 https://t.co/z6Z5QYNfYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093336096587608064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0GFsCbcAAly6n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093336096587608064"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2093336102711251224",
+        "created_at": "2026-08-28T13:53:13.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093336102711251224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6Z5QYNfYG",
+              "end": 158,
+              "expanded_url": "https://x.com/allnightforlive/status/2093336102711251224/photo/1",
+              "media_key": "3_2093336096587608064",
+              "start": 135,
+              "url": "https://t.co/z6Z5QYNfYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093336102711251224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093336096587608064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情緒崩潰把所有掛著疊著房間裡的衣服全部扯下來丟滿房間，最後收拾出被亂、掛堆放在我房間的衣架。\n\n真的很多。而我也是真的討厭這種衣架。為此還買了二十幾個木製的自用。\n結果衣架一直增加。一直亂放。一直找不到衣服。\n\n扯到後面手紅了，東西都是扔的甩的，房間的東西也被弄亂了。 https://t.co/z6Z5QYNfYG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2093336113234825264",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36619,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 3144
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2097350883881480206",
+    "created_at": "2026-09-08T15:46:32.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097350883881480206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963225272360288258",
+          "start": 3,
+          "username": "ssuregi_108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097350883881480206",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096868167113191662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssuregi_108: 死にたいくせに生きる為の行為をしている自分が本当に気持ち悪い。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2097350883881480206",
+        "created_at": "2026-09-08T15:46:32.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097350883881480206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963225272360288258",
+              "start": 3,
+              "username": "ssuregi_108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097350883881480206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096868167113191662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssuregi_108: 死にたいくせに生きる為の行為をしている自分が本当に気持ち悪い。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963225272360288258",
+        "conversation_id": "2096868167113191662",
+        "created_at": "2026-09-07T07:48:23.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096868167113191662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096868167113191662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 562700,
+          "like_count": 18226,
+          "quote_count": 169,
+          "reply_count": 54,
+          "retweet_count": 2241
+        },
+        "reply_settings": "everyone",
+        "text": "死にたいくせに生きる為の行為をしている自分が本当に気持ち悪い。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2097350883881480206",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 135,
+          "like_count": 37193,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3227
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T13:00:03.000Z",
+        "description": "まだ生きててごめんなさい。",
+        "id": "1963225272360288258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097282017167802509",
+        "name": "はなつまみ",
+        "pinned_tweet_id": "1963234869418295445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963225272360288258/1760180693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963477444599693312/n-Z1Pj6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 34,
+          "like_count": 8153,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1336
+        },
+        "url": "",
+        "username": "ssuregi_108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

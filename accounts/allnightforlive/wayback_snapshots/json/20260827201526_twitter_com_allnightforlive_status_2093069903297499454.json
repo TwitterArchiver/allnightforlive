@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092921470330536393",
+    "created_at": "2026-08-27T20:15:26.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093069903297499454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1413141695986761747",
+          "start": 0,
+          "username": "SpongeBall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093069903297499454",
+    "in_reply_to_user_id": "1413141695986761747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092921577524638114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpongeBall 以為是系統自動翻譯的說。完全沒有意識到是無翻譯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092921470330536393",
+        "created_at": "2026-08-27T20:15:26.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093069903297499454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1413141695986761747",
+              "start": 0,
+              "username": "SpongeBall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093069903297499454",
+        "in_reply_to_user_id": "1413141695986761747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092921577524638114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpongeBall 以為是系統自動翻譯的說。完全沒有意識到是無翻譯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413141695986761747",
+        "conversation_id": "2092921470330536393",
+        "created_at": "2026-08-27T10:26:03.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092921577524638114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092921577524638114",
+        "in_reply_to_user_id": "1413141695986761747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092921470330536393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我最后一句话说得好有翻译感。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2093069903297499454",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36567,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3138
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-08T14:24:06.000Z",
+        "description": "昏日遍垂弦雨似脊抽\n\n虽然感觉没有必要但是挂一下小号@SpongeBallll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "SpongeBallll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/spongeboxi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/spongeboxi",
+                "start": 0,
+                "url": "https://t.co/26siLy40Sq"
+              }
+            ]
+          }
+        },
+        "id": "1413141695986761747",
+        "is_identity_verified": false,
+        "location": "੭ ˙ᗜ˙ ੭",
+        "most_recent_tweet_id": "2093068600307564557",
+        "name": "海绵",
+        "pinned_tweet_id": "2091442871430004742",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079394563991744512/pIHAIjQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 1302,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 3129
+        },
+        "url": "https://t.co/26siLy40Sq",
+        "username": "SpongeBall",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

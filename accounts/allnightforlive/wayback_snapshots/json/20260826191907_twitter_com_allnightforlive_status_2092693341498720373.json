@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092693341498720373",
+    "created_at": "2026-08-26T19:19:07.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092693341498720373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1723209368240283648",
+          "start": 3,
+          "username": "onlystresstoday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092693341498720373",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1808
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092523159933112378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onlystresstoday: sorry to interrupt your scrolling but are you okay? be honest."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092693341498720373",
+        "created_at": "2026-08-26T19:19:07.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092693341498720373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1723209368240283648",
+              "start": 3,
+              "username": "onlystresstoday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092693341498720373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1808
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092523159933112378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onlystresstoday: sorry to interrupt your scrolling but are you okay? be honest."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723209368240283648",
+        "conversation_id": "2092523159933112378",
+        "created_at": "2026-08-26T08:02:53.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092523159933112378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092523159933112378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 953,
+          "impression_count": 625643,
+          "like_count": 18694,
+          "quote_count": 3179,
+          "reply_count": 2936,
+          "retweet_count": 1808
+        },
+        "reply_settings": "everyone",
+        "text": "sorry to interrupt your scrolling but are you okay? be honest."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092693341498720373",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36375,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3103
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-11T05:22:17.000Z",
+        "description": "you’re not alone during these stressful times",
+        "id": "1723209368240283648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092656004487938559",
+        "name": "stressed",
+        "pinned_tweet_id": "2086359992144134612",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723209368240283648/1758340150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969247372673708032/NLnim08U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236330,
+          "following_count": 166,
+          "like_count": 6049,
+          "listed_count": 228,
+          "media_count": 1,
+          "tweet_count": 2313
+        },
+        "url": "",
+        "username": "onlystresstoday",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

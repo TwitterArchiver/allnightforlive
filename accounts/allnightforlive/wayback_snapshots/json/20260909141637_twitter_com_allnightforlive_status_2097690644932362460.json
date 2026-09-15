@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2097690640792629509",
+    "created_at": "2026-09-09T14:16:37.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097690644932362460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097690644932362460",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097690640792629509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直到我再不能接受自己身為人、作為人、活著。我哭了很久，我好像也沒有做夢，就是躺著，再醒來就發現身體僵硬得有些動不了了，腦袋很重，但我還是想去上課，除了那傢伙的聲音一樣令人焦躁一樣。\n\n我想自殺的事情一定被傳到人盡皆知了。我難受啊，但這是對我最好的處理方式了。\n\n我想不開，我藏不住了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2097690640792629509",
+        "created_at": "2026-09-09T14:16:37.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097690644932362460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097690644932362460",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097690640792629509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直到我再不能接受自己身為人、作為人、活著。我哭了很久，我好像也沒有做夢，就是躺著，再醒來就發現身體僵硬得有些動不了了，腦袋很重，但我還是想去上課，除了那傢伙的聲音一樣令人焦躁一樣。\n\n我想自殺的事情一定被傳到人盡皆知了。我難受啊，但這是對我最好的處理方式了。\n\n我想不開，我藏不住了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2097690640792629509",
+        "created_at": "2026-09-09T14:16:36.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097690640792629509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097690640792629509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡醒了、看了老師的語音訊息，看了一圈簡訊，我還是沒有辦法認知到我今天跟瘋子一樣的行為。\n\n歇斯底里的，痛哭亂喊亂叫。但今天晚上的感冒藥也沒吃。說什麼正義感，但其實我也我不知道自己在幹嘛。\n\n我很絕望啊。因為我不知道我是誰，我不知道是出於本心還是出於正義感，所以我質問我是誰。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2097690648833110213",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 135,
+          "like_count": 37202,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3238
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

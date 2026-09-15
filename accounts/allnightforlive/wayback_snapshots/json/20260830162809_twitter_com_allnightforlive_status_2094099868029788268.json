@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2093722337338360036",
+    "created_at": "2026-08-30T16:28:09.000Z",
+    "display_text_range": [
+      21,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094099868029788268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1654689944072495105",
+          "start": 0,
+          "username": "hjp3h04"
+        },
+        {
+          "end": 20,
+          "id": "1098586142004277248",
+          "start": 9,
+          "username": "mrmarkertw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094099868029788268",
+    "in_reply_to_user_id": "1654689944072495105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093732043037491493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjp3h04 @mrmarkertw 偏題一下，是編制老師的女兒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2093722337338360036",
+        "created_at": "2026-08-30T16:28:09.000Z",
+        "display_text_range": [
+          21,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094099868029788268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1654689944072495105",
+              "start": 0,
+              "username": "hjp3h04"
+            },
+            {
+              "end": 20,
+              "id": "1098586142004277248",
+              "start": 9,
+              "username": "mrmarkertw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094099868029788268",
+        "in_reply_to_user_id": "1654689944072495105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093732043037491493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjp3h04 @mrmarkertw 偏題一下，是編制老師的女兒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654689944072495105",
+        "conversation_id": "2093722337338360036",
+        "created_at": "2026-08-29T16:06:33.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093732043037491493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1098586142004277248",
+              "start": 0,
+              "username": "mrmarkertw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093732043037491493",
+        "in_reply_to_user_id": "1098586142004277248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3077,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093722337338360036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrmarkertw 齊聲喊出： Lucy你是那ㄟ這麼敖！\n\nLucy… 你是誰？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094099868029788268",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36800,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-06T03:34:42.000Z",
+        "description": "minor\nFandom: UU, MCSR",
+        "id": "1654689944072495105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094091129256063453",
+        "name": "不鹽漬明",
+        "pinned_tweet_id": "2089324630532354156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654689944072495105/1719812716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006629264276525056/DtHPFw0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 1999,
+          "like_count": 31370,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 6801
+        },
+        "url": "",
+        "username": "hjp3h04",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-21T14:12:01.000Z",
+        "description": "麥克筆先生 / 阿麥㍿ \n | Taiwan ‖  Illustration Artist  21 |\n\ninstagram: https://t.co/coPNTzVvOy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mr.marker.art/",
+                "end": 87,
+                "expanded_url": "https://www.instagram.com/mr.marker.art/",
+                "start": 64,
+                "url": "https://t.co/coPNTzVvOy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/MR.Marker.TW",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/MR.Marker.TW",
+                "start": 0,
+                "url": "https://t.co/Ww5TTkB4OG"
+              }
+            ]
+          }
+        },
+        "id": "1098586142004277248",
+        "is_identity_verified": false,
+        "location": "Keelung City, Taiwan",
+        "most_recent_tweet_id": "2094056820142973109",
+        "name": "MRMARKER ㍿",
+        "pinned_tweet_id": "1942085462732210497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098586142004277248/1709906207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985731040133144576/Bh52XeGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5493,
+          "following_count": 924,
+          "like_count": 5952,
+          "listed_count": 20,
+          "media_count": 1089,
+          "tweet_count": 3321
+        },
+        "url": "https://t.co/Ww5TTkB4OG",
+        "username": "mrmarkertw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092617021137768449"
+      ],
+      "media_source_tweet_id": [
+        "2096554000397336823"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2096580684248998300",
+    "created_at": "2026-09-06T12:46:02.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096580684248998300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565905460007292928",
+          "start": 3,
+          "username": "kqdllb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9WljVVLvay",
+          "end": 52,
+          "expanded_url": "https://x.com/kqdllb/status/2096554000397336823/video/1",
+          "media_key": "13_2092617021137768449",
+          "start": 29,
+          "url": "https://t.co/9WljVVLvay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096580684248998300",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2092617021137768449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096554000397336823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kqdllb: わかっちゃいないね を歌いました https://t.co/9WljVVLvay"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16136,
+        "height": 1080,
+        "media_key": "13_2092617021137768449",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092617021137768449/img/Qj_WYtUrBxgDvc0h.jpg",
+        "public_metrics": {
+          "view_count": 5306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617021137768449/vid/avc1/640x360/e8YK1DL8D8scx7m3.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617021137768449/vid/avc1/480x270/6hei8ODvxg3dhQ33.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092617021137768449/pl/7ndhN_ZDtUts1l1I.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617021137768449/vid/avc1/1920x1080/EgbrxnB1ut5Nz15s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617021137768449/vid/avc1/1280x720/0zCcTqH3yTsJsvax.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092617021137768449"
+          ],
+          "media_source_tweet_id": [
+            "2096554000397336823"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2096580684248998300",
+        "created_at": "2026-09-06T12:46:02.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096580684248998300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565905460007292928",
+              "start": 3,
+              "username": "kqdllb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WljVVLvay",
+              "end": 52,
+              "expanded_url": "https://x.com/kqdllb/status/2096554000397336823/video/1",
+              "media_key": "13_2092617021137768449",
+              "start": 29,
+              "url": "https://t.co/9WljVVLvay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096580684248998300",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092617021137768449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096554000397336823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kqdllb: わかっちゃいないね を歌いました https://t.co/9WljVVLvay"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092617021137768449"
+          ]
+        },
+        "author_id": "1565905460007292928",
+        "conversation_id": "2096554000397336823",
+        "created_at": "2026-09-06T11:00:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096554000397336823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WljVVLvay",
+              "end": 40,
+              "expanded_url": "https://x.com/kqdllb/status/2096554000397336823/video/1",
+              "media_key": "13_2092617021137768449",
+              "start": 17,
+              "url": "https://t.co/9WljVVLvay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096554000397336823",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092617021137768449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 12948,
+          "like_count": 837,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "わかっちゃいないね を歌いました https://t.co/9WljVVLvay"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2096580684248998300",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 135,
+          "like_count": 37126,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3209
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T03:32:26.000Z",
+        "description": "宅録/サブ垢→ @katakori_itaine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "katakori_itaine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kqdlb",
+                "end": 23,
+                "expanded_url": "https://lit.link/kqdlb",
+                "start": 0,
+                "url": "https://t.co/WPnKTYm4Pk"
+              }
+            ]
+          }
+        },
+        "id": "1565905460007292928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096556003726864710",
+        "name": "柿崎ユウタ",
+        "pinned_tweet_id": "2017196803800907847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565905460007292928/1663020110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669283829591461889/eKvfSb1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10752,
+          "following_count": 467,
+          "like_count": 4037,
+          "listed_count": 18,
+          "media_count": 201,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/WPnKTYm4Pk",
+        "username": "kqdllb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093723386082127872"
+      ],
+      "media_source_tweet_id": [
+        "2093723390263853492"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094100163795284293",
+    "created_at": "2026-08-30T16:29:20.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094100163795284293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812291736737370112",
+          "start": 3,
+          "username": "da_211k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTDMEy9tYA",
+          "end": 36,
+          "expanded_url": "https://x.com/da_211k/status/2093723390263853492/photo/1",
+          "media_key": "3_2093723386082127872",
+          "start": 13,
+          "url": "https://t.co/wTDMEy9tYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094100163795284293",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2093723386082127872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093723390263853492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @da_211k: https://t.co/wTDMEy9tYA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2093723386082127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5mU51acAAlJUy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093723386082127872"
+          ],
+          "media_source_tweet_id": [
+            "2093723390263853492"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094100163795284293",
+        "created_at": "2026-08-30T16:29:20.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094100163795284293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812291736737370112",
+              "start": 3,
+              "username": "da_211k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTDMEy9tYA",
+              "end": 36,
+              "expanded_url": "https://x.com/da_211k/status/2093723390263853492/photo/1",
+              "media_key": "3_2093723386082127872",
+              "start": 13,
+              "url": "https://t.co/wTDMEy9tYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094100163795284293",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093723386082127872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093723390263853492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @da_211k: https://t.co/wTDMEy9tYA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093723386082127872"
+          ]
+        },
+        "author_id": "1812291736737370112",
+        "conversation_id": "2093723390263853492",
+        "created_at": "2026-08-29T15:32:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093723390263853492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTDMEy9tYA",
+              "end": 23,
+              "expanded_url": "https://x.com/da_211k/status/2093723390263853492/photo/1",
+              "media_key": "3_2093723386082127872",
+              "start": 0,
+              "url": "https://t.co/wTDMEy9tYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093723390263853492",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093723386082127872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 11627,
+          "like_count": 1471,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wTDMEy9tYA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094100163795284293",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36812,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3178
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-14T01:03:38.000Z",
+        "description": "本垢凍結中@hosikage4040 のサブ垢┋気軽に絡んで┋ \n依頼など▶︎ https://t.co/wP3byDaJyi \nメインskeb▶︎ https://t.co/z53aw1kQbi\nミニskeb▶︎ https://t.co/e62q3l3Abv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "hosikage4040"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 63,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 40,
+                "url": "https://t.co/wP3byDaJyi"
+              },
+              {
+                "display_url": "skeb.jp/@hosikage4040",
+                "end": 98,
+                "expanded_url": "http://skeb.jp/@hosikage4040",
+                "start": 75,
+                "url": "https://t.co/z53aw1kQbi"
+              },
+              {
+                "display_url": "skeb.jp/@da_211k",
+                "end": 131,
+                "expanded_url": "https://skeb.jp/@da_211k",
+                "start": 108,
+                "url": "https://t.co/e62q3l3Abv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hosikage4040?t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hosikage4040?t=cbVo4N&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Js7LJLDfTc"
+              }
+            ]
+          }
+        },
+        "id": "1812291736737370112",
+        "is_identity_verified": false,
+        "location": "マシュマロ募集⬇️",
+        "most_recent_tweet_id": "2094033994811859004",
+        "name": "星",
+        "pinned_tweet_id": "2060250048576029104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812291736737370112/1760666625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996288554746753024/zYExR1NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 75,
+          "like_count": 5864,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/Js7LJLDfTc",
+        "username": "da_211k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

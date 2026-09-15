@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094044051461070848",
+        "3_2094044051452592128"
+      ],
+      "media_source_tweet_id": [
+        "2094044057618297071",
+        "2094044057618297071"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094120719357776001",
+    "created_at": "2026-08-30T17:51:01.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094120719357776001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709455779940712448",
+          "start": 3,
+          "username": "Rdal37663U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrDjsBYCRZ",
+          "end": 62,
+          "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+          "media_key": "3_2094044051461070848",
+          "start": 39,
+          "url": "https://t.co/VrDjsBYCRZ"
+        },
+        {
+          "display_url": "pic.x.com/VrDjsBYCRZ",
+          "end": 62,
+          "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+          "media_key": "3_2094044051452592128",
+          "start": 39,
+          "url": "https://t.co/VrDjsBYCRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094120719357776001",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094044051461070848"
+      },
+      {
+        "media_key": "3_2094044051452592128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1059
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094044057618297071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rdal37663U: 私にとっての「meme」ってこれなんよね…🙃 https://t.co/VrDjsBYCRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094044051461070848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-J-FdbYAAjbMr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094044051452592128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-J-FbaAAA1gNK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094044051461070848",
+            "3_2094044051452592128"
+          ],
+          "media_source_tweet_id": [
+            "2094044057618297071",
+            "2094044057618297071"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094120719357776001",
+        "created_at": "2026-08-30T17:51:01.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094120719357776001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709455779940712448",
+              "start": 3,
+              "username": "Rdal37663U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrDjsBYCRZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+              "media_key": "3_2094044051461070848",
+              "start": 39,
+              "url": "https://t.co/VrDjsBYCRZ"
+            },
+            {
+              "display_url": "pic.x.com/VrDjsBYCRZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+              "media_key": "3_2094044051452592128",
+              "start": 39,
+              "url": "https://t.co/VrDjsBYCRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094120719357776001",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094044051461070848"
+          },
+          {
+            "media_key": "3_2094044051452592128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094044057618297071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rdal37663U: 私にとっての「meme」ってこれなんよね…🙃 https://t.co/VrDjsBYCRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094044051461070848",
+            "3_2094044051452592128"
+          ]
+        },
+        "author_id": "1709455779940712448",
+        "conversation_id": "2094044057618297071",
+        "created_at": "2026-08-30T12:46:23.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094044057618297071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrDjsBYCRZ",
+              "end": 46,
+              "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+              "media_key": "3_2094044051461070848",
+              "start": 23,
+              "url": "https://t.co/VrDjsBYCRZ"
+            },
+            {
+              "display_url": "pic.x.com/VrDjsBYCRZ",
+              "end": 46,
+              "expanded_url": "https://x.com/Rdal37663U/status/2094044057618297071/photo/1",
+              "media_key": "3_2094044051452592128",
+              "start": 23,
+              "url": "https://t.co/VrDjsBYCRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094044057618297071",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094044051461070848"
+          },
+          {
+            "media_key": "3_2094044051452592128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1443,
+          "impression_count": 130660,
+          "like_count": 6537,
+          "quote_count": 394,
+          "reply_count": 1,
+          "retweet_count": 1059
+        },
+        "reply_settings": "everyone",
+        "text": "私にとっての「meme」ってこれなんよね…🙃 https://t.co/VrDjsBYCRZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094120719357776001",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36830,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3180
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-04T06:30:09.000Z",
+        "description": "18↑雑多、多ジャンルに手を出す、terrible mouseの日本語翻訳動画作ったり、最近はイラストのネタに使える画像を貼ってます、創作を時々貼る、ホラー映画、殺人鬼ガチ勢、ベネたろの虫、すぐツイ消しする、感想、リク良かったら↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y3wbtk3iytnl6kd",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y3wbtk3iytnl6kd",
+                "start": 0,
+                "url": "https://t.co/Oh6fHMgnIk"
+              }
+            ]
+          }
+        },
+        "id": "1709455779940712448",
+        "is_identity_verified": false,
+        "location": "海外作品の沼、",
+        "most_recent_tweet_id": "2094044608007397426",
+        "name": "自称絵師野郎",
+        "pinned_tweet_id": "2062851897342689437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1709455779940712448/1696403048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019700662125428736/as7VDfYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 181,
+          "like_count": 34644,
+          "listed_count": 11,
+          "media_count": 449,
+          "tweet_count": 4055
+        },
+        "url": "https://t.co/Oh6fHMgnIk",
+        "username": "Rdal37663U",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

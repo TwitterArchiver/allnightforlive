@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091499604298825912",
+    "created_at": "2026-08-24T13:28:16.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091880272778362946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368130977277517828",
+          "start": 0,
+          "username": "ogiTaiwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091880272778362946",
+    "in_reply_to_user_id": "1368130977277517828",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091499604298825912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogiTaiwan 😰❓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091499593850904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ_zKNbYAAOumf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091499604298825912",
+        "created_at": "2026-08-24T13:28:16.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091880272778362946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368130977277517828",
+              "start": 0,
+              "username": "ogiTaiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091880272778362946",
+        "in_reply_to_user_id": "1368130977277517828",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091499604298825912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogiTaiwan 😰❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091499593850904576"
+          ]
+        },
+        "author_id": "1368130977277517828",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091499604298825912",
+        "created_at": "2026-08-23T12:15:38.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091499604298825912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvOKEUCgWF",
+              "end": 62,
+              "expanded_url": "https://x.com/ogiTaiwan/status/2091499604298825912/photo/1",
+              "media_key": "3_2091499593850904576",
+              "start": 39,
+              "url": "https://t.co/mvOKEUCgWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091499604298825912",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091499593850904576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13951,
+          "like_count": 303,
+          "quote_count": 14,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "水餃子レベル目安表\n\n初心者→酢醤油\n台湾通→酢のみ\n真の台湾通→ケチャップ https://t.co/mvOKEUCgWF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091880272778362946",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35817,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-06T09:27:09.000Z",
+        "description": "日本人バドミントン 毎週　【金曜18-20時】【月曜10-12時】\n初心者歓迎！\n#バド #羽球 「台湾でバドをする会」→https://t.co/AXriy1Bv71",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "バド"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "羽球"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/groups/3470682…",
+                "end": 84,
+                "expanded_url": "https://www.facebook.com/groups/347068263186296/?ref=share_group_link",
+                "start": 61,
+                "url": "https://t.co/AXriy1Bv71"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/groups/3470682…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/groups/347068263186296/?ref=share_group_link",
+                "start": 0,
+                "url": "https://t.co/AXriy1Bv71"
+              }
+            ]
+          }
+        },
+        "id": "1368130977277517828",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091879541346353250",
+        "name": "台湾🇹🇼オギバド",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368130977277517828/1708958383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575045604790894599/T8dLxFqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1387,
+          "like_count": 19971,
+          "listed_count": 14,
+          "media_count": 3701,
+          "tweet_count": 13713
+        },
+        "url": "https://t.co/AXriy1Bv71",
+        "username": "ogiTaiwan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092724543211397179",
+    "created_at": "2026-08-26T21:23:06.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092724543211397179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1469027102536380416",
+          "start": 3,
+          "username": "auesea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092724543211397179",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092593625263980871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @auesea: 이 세상 누구보다도 당신이 행복하기를 매일 바라고는 해요"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092724543211397179",
+        "created_at": "2026-08-26T21:23:06.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092724543211397179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1469027102536380416",
+              "start": 3,
+              "username": "auesea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092724543211397179",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092593625263980871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @auesea: 이 세상 누구보다도 당신이 행복하기를 매일 바라고는 해요"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469027102536380416",
+        "conversation_id": "2092593625263980871",
+        "created_at": "2026-08-26T12:42:53.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092593625263980871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092593625263980871",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 49097,
+          "like_count": 1283,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "이 세상 누구보다도 당신이 행복하기를 매일 바라고는 해요"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092724543211397179",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36461,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3121
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T19:32:24.000Z",
+        "description": "",
+        "id": "1469027102536380416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092608620437586232",
+        "name": "໊",
+        "pinned_tweet_id": "1862826866912231706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469027102536380416/1730443286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076644065647747072/13c69AqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59723,
+          "following_count": 0,
+          "like_count": 100126,
+          "listed_count": 135,
+          "media_count": 1194,
+          "tweet_count": 16452
+        },
+        "url": "",
+        "username": "auesea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

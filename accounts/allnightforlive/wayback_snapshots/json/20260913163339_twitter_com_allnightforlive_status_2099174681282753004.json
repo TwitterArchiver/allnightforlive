@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2099174681282753004",
+    "created_at": "2026-09-13T16:33:39.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099174681282753004"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099174681282753004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但其實我有一堆莫名其妙的食物和一點也不好看的襪子。我不知道你們都怎麼了，但我也不知道我什麼時候會死去。\n\n我就好像並不存在一樣，這個身體一直在惹禍啊。我就被討厭了。那樣子、什麼的，其實我很在乎，但我什麼都做不了了一樣。\n\n「——或許我也像這個世界的旁白那樣」\n但我被說過不適合做播報員。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2099174681282753004",
+        "created_at": "2026-09-13T16:33:39.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099174681282753004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099174681282753004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但其實我有一堆莫名其妙的食物和一點也不好看的襪子。我不知道你們都怎麼了，但我也不知道我什麼時候會死去。\n\n我就好像並不存在一樣，這個身體一直在惹禍啊。我就被討厭了。那樣子、什麼的，其實我很在乎，但我什麼都做不了了一樣。\n\n「——或許我也像這個世界的旁白那樣」\n但我被說過不適合做播報員。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2099174681282753004",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 137,
+          "like_count": 37324,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 3269
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

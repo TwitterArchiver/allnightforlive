@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2093049840368587054",
+    "created_at": "2026-08-27T18:55:43.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093049840368587054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093049840368587054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老師你活著嗎？\n\n這是第二個凌晨，我已經開始恐慌了。\n\n如往常那樣亂打些什麼去紀錄，如過去般的沉默卻慌亂，並找到一個突破口去大吐苦水，直到再一次被人們靜音掉那惱人的哭聲。\n\n我無理的訴求啊，如果入了你的瞳孔我反倒會感到羞恥。\n\n也許我只學會了見證、只學會了無力的站在一旁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2093049840368587054",
+        "created_at": "2026-08-27T18:55:43.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093049840368587054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093049840368587054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老師你活著嗎？\n\n這是第二個凌晨，我已經開始恐慌了。\n\n如往常那樣亂打些什麼去紀錄，如過去般的沉默卻慌亂，並找到一個突破口去大吐苦水，直到再一次被人們靜音掉那惱人的哭聲。\n\n我無理的訴求啊，如果入了你的瞳孔我反倒會感到羞恥。\n\n也許我只學會了見證、只學會了無力的站在一旁。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2093049843287810546",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36539,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3132
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

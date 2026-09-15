@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2093668357077954690",
+    "created_at": "2026-08-29T11:53:29.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T12:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093668357077954690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1478373022142967811",
+          "start": 3,
+          "username": "mirunakase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093668357077954690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093644072028438938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirunakase: 【お知らせ】\n本日よりカラオケJOYSOUNDにて\n『君が僕を嗤う日』が配信開始されました！！！\nめちゃめちゃ嬉しいでございます♪\nみなさま是非歌ってみてください(-ω-)ゝ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2093668357077954690",
+        "created_at": "2026-08-29T11:53:29.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093668357077954690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1478373022142967811",
+              "start": 3,
+              "username": "mirunakase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093668357077954690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093644072028438938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirunakase: 【お知らせ】\n本日よりカラオケJOYSOUNDにて\n『君が僕を嗤う日』が配信開始されました！！！\nめちゃめちゃ嬉しいでございます♪\nみなさま是非歌ってみてください(-ω-)ゝ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478373022142967811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2093644072028438938",
+        "created_at": "2026-08-29T10:16:59.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093644072028438938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093644072028438938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5122,
+          "like_count": 277,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\n本日よりカラオケJOYSOUNDにて\n『君が僕を嗤う日』が配信開始されました！！！\nめちゃめちゃ嬉しいでございます♪\nみなさま是非歌ってみてください(-ω-)ゝ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2093668357077954690",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36737,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 3158
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-04T14:29:42.000Z",
+        "description": "曲と絵やります。z z Z . . . . . . . . . . . . . niconico:https://t.co/S6kb3tMt5q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nico.ms/user/121356701",
+                "end": 72,
+                "expanded_url": "http://nico.ms/user/121356701",
+                "start": 49,
+                "url": "https://t.co/S6kb3tMt5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC24ZG…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC24ZGhzhTnObpUz0hRt5m6g",
+                "start": 0,
+                "url": "https://t.co/oOJwYs4HGr"
+              }
+            ]
+          }
+        },
+        "id": "1478373022142967811",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093644101111763094",
+        "name": "中瀬ミル",
+        "pinned_tweet_id": "2024861600734216500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478373022142967811/1745034374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915273846816727040/kCd2Fsh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5091,
+          "following_count": 107,
+          "like_count": 3953,
+          "listed_count": 38,
+          "media_count": 44,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/oOJwYs4HGr",
+        "username": "mirunakase",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

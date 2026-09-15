@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092332890394951977",
+    "created_at": "2026-08-25T19:26:49.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092332890394951977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1032419742840107009",
+          "start": 3,
+          "username": "naishonopiasu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092332890394951977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091648009255977300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naishonopiasu: おはようございます\n目玉焼きが綺麗に焼けたので気分がいいです\n今日ものんびりいって無事に帰ってきてください"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092332890394951977",
+        "created_at": "2026-08-25T19:26:49.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092332890394951977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1032419742840107009",
+              "start": 3,
+              "username": "naishonopiasu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092332890394951977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091648009255977300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naishonopiasu: おはようございます\n目玉焼きが綺麗に焼けたので気分がいいです\n今日ものんびりいって無事に帰ってきてください"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032419742840107009",
+        "conversation_id": "2091648009255977300",
+        "created_at": "2026-08-23T22:05:21.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091648009255977300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091648009255977300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16555,
+          "like_count": 1155,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます\n目玉焼きが綺麗に焼けたので気分がいいです\n今日ものんびりいって無事に帰ってきてください"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092332890394951977",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36185,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3101
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-23T00:10:22.000Z",
+        "description": "愛らしく、鬱くしい | https://t.co/tESodYlYIm.mail@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "csp.info",
+                "end": 35,
+                "expanded_url": "http://csp.info",
+                "start": 12,
+                "url": "https://t.co/tESodYlYIm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naishonopiasu",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naishonopiasu",
+                "start": 0,
+                "url": "https://t.co/EehEJf3Zd7"
+              }
+            ]
+          }
+        },
+        "id": "1032419742840107009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092191233473224720",
+        "name": "内緒のピアス",
+        "pinned_tweet_id": "2067623929473310873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032419742840107009/1714578547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659137378160869376/3v0-n6M1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44175,
+          "following_count": 383,
+          "like_count": 59921,
+          "listed_count": 100,
+          "media_count": 1121,
+          "tweet_count": 10318
+        },
+        "url": "https://t.co/EehEJf3Zd7",
+        "username": "naishonopiasu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092695684042600953",
+    "created_at": "2026-08-26T19:28:26.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092695684042600953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874956801864761344",
+          "start": 3,
+          "username": "lulufrfrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092695684042600953",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1929
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092437447267213531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lulufrfrr: Being suicidal but too scared to kys is so real"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092695684042600953",
+        "created_at": "2026-08-26T19:28:26.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092695684042600953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874956801864761344",
+              "start": 3,
+              "username": "lulufrfrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092695684042600953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092437447267213531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lulufrfrr: Being suicidal but too scared to kys is so real"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874956801864761344",
+        "conversation_id": "2092437447267213531",
+        "created_at": "2026-08-26T02:22:17.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092437447267213531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092437447267213531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 70101,
+          "like_count": 6775,
+          "quote_count": 54,
+          "reply_count": 21,
+          "retweet_count": 1929
+        },
+        "reply_settings": "everyone",
+        "text": "Being suicidal but too scared to kys is so real"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092695684042600953",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36397,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3107
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-02T23:12:02.000Z",
+        "description": "#shedtwt and #edrtwt are welcome\nMoots are embraced",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "edrtwt"
+              }
+            ]
+          }
+        },
+        "id": "1874956801864761344",
+        "is_identity_verified": false,
+        "location": "Jesus saves",
+        "most_recent_tweet_id": "2092623975155179680",
+        "name": "Fem Yuta Okkotsu of edtwt",
+        "pinned_tweet_id": "2081545124920578084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874956801864761344/1787696377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091320388856774656/fhjwZZDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 143,
+          "like_count": 3547,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "lulufrfrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

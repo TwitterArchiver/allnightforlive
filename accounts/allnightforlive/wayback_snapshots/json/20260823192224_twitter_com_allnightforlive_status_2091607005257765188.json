@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091465597553102848"
+      ],
+      "media_source_tweet_id": [
+        "2091465601940431108"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091607005257765188",
+    "created_at": "2026-08-23T19:22:24.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091607005257765188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874237391583797250",
+          "start": 3,
+          "username": "getsuyou_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StANJ9ypOn",
+          "end": 69,
+          "expanded_url": "https://x.com/getsuyou_man/status/2091465601940431108/photo/1",
+          "media_key": "3_2091465597553102848",
+          "start": 46,
+          "url": "https://t.co/StANJ9ypOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091607005257765188",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091465597553102848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091465601940431108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getsuyou_man: 子供たち…\n\nもう長くは守ってあげられないかも.... https://t.co/StANJ9ypOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2091465597553102848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZg4UIaUAAqBOI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091465597553102848"
+          ],
+          "media_source_tweet_id": [
+            "2091465601940431108"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091607005257765188",
+        "created_at": "2026-08-23T19:22:24.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091607005257765188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874237391583797250",
+              "start": 3,
+              "username": "getsuyou_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StANJ9ypOn",
+              "end": 69,
+              "expanded_url": "https://x.com/getsuyou_man/status/2091465601940431108/photo/1",
+              "media_key": "3_2091465597553102848",
+              "start": 46,
+              "url": "https://t.co/StANJ9ypOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091607005257765188",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091465597553102848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091465601940431108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getsuyou_man: 子供たち…\n\nもう長くは守ってあげられないかも.... https://t.co/StANJ9ypOn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091465597553102848"
+          ]
+        },
+        "author_id": "1874237391583797250",
+        "conversation_id": "2091465601940431108",
+        "created_at": "2026-08-23T10:00:31.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091465601940431108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StANJ9ypOn",
+              "end": 51,
+              "expanded_url": "https://x.com/getsuyou_man/status/2091465601940431108/photo/1",
+              "media_key": "3_2091465597553102848",
+              "start": 28,
+              "url": "https://t.co/StANJ9ypOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091465601940431108",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091465597553102848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1836,
+          "impression_count": 1417102,
+          "like_count": 75117,
+          "quote_count": 1112,
+          "reply_count": 655,
+          "retweet_count": 4617
+        },
+        "reply_settings": "everyone",
+        "text": "子供たち…\n\nもう長くは守ってあげられないかも.... https://t.co/StANJ9ypOn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091607005257765188",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35669,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3070
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-31T23:34:18.000Z",
+        "description": "休日明けの愚かな人間どもに月曜を宣告する者だ。/＃異形頭/ #マンデ絵/サブ垢のようなもの▶︎https://t.co/ubff7375jD /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "異形頭"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "マンデ絵"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/buttondaaa",
+                "end": 70,
+                "expanded_url": "https://x.com/buttondaaa",
+                "start": 47,
+                "url": "https://t.co/ubff7375jD"
+              }
+            ]
+          }
+        },
+        "id": "1874237391583797250",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2091465601940431108",
+        "name": "月曜マン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874237391583797250/1735692767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875830589296877568/IsSV8ZTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196523,
+          "following_count": 16,
+          "like_count": 222,
+          "listed_count": 105,
+          "media_count": 211,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "getsuyou_man",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

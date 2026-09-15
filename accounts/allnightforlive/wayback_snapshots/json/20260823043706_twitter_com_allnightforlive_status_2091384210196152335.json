@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091090000125263873"
+      ],
+      "media_source_tweet_id": [
+        "2091090075471720836"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091384210196152335",
+    "created_at": "2026-08-23T04:37:06.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091384210196152335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041542502591737856",
+          "start": 3,
+          "username": "dontlovedave"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/piefvUtOxj",
+          "end": 133,
+          "expanded_url": "https://x.com/dontlovedave/status/2091090075471720836/video/1",
+          "media_key": "13_2091090000125263873",
+          "start": 110,
+          "url": "https://t.co/piefvUtOxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091384210196152335",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091090000125263873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091090075471720836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontlovedave: i really hate the fact that you really have to die to prove to them that you are struggling https://t.co/piefvUtOxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13311,
+        "height": 496,
+        "media_key": "13_2091090000125263873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091090000125263873/img/NKSrpWlKTkO4xRMD.jpg",
+        "public_metrics": {
+          "view_count": 64630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091090000125263873/vid/avc1/482x270/bPQtkspLDN5rkLmC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091090000125263873/vid/avc1/644x360/uTKOGu_T5YadJCUY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091090000125263873/vid/avc1/888x496/iOrDUaqr3S6uVC1m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091090000125263873/pl/QrHJapIMx4FJZgX-.m3u8?v=cfc"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091090000125263873"
+          ],
+          "media_source_tweet_id": [
+            "2091090075471720836"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091384210196152335",
+        "created_at": "2026-08-23T04:37:06.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091384210196152335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041542502591737856",
+              "start": 3,
+              "username": "dontlovedave"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piefvUtOxj",
+              "end": 133,
+              "expanded_url": "https://x.com/dontlovedave/status/2091090075471720836/video/1",
+              "media_key": "13_2091090000125263873",
+              "start": 110,
+              "url": "https://t.co/piefvUtOxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091384210196152335",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091090000125263873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091090075471720836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontlovedave: i really hate the fact that you really have to die to prove to them that you are struggling https://t.co/piefvUtOxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091090000125263873"
+          ]
+        },
+        "author_id": "2041542502591737856",
+        "conversation_id": "2091090075471720836",
+        "created_at": "2026-08-22T09:08:19.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091090075471720836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/piefvUtOxj",
+              "end": 115,
+              "expanded_url": "https://x.com/dontlovedave/status/2091090075471720836/video/1",
+              "media_key": "13_2091090000125263873",
+              "start": 92,
+              "url": "https://t.co/piefvUtOxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091090075471720836",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091090000125263873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 109975,
+          "like_count": 12532,
+          "quote_count": 56,
+          "reply_count": 24,
+          "retweet_count": 2263
+        },
+        "reply_settings": "everyone",
+        "text": "i really hate the fact that you really have to die to prove to them that you are struggling https://t.co/piefvUtOxj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091384210196152335",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35587,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3062
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T15:44:05.000Z",
+        "description": "𝘴𝘪𝘨𝘩\n𝟣𝟢𝘬 𝘰𝘯 𝘐𝘎\n𝘥𝘮 𝘧𝘰𝘳 𝘯𝘰𝘵𝘪𝘴⟡\n𝘹𝘢𝘶 𝘵𝘳𝘢𝘥𝘦𝘳. 𝘵𝘨 𝘤𝘩𝘢𝘯𝘯𝘦𝘭 𝘧𝘰𝘳 𝘴𝘦𝘵𝘶𝘱𝘴 & 𝘴𝘪𝘨𝘯𝘢𝘭𝘴. 𝘦𝘢𝘳𝘭𝘺\n@cantlovedave❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "cantlovedave"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/davetradesss",
+                "end": 23,
+                "expanded_url": "https://t.me/davetradesss",
+                "start": 0,
+                "url": "https://t.co/HtPko3ufno"
+              }
+            ]
+          }
+        },
+        "id": "2041542502591737856",
+        "is_identity_verified": true,
+        "location": "nowhere",
+        "most_recent_tweet_id": "2091299109785211387",
+        "name": "𓆩♡𓆪",
+        "pinned_tweet_id": "2089037323463786814",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041542502591737856/1775578117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041544937448280064/7Sq4LsQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 504,
+          "like_count": 34275,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/HtPko3ufno",
+        "username": "dontlovedave",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094100154051936542",
+    "created_at": "2026-08-30T16:29:17.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094100154051936542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1724015903329898496",
+          "start": 3,
+          "username": "musclekaniatama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094100154051936542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093676678967153006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musclekaniatama: 猫の首輪が薄汚れたので、取り替えようと外したら\n🐈「えぇ！？解雇っスか⁉️また野良っスか⁉️」\nみたいに慌てはじめて可哀想可愛い。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094100154051936542",
+        "created_at": "2026-08-30T16:29:17.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094100154051936542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1724015903329898496",
+              "start": 3,
+              "username": "musclekaniatama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094100154051936542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093676678967153006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musclekaniatama: 猫の首輪が薄汚れたので、取り替えようと外したら\n🐈「えぇ！？解雇っスか⁉️また野良っスか⁉️」\nみたいに慌てはじめて可哀想可愛い。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724015903329898496",
+        "conversation_id": "2093676678967153006",
+        "created_at": "2026-08-29T12:26:33.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093676678967153006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093676678967153006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3485,
+          "impression_count": 1987924,
+          "like_count": 93120,
+          "quote_count": 187,
+          "reply_count": 26,
+          "retweet_count": 5283
+        },
+        "reply_settings": "everyone",
+        "text": "猫の首輪が薄汚れたので、取り替えようと外したら\n🐈「えぇ！？解雇っスか⁉️また野良っスか⁉️」\nみたいに慌てはじめて可哀想可愛い。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094100163795284293",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36812,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3178
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-13T10:46:54.000Z",
+        "description": "筋トレしてたら何故かコスプレすることになったnotレイヤーの昭和産まれ。\n顔は加工、身体は無加工\n週3回しかトレーニングしとうない",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/musclekania…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/musclekaniatama/",
+                "start": 0,
+                "url": "https://t.co/HPT62dMGcA"
+              }
+            ]
+          }
+        },
+        "id": "1724015903329898496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094071253183467966",
+        "name": "🦀頭",
+        "pinned_tweet_id": "1893631925962608796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724015903329898496/1701166275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724018747936321536/MPo1Ny-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 112,
+          "like_count": 3174,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 4887
+        },
+        "url": "https://t.co/HPT62dMGcA",
+        "username": "musclekaniatama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

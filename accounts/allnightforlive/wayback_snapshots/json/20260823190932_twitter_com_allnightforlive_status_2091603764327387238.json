@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091603764327387238",
+    "created_at": "2026-08-23T19:09:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091603764327387238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595268263285587969",
+          "start": 3,
+          "username": "akuruh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091603764327387238",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1936
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091380820791447854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akuruh1: i hate being passively suicidal because my suicidal thoughts have gotten so much fucking worse but i still don’t have any inte…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091603764327387238",
+        "created_at": "2026-08-23T19:09:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091603764327387238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595268263285587969",
+              "start": 3,
+              "username": "akuruh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091603764327387238",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1936
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091380820791447854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akuruh1: i hate being passively suicidal because my suicidal thoughts have gotten so much fucking worse but i still don’t have any inte…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595268263285587969",
+        "conversation_id": "2091380820791447854",
+        "created_at": "2026-08-23T04:23:38.000Z",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091380820791447854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091380820791447854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 81184,
+          "like_count": 7807,
+          "quote_count": 77,
+          "reply_count": 17,
+          "retweet_count": 1936
+        },
+        "reply_settings": "everyone",
+        "text": "i hate being passively suicidal because my suicidal thoughts have gotten so much fucking worse but i still don’t have any intention of killing myself at the moment so it feels too selfish to just tell someone i keep thinking about killing myself"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091603764327387238",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35644,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3066
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-23T04:09:38.000Z",
+        "description": "“your story’s not over yet, the plot twist has yet to come”| 𝄞⨾𓍢ִ໋ ,, he/they🏳️‍⚧️𝄞",
+        "id": "1595268263285587969",
+        "is_identity_verified": false,
+        "location": "empty sekai",
+        "most_recent_tweet_id": "2091601529975226380",
+        "name": "kel 𖦹 🎸🕷️",
+        "pinned_tweet_id": "2033556508425048374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595268263285587969/1779415760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087685796358660096/pi7_AMQv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1157,
+          "like_count": 90544,
+          "listed_count": 14,
+          "media_count": 2674,
+          "tweet_count": 30959
+        },
+        "url": "",
+        "username": "akuruh1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

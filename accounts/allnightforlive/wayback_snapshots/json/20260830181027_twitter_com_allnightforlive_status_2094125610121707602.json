@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093575796317356032"
+      ],
+      "media_source_tweet_id": [
+        "2093575802063614227"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094125610121707602",
+    "created_at": "2026-08-30T18:10:27.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094125610121707602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065291013955129344",
+          "start": 3,
+          "username": "Kio_tani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1FnOgnnlS",
+          "end": 43,
+          "expanded_url": "https://x.com/Kio_tani/status/2093575802063614227/photo/1",
+          "media_key": "3_2093575796317356032",
+          "start": 20,
+          "url": "https://t.co/O1FnOgnnlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094125610121707602",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093575796317356032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093575802063614227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kio_tani: 手付かずに https://t.co/O1FnOgnnlS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2093575796317356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3gGDHaAAA9QQv.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093575796317356032"
+          ],
+          "media_source_tweet_id": [
+            "2093575802063614227"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094125610121707602",
+        "created_at": "2026-08-30T18:10:27.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094125610121707602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065291013955129344",
+              "start": 3,
+              "username": "Kio_tani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1FnOgnnlS",
+              "end": 43,
+              "expanded_url": "https://x.com/Kio_tani/status/2093575802063614227/photo/1",
+              "media_key": "3_2093575796317356032",
+              "start": 20,
+              "url": "https://t.co/O1FnOgnnlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094125610121707602",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093575796317356032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093575802063614227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kio_tani: 手付かずに https://t.co/O1FnOgnnlS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093575796317356032"
+          ]
+        },
+        "author_id": "2065291013955129344",
+        "conversation_id": "2093575802063614227",
+        "created_at": "2026-08-29T05:45:42.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093575802063614227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1FnOgnnlS",
+              "end": 29,
+              "expanded_url": "https://x.com/Kio_tani/status/2093575802063614227/photo/1",
+              "media_key": "3_2093575796317356032",
+              "start": 6,
+              "url": "https://t.co/O1FnOgnnlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093575802063614227",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093575796317356032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 14273,
+          "like_count": 2650,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "手付かずに https://t.co/O1FnOgnnlS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094125610121707602",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36894,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3183
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T04:33:21.000Z",
+        "description": "1人の男のイラスト",
+        "id": "2065291013955129344",
+        "is_identity_verified": false,
+        "location": "🔞",
+        "most_recent_tweet_id": "2093582612170449380",
+        "name": "気を谷",
+        "pinned_tweet_id": "2087108617623470560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065291013955129344/1785060326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084631203890819072/Qiz4EG1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Kio_tani",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

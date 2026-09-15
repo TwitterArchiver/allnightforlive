@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2092717879443779699",
+    "created_at": "2026-08-26T20:56:37.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092717879443779699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1073425597362188288",
+          "start": 3,
+          "username": "ketekreze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092717879443779699",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13087
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092452580752527618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ketekreze: mnurut gw smua orang harus ke psikolog"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2092717879443779699",
+        "created_at": "2026-08-26T20:56:37.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092717879443779699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1073425597362188288",
+              "start": 3,
+              "username": "ketekreze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092717879443779699",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13087
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092452580752527618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ketekreze: mnurut gw smua orang harus ke psikolog"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073425597362188288",
+        "conversation_id": "2092452580752527618",
+        "created_at": "2026-08-26T03:22:25.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092452580752527618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092452580752527618",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 396025,
+          "like_count": 32894,
+          "quote_count": 1732,
+          "reply_count": 398,
+          "retweet_count": 13087
+        },
+        "reply_settings": "everyone",
+        "text": "mnurut gw smua orang harus ke psikolog"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092717879443779699",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 36443,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-14T03:53:00.000Z",
+        "description": "Chapter 52: Lost Love, Flower, Chainsaw.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Neromacyl",
+                "end": 23,
+                "expanded_url": "https://vgen.co/Neromacyl",
+                "start": 0,
+                "url": "https://t.co/fQCSktxzsv"
+              }
+            ]
+          }
+        },
+        "id": "1073425597362188288",
+        "is_identity_verified": false,
+        "location": "he/him • 21+ • minor dni",
+        "most_recent_tweet_id": "2092631462726279264",
+        "name": "Nero",
+        "pinned_tweet_id": "2053787823883633020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073425597362188288/1779197015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070098490919968768/CV4Yfk5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1459,
+          "like_count": 99391,
+          "listed_count": 13,
+          "media_count": 9379,
+          "tweet_count": 166330
+        },
+        "url": "https://t.co/fQCSktxzsv",
+        "username": "ketekreze",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

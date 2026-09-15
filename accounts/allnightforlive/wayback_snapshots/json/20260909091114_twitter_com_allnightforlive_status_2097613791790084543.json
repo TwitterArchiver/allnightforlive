@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2097613788707209508",
+    "created_at": "2026-09-09T09:11:14.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097613791790084543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097613791790084543",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097613788707209508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我拿了一把水果刀。我很難受。我又在哭，我一直在歇斯底里。\n我同學說什麼⋯他也想上台揍那個老師。只是碰巧做不到而已。\n\n我好難受啊⋯我、我明明就有病吧。為什麼我是這樣的人，為什麼我要這麼做⋯為什麼不治好我。\n我不想影響大家。我不想要成為累贅。我一直這麼說的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2097613788707209508",
+        "created_at": "2026-09-09T09:11:14.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097613791790084543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097613791790084543",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097613788707209508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我拿了一把水果刀。我很難受。我又在哭，我一直在歇斯底里。\n我同學說什麼⋯他也想上台揍那個老師。只是碰巧做不到而已。\n\n我好難受啊⋯我、我明明就有病吧。為什麼我是這樣的人，為什麼我要這麼做⋯為什麼不治好我。\n我不想影響大家。我不想要成為累贅。我一直這麼說的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2097613788707209508",
+        "created_at": "2026-09-09T09:11:13.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097613788707209508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097613788707209508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這可能是我最後一則貼文。\n我沒有搞懂，為什麼要自殺、為什麼要活著、為什麼要哭泣。\n我只是⋯搞不懂我自己。\n我連續哭了一個小時，在頂撞老師之後，他們說我做得對，他們說他這個人罪有應得，他們說要我別難過都是他的問題。\n\n我不知道。我要怎麼面對對方，我不知道怎麼面對全班。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2097613795355210214",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 135,
+          "like_count": 37204,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3230
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

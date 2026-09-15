@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093993240932614144"
+      ],
+      "media_source_tweet_id": [
+        "2094002185528893735"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094077836898521189",
+    "created_at": "2026-08-30T15:00:37.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094077836898521189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874237391583797250",
+          "start": 3,
+          "username": "getsuyou_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EzR74U0ANN",
+          "end": 54,
+          "expanded_url": "https://x.com/getsuyou_man/status/2094002185528893735/video/1",
+          "media_key": "13_2093993240932614144",
+          "start": 31,
+          "url": "https://t.co/EzR74U0ANN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094077836898521189",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2093993240932614144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094002185528893735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getsuyou_man: お別れだ...夏休みマン https://t.co/EzR74U0ANN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6453,
+        "height": 1920,
+        "media_key": "13_2093993240932614144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093993240932614144/img/tABxQPjSrkONnUYU.jpg",
+        "public_metrics": {
+          "view_count": 224375
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093993240932614144/vid/avc1/720x1280/EbgEBKL07-bofxii.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093993240932614144/vid/avc1/320x568/jYb0G9llT83tBdFO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093993240932614144/vid/avc1/480x852/Yn8YPMlnj5aN6HAy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093993240932614144/pl/0BrMLcJr21_1h0bb.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093993240932614144/vid/avc1/1080x1920/GVdtINWi2zg1Ku7Z.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093993240932614144"
+          ],
+          "media_source_tweet_id": [
+            "2094002185528893735"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094077836898521189",
+        "created_at": "2026-08-30T15:00:37.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094077836898521189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874237391583797250",
+              "start": 3,
+              "username": "getsuyou_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzR74U0ANN",
+              "end": 54,
+              "expanded_url": "https://x.com/getsuyou_man/status/2094002185528893735/video/1",
+              "media_key": "13_2093993240932614144",
+              "start": 31,
+              "url": "https://t.co/EzR74U0ANN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094077836898521189",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093993240932614144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094002185528893735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @getsuyou_man: お別れだ...夏休みマン https://t.co/EzR74U0ANN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093993240932614144"
+          ]
+        },
+        "author_id": "1874237391583797250",
+        "conversation_id": "2094002185528893735",
+        "created_at": "2026-08-30T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094002185528893735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzR74U0ANN",
+              "end": 36,
+              "expanded_url": "https://x.com/getsuyou_man/status/2094002185528893735/video/1",
+              "media_key": "13_2093993240932614144",
+              "start": 13,
+              "url": "https://t.co/EzR74U0ANN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094002185528893735",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093993240932614144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1062,
+          "impression_count": 510845,
+          "like_count": 24675,
+          "quote_count": 493,
+          "reply_count": 369,
+          "retweet_count": 2511
+        },
+        "reply_settings": "everyone",
+        "text": "お別れだ...夏休みマン https://t.co/EzR74U0ANN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094077836898521189",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36779,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3170
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-31T23:34:18.000Z",
+        "description": "休日明けの愚かな人間どもに月曜を宣告する者だ。/＃異形頭/ #マンデ絵/サブ垢のようなもの▶︎https://t.co/ubff7375jD /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "異形頭"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "マンデ絵"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/buttondaaa",
+                "end": 70,
+                "expanded_url": "https://x.com/buttondaaa",
+                "start": 47,
+                "url": "https://t.co/ubff7375jD"
+              }
+            ]
+          }
+        },
+        "id": "1874237391583797250",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2094002185528893735",
+        "name": "月曜マン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874237391583797250/1735692767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875830589296877568/IsSV8ZTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199520,
+          "following_count": 16,
+          "like_count": 223,
+          "listed_count": 105,
+          "media_count": 213,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "getsuyou_man",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

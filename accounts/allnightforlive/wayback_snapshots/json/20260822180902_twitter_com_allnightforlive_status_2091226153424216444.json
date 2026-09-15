@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2091226153424216444",
+    "created_at": "2026-08-22T18:09:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091226153424216444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1203659547384016896",
+          "start": 3,
+          "username": "wara_kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091226153424216444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091062862051700940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wara_kokoro: ※心のSOSに気づいてください⚠️\n\nメンタルの末期症状は、\n『休日の過ごし方』バレる。\n\nLV.3：【完全停止】（危険度：高）\n・終日寝たきりで動けない\n・買ったダンボールを開ける気力ゼロ\n・誘いを全キャンセルして孤立\n\n※心が限界を迎え「強…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2091226153424216444",
+        "created_at": "2026-08-22T18:09:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091226153424216444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1203659547384016896",
+              "start": 3,
+              "username": "wara_kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091226153424216444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091062862051700940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wara_kokoro: ※心のSOSに気づいてください⚠️\n\nメンタルの末期症状は、\n『休日の過ごし方』バレる。\n\nLV.3：【完全停止】（危険度：高）\n・終日寝たきりで動けない\n・買ったダンボールを開ける気力ゼロ\n・誘いを全キャンセルして孤立\n\n※心が限界を迎え「強…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203659547384016896",
+        "conversation_id": "2091062862051700940",
+        "created_at": "2026-08-22T07:20:11.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091062862051700940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091062862051700940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 296398,
+          "like_count": 626,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "※心のSOSに気づいてください⚠️\n\nメンタルの末期症状は、\n『休日の過ごし方』バレる。\n\nLV.3：【完全停止】（危険度：高）\n・終日寝たきりで動けない\n・買ったダンボールを開ける気力ゼロ\n・誘いを全キャンセルして孤立\n\n※心が限界を迎え「強制終了」している状態。\n\nLV.2：【現実逃避】↓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091226153424216444",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 35363,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 3049
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-08T12:56:31.000Z",
+        "description": "元・繊細すぎる会社員→回復経験あり｜ストレスケア×自己成長を発信｜心がラクになる言葉を届けます｜しんどい毎日を抱える“がんばり屋さん”へ｜フォローすると自分に優しくなれる🌈✨",
+        "id": "1203659547384016896",
+        "is_identity_verified": true,
+        "location": "お仕事の依頼はDMへ📩",
+        "most_recent_tweet_id": "2091175183117856983",
+        "name": "笑（わら）",
+        "pinned_tweet_id": "2090907592830968310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1203659547384016896/1774509135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955196615037423616/Zz74sq6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17528,
+          "following_count": 177,
+          "like_count": 128880,
+          "listed_count": 76,
+          "media_count": 700,
+          "tweet_count": 53140
+        },
+        "url": "",
+        "username": "wara_kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

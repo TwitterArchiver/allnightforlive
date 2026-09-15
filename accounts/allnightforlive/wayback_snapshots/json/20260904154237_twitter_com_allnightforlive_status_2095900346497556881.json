@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2095900346497556881",
+    "created_at": "2026-09-04T15:42:37.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095900346497556881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913608343366914048",
+          "start": 3,
+          "username": "pz38889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095900346497556881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095479796696531251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pz38889: あー楽しかった、死にたい\nあー面白かった、死にたい\nあーつらかった、死にたい\nあー美味しかった、死にたい\nあー疲れた、死にたい\nあーあの子嫌い、死にたい\nあーあの子好き、死にたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2095900346497556881",
+        "created_at": "2026-09-04T15:42:37.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095900346497556881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913608343366914048",
+              "start": 3,
+              "username": "pz38889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095900346497556881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095479796696531251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pz38889: あー楽しかった、死にたい\nあー面白かった、死にたい\nあーつらかった、死にたい\nあー美味しかった、死にたい\nあー疲れた、死にたい\nあーあの子嫌い、死にたい\nあーあの子好き、死にたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913608343366914048",
+        "conversation_id": "2095479796696531251",
+        "created_at": "2026-09-03T11:51:30.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095479796696531251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095479796696531251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 655,
+          "impression_count": 189588,
+          "like_count": 14477,
+          "quote_count": 122,
+          "reply_count": 35,
+          "retweet_count": 3599
+        },
+        "reply_settings": "everyone",
+        "text": "あー楽しかった、死にたい\nあー面白かった、死にたい\nあーつらかった、死にたい\nあー美味しかった、死にたい\nあー疲れた、死にたい\nあーあの子嫌い、死にたい\nあーあの子好き、死にたい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2095900346497556881",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36947,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3197
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-19T14:59:30.000Z",
+        "description": "LJC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pztyanto2ptyan",
+                "end": 23,
+                "expanded_url": "https://lit.link/pztyanto2ptyan",
+                "start": 0,
+                "url": "https://t.co/ngSX18EnXq"
+              }
+            ]
+          }
+        },
+        "id": "1913608343366914048",
+        "is_identity_verified": false,
+        "location": "思いやりの欠如‼️",
+        "most_recent_tweet_id": "2095870001978982639",
+        "name": "?a@",
+        "pinned_tweet_id": "1954865291542061507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913608343366914048/1762771236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983347325297954816/eC0Fa0lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 412,
+          "like_count": 21155,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 3133
+        },
+        "url": "https://t.co/ngSX18EnXq",
+        "username": "pz38889",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

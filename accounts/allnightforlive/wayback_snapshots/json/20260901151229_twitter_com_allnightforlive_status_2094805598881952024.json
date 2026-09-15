@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2094805598881952024",
+    "created_at": "2026-09-01T15:12:29.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094805598881952024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082078917683503104",
+          "start": 3,
+          "username": "kuraage2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094805598881952024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094385435061731672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuraage2: ODもリスカもしたことない人って病んだ時どうやって発散してんの"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2094805598881952024",
+        "created_at": "2026-09-01T15:12:29.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094805598881952024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082078917683503104",
+              "start": 3,
+              "username": "kuraage2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094805598881952024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094385435061731672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuraage2: ODもリスカもしたことない人って病んだ時どうやって発散してんの"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082078917683503104",
+        "conversation_id": "2094385435061731672",
+        "created_at": "2026-08-31T11:22:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094385435061731672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094385435061731672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 360349,
+          "like_count": 7542,
+          "quote_count": 714,
+          "reply_count": 268,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "ODもリスカもしたことない人って病んだ時どうやって発散してんの"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2094805598881952024",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 36934,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3190
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:27:30.000Z",
+        "description": "🗝@0ku_chan8/避難垢@kuraage9/ DM〇/通話×/出会い厨×/ツイ消し/無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "0ku_chan8"
+              },
+              {
+                "end": 24,
+                "start": 15,
+                "username": "kuraage9"
+              }
+            ]
+          }
+        },
+        "id": "2082078917683503104",
+        "is_identity_verified": false,
+        "location": "生き地獄",
+        "most_recent_tweet_id": "2094802147468861821",
+        "name": "くらげ",
+        "pinned_tweet_id": "2094739807499145281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082078917683503104/1788250366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088219248242081792/ywdXJmEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 263,
+          "like_count": 231,
+          "listed_count": 10,
+          "media_count": 3,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "kuraage2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
