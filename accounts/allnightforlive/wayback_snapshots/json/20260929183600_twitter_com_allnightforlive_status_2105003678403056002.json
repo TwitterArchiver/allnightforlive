@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2104771226120130562",
+    "created_at": "2026-09-29T18:36:00.000Z",
+    "display_text_range": [
+      11,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105003678403056002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1248604741128445955",
+          "start": 0,
+          "username": "tanngo793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105003678403056002",
+    "in_reply_to_user_id": "1248604741128445955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104771226120130562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanngo793 不知道啊、只是想要毫無保留的接納一切文化，結果又變成了一場對立戰役。不管怎麼樣都是殖民的過往，然後變成與「自己」無關的仇恨。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2104771226120130562",
+        "created_at": "2026-09-29T18:36:00.000Z",
+        "display_text_range": [
+          11,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105003678403056002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1248604741128445955",
+              "start": 0,
+              "username": "tanngo793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105003678403056002",
+        "in_reply_to_user_id": "1248604741128445955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104771226120130562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanngo793 不知道啊、只是想要毫無保留的接納一切文化，結果又變成了一場對立戰役。不管怎麼樣都是殖民的過往，然後變成與「自己」無關的仇恨。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248604741128445955",
+        "conversation_id": "2104771226120130562",
+        "created_at": "2026-09-29T03:12:19.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104771226120130562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104771226120130562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 65412,
+          "like_count": 2215,
+          "quote_count": 5,
+          "reply_count": 135,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "不少人說台日友好一直都是台灣人臉貼日本人冷屁股\n但有沒有想過台灣人是寧願貼冷屁股也不想貼熱子彈啊😭🫴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2105003678403056002",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 140,
+          "like_count": 38198,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 3406
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-10T13:32:36.000Z",
+        "description": "A Taiwanese student/日本語勉強中\n.\nAPH\n\n我是台獨+女性主義支持者喔🥰🫶\n不能接受的話歡迎直接封鎖我，慢走不送\n\n其他詳細都在置頂文章的留言區（包含創作聲明、史向創作須知等等）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aa12xik3xm20vf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aa12xik3xm20vf6?t=b50qli&utm_medium=url_text&utm_source=promotion&fbclid=",
+                "start": 0,
+                "url": "https://t.co/tU2oWVzNPx"
+              }
+            ]
+          }
+        },
+        "id": "1248604741128445955",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104978237625630929",
+        "name": "鈴鐺",
+        "pinned_tweet_id": "2091949669903675619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248604741128445955/1784022138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088119380618182656/p5TSe3xK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 818,
+          "like_count": 11832,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/tU2oWVzNPx",
+        "username": "tanngo793",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

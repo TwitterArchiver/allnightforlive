@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046623299292336442",
+    "created_at": "2026-09-28T17:04:59.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104618382859608434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104618382859608434",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046623299292336442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "總覺得，自己能選擇的怎麼這麼少呢？\n\n為什麼我明明應該要逃跑的時候我的腳卻動不了呢？\n\n我就像那瘸了腿的馬，早就該死在草垛裡，卻被蒙上了眼睛，繼續在這裡漫無目的的走。\n\n我的耳畔一直聽到譏笑聲，它叫我別管，我感覺有條鞭子督促我跑起來，它說你應該奔跑，但我是瘸子啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-09-28T17:04:59.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104618382859608434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104618382859608434",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046623299292336442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "總覺得，自己能選擇的怎麼這麼少呢？\n\n為什麼我明明應該要逃跑的時候我的腳卻動不了呢？\n\n我就像那瘸了腿的馬，早就該死在草垛裡，卻被蒙上了眼睛，繼續在這裡漫無目的的走。\n\n我的耳畔一直聽到譏笑聲，它叫我別管，我感覺有條鞭子督促我跑起來，它說你應該奔跑，但我是瘸子啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-04-21T16:13:13.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046623299292336442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046623299292336442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "對於自述有些障礙 大致概括一下個人資料\n\n-氫氣球\n-精神狀況未知\n-mbti intp~infp \n-帳號方面用於紀錄自身想法 與現實行為有一定落差\n\n｜樓下無限期引用本自述紀錄精神狀況｜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2104618382859608434",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 139,
+          "like_count": 38098,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 3392
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2106625894874010056",
+    "created_at": "2026-10-04T06:02:14.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106625927438643201"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106625927438643201",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106625923156172935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是，我忘了那個血親也應該死去。\n\n但我以後會報復他的。\n\n「如果不把我關起來我就會做出這樣的事情呀！」請你也這麼認為然後把我扼殺在子宮裡呀。\n\n其實覺得還不如臍帶繞頸後死去。我甚至懷疑是不是我其實有著其他的血親在同一個子宮裡面，而我活得不好於是他來報復我了？\n\n為什麼不和我一起活下去呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:14.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625927438643201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625927438643201",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625923156172935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是，我忘了那個血親也應該死去。\n\n但我以後會報復他的。\n\n「如果不把我關起來我就會做出這樣的事情呀！」請你也這麼認為然後把我扼殺在子宮裡呀。\n\n其實覺得還不如臍帶繞頸後死去。我甚至懷疑是不是我其實有著其他的血親在同一個子宮裡面，而我活得不好於是他來報復我了？\n\n為什麼不和我一起活下去呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625923156172935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625923156172935",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625920044089654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以不斷地醜化美化我的一切呀？\n\n但到底最後要相信什麼呢？\n\n其最早開始我是為了要讓自己精神分裂來著的。多重人格也好，精神分裂也罷，只要能夠證明我的「瘋」是一種病就好了。\n\n⋯⋯「瘋子」聽起來真夠刺耳的。\n\n日復一日的拿著菜刀試圖殺了自己、殺了別人、殺了家人，再殺了老師和學生。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2106625940231254253",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 144,
+          "like_count": 38487,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3447
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

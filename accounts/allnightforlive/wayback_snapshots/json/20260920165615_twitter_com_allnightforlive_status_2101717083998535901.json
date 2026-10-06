@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2101717083998535901",
+    "created_at": "2026-09-20T16:56:15.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101717083998535901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2100572249082540032",
+          "start": 3,
+          "username": "sb_sickwanderer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101717083998535901",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101579141476921773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sb_sickwanderer: 2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2101717083998535901",
+        "created_at": "2026-09-20T16:56:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101717083998535901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2100572249082540032",
+              "start": 3,
+              "username": "sb_sickwanderer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101717083998535901",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101579141476921773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sb_sickwanderer: 2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027:…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2100572249082540032",
+        "conversation_id": "2101579141476921773",
+        "created_at": "2026-09-20T07:48:07.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101579141476921773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101579141476921773",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 48860,
+          "like_count": 2499,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027: 작년에 나 스스로 목숨을 끊었어야 했어\n2028: 작년에 나 스스로 목숨을 끊었어야 했어"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2101717083998535901",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 138,
+          "like_count": 37530,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-17T13:08:03.000Z",
+        "description": "꿈이 현실이 될 때까지",
+        "id": "2100572249082540032",
+        "is_identity_verified": false,
+        "location": "치사량",
+        "most_recent_tweet_id": "2101580534350741613",
+        "name": "tlqkf",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "sb_sickwanderer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

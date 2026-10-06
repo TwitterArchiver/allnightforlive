@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104612160773255168"
+      ]
+    },
+    "author_id": "1511572100225462281",
+    "conversation_id": "2046623299292336442",
+    "created_at": "2026-09-28T16:40:17.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104612168763375912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JkZOcyUyeG",
+          "end": 90,
+          "expanded_url": "https://x.com/allnightforlive/status/2104612168763375912/photo/1",
+          "media_key": "3_2104612160773255168",
+          "start": 67,
+          "url": "https://t.co/JkZOcyUyeG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104612168763375912",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104612160773255168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046623299292336442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "［所以我沒能救她］\n但只是溫存著，但我不打算改變一開始訂定的名稱。\n即使後記加上了「——在她死後的三年」，即使故事裡的她還沒有死去。 https://t.co/JkZOcyUyeG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_2104612160773255168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUVnAjbcAAK0Rc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104612160773255168"
+          ]
+        },
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-09-28T16:40:17.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104612168763375912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkZOcyUyeG",
+              "end": 90,
+              "expanded_url": "https://x.com/allnightforlive/status/2104612168763375912/photo/1",
+              "media_key": "3_2104612160773255168",
+              "start": 67,
+              "url": "https://t.co/JkZOcyUyeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104612168763375912",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104612160773255168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046623299292336442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "［所以我沒能救她］\n但只是溫存著，但我不打算改變一開始訂定的名稱。\n即使後記加上了「——在她死後的三年」，即使故事裡的她還沒有死去。 https://t.co/JkZOcyUyeG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2046623299292336442",
+        "created_at": "2026-04-21T16:13:13.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046623299292336442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046623299292336442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "對於自述有些障礙 大致概括一下個人資料\n\n-氫氣球\n-精神狀況未知\n-mbti intp~infp \n-帳號方面用於紀錄自身想法 與現實行為有一定落差\n\n｜樓下無限期引用本自述紀錄精神狀況｜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2104612168763375912",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 139,
+          "like_count": 38075,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 3390
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

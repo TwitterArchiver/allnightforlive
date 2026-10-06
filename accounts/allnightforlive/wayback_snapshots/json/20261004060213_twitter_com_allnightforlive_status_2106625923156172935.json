@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2106625894874010056",
+    "created_at": "2026-10-04T06:02:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106625923156172935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106625923156172935",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106625920044089654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以不斷地醜化美化我的一切呀？\n\n但到底最後要相信什麼呢？\n\n其最早開始我是為了要讓自己精神分裂來著的。多重人格也好，精神分裂也罷，只要能夠證明我的「瘋」是一種病就好了。\n\n⋯⋯「瘋子」聽起來真夠刺耳的。\n\n日復一日的拿著菜刀試圖殺了自己、殺了別人、殺了家人，再殺了老師和學生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625923156172935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625923156172935",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625920044089654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以不斷地醜化美化我的一切呀？\n\n但到底最後要相信什麼呢？\n\n其最早開始我是為了要讓自己精神分裂來著的。多重人格也好，精神分裂也罷，只要能夠證明我的「瘋」是一種病就好了。\n\n⋯⋯「瘋子」聽起來真夠刺耳的。\n\n日復一日的拿著菜刀試圖殺了自己、殺了別人、殺了家人，再殺了老師和學生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:13.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625920044089654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625920044089654",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625916956967300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但該死的問題就出在這裡其實我不是為了給別人發現的呀？\n\n他媽的我才不想要那群人恐懼的眼神，說著你這他媽的殺人犯，但我只是說了每個人都想做的事情——殺了班上那個不合群的垃圾玩意。\n\n我排異著。嚴重得快嘔吐出來。\n\n好像晚上時縮在我習慣的床角，摳著自己的喉嚨，將手上沾染的穢物全部吞下再嘔出。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2106625937236504825",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 144,
+          "like_count": 38487,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3446
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

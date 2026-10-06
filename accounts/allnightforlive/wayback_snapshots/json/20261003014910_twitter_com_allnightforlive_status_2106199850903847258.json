@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2106199842334888192",
+    "created_at": "2026-10-03T01:49:10.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T02:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106199850903847258"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106199850903847258",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106199846545920358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個夢算是我遇見中蠻常見的一個連續夢。我還算能自控，但是沒有直接的意識。幾乎每一次我都會被拉或罰去做其他事情、要不是對方搞錯就是上司搞我。然後一直去爬山拍那張照片。也只有上一次那場夢我是真的拍到照片了。再次夢到卻沒有那張圖片了，所以需要去重新拍攝，一般應付說我上次傳了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106199842334888192",
+        "created_at": "2026-10-03T01:49:10.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106199850903847258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106199850903847258",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106199846545920358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個夢算是我遇見中蠻常見的一個連續夢。我還算能自控，但是沒有直接的意識。幾乎每一次我都會被拉或罰去做其他事情、要不是對方搞錯就是上司搞我。然後一直去爬山拍那張照片。也只有上一次那場夢我是真的拍到照片了。再次夢到卻沒有那張圖片了，所以需要去重新拍攝，一般應付說我上次傳了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106199842334888192",
+        "created_at": "2026-10-03T01:49:09.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106199846545920358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106199846545920358",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106199842334888192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "後面因為上一次夢境拍的圖片沒有儲存上傳，所以這一次要去重新拍攝，一邊應付上司，雖然他沒生氣過，但ㄧ生氣感覺我會死在這個夢裡。\n\n這個夢最大的問題是，我如果不照做，我有可能被上司弄到無法從夢裡醒來。\n\n總之就這樣⋯。後面因為在拍攝中逃不開所以被一個武士小怪弄死了。接著就醒過來了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2106199855622488472",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 142,
+          "like_count": 38421,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3430
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

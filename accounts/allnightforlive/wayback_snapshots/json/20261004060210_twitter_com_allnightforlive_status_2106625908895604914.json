@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2106625894874010056",
+    "created_at": "2026-10-04T06:02:10.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106625908895604914"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106625908895604914",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106625906043470089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有那麼一刻我覺得或許回到那個沒有人在乎我，或許我在畢業那天從司令台後面的教學樓跳下來就好了，又或許我早就死在了那棟大樓裡⋯⋯。\n\n好像從很久以前我就覺得自己應該要早點死去，但果然從來都沒有人打算讓我看醫生。\n\n好像我的人生就是一場戲劇，而我沒有得病，而我只會這麼操勞一輩子的活下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:10.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625908895604914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625908895604914",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625906043470089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有那麼一刻我覺得或許回到那個沒有人在乎我，或許我在畢業那天從司令台後面的教學樓跳下來就好了，又或許我早就死在了那棟大樓裡⋯⋯。\n\n好像從很久以前我就覺得自己應該要早點死去，但果然從來都沒有人打算讓我看醫生。\n\n好像我的人生就是一場戲劇，而我沒有得病，而我只會這麼操勞一輩子的活下去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2106625894874010056",
+        "created_at": "2026-10-04T06:02:09.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625906043470089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106625906043470089",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625901299704233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑了，真的很好笑。\n我的人生最從容的時間就在那個時候結束了。\n我創立了這個帳號。\n我不在乎死亡，也不在乎身體怎麼樣，我甚至覺得能得性病的話就好了——但確實只是想要一個能夠侷限我生命的沙漏。\n我還記得我每天都在打開維基百科背誦各種疾病。最後診斷我自己，「只是個賤人吧？」，不我沒這麼說。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2106625923156172935",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 144,
+          "like_count": 38486,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3442
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

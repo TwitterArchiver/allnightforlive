@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2099542838073782379",
+    "created_at": "2026-09-14T16:56:35.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099542840875581458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099542840875581458",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099542838073782379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要還是因為即使是虛假的也有可能真的創造出一些身分⋯，存在癔症之類的病症也還算能理解⋯。\n但如果是未被外界認定、無法自證、自我否定存在的那種人格分裂⋯，會很複雜。\n我不怎麼有辦法去處理它。\n果然還是這麼說比較「確切」一點。\n最後回到了醫生的手上反而脫離了我的掌控，但這應該要是好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2099542838073782379",
+        "created_at": "2026-09-14T16:56:35.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099542840875581458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099542840875581458",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099542838073782379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要還是因為即使是虛假的也有可能真的創造出一些身分⋯，存在癔症之類的病症也還算能理解⋯。\n但如果是未被外界認定、無法自證、自我否定存在的那種人格分裂⋯，會很複雜。\n我不怎麼有辦法去處理它。\n果然還是這麼說比較「確切」一點。\n最後回到了醫生的手上反而脫離了我的掌控，但這應該要是好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2099542838073782379",
+        "created_at": "2026-09-14T16:56:34.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099542838073782379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099542838073782379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現在認定的我應該就只是「我」了。因為沒有附屬、沒有成為誰的誰、沒有想成為的、沒有可以變成的、沒有掌握得住的，所以我只能是「我」了。\n\n反而比以前的狀態差了不只一點呢？\n\n我以為以一個「虛假的」多意識體活著會比較好，但全都死掉了呢？\n\n剩下我的話基本上⋯只增加了幻聽的機率。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2099542843903844531",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 137,
+          "like_count": 37338,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

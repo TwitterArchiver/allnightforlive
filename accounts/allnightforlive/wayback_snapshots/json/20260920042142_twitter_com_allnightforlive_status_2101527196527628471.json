@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2101527192757059874",
+    "created_at": "2026-09-20T04:21:42.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T05:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101527196527628471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101527196527628471",
+    "in_reply_to_user_id": "1511572100225462281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101527192757059874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好難過⋯我又剩下這樣的做法了⋯我又這麼做了、\n\n為什麼不管管我呢？為什麼不能夠愛我呢？為什麼就是都討厭我呢？\n\n我什麼都可以做的、肉體精神金錢，我可以不要有喜好也可以，只要讓我活著，只要讓我有希望就可以了⋯。\n\n為什麼是我在努力留住別人，為什麼從來沒有人希望我活下去？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2101527192757059874",
+        "created_at": "2026-09-20T04:21:42.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101527196527628471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101527196527628471",
+        "in_reply_to_user_id": "1511572100225462281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101527192757059874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好難過⋯我又剩下這樣的做法了⋯我又這麼做了、\n\n為什麼不管管我呢？為什麼不能夠愛我呢？為什麼就是都討厭我呢？\n\n我什麼都可以做的、肉體精神金錢，我可以不要有喜好也可以，只要讓我活著，只要讓我有希望就可以了⋯。\n\n為什麼是我在努力留住別人，為什麼從來沒有人希望我活下去？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2101527192757059874",
+        "created_at": "2026-09-20T04:21:41.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101527192757059874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101527192757059874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是你給了我生命、是你給了我希望、是你從小時候一直陪伴我，是你在我一無是處的時候讓我知道我還骯髒至極。\n是啊我的性癮、你從小就在了⋯，我什麼都不知道、我什麼都不知道、我想要被愛啊，我想要快樂啊，你給了我一切的。但為什麼你這麼難以啟齒呢？為什麼你比那些殺人放火還來得不適合呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2101527199400821173",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 138,
+          "like_count": 37446,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 3306
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2105062410050830340",
+    "created_at": "2026-09-29T22:29:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105062410050830340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105062410050830340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到了嗎？你的愛人永遠都覺得只要那樣就好了。就如同驚弓之鳥般，你的每一句話他都認為與自己有關。\n可是你為什麼笑呢？被打趣某一段關係對你而言是好玩的嗎？還是你認為這段關係很有趣呢？\n他真的很執著地愛著你，你用過同樣的態度回應他嗎？還是一如既往的把所有人當成希望，去渴求對一切的依戀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2105062410050830340",
+        "created_at": "2026-09-29T22:29:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105062410050830340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105062410050830340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到了嗎？你的愛人永遠都覺得只要那樣就好了。就如同驚弓之鳥般，你的每一句話他都認為與自己有關。\n可是你為什麼笑呢？被打趣某一段關係對你而言是好玩的嗎？還是你認為這段關係很有趣呢？\n他真的很執著地愛著你，你用過同樣的態度回應他嗎？還是一如既往的把所有人當成希望，去渴求對一切的依戀？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2105062410050830340",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 140,
+          "like_count": 38287,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 3407
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

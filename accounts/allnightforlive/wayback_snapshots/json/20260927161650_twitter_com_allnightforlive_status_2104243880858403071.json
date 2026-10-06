@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2104243880858403071",
+    "created_at": "2026-09-27T16:16:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104243880858403071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2046588994629353472",
+          "start": 3,
+          "username": "atamaitai_0804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104243880858403071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103807472834428983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atamaitai_0804: 【人生】\n★☆☆☆☆\nはっきりいって期待外れでした。【家庭】【時代】ガチャで神引きしたけど、【容姿】【性格】【才能】【頭脳】【身体能力】ガチャで爆死。加えて最近は環境バグが酷いにも関わらず、有料化が進みすぎ。ログアウトも不具合でできず。早…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2104243880858403071",
+        "created_at": "2026-09-27T16:16:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104243880858403071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2046588994629353472",
+              "start": 3,
+              "username": "atamaitai_0804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104243880858403071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103807472834428983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atamaitai_0804: 【人生】\n★☆☆☆☆\nはっきりいって期待外れでした。【家庭】【時代】ガチャで神引きしたけど、【容姿】【性格】【才能】【頭脳】【身体能力】ガチャで爆死。加えて最近は環境バグが酷いにも関わらず、有料化が進みすぎ。ログアウトも不具合でできず。早…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046588994629353472",
+        "conversation_id": "2103807472834428983",
+        "created_at": "2026-09-26T11:22:43.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103807472834428983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103807472834428983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2692,
+          "impression_count": 1744503,
+          "like_count": 51922,
+          "quote_count": 279,
+          "reply_count": 52,
+          "retweet_count": 4486
+        },
+        "reply_settings": "everyone",
+        "text": "【人生】\n★☆☆☆☆\nはっきりいって期待外れでした。【家庭】【時代】ガチャで神引きしたけど、【容姿】【性格】【才能】【頭脳】【身体能力】ガチャで爆死。加えて最近は環境バグが酷いにも関わらず、有料化が進みすぎ。ログアウトも不具合でできず。早急な対応求みます。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2104243880858403071",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 138,
+          "like_count": 38012,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 3382
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T13:57:23.000Z",
+        "description": "♀￤FJK￤🌳￤👊🩸￤極度の体型顔面青春コンプ\n避難垢 @henzutsuu_0804",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "henzutsuu_0804"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7w84qm2gvzyqub…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/7w84qm2gvzyqubn?t=Uy8bOX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/UrwUKeQRJe"
+              }
+            ]
+          }
+        },
+        "id": "2046588994629353472",
+        "is_identity_verified": false,
+        "location": "初タメ大歓迎よ〜ん！",
+        "most_recent_tweet_id": "2104223112279789711",
+        "name": "頭痛",
+        "pinned_tweet_id": "2086223020251836690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046588994629353472/1786198665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046590624841998336/8EqrRHsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 520,
+          "like_count": 3428,
+          "listed_count": 15,
+          "media_count": 78,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/UrwUKeQRJe",
+        "username": "atamaitai_0804",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

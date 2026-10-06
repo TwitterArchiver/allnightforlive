@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "conversation_id": "2103173770701840737",
+    "created_at": "2026-09-24T17:24:36.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103173770701840737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2084928826417860608",
+          "start": 3,
+          "username": "neruneru_zinsei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103173770701840737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102764883850969550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neruneru_zinsei: ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "conversation_id": "2103173770701840737",
+        "created_at": "2026-09-24T17:24:36.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103173770701840737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2084928826417860608",
+              "start": 3,
+              "username": "neruneru_zinsei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103173770701840737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102764883850969550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neruneru_zinsei: ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084928826417860608",
+        "conversation_id": "2102764883850969550",
+        "created_at": "2026-09-23T14:19:50.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102764883850969550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102764883850969550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 44798,
+          "like_count": 5180,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "ツイッタラーの春夏秋冬使える季語\n\n鬱\n4にたい\n安楽死\n希死念慮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2103173770701840737",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 137,
+          "like_count": 37574,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 3340
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T09:06:02.000Z",
+        "description": "ネタツイ&雑談&👊🩸 fsljk 脇見恐怖症 \n幸せツイないです",
+        "id": "2084928826417860608",
+        "is_identity_verified": false,
+        "location": "アメリカ合衆国",
+        "most_recent_tweet_id": "2103122472124182867",
+        "name": "ねるね",
+        "pinned_tweet_id": "2096403478864404867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084928826417860608/1789986354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095101064026771456/MMm7n-oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 876,
+          "like_count": 7044,
+          "listed_count": 31,
+          "media_count": 398,
+          "tweet_count": 2974
+        },
+        "url": "",
+        "username": "neruneru_zinsei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

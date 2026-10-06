@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1511572100225462281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      }
+    ],
+    "conversation_id": "2100947786904781221",
+    "created_at": "2026-09-18T13:59:20.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100947786904781221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062498913094156288",
+          "start": 3,
+          "username": "ame_yamai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100947786904781221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100588344501813344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_yamai_: odしない。\nリスカしない。\n昼夜逆転しない。\n週5日働く。学校に行く。\n1日8時間働く。学校に行く。\n身だしなみを整える。\n部屋を片付ける。\n家事をちゃんとする。\nお風呂に入る。\nご飯を食べる。\n寝る。\n\nそんな当たり前が何も出来ない欠陥品。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511572100225462281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2100947786904781221",
+        "created_at": "2026-09-18T13:59:20.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100947786904781221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062498913094156288",
+              "start": 3,
+              "username": "ame_yamai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100947786904781221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100588344501813344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_yamai_: odしない。\nリスカしない。\n昼夜逆転しない。\n週5日働く。学校に行く。\n1日8時間働く。学校に行く。\n身だしなみを整える。\n部屋を片付ける。\n家事をちゃんとする。\nお風呂に入る。\nご飯を食べる。\n寝る。\n\nそんな当たり前が何も出来ない欠陥品。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062498913094156288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2100588344501813344",
+        "created_at": "2026-09-17T14:11:03.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100588344501813344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100588344501813344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 68956,
+          "like_count": 2953,
+          "quote_count": 65,
+          "reply_count": 45,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "odしない。\nリスカしない。\n昼夜逆転しない。\n週5日働く。学校に行く。\n1日8時間働く。学校に行く。\n身だしなみを整える。\n部屋を片付ける。\n家事をちゃんとする。\nお風呂に入る。\nご飯を食べる。\n寝る。\n\nそんな当たり前が何も出来ない欠陥品。\n\n何処に行けば直してくれますか？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:11:05.000Z",
+        "description": "_未確診的性成癮患者自述 *墮落的自救者**_關鍵字-妄想.矛盾.自卑.淚失禁.假性遲鈍.怠惰.容易滿足*片刻",
+        "id": "1511572100225462281",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2100947786904781221",
+        "name": "氫氣球",
+        "pinned_tweet_id": "2046623299292336442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511572100225462281/1730979710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800066723707863040/9h-AfIIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 138,
+          "like_count": 37431,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 3293
+        },
+        "url": "",
+        "username": "allnightforlive",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T11:37:15.000Z",
+        "description": "⃟病み＆闘病＆日常垢￤固ツイ必読￤通信制高校１年生￤女￤０４￤自傷行爲￤ＯＤ依存￤基本お砂糖￤既讀いいね￤嫉妬癖￤監視癖￤自己嫌惡￤人間不信￤面倒なタイプのメンヘラ￤だる絡み下さい￤惱みや重めの話好き￤死ねない死にたがりです￤通知が私の酸素￤\n⃟追いメ馬鹿ほど喜ぶ￤お別れはＢ解で￤🗝@ame_loser_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "ame_loser_"
+              }
+            ]
+          }
+        },
+        "id": "2062498913094156288",
+        "is_identity_verified": false,
+        "location": "┆͓̽‎‎⃟あめ－自分に飴－人生は雨┆͓̽‎‎⃟",
+        "most_recent_tweet_id": "2100761235369431284",
+        "name": "あめ🍬",
+        "pinned_tweet_id": "2099397400666464514",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062498913094156288/1780573594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062499145282379776/XoHDNOBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 75,
+          "like_count": 7599,
+          "listed_count": 7,
+          "media_count": 4,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "ame_yamai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
